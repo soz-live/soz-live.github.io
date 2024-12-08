@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## Status:
 
 The current status of the project is **Private Beta**.
@@ -57,7 +61,7 @@ The routines are built into the Core of **SOZ**, and consist of under 1000 lines
 - Modularity
 - Extensible
 - Readability
-- Documentation
+- Documented
 
 ## Potential Users:
 
