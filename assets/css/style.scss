@@ -5,16 +5,11 @@
 
 @import "{{ site.theme }}";
 
-nav {
-  position: fixed;
-  top: 0;
-/*   width: 100%;  */
-}
-
 nav a {
   display: block;
   padding: 8px;	
   color: #F2F2F2;
+  font-size: 20px;
 /*  text-decoration: underline; */
 }
 
