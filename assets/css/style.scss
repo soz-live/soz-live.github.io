@@ -5,14 +5,10 @@
 
 @import "{{ site.theme }}";
 
-nav ul {
+nav {
   position: fixed;
   top: 0;
-  width: 100%;
-}
-
-nav li {
-  display: inline;
+/*   width: 100%;  */
 }
 
 nav a {
