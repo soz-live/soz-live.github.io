@@ -16,7 +16,7 @@ The SOZ-LIVE project has been developed for the last 10 years with a team of one
 Initially developed to draw entities in CAD that were unavailable or took a long time to draw, it has grown to take a more all encompassing approach.  
 The addition of the LIVE User Interface and a dynamic DCL based GUI has increased the functionality of the project.  
 
-###Present (2024)
+### Present (2024)
 
 The project is currently closed source and in Private Beta stage, with work required to reach a mature and stable product.  
 The current aim is to develop a community of developers and testers to progress the project to release stage.  

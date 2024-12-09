@@ -1,4 +1,26 @@
 ---
 ---
 
+
+
 @import "{{ site.theme }}";
+
+nav ul {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+nav li {
+  float: right;
+}
+
+nav a {
+  display: block;
+  padding: 8px;	
+  color: #F2F2F2;
+/*  text-decoration: underline; */
+}
+
+
+

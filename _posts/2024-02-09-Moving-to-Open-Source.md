@@ -3,8 +3,6 @@ layout: post
 author: Tim_M
 ---
 
-## Introduction
-
 The primary motivation behind the project is and never has been about money, so moving to Open Source seems like a straight forward choice to widen the community, developer and user base. But is it?
 
 - Is the Code ready?
@@ -28,16 +26,13 @@ That is why I am considering to keep the project Closed Source for the moment, g
 
 There seems to be three options available to me at present:
 
-- Remain a single developer / single user project.
-- Dive straight into Open Source head first and try to keep my head above water.
-- Keep the the project Closed, grow the community slowly by building a team of Developers and Testers and the open it up later on.
+1. Remain a single developer / single user project.
+2. Dive straight into Open Source head first and try to keep my head above water.
+3. Keep the the project Closed, grow the community slowly by building a team of Developers and Testers and the open it up later on.
 
 ## The Solution
 
 While I could continue to do Option 1, to ease myself into the open source scene, I am choosing Option 3. 
  
 While this may not appease everyone, I hope that you can understand the reasoning behind it.  
-
-If you'd like to be part of the team, jump over to the Community page and sign up.
-
 
