@@ -2,11 +2,13 @@
 layout: default
 ---
 
+# Home
+
 ## Status:
 
 The current status of the project is **Private Beta**.
 
-## Introduction
+## Introduction:
 
 A CAD extension, written in LISP.<br>
 **SOZ-LIVE** is a collection of over 2500 Lisp routines, that enables the creation of complex CAD entities, from a series of inputs of simpler objects.
