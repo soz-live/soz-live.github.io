@@ -15,9 +15,9 @@ While **SOZ** only allows Single inheritance:
 - Classes can share an interface with other classes.
 - Classes can be contained in multiple Categories.
 
-Each entry in the [Class Hierarchy](Classes.md) is a link to the documentation for the particular class.
+Each entry in the [Class Hierarchy](classes.html) is a link to the documentation for the particular class.
 
-A class is defined with a call to register it in the **Meta** Environment using the Class Make function:
+A class is defined with a call to register it in the [Meta Environment](#the-meta-environment) using the Class Make function:
 
 ```common-lisp
 (SZMAClass-make "SZGECurve" "SZGELine" :vlax-false "Line Geometry Class")
@@ -185,9 +185,6 @@ And:
 | Categories | List:Category | a list of Categories for the Class |
 
 
-
-Read the full list of [Categories](Categories.md) here.
-
 > **Notes:**<br>
 > Each Category has a corresponding **M-** (Make) command that can be entered at the command line<br>
 > This can resolve issues when it comes to class naming.<br>
@@ -205,7 +202,7 @@ Read the full list of [Categories](Categories.md) here.
 
 ## The Meta Environment
 
-The run-time **Meta** Environment exists as a single entity in memory and stores and indexes all relationships between:
+The **Meta** Environment exists as a single entity in memory at run-time and stores and indexes all relationships between:
 
 - Classes,
 - Functions,
@@ -214,7 +211,7 @@ The run-time **Meta** Environment exists as a single entity in memory and stores
 - Settings
 - etc.
 
-The **Meta** information is accessed at run-time to determine things such as:
+The **Meta** information is accessed to determine things such as:
 
 - Superclass and Subclass information
 - Function / Method signatures and required Types

@@ -1,0 +1,23 @@
+---------
+
+# Class:	SZCELines
+
+| Fields | Values |
+| --------- | --------- |
+| Superclass: | [SZCECurves](SZCECurves.html) |
+| Subclasses: | [SZCELines-Fractal](SZCELines-Fractal.html) <br> [SZCELines-Project-PointsToPlane](SZCELines-Project-PointsToPlane.html) <br> [SZCELines-Columns-OnPlaneIntersects](SZCELines-Columns-OnPlaneIntersects.html) <br> [SZCELines-BetweenPointAndCurve](SZCELines-BetweenPointAndCurve.html) <br> [SZCELines-BetweenCurves-DivideInto](SZCELines-BetweenCurves-DivideInto.html) <br> [SZCELines-SZGELines](SZCELines-SZGELines.html) <br> [SZCELines-AcDbLines](SZCELines-AcDbLines.html) |
+| Interfaces: | [List:AcDbLine](List:AcDbLine.html) |
+| Interfaced: |  |
+| Abstract?: | Yes |
+| isValue?: | No |
+| Help: | SZCELines Class |
+
+
+## Functions:
+
+| Types | Functions |
+| --------- | --------- |
+| Class: |  |
+| Super: | [SZCECurves-Value](SZCECurves.html) <br> [SZCEEntities-Index](SZCEEntities.html) <br> [SZCOObjects-Make](SZCOObjects.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+
+

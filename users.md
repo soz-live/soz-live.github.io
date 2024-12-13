@@ -97,8 +97,6 @@ Load the file in the usual manner into CAD for Lisp routines.
 You can interact with the program in a number of ways.
 
 The easiest way to interact with **SOZ** is to type **Y** on the command line - a dialog box appears with a tree-view of options available to select. <br>
-Refer to this [List of Commands](Commands.md) for all of the available options.  
-
 
 > **Notes:**<br>
 > - **Y** is the only key not used as a standard CAD command short-cut.  
