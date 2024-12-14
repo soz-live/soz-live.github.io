@@ -10,7 +10,7 @@ This page goes into details for coders working with **SOZ**.
 
 All classes are derived from the Base Class - **SZOBBase**.
 
-While **SOZ** only allows Single inheritance:
+While **SOZ** only uses single inheritance:
 
 - Classes can share an interface with other classes.
 - Classes can be contained in multiple Categories.
@@ -37,8 +37,8 @@ And:
 | Description | Comment | a Description of the Class being created |
 
 > **Notes:**<br>
-> Many of the specified classes are Abstract classes - meaning that they can't be instanced - or objects created from them.
-> They are used to set out the hierarchy in a logical fashion so that LSP works for each type / class specified.
+> Many of the specified classes are Abstract classes - meaning that they can't be instanced - or objects created from them.  
+> They are used to set out the hierarchy in a logical fashion so that LSP works for each type / class specified.  
 > Sometimes the depth of abstract classes can reach 8 levels deep.
 
 

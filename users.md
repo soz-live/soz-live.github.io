@@ -31,18 +31,18 @@ Within **SOZ-LIVE** an Object is the base level of things created.
 
 They are non-graphical in nature and range from simple values such as:
 
-- a [Real](classes/Real.md) value - a real number
-- a [Boolean](classes/Boolean.md) value - ie either True or False.
-- a [SZLPReal](classes/SZLPReal.md) value object of a real number.
+- a [Real](classes/Real.html) value - a real number
+- a [Boolean](classes/Boolean.html) value - ie either True or False.
+- a [SZLPReal](classes/SZLPReal.html) value object of a real number.
 
 through to complex geometric objects that utilise other objects and entities in their calculated value(s):
 
-- a [SZGEPoint-AcDbCircle-Center](classes/SZGEPoint-AcDbCircle-Center.md) object - that returns the center [Point](classes/Point.md) of a [AcDbCircle](classes/AcDbCircle.md) Entity.
-- a [SZGEPattern2D-Rectangular](classes/SZGEPattern2D-Rectangular.md) object - that creates and returns a list of [TMatrix](classes/TMatrix.md) values for the insertion of Entities into the Model.  
+- a [SZGEPoint-AcDbCircle-Center](classes/SZGEPoint-AcDbCircle-Center.html) object - that returns the center [Point](classes/Point.html) of a [AcDbCircle](classes/AcDbCircle.html) Entity.
+- a [SZGEPattern2D-Rectangular](classes/SZGEPattern2D-Rectangular.html) object - that creates and returns a list of [TMatrix](classes/TMatrix.html) values for the insertion of Entities into the Model.  
 
 
 > **Notes:**<br>
-> - A [Real](classes/Real.md) value entered into a dialog box is stored as a string until required by the program. 
+> - A [Real](classes/Real.html) value entered into a dialog box is stored as a string until required by the program. 
 > - This enables lisp equations such as `(/ 1.0 3.0)` to be entered and calculated to full precision as and when required.
 
 
@@ -115,10 +115,10 @@ Each argument to be specified creates another entry in the dialog box to be fill
 
 The entry is either an **atom** field or a **list** field - depending upon the type of each of the arguments for the Class...
 
-For example, the dialog for the class [SZGELine](classes/SZGELine.md) has two required arguments:
+For example, the dialog for the class [SZGELine](classes/SZGELine.html) has two required arguments:
 
-- POINT0 - an atom field which is required to be of type [SZGEPoint](classes/SZGEPoint.md)
-- POINT1 - an atom field which is required to be of type [SZGEPoint](classes/SZGEPoint.md)
+- POINT0 - an atom field which is required to be of type [SZGEPoint](classes/SZGEPoint.html)
+- POINT1 - an atom field which is required to be of type [SZGEPoint](classes/SZGEPoint.html)
 
 > **Notes:**<br>
 > - Any class that is derived or one that interfaces with the type is also valid. The alternative classes available for each dialog are available from the `...` button at the top of the dialog next to the Class Name.
