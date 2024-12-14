@@ -2,6 +2,8 @@
 layout: default
 ---
 
+# About
+
 ## The Vision
 
 The vision is to provide a better way of programming Lisp in CAD with immediate benefits to the coder, the user and the community.  
@@ -22,7 +24,9 @@ The project is currently closed source and in Private Beta stage, with work requ
 The current aim is to develop a community of developers and testers to progress the project to release stage.  
 
 ### Future (2025 - ?)
-The aim is to move to Open Source when a mature v2.0 product is released. This is expected to be in 2025.  
+
+The aim is to move to Open Source when a mature v2.0 product is released.<br>
+This is expected to be in 2025.  
 The future includes a long list of potential areas, features and functionality on the Roadmap for further development.  
 The expansion of the community will also enable further growth and development of the project.
 

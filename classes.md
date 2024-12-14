@@ -1,4 +1,9 @@
-## SOZ Classes
+---
+layout: default
+title: Classes
+---
+
+# SOZ Classes
 
 - [SZOBBase](classes/SZOBBase.html)
   - [Lisp](classes/Lisp.html)

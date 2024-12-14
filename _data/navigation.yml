@@ -1,9 +1,11 @@
 - name: Home
   link: /
 - name: Users
-  link: /users.html 
+  link: /users.html
 - name: Coders
-  link: /coders.html   
+  link: /coders.html
+- name: Classes
+  link: /classes.html
 - name: About
   link: /about.html
 - name: Blog

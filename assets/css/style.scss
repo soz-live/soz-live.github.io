@@ -3,13 +3,14 @@
 
 @import "{{ site.theme }}";
 
+nav {
+  text-align: center	
+}
+
 nav a {
-/*    display: block; */
-/*    width: 80px;   */
-    padding: 10px; 
+    padding: 8px; 
   color: #F2F2F2;
-  font-size: 20px;
-/*  text-decoration: underline; */
+  font-size: 16px;
 }
 
 

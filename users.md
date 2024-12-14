@@ -21,9 +21,8 @@ Within **SOZ-LIVE** the basic reasoning behind class and object creation is:<br>
 
 **Could it be used again?**<br>
 
-If it could be used again somewhere else then it becomes an Object of a specific class.
-Classes are then created to template the creation of each object.
-
+If it could be used again somewhere else then it becomes an Object of a specific class.<br>
+A Class is then created to template the creation of each object.
 
 
 ### Object
@@ -43,14 +42,15 @@ through to complex geometric objects that utilise other objects and entities in 
 
 
 > **Notes:**<br>
-> - A [Real](classes/Real.md) value entered into a dialog box is stored as a string until required by the program. This enables lisp equations such as (/ 1.0 3.0) to be entered and calculated to full precision as and when required.
+> - A [Real](classes/Real.md) value entered into a dialog box is stored as a string until required by the program. 
+> - This enables lisp equations such as `(/ 1.0 3.0)` to be entered and calculated to full precision as and when required.
 
 
 ### Entity
 
-Within **SOZ-LIVE** an Entity is derived from Object and describes Objects that are Graphical in nature.
+Within **SOZ-LIVE** an Entity is derived from Object and describes Objects that are graphical in nature.
 
-Base classes predominantly begin with the prefix AcDb, and derived classes are typically prefixed with SZCE.
+Base classes predominantly begin with the prefix `AcDb`, and derived classes are typically prefixed with `SZCE`.
 
 
 
