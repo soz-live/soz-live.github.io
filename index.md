@@ -4,16 +4,31 @@ layout: default
 
 # Home
 
-## Status:
+## Contents
+
+- Home
+  - [Status](#status)
+  - [Introduction](#introduction)
+  - [SOZ](#soz)
+  - [LIVE](#live)
+  - [For CAD Users](#for-cad-users)
+  - [For LISP Coders](#for-lisp-coders)
+  - [Potential Users](#potential-users)
+  - [Community](#community)
+
+
+## Status
 
 The current status of the project is **Private Beta**.
 
-## Introduction:
+## Introduction
 
 A CAD extension, written in LISP.<br>
 **SOZ-LIVE** is a collection of over 2500 Lisp routines, that enables the creation of complex CAD entities, from a series of inputs of simpler objects.
 
-## SOZ - Scripted ObjectZ:
+## SOZ
+
+**SOZ** = Scripted ObjectZ
 
 **SOZ** is a means to combine Functional Programming (FP), Object Oriented (OO) Programming and Scripting, using Lisp.
 
@@ -29,7 +44,9 @@ Along the way, benefits of using the **SOZ** approach became apparent, including
 - adding to the functionality of CAD.  
 
 
-## LIVE - Lisp Interactive Visual Environment:
+## LIVE 
+
+**LIVE** = Lisp Interactive Visual Environment
 
 **LIVE** is a Node-based visual User Interface (UI) written in **SOZ** that enables the user to create visual scripts for iterative design.
 
@@ -37,7 +54,7 @@ The routines are built into the Core of **SOZ**, and consist of under 1000 lines
 
 **LIVE** objects are created in PaperSpace while the modelling entities are created in ModelSpace.
 
-## For CAD Users:
+## For CAD Users
 
 **SOZ-LIVE** is being used to extend CAD functionality in the areas of:
 
@@ -53,7 +70,7 @@ The routines are built into the Core of **SOZ**, and consist of under 1000 lines
 - Construction
   - Rigging
   
-## For LISP Coders:
+## For LISP Coders
 
 **SOZ-LIVE** is a platform for developing additional Lisp functionality for CAD including:
 
@@ -65,7 +82,7 @@ The routines are built into the Core of **SOZ**, and consist of under 1000 lines
 - Readability
 - Documented
 
-## Potential Users:
+## Potential Users
 
 **SOZ-LIVE** can be run on both BricsCAD and AutoCAD, for:
 
@@ -85,14 +102,16 @@ The routines are built into the Core of **SOZ**, and consist of under 1000 lines
 > - 3D Modelling functionality requires BricsCAD Pro or above, or full AutoCAD.<br>
 > - Some Civil functionality is limited to BricsCAD only.
 
-## Community:
+## Community
 
 - GitHub
-	- soz-live
+  - soz-live
 - Discord
-	- soz-live
+  - soz-live
 - Slack:
-	- soz-live
+  - soz-live
+- You Tube
+  - soz-live
 	
 To join the community please email your request to:<br>  
 

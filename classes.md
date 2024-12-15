@@ -3,7 +3,20 @@ layout: default
 title: Classes
 ---
 
-# SOZ Classes
+# Classes
+
+## Introduction:
+
+All classes are derived from the Base Class - **SZOBBase**.<br>
+Each entry is a link to the documentation for the particular class which specifies:
+
+- Class properties
+  - A list of properties for the Class.
+- Class Functions
+  - A list of all functions for the Class and Super classes.
+
+
+## Class Hierarchy:
 
 - [SZOBBase](classes/SZOBBase.html)
   - [Lisp](classes/Lisp.html)

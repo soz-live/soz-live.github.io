@@ -1,5 +1,24 @@
+---
+layout: default
+---
 
 # Coders
+
+## Contents
+
+- Coders
+  - [Introduction](#introduction)
+  - [Classes](#classes)
+  - [Objects](#objects)
+  - [Methods](#methods)
+    - [Method Naming](#method-naming)
+    - [Method Dispatch](#method-dispatch)
+    - [Type checking](#type-checking)
+  - [Interfaces](#interfaces)
+  - [Categories](#categories)
+  - [Strings vs Symbols](#strings-vs-symbols)
+  - [The Meta Environment](#the-meta-environment)
+ 
 
 ## Introduction
 
