@@ -22,7 +22,7 @@ layout: default
 
 ## Introduction
 
-This page goes into details for coders working with **SOZ**.  
+This page contains basic information for coders working with **SOZ**.  
 
 
 ## Classes

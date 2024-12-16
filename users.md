@@ -26,7 +26,7 @@ layout: default
 
 ## Introduction
 
-This page goes into details for users working with **SOZ-LIVE**.  
+This page contains basic information for users working with **SOZ-LIVE**.  
 
 ## Concepts
 

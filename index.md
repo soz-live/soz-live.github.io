@@ -19,7 +19,7 @@ layout: default
   - [For LISP Coders](#for-lisp-coders)
   - [Potential Users](#potential-users)
   - [Community](#community)
-
+  - [Documentation](#documentation)
 
 ## Status
 
@@ -132,6 +132,12 @@ As well as for the following disciplines:
 - You Tube
   - soz-live
 	
-To join the community please email your request to:<br>  
+To join the community please email your request to:  
+**tim AT soz-live DOT com**
 
-tim AT soz-live DOT com
+## Documentation
+
+For project documentation, refer to the [Docs page](docs.html) of this website or the GitHub repo.
+
+
+
