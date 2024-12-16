@@ -10,7 +10,7 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: |  |
+| Help: | Face Loop Class |
 
 ### SZGELoop-Face-Make
 

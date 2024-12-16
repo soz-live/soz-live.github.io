@@ -10,7 +10,7 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: |  |
+| Help: | Current Visual |
 
 ### SZCOVisual-Current-Make
 

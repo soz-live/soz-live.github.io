@@ -16,8 +16,8 @@
 
 | Keys | Types |
 | --------- | --------- |
-| A | [SZOBObject](SZOBObject.html) |
-| B | [SZOBObject](SZOBObject.html) |
+| A | [Number](Number.html) |
+| B | [Number](Number.html) |
 | **---** | **---** |
 | Returns: | [Number](Number.html) |
 | Help: | * Function |

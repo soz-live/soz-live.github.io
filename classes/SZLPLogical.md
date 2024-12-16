@@ -6,7 +6,7 @@
 | --------- | --------- |
 | Superclass: | [SZLPObject](SZLPObject.html) |
 | Subclasses: | [SZLPLogical-Code](SZLPLogical-Code.html) <br> [SZLP-T](SZLP-T.html) <br> [SZLP-NIL](SZLP-NIL.html) |
-| Interfaces: |  |
+| Interfaces: | [Logical](Logical.html) |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |

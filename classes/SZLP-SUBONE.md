@@ -16,9 +16,9 @@
 
 | Keys | Types |
 | --------- | --------- |
-| NUM | [SZOBObject](SZOBObject.html) |
+| NUM | [Integer](Integer.html) |
 | **---** | **---** |
-| Returns: | [Number](Number.html) |
+| Returns: | [Integer](Integer.html) |
 | Help: | 1- Function |
 
 

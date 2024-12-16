@@ -16,7 +16,7 @@
 
 | Keys | Types |
 | --------- | --------- |
-| NUMS | [List:SZOBObject](SZOBObject.html) |
+| NUMS | [List:Number](Number.html) |
 | **---** | **---** |
 | Returns: | [Number](Number.html) |
 | Help: | /S Function |

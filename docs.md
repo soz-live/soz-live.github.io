@@ -15,7 +15,7 @@ layout: default
 
 ## Introduction
 
-This page lists documentation for **SOZ-lIVE**.  
+This page lists documentation for **SOZ-LIVE**.  
 
 ## Users
 

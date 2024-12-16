@@ -7,7 +7,7 @@
 | Superclass: | [Lisp](Lisp.html) |
 | Subclasses: | [NIL](NIL.html) <br> [T](T.html) |
 | Interfaces: |  |
-| Interfaced: |  |
+| Interfaced: | [SZLPLogical](SZLPLogical.html) |
 | Abstract?: | Yes |
 | isValue?: | Yes |
 | Help: | Base Logical Class |

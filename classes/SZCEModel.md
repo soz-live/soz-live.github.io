@@ -5,7 +5,7 @@
 | Fields | Values |
 | --------- | --------- |
 | Superclass: | [SZCEModelDef](SZCEModelDef.html) |
-| Subclasses: | [SZCEAssy](SZCEAssy.html) <br> [SZCEPart](SZCEPart.html) |
+| Subclasses: | [SZCEModel-TwistedLink](SZCEModel-TwistedLink.html) <br> [SZCEAssy](SZCEAssy.html) <br> [SZCEPart](SZCEPart.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

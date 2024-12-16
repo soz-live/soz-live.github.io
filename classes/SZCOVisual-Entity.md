@@ -1,6 +1,6 @@
 ---------
 
-# Class:	SZCOVisual-Default
+# Class:	SZCOVisual-Entity
 
 | Fields | Values |
 | --------- | --------- |
@@ -10,15 +10,16 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Default Visual |
+| Help: | Entity Visual |
 
-### SZCOVisual-Default-Make
+### SZCOVisual-Entity-Make
 
 | Keys | Types |
 | --------- | --------- |
+| ENTITY | [AcDbEntity](AcDbEntity.html) |
 | **---** | **---** |
-| Returns: | [SZCOVisual-Default](SZCOVisual-Default.html) |
-| Help: | Default |
+| Returns: | [SZCOVisual-Entity](SZCOVisual-Entity.html) |
+| Help: | Entity Visual Settings |
 
 
 ## Functions:

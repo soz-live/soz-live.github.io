@@ -18,9 +18,10 @@
 | --------- | --------- |
 | X | [Real](Real.html) |
 | Y | [Real](Real.html) |
+| Z | [Real](Real.html) |
 | **---** | **---** |
-| Returns: | [Vector2D](Vector2D.html) |
-| Help: | Creates a Vector2D of X Y values |
+| Returns: | [Vector](Vector.html) |
+| Help: | Creates a Vector of X Y Z values |
 
 
 ## Functions:
@@ -35,7 +36,7 @@
 
 | Keys | Types |
 | --------- | --------- |
-| AZ | [Vector](Vector.html) |
+| ZAXIS | [Vector](Vector.html) |
 | **---** | **---** |
 | Returns: | [Axes](Axes.html) |
 | Help: | Convert to Axes |

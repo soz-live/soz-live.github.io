@@ -16,8 +16,8 @@
 
 | Keys | Types |
 | --------- | --------- |
-| N1 | [SZOBObject](SZOBObject.html) |
-| N2 | [SZOBObject](SZOBObject.html) |
+| N1 | [Number](Number.html) |
+| N2 | [Number](Number.html) |
 | **---** | **---** |
 | Returns: | [Number](Number.html) |
 | Help: | GCD Function |

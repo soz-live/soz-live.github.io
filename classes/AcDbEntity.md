@@ -17,7 +17,7 @@
 
 | Types | Functions |
 | --------- | --------- |
-| Class: | [AcDbEntity-Copy](#AcDbEntity-Copy) <br> [AcDbEntity-ExternalCopy](#AcDbEntity-ExternalCopy) <br> [AcDbEntity-InternalCopy](#AcDbEntity-InternalCopy) <br> [AcDbEntity-IntersectWith](#AcDbEntity-IntersectWith) <br> [AcDbEntity-Layer](#AcDbEntity-Layer) <br> [AcDbEntity-Move](#AcDbEntity-Move) <br> [AcDbEntity-SetVisibility](#AcDbEntity-SetVisibility) <br> [AcDbEntity-SetVisual](#AcDbEntity-SetVisual) <br> [AcDbEntity-Space](#AcDbEntity-Space) <br> [AcDbEntity-Transformby](#AcDbEntity-Transformby) <br> [AcDbEntity-User_Pick](#AcDbEntity-User_Pick) <br> [AcDbEntity-User_PickList](#AcDbEntity-User_PickList) <br> [AcDbEntity-User_PickModel](#AcDbEntity-User_PickModel) <br> [AcDbEntity-User_PickNode](#AcDbEntity-User_PickNode) <br> [AcDbEntity-User_PickSet](#AcDbEntity-User_PickSet) <br> [AcDbEntity-Visual](#AcDbEntity-Visual) |
+| Class: | [AcDbEntity-Copy](#AcDbEntity-Copy) <br> [AcDbEntity-ExternalCopy](#AcDbEntity-ExternalCopy) <br> [AcDbEntity-InternalCopy](#AcDbEntity-InternalCopy) <br> [AcDbEntity-IntersectWith](#AcDbEntity-IntersectWith) <br> [AcDbEntity-Layer](#AcDbEntity-Layer) <br> [AcDbEntity-Move](#AcDbEntity-Move) <br> [AcDbEntity-SZCOColor](#AcDbEntity-SZCOColor) <br> [AcDbEntity-SetVisibility](#AcDbEntity-SetVisibility) <br> [AcDbEntity-SetVisual](#AcDbEntity-SetVisual) <br> [AcDbEntity-Space](#AcDbEntity-Space) <br> [AcDbEntity-Transformby](#AcDbEntity-Transformby) <br> [AcDbEntity-User_Pick](#AcDbEntity-User_Pick) <br> [AcDbEntity-User_PickList](#AcDbEntity-User_PickList) <br> [AcDbEntity-User_PickModel](#AcDbEntity-User_PickModel) <br> [AcDbEntity-User_PickNode](#AcDbEntity-User_PickNode) <br> [AcDbEntity-User_PickSet](#AcDbEntity-User_PickSet) <br> [AcDbEntity-Visual](#AcDbEntity-Visual) |
 | Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
@@ -80,6 +80,15 @@
 | **---** | **---** |
 | Returns: | [AcDbEntity](AcDbEntity.html) |
 | Help: | Move Entity from Point to Point |
+
+### AcDbEntity-SZCOColor
+
+| Keys | Types |
+| --------- | --------- |
+| ENTITY | [AcDbEntity](AcDbEntity.html) |
+| **---** | **---** |
+| Returns: | [SZCOColor](SZCOColor.html) |
+| Help: | get Entities's TrueColor |
 
 ### AcDbEntity-SetVisibility
 

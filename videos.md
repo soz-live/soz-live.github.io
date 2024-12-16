@@ -12,6 +12,6 @@ layout: default
 
 ## Introduction
 
-This page lists videos for **SOZ-lIVE**.  
+This page lists videos for **SOZ-LIVE**.  
 
 Currently there are none...

@@ -16,7 +16,7 @@
 
 | Keys | Types |
 | --------- | --------- |
-| NUM | [SZOBObject](SZOBObject.html) |
+| NUM | [Number](Number.html) |
 | **---** | **---** |
 | Returns: | [Number](Number.html) |
 | Help: | New SZLP-LOG |

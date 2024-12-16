@@ -16,8 +16,8 @@
 
 | Keys | Types |
 | --------- | --------- |
-| BASE | [SZOBObject](SZOBObject.html) |
-| POW | [SZOBObject](SZOBObject.html) |
+| BASE | [Number](Number.html) |
+| POW | [Number](Number.html) |
 | **---** | **---** |
 | Returns: | [Number](Number.html) |
 | Help: | EXPT Function |

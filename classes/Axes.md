@@ -16,7 +16,7 @@
 
 | Keys | Types |
 | --------- | --------- |
-| AZ | [Vector](Vector.html) |
+| ZAXIS | [Vector](Vector.html) |
 | **---** | **---** |
 | Returns: | [Axes](Axes.html) |
 | Help: | Make Axes Vectors |

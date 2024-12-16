@@ -61,6 +61,7 @@ Each entry is a link to the documentation for the particular class which specifi
               - [Enum-AcDbLinearType](classes/Enum-AcDbLinearType.html)
               - [Enum-AcDbMTextAttachment](classes/Enum-AcDbMTextAttachment.html)
               - [Enum-AcDbTextAlignment](classes/Enum-AcDbTextAlignment.html)
+              - [Enum-SZCORegion-Loop](classes/Enum-SZCORegion-Loop.html)
             - [Option-AddList](classes/Option-AddList.html)
             - [Option-EditList](classes/Option-EditList.html)
             - [Option-Integer](classes/Option-Integer.html)
@@ -774,10 +775,6 @@ Each entry is a link to the documentation for the particular class which specifi
             - [SZCOProfile-FilletedRHS](classes/SZCOProfile-FilletedRHS.html)
         - [SZCORegion](classes/SZCORegion.html)
           - [SZCORegion-Loop](classes/SZCORegion-Loop.html)
-            - [SZCORegion-Loop-DeleteBoth](classes/SZCORegion-Loop-DeleteBoth.html)
-            - [SZCORegion-Loop-DeleteLoop](classes/SZCORegion-Loop-DeleteLoop.html)
-            - [SZCORegion-Loop-DeleteNone](classes/SZCORegion-Loop-DeleteNone.html)
-            - [SZCORegion-Loop-DeleteTMatrix](classes/SZCORegion-Loop-DeleteTMatrix.html)
           - [SZCORegion-PlanarCurve](classes/SZCORegion-PlanarCurve.html)
         - [SZCOSection](classes/SZCOSection.html)
           - [SZCOSection-Circle](classes/SZCOSection-Circle.html)
@@ -811,6 +808,7 @@ Each entry is a link to the documentation for the particular class which specifi
           - [SZCOVisual-Color](classes/SZCOVisual-Color.html)
           - [SZCOVisual-Current](classes/SZCOVisual-Current.html)
           - [SZCOVisual-Default](classes/SZCOVisual-Default.html)
+          - [SZCOVisual-Entity](classes/SZCOVisual-Entity.html)
       - [SZCOObjects](classes/SZCOObjects.html)
         - [SZCEEntities](classes/SZCEEntities.html)
           - [SZCECurves](classes/SZCECurves.html)
@@ -873,6 +871,3 @@ Each entry is a link to the documentation for the particular class which specifi
       - [SZOBObject-KeysOf](classes/SZOBObject-KeysOf.html)
         - [SZOBObject-KeyOf](classes/SZOBObject-KeyOf.html)
   - [SZOBScript](classes/SZOBScript.html)
-
-Version:  1.17.0
-Date: 20241122.1028

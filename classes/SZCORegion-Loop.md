@@ -5,12 +5,24 @@
 | Fields | Values |
 | --------- | --------- |
 | Superclass: | [SZCORegion](SZCORegion.html) |
-| Subclasses: | [SZCORegion-Loop-DeleteNone](SZCORegion-Loop-DeleteNone.html) <br> [SZCORegion-Loop-DeleteBoth](SZCORegion-Loop-DeleteBoth.html) <br> [SZCORegion-Loop-DeleteTMatrix](SZCORegion-Loop-DeleteTMatrix.html) <br> [SZCORegion-Loop-DeleteLoop](SZCORegion-Loop-DeleteLoop.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | Yes |
+| Abstract?: | No |
 | isValue?: | No |
 | Help: | Loop Region Object |
+
+### SZCORegion-Loop-Make
+
+| Keys | Types |
+| --------- | --------- |
+| LOOP | [SZGELoop](SZGELoop.html) |
+| TMATRIX | [SZGETMatrix](SZGETMatrix.html) |
+| COMBINE | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |
+| ENUM | [Enum-SZCORegion-Loop](Enum-SZCORegion-Loop.html) |
+| **---** | **---** |
+| Returns: | [SZCORegion-Loop](SZCORegion-Loop.html) |
+| Help: | Region of Loop |
 
 
 ## Functions:

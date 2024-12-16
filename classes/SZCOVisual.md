@@ -5,7 +5,7 @@
 | Fields | Values |
 | --------- | --------- |
 | Superclass: | [SZCOObject](SZCOObject.html) |
-| Subclasses: | [SZCOVisual-Current](SZCOVisual-Current.html) <br> [SZCOVisual-Default](SZCOVisual-Default.html) <br> [SZCOVisual-Color](SZCOVisual-Color.html) <br> [SZCOVisual-ByLayer](SZCOVisual-ByLayer.html) |
+| Subclasses: | [SZCOVisual-Entity](SZCOVisual-Entity.html) <br> [SZCOVisual-Current](SZCOVisual-Current.html) <br> [SZCOVisual-Default](SZCOVisual-Default.html) <br> [SZCOVisual-Color](SZCOVisual-Color.html) <br> [SZCOVisual-ByLayer](SZCOVisual-ByLayer.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
@@ -37,8 +37,8 @@
 
 | Keys | Types |
 | --------- | --------- |
-| O | [SZCOVisual](SZCOVisual.html) |
-| ES | [Set:AcDbEntity](AcDbEntity.html) |
+| VIZ | [SZCOVisual](SZCOVisual.html) |
+| ENTS | [Set:AcDbEntity](AcDbEntity.html) |
 | **---** | **---** |
 | Returns: | [Set:AcDbEntity](AcDbEntity.html) |
 | Help: | Sets the Visual Settings for the Entity |
@@ -47,8 +47,8 @@
 
 | Keys | Types |
 | --------- | --------- |
-| O | [SZCOVisual](SZCOVisual.html) |
-| E | [AcDbEntity](AcDbEntity.html) |
+| VIZ | [SZCOVisual](SZCOVisual.html) |
+| ENT | [AcDbEntity](AcDbEntity.html) |
 | **---** | **---** |
 | Returns: | [AcDbEntity](AcDbEntity.html) |
 | Help: | Sets the Visual Settings for the Entity |

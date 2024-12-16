@@ -16,9 +16,11 @@
 
 | Keys | Types |
 | --------- | --------- |
+| X | [Real](Real.html) |
+| Y | [Real](Real.html) |
 | **---** | **---** |
-| Returns: |  |
-| Help: |  |
+| Returns: | [Vector2D](Vector2D.html) |
+| Help: | Creates a Vector2D of X Y values |
 
 
 ## Functions:

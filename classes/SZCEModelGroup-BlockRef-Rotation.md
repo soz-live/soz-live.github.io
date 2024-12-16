@@ -5,7 +5,7 @@
 | Fields | Values |
 | --------- | --------- |
 | Superclass: | [SZCEModelGroup-BlockRef](SZCEModelGroup-BlockRef.html) |
-| Subclasses: | [SZCEModelGroup-Chain](SZCEModelGroup-Chain.html) |
+| Subclasses: | [SZCEModelGroup-TwistedChain](SZCEModelGroup-TwistedChain.html) <br> [SZCEModelGroup-Chain](SZCEModelGroup-Chain.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
