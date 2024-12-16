@@ -30,7 +30,7 @@ This page goes into details for users working with **SOZ-LIVE**.
 
 ## Concepts
 
-The basic concepts required to understand this document are:
+The basic concepts required to understand **SOZ-LIVE** are:
 
 - [Class](#class)
 - [Object](#object)
@@ -41,12 +41,16 @@ The basic concepts required to understand this document are:
 
 ### Class
 
-Within **SOZ-LIVE** the basic reasoning behind class and object creation is:<br>
+A Class is a template for the creation of an Object.  
+Everything that is created in CAD, and in SOZ, is an Object of a particular Class.  
+This includes graphical entities such as:
 
-**Could it be used again?**<br>
+- a [Line](classes/AcDbLine.html) - a 3d Line entity - between two points.
+- a [Part](classes/SZCEPart.html) - a complex derived entity containing Features, to define a parametric 3d Enitity.
 
-If it could be used again somewhere else then it becomes an Object of a specific class.<br>
-A Class is then created to template the creation of each object.
+through to non-graphical objects such as:
+
+- a [SZLPReal](classes/SZLPReal.html) value object for a real number.
 
 
 ### Object
@@ -57,7 +61,6 @@ They are non-graphical in nature and range from simple values such as:
 
 - a [Real](classes/Real.html) value - a real number
 - a [Boolean](classes/Boolean.html) value - ie either True or False.
-- a [SZLPReal](classes/SZLPReal.html) value object of a real number.
 
 through to complex geometric objects that utilise other objects and entities in their calculated value(s):
 
