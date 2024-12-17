@@ -28,13 +28,13 @@ The current status of the project is **Private Beta**.
 ## Introduction
 
 **SOZ-LIVE** is a CAD extension, written in LISP.<br>
-**SOZ-LIVE** is a collection of over 2500 Lisp routines, that enables the creation of complex CAD entities, from a series of inputs of simpler objects.
+**SOZ-LIVE** is a collection of over 2600 Lisp routines, that enables the creation of complex CAD entities, from a series of inputs of simpler objects.
 
 ## SOZ
 
 ### The What of SOZ
 
-**SOZ** = Scripted ObjectZ
+**SOZ** = Scripted ObjectZ  
 
 **SOZ** is a means to combine Functional Programming (FP), Object Oriented (OO) Programming and Scripting, using Lisp.
 
@@ -127,9 +127,9 @@ As well as for the following disciplines:
   - soz-live
 - Discord
   - soz-live
-- Slack:
+- Slack
   - soz-live
-- You Tube
+- YouTube
   - soz-live
 	
 To join the community please email your request to:  

@@ -16,7 +16,7 @@
 
 | Keys | Types |
 | --------- | --------- |
-| CIRCLE | [AcDbCircle](AcDbCircle.html) |
+| ENTITY | [AcDbCircle](AcDbCircle.html) |
 | **---** | **---** |
 | Returns: | [SZCOProfile-AcDbCircle](SZCOProfile-AcDbCircle.html) |
 | Help: | Make a SZCOProfile-AcDbCircle |

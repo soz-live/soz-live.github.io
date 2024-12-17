@@ -5,7 +5,7 @@ title: Classes
 
 # Classes
 
-## Introduction:
+## Introduction
 
 All classes are derived from the Base Class - **SZOBBase**.<br>
 Each entry is a link to the documentation for the particular class which specifies:
@@ -16,7 +16,7 @@ Each entry is a link to the documentation for the particular class which specifi
   - A list of all functions for the Class and Super classes.
 
 
-## Class Hierarchy:
+## The Hierarchy
 
 - [SZOBBase](classes/SZOBBase.html)
   - [Lisp](classes/Lisp.html)

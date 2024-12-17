@@ -203,6 +203,8 @@ And:
 | ClassName | String | Name of the Class |
 | Categories | List:Category | a list of Categories for the Class |
 
+For the full list - refer to the [Categories](categories.html) document.
+
 
 > **Notes:**<br>
 > Each Category has a corresponding **M-** (Make) command that can be entered at the command line<br>
