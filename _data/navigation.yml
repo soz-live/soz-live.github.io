@@ -4,9 +4,9 @@
   link: /docs.html
 - name: Videos
   link: /videos.html
+- name: Blog
+  link: /blog.html  
 - name: About
   link: /about.html
-- name: Blog
-  link: /blog.html
 - name: Community
   link: /community.html
