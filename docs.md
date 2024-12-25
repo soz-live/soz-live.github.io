@@ -8,7 +8,7 @@ layout: default
 
 - Docs
   - [Introduction](#introduction)
-  - [Users](#Users)
+  - [Users](#users)
   - [Coders](#coders)
   - [Resources](#resources)
 
@@ -18,12 +18,12 @@ This page lists documentation for **SOZ-LIVE**.
 
 ## Users
 
-- [Basic User Information](users.html)
+- [Basic User Information](users-basics.html)
 
 
 ## Coders
 
-- [Basic Coder Information](coders.html)
+- [Basic Coder Information](coders-basics.html)
 
 
 ## Resources

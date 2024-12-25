@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Users
+# Users Basics
 
 ## Contents
 

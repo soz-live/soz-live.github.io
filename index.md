@@ -15,8 +15,8 @@ layout: default
   - [LIVE](#live)
     - [The What of LIVE](#the-what-of-live)  
     - [The How of LIVE](#the-how-of-live)   
-  - [For CAD Users](#for-cad-users)
-  - [For LISP Coders](#for-lisp-coders)
+  - [For Users](#for-users)
+  - [For Coders](#for-coders)
   - [Potential Users](#potential-users)
   - [Community](#community)
   - [Documentation](#documentation)
@@ -65,7 +65,7 @@ The routines are built into the Core of **SOZ**, and consist of under 1000 lines
 
 **LIVE** objects, such as Nodes and Links, are created in PaperSpace while the modelling entities are created in ModelSpace.
 
-## For CAD Users
+## For Users
 
 **SOZ-LIVE** is being used to extend CAD functionality in the areas of:
 
@@ -89,17 +89,17 @@ As well as for the following disciplines:
 - Construction
   - Rigging
   
-## For LISP Coders
+## For Coders
 
-**SOZ-LIVE** is a platform for developing additional Lisp functionality for CAD including:
+**SOZ-LIVE** is a platform for developing additional Lisp functionality for CAD, focussing on:
 
-- Structured
+- Structure
 - Consistency
 - Simplicity
 - Modularity
-- Extensible
+- Extensibility
 - Readability
-- Documented
+- Documentation
 
 ## Potential Users
 
@@ -137,7 +137,7 @@ To join the community please email your request to:
 
 ## Documentation
 
-For project documentation, refer to the [Docs page](docs.html) of this website or the GitHub repo.
+For project documentation, refer to the [Docs page](docs.html).
 
 
 
