@@ -69,10 +69,15 @@ The routines are built into the Core of **SOZ**, and consist of under 1000 lines
 
 **SOZ-LIVE** is being used to extend CAD functionality in the areas of:
 
-- Drafting of
+- 3D Drafting of
   - Points
   - Planes
   - Curves
+    - Lines
+    - Arcs
+    - Circles
+    - LWPolylines
+    - 3dPolylines
   - Grids
   - Levels
 - 3D Modelling of
@@ -115,6 +120,7 @@ As well as for the following disciplines:
 		- STEM Programs
 	- University
 - Artists
+- Modellers
 - Programmers
 
 > **Notes:**<br>
@@ -137,7 +143,7 @@ To join the community please email your request to:
 
 ## Documentation
 
-For project documentation, refer to the [Docs page](docs.html).
+For project documentation, refer to the [Documents page](documents.html).
 
 
 
