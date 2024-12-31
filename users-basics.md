@@ -211,7 +211,7 @@ And Edit Options include:
 
 ## Process
 
-The basic **SOZ-LIVE** process for drawing develoment follows the following four phases:
+The basic **SOZ-LIVE** process for drawing develoment follows the four phases:
 
 1. Specify non-graphical Objects and Values.
 2. Draft graphical Entities using Objects and Values.
@@ -220,7 +220,7 @@ The basic **SOZ-LIVE** process for drawing develoment follows the following four
 
 During each phase the basic approach to using **SOZ** is followed:
 
-- **Make** objects - using the **Y** or **M-** commands
-- **Edit** objects - using the **E-** commands, within a dialog box.
-- **Update** objects - this is part of the Edit command.
+- **Make** objects & entities - using the **Y** or **M-** commands
+- **Edit** objects & entities - using the **E-** commands, within a dialog box.
+- **Update** - this is part of the Edit command.
 

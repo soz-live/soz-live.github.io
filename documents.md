@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Docs
+# Documents
 
 ## Contents
 
-- Docs
+- Documents
   - [Introduction](#introduction)
   - [Users](#users)
   - [Coders](#coders)
@@ -28,7 +28,7 @@ This page lists documentation for **SOZ-LIVE**.
 
 ## Resources
 
-- [Classes](classes.html) - a hierarchial list of classes in the project.
-- [Prefixes](prefixes.html) - a list of class prefixes used within the project.
-- [Categories](categories.html) - a hierarchial list of categories used within the project.
+- [Classes](classes.html) - a hierarchial list of Classes in the project, with links to each Class.
+- [Prefixes](prefixes.html) - a list of Class prefixes used within the project.
+- [Categories](categories.html) - a hierarchial list of Categories used within the project.
 - [Glossary](glossary.html) - a list of terms used within the project.

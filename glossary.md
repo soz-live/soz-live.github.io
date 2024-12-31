@@ -30,11 +30,11 @@ layout: default
   - [CLI](#cli)
   - [GUI](#gui)
   - [SOLID](#solid)
-  - [SRP](#srp)
-  - [OCP](#ocp)
-  - [LSP](#lsp)
-  - [ISP](#isp)
-  - [DIP](#dip)
+    - [SRP](#srp)
+    - [OCP](#ocp)
+    - [LSP](#lsp)
+    - [ISP](#isp)
+    - [DIP](#dip)
   - [DRY](#dry)
 
 
@@ -42,7 +42,7 @@ layout: default
 
 ## SOZ
 
-An extension of the [Lisp](#lisp) programming language that provides a means of doing [OOP](#oop) using a [FP](#fp) language to manipulate objects within [CAD](#cad).  
+An extension of the [Lisp](#lisp) programming language that provides a means of doing [OOP](#oop) using a [FP](#fp) language to manipulate objects within [CAD](#cad).  
 The name SOZ comes from Scripted ObjectZ, with the Z used to indicate the reflective nature of the language.  
 
 
@@ -157,30 +157,30 @@ Graphical User Interface - generally using dialog boxes.
 
 A set of five governing principles used to define proper programming.  
 Each of the letters stand for a different principle.  
-Refer to the below glossary entries for the five principles.  
+Refer to the below entries for the five principles.  
 
 
-## SRP
+### SRP
 
 Stands for the Single Responsibility Principle and is the S in [SOLID](#solid). <br> It describes the requirement that there should never be more than one reason for a class to change.
 
 
-## OCP
+### OCP
 
 Stands for the Open Closed Principle and is the O in [SOLID](#solid). <br> It describes the requirement that a module should be open for extension but closed for modification.
 
 
-## LSP
+### LSP
 
 Stands for Liskov Substitution Principle and is the L in [SOLID](#solid). <br> It describes the requirement that all sub-types of x must be able to be used anywhere that types of x are required.
 
 
-## ISP
+### ISP
 
 Stands for the Interface Segregation Principle and is the I in [SOLID](#solid). <br> It describes that many client specific interfaces are better than one general purpose interface.
 
 
-## DIP
+### DIP
 
 Stands for the Dependency Inversion Priciple and is the D in [SOLID](#solid). <br> It describes the strategy of depending upon Abstractions (abstract classes) and not to depend upon concretions (actual classes).
 
