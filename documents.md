@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Documents
+# Docs
 
 ## Contents
 
-- Documents
+- Docs
   - [Introduction](#introduction)
   - [Users](#users)
   - [Coders](#coders)

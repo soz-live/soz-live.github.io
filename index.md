@@ -143,7 +143,7 @@ To join the community please email your request to:
 
 ## Documentation
 
-For project documentation, refer to the [Documents page](documents.html).
+For project documentation, refer to the [Docs page](documents.html).
 
 
 
