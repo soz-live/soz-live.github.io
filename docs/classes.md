@@ -18,9 +18,9 @@ Each entry is a link to the documentation for the particular class which specifi
 
 ## The Hierarchy
 
-- [SZOBBase](classes/SZOBBase.html)
-  - [Lisp](classes/Lisp.html)
-    - [Logical](classes/Logical.html)
+- [SZOBBase](../classes/SZOBBase.html)
+  - [Lisp](./classes/Lisp.html)
+    - [Logical](/classes/Logical.html)
       - [NIL](classes/NIL.html)
       - [T](classes/T.html)
         - [Atom](classes/Atom.html)
