@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Classes
 ---
 
-# Classes
+# soz-live
 
 ## Introduction
 
