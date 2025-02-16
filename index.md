@@ -125,7 +125,7 @@ As well as for the following disciplines:
 
 > **Notes:**<br>
 > - 3D Modelling functionality requires BricsCAD Pro or above, or full AutoCAD.<br>
-> - Some Civil functionality is limited to BricsCAD only.
+> - Some Civil functionality is limited to BricsCAD Pro or above only.
 
 ## Community
 
