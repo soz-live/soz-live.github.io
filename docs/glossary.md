@@ -30,11 +30,11 @@ layout: default
   - [CLI](#cli)
   - [GUI](#gui)
   - [SOLID](#solid)
-    - [SRP](#srp)
-    - [OCP](#ocp)
-    - [LSP](#lsp)
-    - [ISP](#isp)
-    - [DIP](#dip)
+  - [SRP](#srp)
+  - [OCP](#ocp)
+  - [LSP](#lsp)
+  - [ISP](#isp)
+  - [DIP](#dip)
   - [DRY](#dry)
 
 
@@ -160,33 +160,33 @@ Each of the letters stand for a different principle.
 Refer to the below entries for the five principles.  
 
 
-### SRP
+## SRP
 
 Stands for the Single Responsibility Principle and is the S in [SOLID](#solid). <br> It describes the requirement that there should never be more than one reason for a class to change.
 
 
-### OCP
+## OCP
 
 Stands for the Open Closed Principle and is the O in [SOLID](#solid). <br> It describes the requirement that a module should be open for extension but closed for modification.
 
 
-### LSP
+## LSP
 
 Stands for Liskov Substitution Principle and is the L in [SOLID](#solid). <br> It describes the requirement that all sub-types of x must be able to be used anywhere that types of x are required.
 
 
-### ISP
+## ISP
 
 Stands for the Interface Segregation Principle and is the I in [SOLID](#solid). <br> It describes that many client specific interfaces are better than one general purpose interface.
 
 
-### DIP
+## DIP
 
 Stands for the Dependency Inversion Priciple and is the D in [SOLID](#solid). <br> It describes the strategy of depending upon Abstractions (abstract classes) and not to depend upon concretions (actual classes).
 
 
 ## DRY
 
-Stands for the Don't Repeat Yourself <br> It describes the programming strategy of defining something once and using it many times. <br>Often used in functions and variables.
+Stands for the Don't Repeat Yourself <br> It describes the programming strategy of defining something once and using it many times. <br>Often used for functions and variables.
 
 Date: 20241122.1028

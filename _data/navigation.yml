@@ -1,5 +1,9 @@
 - name: Home
   link: /
+- name: Users
+  link: /users.html
+- name: Coders
+  link: /coders.html  
 - name: Docs
   link: /docs.html
 - name: Videos

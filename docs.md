@@ -19,12 +19,13 @@ This page lists documentation for **SOZ-LIVE**.
 
 ## Users
 
-- [Basic User Information](/docs/users-basics.html)
+- [Basic Information for Users](/docs/users-basics.html).
+- [Quickstart Guide for Users](/docs/users-quickstart.html).
 
 
 ## Coders
 
-- [Basic Coder Information](/docs/coders-basics.html)
+- [Basic Information for Coders](/docs/coders-basics.html).
 
 
 ## Resources
@@ -35,7 +36,7 @@ This page lists documentation for **SOZ-LIVE**.
 
 ## Repos
 
-A hierarchial list of Classes in each repo, with links to each Class.
+A hierarchial list of Classes in each repo, with links to documentation for each Class.
 
 - [soz-live](/repos/soz-live.html)
 - [soz-misc](/repos/soz-misc.html)
