@@ -1,0 +1,154 @@
+---
+layout: default
+---
+
+# Commands
+
+## Introduction
+
+Below is a list of commands used within the project.  
+Each entry can be called from the command line.
+To view all of the Commands in a dialog box - use the **Y** command.
+## Hierarchy
+
+- Y
+  - Add
+    - A-Meta
+  - Clone
+    - C-Entity
+    - C-Node
+    - C-Object
+    - C-Part
+    - C-Reference
+  - Edit
+    - E-Custom
+    - E-Entity
+    - E-Live
+    - E-Model
+    - E-Object
+    - E-Setting
+  - Export
+    - X-Array
+    - X-SOZ
+  - Import
+    - I-Array
+    - I-CSV
+    - I-SOZ
+  - Live
+    - A-Links
+    - A-Nodes
+    - L-Entity
+    - L-Link
+    - L-Make
+    - L-Method
+    - L-Object
+    - L-Point
+  - Make
+    - M-Base
+      - M-Code
+        - M-Function
+          - M-Assignment
+          - M-Conditional
+          - M-Equation
+          - M-Expression
+          - M-Mathematical
+          - M-Predicate
+        - M-Macro
+          - M-Macro-Equation
+          - M-Macro-Point
+          - M-Macro-Points
+        - M-Symbol
+      - M-DevOps
+      - M-Discipline
+        - M-Architectural
+          - M-Building
+        - M-Construction
+          - M-Fabrication
+          - M-Rebar
+          - M-Rigging
+          - M-Surveying
+            - M-Grid
+            - M-Levels
+        - M-Engineering
+          - M-Civil
+            - M-TIN
+              - M-Grading
+          - M-Electrical
+            - M-Wire
+          - M-Mechanical
+            - M-Piping
+          - M-Structural
+            - M-Footing
+            - M-Member
+              - M-Column
+            - M-Members
+              - M-Brace
+      - M-Misc
+        - M-Fractal
+        - M-Random
+      - M-Process
+        - M-Draft
+          - M-Entity
+            - M-3dSurface
+            - M-Curve
+              - M-2dCurve
+                - M-Arc
+                - M-Circle
+              - M-3dCurve
+                - M-Line
+            - M-PViewport
+            - M-Plane
+            - M-Point
+            - M-Region
+            - M-Solid
+            - M-UCS
+        - M-Model
+          - M-Assembly
+          - M-Feature
+          - M-Features
+          - M-Group
+            - M-Dice
+            - M-Sections
+            - M-Slice
+          - M-Item
+          - M-Part
+          - M-Parts
+          - M-Reference
+        - M-Multiple
+          - M-Curves
+          - M-Lines
+          - M-Pattern
+          - M-Planes
+          - M-Points
+        - M-Present
+        - M-Specify
+          - M-Definition
+          - M-Geometry
+          - M-Option
+          - M-Value
+            - M-Number
+            - M-String
+          - M-Values
+            - M-List
+      - M-Script
+  - Misc
+    - T-Area
+    - T-Length
+    - T-Poly3D
+  - Object
+    - O-Convert
+    - O-Delete
+    - O-Reconvert
+  - SOZ
+    - S-Add
+  - Update
+    - U-All
+    - U-Select
+  - Visual
+    - V-MatchEntity
+    - V-ResetEntities
+    - V-SetEntities
+
+Version:  1.21.1
+<br>
+Date: 20250228.2004

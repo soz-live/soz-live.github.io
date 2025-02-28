@@ -1,9 +1,9 @@
----------
 
 # Class:	SZLPReals
 
 | Fields | Values |
 | --------- | --------- |
+| Repo: | soz-live |
 | Superclass: | [SZLPArray](SZLPArray.html) |
 | Subclasses: | [SZLPReals-Fibonacci](SZLPReals-Fibonacci.html) <br> [SZLPReals-CSV-Offsets](SZLPReals-CSV-Offsets.html) <br> [SZLPReals-Offsets](SZLPReals-Offsets.html) <br> [SZLPReals-Range](SZLPReals-Range.html) <br> [SZLPReals-AlternateSpacing](SZLPReals-AlternateSpacing.html) <br> [SZLPReals-EqualSpacing](SZLPReals-EqualSpacing.html) <br> [SZLPReals-Curve-DivideInto](SZLPReals-Curve-DivideInto.html) <br> [SZLPReals-DivideInto](SZLPReals-DivideInto.html) <br> [SZLPReals-MiddleSplit](SZLPReals-MiddleSplit.html) <br> [SZLPReals-CSV](SZLPReals-CSV.html) |
 | Interfaces: | [Reals](Reals.html), [List:Real](List:Real.html) |
@@ -27,6 +27,6 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZLPList-Value](SZLPList.html) <br> [SZLPList-Index](SZLPList.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZLPList-Value](SZLPList.html) <br> [SZLPList-Index](SZLPList.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

@@ -1,11 +1,11 @@
----------
 
 # Class:	SZCEScript
 
 | Fields | Values |
 | --------- | --------- |
+| Repo: | soz-live |
 | Superclass: | [SZCOScript](SZCOScript.html) |
-| Subclasses: | [SZCEScript-NestedHypocycloid](SZCEScript-NestedHypocycloid.html) <br> [SZCEScript-Parts](SZCEScript-Parts.html) |
+| Subclasses: | [SZCEScript-NestedHypocycloid](SZCEScript-NestedHypocycloid.html) <br> [SZCEScript-Members](SZCEScript-Members.html) <br> [SZCEScript-Footings](SZCEScript-Footings.html) <br> [SZCEScript-Parts](SZCEScript-Parts.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |
@@ -18,6 +18,6 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

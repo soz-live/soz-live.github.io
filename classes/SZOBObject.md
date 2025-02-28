@@ -1,9 +1,9 @@
----------
 
 # Class:	SZOBObject
 
 | Fields | Values |
 | --------- | --------- |
+| Repo: | soz-live |
 | Superclass: | [SZOBBase](SZOBBase.html) |
 | Subclasses: | [SZOBDevOps](SZOBDevOps.html) <br> [SZOBCAD](SZOBCAD.html) <br> [SZGEObjects](SZGEObjects.html) <br> [SZGEObject](SZGEObject.html) <br> [SZLPObject](SZLPObject.html) <br> [SZOBObject-Method](SZOBObject-Method.html) <br> [SZOBObject-Value](SZOBObject-Value.html) |
 | Interfaces: |  |
@@ -18,7 +18,7 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: | [SZOBObject->SZIX](#SZOBObject->SZIX) <br> [SZOBObject-AddMetaData](#SZOBObject-AddMetaData) |
-| Super: | [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### SZOBObject->SZIX

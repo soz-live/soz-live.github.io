@@ -1,9 +1,9 @@
----------
 
 # Class:	SZCOColor
 
 | Fields | Values |
 | --------- | --------- |
+| Repo: | soz-live |
 | Superclass: | [SZCOObject](SZCOObject.html) |
 | Subclasses: | [SZCOColor-ByBlock](SZCOColor-ByBlock.html) <br> [SZCOColor-ByLayer](SZCOColor-ByLayer.html) <br> [SZCOColor-RGB](SZCOColor-RGB.html) <br> [SZCOColor-Current](SZCOColor-Current.html) |
 | Interfaces: |  |
@@ -27,7 +27,7 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: | [SZCOColor-SetEntity](#SZCOColor-SetEntity) <br> [SZCOColor-User_ByBlock](#SZCOColor-User_ByBlock) <br> [SZCOColor-User_ByLayer](#SZCOColor-User_ByLayer) |
-| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### SZCOColor-SetEntity

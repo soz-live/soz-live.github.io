@@ -14,11 +14,17 @@ For example:
 - The **M-Part** command will bring up a list of different types of Parts that can be made.  
 - While **M-Model** will bring up all Parts and Assemblies, Features, Groups, References etc...  
 
-## The Hierarchy
+## Hierarchy
 
 - Base
   - Code
-    - Expression
+    - Function
+      - Assignment
+      - Conditional
+      - Equation
+      - Expression
+      - Mathematical
+      - Predicate
     - Macro
       - Macro-Equation
       - Macro-Point
@@ -71,30 +77,33 @@ For example:
     - Model
       - Assembly
       - Feature
+      - Features
       - Group
         - Dice
         - Sections
         - Slice
       - Item
       - Part
+      - Parts
       - Reference
+    - Multiple
+      - Curves
+      - Lines
+      - Pattern
+      - Planes
+      - Points
     - Present
-    - Script
-      - Multiple
-        - Curves
-        - Features
-        - Lines
-        - Parts
-        - Pattern
-        - Planes
-        - Points
     - Specify
       - Definition
       - Geometry
       - Option
       - Value
         - Number
-          - Equation
         - String
       - Values
+        - List
+  - Script
 
+Version:  1.21.1
+<br>
+Date: 20250228.2004

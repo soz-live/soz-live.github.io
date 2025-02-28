@@ -1,9 +1,9 @@
----------
 
 # Class:	SZGEVector
 
 | Fields | Values |
 | --------- | --------- |
+| Repo: | soz-live |
 | Superclass: | [SZGEObject](SZGEObject.html) |
 | Subclasses: | [SZGEVector-Member-MemberSide](SZGEVector-Member-MemberSide.html) <br> [SZGEVector-Member-End](SZGEVector-Member-End.html) <br> [SZGEVector-TMatrix](SZGEVector-TMatrix.html) <br> [SZGEVector-OnCurve](SZGEVector-OnCurve.html) <br> [SZGEVector-Planes-Intersect](SZGEVector-Planes-Intersect.html) <br> [SZGEVector-Plane-Normal](SZGEVector-Plane-Normal.html) <br> [SZGEVector-LineY](SZGEVector-LineY.html) <br> [SZGEVector-LineX](SZGEVector-LineX.html) <br> [SZGEVector-Line](SZGEVector-Line.html) <br> [SZGEVector-CrossProduct](SZGEVector-CrossProduct.html) <br> [SZGEVector-Relative](SZGEVector-Relative.html) <br> [SZGEVector-Point](SZGEVector-Point.html) <br> [SZGEVector-Negate](SZGEVector-Negate.html) <br> [SZGEVector-WZ](SZGEVector-WZ.html) <br> [SZGEVector-WY](SZGEVector-WY.html) <br> [SZGEVector-WX](SZGEVector-WX.html) |
 | Interfaces: | [Vector](Vector.html) |
@@ -29,7 +29,7 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: | [SZGEVector-CrossProduct](#SZGEVector-CrossProduct) <br> [SZGEVector-DotProduct](#SZGEVector-DotProduct) <br> [SZGEVector-Length](#SZGEVector-Length) <br> [SZGEVector-Normal](#SZGEVector-Normal) <br> [SZGEVector-Scalar](#SZGEVector-Scalar) <br> [SZGEVector-Subtract](#SZGEVector-Subtract) <br> [SZGEVector-Sum](#SZGEVector-Sum) <br> [SZGEVector-User_WX](#SZGEVector-User_WX) <br> [SZGEVector-User_WY](#SZGEVector-User_WY) <br> [SZGEVector-User_WZ](#SZGEVector-User_WZ) <br> [SZGEVector-Value](#SZGEVector-Value) <br> [SZGEVector-X](#SZGEVector-X) <br> [SZGEVector-Y](#SZGEVector-Y) <br> [SZGEVector-Z](#SZGEVector-Z) |
-| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### SZGEVector-CrossProduct

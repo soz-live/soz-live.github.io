@@ -6,7 +6,9 @@ layout: default
 
 ## Introduction
 
-All classes are derived from the Base Class - **SZOBBase**.<br>
+This repo includes additional misc. functionality for **soz-live**.
+
+## Hierarchy
 
 - [SZOBBase](/classes/SZOBBase.html)
   - [Lisp](/classes/Lisp.html)
@@ -74,9 +76,11 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
             - [SZCEPointCloud](/classes/SZCEPointCloud.html)
               - [SZCEPointCloud-Random](/classes/SZCEPointCloud-Random.html)
               - [SZCEPointCloud-Random-Spherical](/classes/SZCEPointCloud-Random-Spherical.html)
-      - [SZCOScript](/classes/SZCOScript.html)
-        - [SZCEScript](/classes/SZCEScript.html)
-          - [SZCEScript-NestedHypocycloid](/classes/SZCEScript-NestedHypocycloid.html)
+  - [SZOBScript](/classes/SZOBScript.html)
+    - [SZCOScript](/classes/SZCOScript.html)
+      - [SZCEScript](/classes/SZCEScript.html)
+        - [SZCEScript-NestedHypocycloid](/classes/SZCEScript-NestedHypocycloid.html)
 
-Version:  1.18.0
-Date: 20241216.2048
+Version:  1.21.1
+<br>
+Date: 20250228.2004

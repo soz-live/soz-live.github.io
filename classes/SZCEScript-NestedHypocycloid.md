@@ -1,0 +1,33 @@
+
+# Class:	SZCEScript-NestedHypocycloid
+
+| Fields | Values |
+| --------- | --------- |
+| Repo: | soz-misc |
+| Superclass: | [SZCEScript](SZCEScript.html) |
+| Subclasses: |  |
+| Interfaces: |  |
+| Interfaced: |  |
+| Abstract?: | No |
+| isValue?: | No |
+| Help: | NestedHypocycloid Script |
+
+### SZCEScript-NestedHypocycloid-Make
+
+| Keys | Types |
+| --------- | --------- |
+| SIZE | [Real](Real.html) |
+| NO | [Integer](Integer.html) |
+| **---** | **---** |
+| Returns: | [SZCEScript-NestedHypocycloid](SZCEScript-NestedHypocycloid.html) |
+| Help: | Nested Hypocycloid |
+
+
+## Functions:
+
+| Types | Functions |
+| --------- | --------- |
+| Class: |  |
+| Super: | [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+
+

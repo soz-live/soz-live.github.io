@@ -1,9 +1,9 @@
----------
 
 # Class:	AcDbEntity
 
 | Fields | Values |
 | --------- | --------- |
+| Repo: | soz-live |
 | Superclass: | [AcDbObject](AcDbObject.html) |
 | Subclasses: | [BsysEntity](BsysEntity.html) <br> [SZCELinear](SZCELinear.html) <br> [SZCEPlane](SZCEPlane.html) <br> [ACISEntity](ACISEntity.html) <br> [AcDbCurve](AcDbCurve.html) <br> [AcDbViewport](AcDbViewport.html) <br> [AcDbRay](AcDbRay.html) <br> [AcDbXline](AcDbXline.html) <br> [AcDbPoint](AcDbPoint.html) <br> [AcDbAbstractText](AcDbAbstractText.html) <br> [AcDbAttributeDefinition](AcDbAttributeDefinition.html) <br> [AcDbBlockReference](AcDbBlockReference.html) <br> [AcDbFace](AcDbFace.html) <br> [AcDbMesh](AcDbMesh.html) |
 | Interfaces: |  |
@@ -17,8 +17,8 @@
 
 | Types | Functions |
 | --------- | --------- |
-| Class: | [AcDbEntity-Copy](#AcDbEntity-Copy) <br> [AcDbEntity-ExternalCopy](#AcDbEntity-ExternalCopy) <br> [AcDbEntity-InternalCopy](#AcDbEntity-InternalCopy) <br> [AcDbEntity-IntersectWith](#AcDbEntity-IntersectWith) <br> [AcDbEntity-Layer](#AcDbEntity-Layer) <br> [AcDbEntity-Move](#AcDbEntity-Move) <br> [AcDbEntity-SZCOColor](#AcDbEntity-SZCOColor) <br> [AcDbEntity-SetVisibility](#AcDbEntity-SetVisibility) <br> [AcDbEntity-SetVisual](#AcDbEntity-SetVisual) <br> [AcDbEntity-Space](#AcDbEntity-Space) <br> [AcDbEntity-Transformby](#AcDbEntity-Transformby) <br> [AcDbEntity-User_Pick](#AcDbEntity-User_Pick) <br> [AcDbEntity-User_PickList](#AcDbEntity-User_PickList) <br> [AcDbEntity-User_PickModel](#AcDbEntity-User_PickModel) <br> [AcDbEntity-User_PickNode](#AcDbEntity-User_PickNode) <br> [AcDbEntity-User_PickSet](#AcDbEntity-User_PickSet) <br> [AcDbEntity-Visual](#AcDbEntity-Visual) |
-| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Class: | [AcDbEntity-Copy](#AcDbEntity-Copy) <br> [AcDbEntity-ExternalCopy](#AcDbEntity-ExternalCopy) <br> [AcDbEntity-Highlight](#AcDbEntity-Highlight) <br> [AcDbEntity-InternalCopy](#AcDbEntity-InternalCopy) <br> [AcDbEntity-IntersectWith](#AcDbEntity-IntersectWith) <br> [AcDbEntity-Layer](#AcDbEntity-Layer) <br> [AcDbEntity-Move](#AcDbEntity-Move) <br> [AcDbEntity-SZCOColor](#AcDbEntity-SZCOColor) <br> [AcDbEntity-SetVisibility](#AcDbEntity-SetVisibility) <br> [AcDbEntity-SetVisual](#AcDbEntity-SetVisual) <br> [AcDbEntity-Space](#AcDbEntity-Space) <br> [AcDbEntity-Transformby](#AcDbEntity-Transformby) <br> [AcDbEntity-User_Pick](#AcDbEntity-User_Pick) <br> [AcDbEntity-User_PickList](#AcDbEntity-User_PickList) <br> [AcDbEntity-User_PickModel](#AcDbEntity-User_PickModel) <br> [AcDbEntity-User_PickNode](#AcDbEntity-User_PickNode) <br> [AcDbEntity-User_PickSet](#AcDbEntity-User_PickSet) <br> [AcDbEntity-Visual](#AcDbEntity-Visual) |
+| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### AcDbEntity-Copy
@@ -39,6 +39,16 @@
 | **---** | **---** |
 | Returns: | [AcDbEntity](AcDbEntity.html) |
 | Help: | External Copy of an Entitiy |
+
+### AcDbEntity-Highlight
+
+| Keys | Types |
+| --------- | --------- |
+| ENTITY | [AcDbEntity](AcDbEntity.html) |
+| BOOL | [Boolean](Boolean.html) |
+| **---** | **---** |
+| Returns: | [Boolean](Boolean.html) |
+| Help: | Set Entities Highlight |
 
 ### AcDbEntity-InternalCopy
 

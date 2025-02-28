@@ -1,9 +1,9 @@
----------
 
 # Class:	SZGEPattern3D-Spherical
 
 | Fields | Values |
 | --------- | --------- |
+| Repo: | soz-live |
 | Superclass: | [SZGEPattern3D](SZGEPattern3D.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -29,6 +29,6 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZGEPattern3D-Make](SZGEPattern3D.html) <br> [SZGETMatrixs-Make](SZGETMatrixs.html) <br> [SZGETMatrixs-Value](SZGETMatrixs.html) <br> [SZGEObjects-Value](SZGEObjects.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZGEPattern3D-Make](SZGEPattern3D.html) <br> [SZGETMatrixs-Make](SZGETMatrixs.html) <br> [SZGETMatrixs-Value](SZGETMatrixs.html) <br> [SZGEObjects-Value](SZGEObjects.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

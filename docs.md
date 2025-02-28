@@ -36,9 +36,10 @@ This page lists documentation for **SOZ-LIVE**.
 
 ## Repos
 
-A hierarchial list of Classes in each repo, with links to documentation for each Class.
+A hierarchial list of Classes in each repo, with links to documentation for each Class. Each entry is a link to the documentation for the particular class which specifies Class properties and Class Functions: <br>
+  
 
-- [soz-live](/repos/soz-live.html)
-- [soz-misc](/repos/soz-misc.html)
-- [soz-aec](/repos/soz-aec.html)
-- [soz-rigging](/repos/soz-rigging.html)
+- [soz-live](/repos/soz-live.html) - the Main repo, with all of the core functionality included.
+- [soz-misc](/repos/soz-misc.html) - an additional repo with Miscelaneous classes and scripts.
+- [soz-aec](/repos/soz-aec.html) - an additional repo with AEC classes and scripts.
+- [soz-rigging](/repos/soz-rigging.html) - an additional repo with Rigging classes and scripts.

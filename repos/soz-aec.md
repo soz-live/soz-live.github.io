@@ -6,7 +6,18 @@ layout: default
 
 ## Introduction
 
-All classes are derived from the Base Class - **SZOBBase**.<br>
+This repo includes functionality for:
+
+- Architectural
+- Engineering
+  - Mechanical
+  - Civil
+  - Structural
+- Construction
+
+workflows.
+
+## Hierarchy
 
 - [SZOBBase](/classes/SZOBBase.html)
   - [Lisp](/classes/Lisp.html)
@@ -127,10 +138,18 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
             - [SZCE3dSolids-OnCorridor](/classes/SZCE3dSolids-OnCorridor.html)
           - [SZCESections](/classes/SZCESections.html)
             - [SZCESections-OnCurve-Chainage-Exported](/classes/SZCESections-OnCurve-Chainage-Exported.html)
-      - [SZCOScript](/classes/SZCOScript.html)
-        - [SZCOScript-Members](/classes/SZCOScript-Members.html)
-          - [SZCOScript-Columns](/classes/SZCOScript-Columns.html)
-            - [SZCOScript-Columns-FootingToOpenEnd](/classes/SZCOScript-Columns-FootingToOpenEnd.html)
+  - [SZOBScript](/classes/SZOBScript.html)
+    - [SZCOScript](/classes/SZCOScript.html)
+      - [SZCEScript](/classes/SZCEScript.html)
+        - [SZCEScript-Footings](/classes/SZCEScript-Footings.html)
+        - [SZCEScript-Members](/classes/SZCEScript-Members.html)
+          - [SZCEScript-Braces](/classes/SZCEScript-Braces.html)
+            - [SZCEScript-KBraces](/classes/SZCEScript-KBraces.html)
+            - [SZCEScript-XBraces](/classes/SZCEScript-XBraces.html)
+          - [SZCEScript-Columns](/classes/SZCEScript-Columns.html)
+            - [SZCEScript-Columns-FootingToOpenEnd](/classes/SZCEScript-Columns-FootingToOpenEnd.html)
+          - [SZCEScript-Members-MemberToMember-OnPlanes](/classes/SZCEScript-Members-MemberToMember-OnPlanes.html)
 
-Version:  1.18.0
-Date: 20241216.2048
+Version:  1.21.1
+<br>
+Date: 20250228.2004

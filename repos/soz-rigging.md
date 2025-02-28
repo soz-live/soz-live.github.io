@@ -6,7 +6,9 @@ layout: default
 
 ## Introduction
 
-All classes are derived from the Base Class - **SZOBBase**.<br>
+This repo includes rigging functionality for **soz-live**.
+
+## Hierarchy
 
 - [SZOBBase](/classes/SZOBBase.html)
   - [SZOBObject](/classes/SZOBObject.html)
@@ -63,5 +65,6 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
                 - [SZCORigging-Chain](/classes/SZCORigging-Chain.html)
                 - [SZCORigging-RoundSling](/classes/SZCORigging-RoundSling.html)
 
-Version:  1.18.0
-Date: 20241216.2048
+Version:  1.21.1
+<br>
+Date: 20250228.2004

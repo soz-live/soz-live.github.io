@@ -1,9 +1,9 @@
----------
 
 # Class:	String
 
 | Fields | Values |
 | --------- | --------- |
+| Repo: | soz-live |
 | Superclass: | [Atom](Atom.html) |
 | Subclasses: | [PathName](PathName.html) <br> [SZMAClassName](SZMAClassName.html) <br> [SOZID](SOZID.html) <br> [AcDbHandle](AcDbHandle.html) <br> [String-Delim](String-Delim.html) <br> [Code](Code.html) <br> [Comment](Comment.html) <br> [Key](Key.html) <br> [Label](Label.html) |
 | Interfaces: |  |
@@ -27,7 +27,7 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: | [String->Integer](#String->Integer) <br> [String->Real](#String->Real) <br> [String->Strings](#String->Strings) <br> [String-AddToFront](#String-AddToFront) <br> [String-AddToRear](#String-AddToRear) <br> [String-CountChar](#String-CountChar) <br> [String-CountLeading](#String-CountLeading) <br> [String-Length](#String-Length) <br> [String-LowerCase](#String-LowerCase) <br> [String-PadFront](#String-PadFront) <br> [String-PadRear](#String-PadRear) <br> [String-RemoveChar](#String-RemoveChar) <br> [String-SwapDelim](#String-SwapDelim) <br> [String-UpperCase](#String-UpperCase) <br> [String-WCMatch](#String-WCMatch) |
-| Super: | [Atom-Make](Atom.html) <br> [T-Make](T.html) <br> [Logical-AND](Logical.html) <br> [Logical-OR](Logical.html) <br> [Logical-NOT](Logical.html) <br> [Logical-XOR](Logical.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [Atom-Make](Atom.html) <br> [T-Make](T.html) <br> [Logical-AND](Logical.html) <br> [Logical-OR](Logical.html) <br> [Logical-NOT](Logical.html) <br> [Logical-XOR](Logical.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### String->Integer

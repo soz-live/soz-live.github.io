@@ -1,9 +1,9 @@
----------
 
 # Class:	SZGEPlane
 
 | Fields | Values |
 | --------- | --------- |
+| Repo: | soz-live |
 | Superclass: | [SZGEObject](SZGEObject.html) |
 | Subclasses: | [SZGEPlane-ItemofPlanes](SZGEPlane-ItemofPlanes.html) <br> [SZGEPlane-FlipNormal](SZGEPlane-FlipNormal.html) <br> [SZGEPlane-TMatrix](SZGEPlane-TMatrix.html) <br> [SZGEPlane-Points](SZGEPlane-Points.html) <br> [SZGEPlane-PlaneOffset](SZGEPlane-PlaneOffset.html) <br> [SZGEPlane-PointNormal](SZGEPlane-PointNormal.html) |
 | Interfaces: | [Plane](Plane.html) |
@@ -30,7 +30,7 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: | [SZGEPlane->Line](#SZGEPlane->Line) <br> [SZGEPlane-Elevation](#SZGEPlane-Elevation) <br> [SZGEPlane-Normal](#SZGEPlane-Normal) <br> [SZGEPlane-Point](#SZGEPlane-Point) <br> [SZGEPlane-User_Pick](#SZGEPlane-User_Pick) <br> [SZGEPlane-Value](#SZGEPlane-Value) |
-| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### SZGEPlane->Line
