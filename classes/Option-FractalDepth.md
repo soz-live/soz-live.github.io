@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-misc |
+| Repo: | [soz-misc](/repos/soz-misc.html) |
 | Superclass: | [Option-Integer](Option-Integer.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -21,6 +21,21 @@
 | Returns: | [Option-FractalDepth](Option-FractalDepth.html) |
 | Help: | Option-FractalDepth |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 3 |
+| 4 | 4 |
+| 5 | 5 |
+| 6 | 6 |
+| 7 | 7 |
+| 8 | 8 |
+| 9 | 9 |
+| 10 | 10 |
 
 ## Functions:
 

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-rigging |
+| Repo: | [soz-rigging](/repos/soz-rigging.html) |
 | Superclass: | [SZCEPart-FilletedSweep-MultiRadii](SZCEPart-FilletedSweep-MultiRadii.html) |
 | Subclasses: |  |
 | Interfaces: | [SZCERigging-Entity](SZCERigging-Entity.html) |

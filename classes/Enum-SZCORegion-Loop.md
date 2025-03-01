@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Enum](Enum.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -21,6 +21,16 @@
 | Returns: | [Enum-SZCORegion-Loop](Enum-SZCORegion-Loop.html) |
 | Help: | Enum-SZCORegion-Loop |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| Delete Nothing | 0 |
+| Delete Self | 1 |
+| Delete Self & Loop | 2 |
+| Delete Self & TMatrix | 3 |
+| Delete Self & Both | 4 |
 
 ## Functions:
 

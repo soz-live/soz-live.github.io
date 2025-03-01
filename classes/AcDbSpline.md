@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbCurve](AcDbCurve.html) |
 | Subclasses: | [AcDbHelix](AcDbHelix.html) |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGETMatrixs](SZGETMatrixs.html) |
 | Subclasses: | [SZGEPattern3D](SZGEPattern3D.html) <br> [SZGEPattern2D](SZGEPattern2D.html) <br> [SZGEPattern-AcDbCurve](SZGEPattern-AcDbCurve.html) <br> [SZGEPattern-Linear](SZGEPattern-Linear.html) |
 | Interfaces: |  |

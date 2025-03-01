@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbCurve](AcDbCurve.html) |
 | Subclasses: | [DEVOLink](DEVOLink.html) <br> [SZLVLink](SZLVLink.html) <br> [SZCE3dCurve](SZCE3dCurve.html) <br> [AcDb3dPolyline-Flatten](AcDb3dPolyline-Flatten.html) |
 | Interfaces: | [SZGEPoints](SZGEPoints.html), [Points](Points.html) |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Enum](Enum.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -21,6 +21,14 @@
 | Returns: | [Enum-AcDbLinearType](Enum-AcDbLinearType.html) |
 | Help: | Enum-AcDbLinearType |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| Xline | 0 |
+| Ray | 1 |
+| Line | 2 |
 
 ## Functions:
 

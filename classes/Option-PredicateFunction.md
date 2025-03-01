@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Option](Option.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -21,6 +21,18 @@
 | Returns: | [Option-PredicateFunction](Option-PredicateFunction.html) |
 | Help: | Option-PredicateFunction |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| = | = |
+| /= | /= |
+| < | < |
+| <= | <= |
+| > | > |
+| >= | >= |
+| wc | WCMATCH |
 
 ## Functions:
 

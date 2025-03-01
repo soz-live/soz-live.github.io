@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Vector](Vector.html) |
 | Subclasses: | [Point-Spherical](Point-Spherical.html) |
 | Interfaces: |  |

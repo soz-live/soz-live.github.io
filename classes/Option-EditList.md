@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Option](Option.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -21,6 +21,19 @@
 | Returns: | [Option-EditList](Option-EditList.html) |
 | Help: | Option-EditList |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| Edit Item | User_EditItem |
+| Remove Item | User_RemoveItem |
+| Move To First | User_MoveToFirst |
+| Move Up | User_MoveItemUp |
+| Move Down | User_MoveItemDown |
+| Move To Last | User_MoveToLast |
+| Reverse List | User_ReverseList |
+| Clear List | User_ClearList |
 
 ## Functions:
 

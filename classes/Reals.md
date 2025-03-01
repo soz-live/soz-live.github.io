@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Array](Array.html) |
 | Subclasses: | [Reals-Fibonacci](Reals-Fibonacci.html) <br> [Integers](Integers.html) <br> [Plane](Plane.html) <br> [Vector](Vector.html) <br> [Bulges](Bulges.html) <br> [Reals-Offsets](Reals-Offsets.html) <br> [Sequence](Sequence.html) <br> [Reals-AlternateSpacing](Reals-AlternateSpacing.html) <br> [Reals-EqualSpacing](Reals-EqualSpacing.html) <br> [Reals-DivideInto](Reals-DivideInto.html) <br> [Reals-CSV](Reals-CSV.html) |
 | Interfaces: | [List:Real](List:Real.html) |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-aec |
+| Repo: | [soz-aec](/repos/soz-aec.html) |
 | Superclass: | [SZCEStruct-Connection](SZCEStruct-Connection.html) |
 | Subclasses: | [SZCEStruct-Connection-MemberEndPlate](SZCEStruct-Connection-MemberEndPlate.html) <br> [SZCEStruct-Connection-MemberProfile](SZCEStruct-Connection-MemberProfile.html) <br> [SZCEStruct-Connection-MemberCutBack](SZCEStruct-Connection-MemberCutBack.html) |
 | Interfaces: |  |

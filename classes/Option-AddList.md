@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Option](Option.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -21,6 +21,17 @@
 | Returns: | [Option-AddList](Option-AddList.html) |
 | Help: | Option-AddList |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| Add Make | User_AddItem |
+| Add Select | User_AddSelect |
+| Add Pick | User_Pick |
+| Add PickSet | User_PickSet |
+| Add PickList | User_PickList |
+| Add List | User_AddList |
 
 ## Functions:
 

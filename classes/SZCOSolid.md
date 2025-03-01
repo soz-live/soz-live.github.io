@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOObject](SZCOObject.html) |
 | Subclasses: | [SZCOSolid-Loft](SZCOSolid-Loft.html) <br> [SZCOSolid-Wedge](SZCOSolid-Wedge.html) <br> [SZCOSolid-Torus](SZCOSolid-Torus.html) <br> [SZCOSolid-EllipticalCylinder](SZCOSolid-EllipticalCylinder.html) <br> [SZCOSolid-EllipticalCone](SZCOSolid-EllipticalCone.html) <br> [SZCOSolid-Cylinder](SZCOSolid-Cylinder.html) <br> [SZCOSolid-Cone](SZCOSolid-Cone.html) <br> [SZCOSolid-Box](SZCOSolid-Box.html) <br> [SZCOSolid-Sphere](SZCOSolid-Sphere.html) <br> [SZCOSolid-Revolve](SZCOSolid-Revolve.html) <br> [SZCOSolid-Sweep](SZCOSolid-Sweep.html) <br> [SZCOSolid-Extrusion-Tapered](SZCOSolid-Extrusion-Tapered.html) |
 | Interfaces: |  |

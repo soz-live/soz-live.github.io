@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOScript](SZCOScript.html) |
 | Subclasses: | [SZCEScript-NestedHypocycloid](SZCEScript-NestedHypocycloid.html) <br> [SZCEScript-Members](SZCEScript-Members.html) <br> [SZCEScript-Footings](SZCEScript-Footings.html) <br> [SZCEScript-Parts](SZCEScript-Parts.html) |
 | Interfaces: |  |

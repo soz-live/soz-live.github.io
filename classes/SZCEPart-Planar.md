@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEPart](SZCEPart.html) |
 | Subclasses: | [SZCEPart-Extrusion-AcDbCircle](SZCEPart-Extrusion-AcDbCircle.html) <br> [SZCEPart-Extrusion-AcDbPolyline](SZCEPart-Extrusion-AcDbPolyline.html) <br> [SZCEPart-Extrusion](SZCEPart-Extrusion.html) |
 | Interfaces: |  |

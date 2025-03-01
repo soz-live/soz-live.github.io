@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Number](Number.html) |
 | Subclasses: | [Real-Random-Range](Real-Random-Range.html) <br> [Real-Random](Real-Random.html) <br> [Integer](Integer.html) <br> [Bulge](Bulge.html) <br> [Angle](Angle.html) |
 | Interfaces: |  |

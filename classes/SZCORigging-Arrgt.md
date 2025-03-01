@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-rigging |
+| Repo: | [soz-rigging](/repos/soz-rigging.html) |
 | Superclass: | [SZCORigging](SZCORigging.html) |
 | Subclasses: | [SZCORigging-Arrgt-2xL-SB-2x2xL](SZCORigging-Arrgt-2xL-SB-2x2xL.html) <br> [SZCORigging-Arrgt-2xL-SB-2x1xL](SZCORigging-Arrgt-2xL-SB-2x1xL.html) <br> [SZCORigging-Arrgt-4xL](SZCORigging-Arrgt-4xL.html) <br> [SZCORigging-Arrgt-2xL](SZCORigging-Arrgt-2xL.html) <br> [SZCORigging-Arrgt-1xL](SZCORigging-Arrgt-1xL.html) |
 | Interfaces: |  |

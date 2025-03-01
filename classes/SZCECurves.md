@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEEntities](SZCEEntities.html) |
 | Subclasses: | [SZCEFaces](SZCEFaces.html) <br> [SZCE3dCurves](SZCE3dCurves.html) <br> [SZCELines](SZCELines.html) |
 | Interfaces: | [List:AcDbCurve](List:AcDbCurve.html) |

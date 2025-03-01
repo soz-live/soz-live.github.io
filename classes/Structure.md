@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Alist](Alist.html) |
 | Subclasses: | [DCLS](DCLS.html) <br> [User](User.html) <br> [Filter](Filter.html) |
 | Interfaces: |  |

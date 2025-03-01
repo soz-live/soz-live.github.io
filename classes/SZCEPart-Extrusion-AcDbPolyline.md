@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEPart-Planar](SZCEPart-Planar.html) |
 | Subclasses: | [SZCEPart-Extrusion-Face](SZCEPart-Extrusion-Face.html) |
 | Interfaces: |  |

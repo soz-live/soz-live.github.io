@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [File](File.html) |
 | Subclasses: | [File-CSV](File-CSV.html) <br> [File-SOZ](File-SOZ.html) <br> [File-LSP](File-LSP.html) <br> [File-MD](File-MD.html) |
 | Interfaces: |  |

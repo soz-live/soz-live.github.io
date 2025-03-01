@@ -12,7 +12,7 @@ Every class and script is derived from this class.
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: |  |
 | Subclasses: | [Lisp](Lisp.html) <br> [SZOBScript](SZOBScript.html) <br> [SZOBObject](SZOBObject.html) |
 | Interfaces: |  |

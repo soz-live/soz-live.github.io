@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPAtom](SZLPAtom.html) |
 | Subclasses: | [SZLPNumber-Random-Range](SZLPNumber-Random-Range.html) <br> [SZLPNumber-Random](SZLPNumber-Random.html) <br> [SZLPNumber-Code](SZLPNumber-Code.html) <br> [SZLPEquation](SZLPEquation.html) <br> [SZLPReal](SZLPReal.html) |
 | Interfaces: | [Number](Number.html), [Real](Real.html) |

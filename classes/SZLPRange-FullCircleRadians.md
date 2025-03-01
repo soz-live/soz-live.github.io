@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPRange](SZLPRange.html) |
 | Subclasses: | [SZLPRange-Phi](SZLPRange-Phi.html) |
 | Interfaces: |  |

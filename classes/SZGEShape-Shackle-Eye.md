@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-rigging |
+| Repo: | [soz-rigging](/repos/soz-rigging.html) |
 | Superclass: | [SZGEShape](SZGEShape.html) |
 | Subclasses: |  |
 | Interfaces: |  |

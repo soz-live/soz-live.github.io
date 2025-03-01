@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOObjects](SZCOObjects.html) |
 | Subclasses: | [SZCE3dSolids](SZCE3dSolids.html) <br> [SZCECurves](SZCECurves.html) <br> [SZCEPattern](SZCEPattern.html) <br> [SZCEGrid](SZCEGrid.html) <br> [SZCEPlanes](SZCEPlanes.html) <br> [SZCEPoints](SZCEPoints.html) <br> [SZCEUCSs](SZCEUCSs.html) <br> [SZCESections](SZCESections.html) |
 | Interfaces: | [Set:AcDbEntity](Set:AcDbEntity.html) |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEScript](SZCEScript.html) |
 | Subclasses: | [SZCEScript-Parts-Sweep](SZCEScript-Parts-Sweep.html) |
 | Interfaces: |  |

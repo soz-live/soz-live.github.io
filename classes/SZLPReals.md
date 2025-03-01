@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPArray](SZLPArray.html) |
 | Subclasses: | [SZLPReals-Fibonacci](SZLPReals-Fibonacci.html) <br> [SZLPReals-CSV-Offsets](SZLPReals-CSV-Offsets.html) <br> [SZLPReals-Offsets](SZLPReals-Offsets.html) <br> [SZLPReals-Range](SZLPReals-Range.html) <br> [SZLPReals-AlternateSpacing](SZLPReals-AlternateSpacing.html) <br> [SZLPReals-EqualSpacing](SZLPReals-EqualSpacing.html) <br> [SZLPReals-Curve-DivideInto](SZLPReals-Curve-DivideInto.html) <br> [SZLPReals-DivideInto](SZLPReals-DivideInto.html) <br> [SZLPReals-MiddleSplit](SZLPReals-MiddleSplit.html) <br> [SZLPReals-CSV](SZLPReals-CSV.html) |
 | Interfaces: | [Reals](Reals.html), [List:Real](List:Real.html) |

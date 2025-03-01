@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZOBObject](SZOBObject.html) |
 | Subclasses: | [SZOBObject-IndexOfKey](SZOBObject-IndexOfKey.html) <br> [SZOBObject-IndexOf](SZOBObject-IndexOf.html) <br> [SZOBObject-KeysOf](SZOBObject-KeysOf.html) |
 | Interfaces: |  |

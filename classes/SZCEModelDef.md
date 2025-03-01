@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbBlock](AcDbBlock.html) |
 | Subclasses: | [SZCEStruct-FootingDef](SZCEStruct-FootingDef.html) <br> [SZCEStruct-PlateDef](SZCEStruct-PlateDef.html) <br> [SZCERigging-Shackle](SZCERigging-Shackle.html) <br> [SZCEModelDef-ChainLink](SZCEModelDef-ChainLink.html) <br> [SZCESection](SZCESection.html) <br> [SZCEModel](SZCEModel.html) |
 | Interfaces: |  |

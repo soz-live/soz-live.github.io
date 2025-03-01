@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-aec |
+| Repo: | [soz-aec](/repos/soz-aec.html) |
 | Superclass: | [BsysCvDbGrading](BsysCvDbGrading.html) |
 | Subclasses: |  |
 | Interfaces: |  |

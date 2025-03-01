@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Curves](Curves.html) |
 | Subclasses: | [Lines](Lines.html) |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZOBCAD](SZOBCAD.html) |
 | Subclasses: | [AcDbEntity](AcDbEntity.html) <br> [AcDbGroup](AcDbGroup.html) <br> [AcDbLayout](AcDbLayout.html) <br> [AcDbXrecord](AcDbXrecord.html) <br> [AcDbDictionary](AcDbDictionary.html) <br> [AcDbDocument](AcDbDocument.html) <br> [AcDbApplication](AcDbApplication.html) <br> [AcDbTableRecord](AcDbTableRecord.html) |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Atom](Atom.html) |
 | Subclasses: | [File-TXT](File-TXT.html) <br> [File-DWG](File-DWG.html) |
 | Interfaces: |  |

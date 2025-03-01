@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Atom](Atom.html) |
 | Subclasses: | [ACAXDocument](ACAXDocument.html) <br> [AXCollection](AXCollection.html) |
 | Interfaces: |  |

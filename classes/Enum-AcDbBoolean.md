@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Enum](Enum.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -21,6 +21,14 @@
 | Returns: | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |
 | Help: | Enum-AcDbBoolean |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| Union | 0 |
+| Subtraction | 2 |
+| Intersection | 1 |
 
 ## Functions:
 

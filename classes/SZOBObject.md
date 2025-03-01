@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZOBBase](SZOBBase.html) |
 | Subclasses: | [SZOBDevOps](SZOBDevOps.html) <br> [SZOBCAD](SZOBCAD.html) <br> [SZGEObjects](SZGEObjects.html) <br> [SZGEObject](SZGEObject.html) <br> [SZLPObject](SZLPObject.html) <br> [SZOBObject-Method](SZOBObject-Method.html) <br> [SZOBObject-Value](SZOBObject-Value.html) |
 | Interfaces: |  |

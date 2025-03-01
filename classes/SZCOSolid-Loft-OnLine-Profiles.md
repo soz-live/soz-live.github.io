@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOSolid-Loft-CrossSections](SZCOSolid-Loft-CrossSections.html) |
 | Subclasses: |  |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDb3dSolid](AcDb3dSolid.html) |
 | Subclasses: | [AcDb3dSolid-Cube](AcDb3dSolid-Cube.html) |
 | Interfaces: |  |

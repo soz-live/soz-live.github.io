@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Option](Option.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -21,6 +21,13 @@
 | Returns: | [Boolean](Boolean.html) |
 | Help: | Boolean |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| True | :VLAX-TRUE |
+| False | :VLAX-FALSE |
 
 ## Functions:
 

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGELoop](SZGELoop.html) |
 | Subclasses: | [SZGELoop-AcDbPolyline-OnStart](SZGELoop-AcDbPolyline-OnStart.html) |
 | Interfaces: |  |

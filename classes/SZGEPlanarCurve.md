@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGE2dCurve](SZGE2dCurve.html) |
 | Subclasses: | [SZGEPlanarCurve-X-SIN](SZGEPlanarCurve-X-SIN.html) <br> [SZGEPlanarCurve-X-COS](SZGEPlanarCurve-X-COS.html) |
 | Interfaces: |  |

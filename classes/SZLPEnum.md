@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPOption](SZLPOption.html) |
 | Subclasses: | [SZLPEnum-AcDbExtrudeType](SZLPEnum-AcDbExtrudeType.html) <br> [SZLPEnum-AcDbLinearType](SZLPEnum-AcDbLinearType.html) <br> [SZLPEnum-AcDb3dPolylineType](SZLPEnum-AcDb3dPolylineType.html) <br> [SZLPEnum-AcDbBoolean](SZLPEnum-AcDbBoolean.html) |
 | Interfaces: |  |

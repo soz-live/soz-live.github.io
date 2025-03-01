@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-misc |
+| Repo: | [soz-misc](/repos/soz-misc.html) |
 | Superclass: | [SZGE3dCurve-Fibonacci](SZGE3dCurve-Fibonacci.html) |
 | Subclasses: |  |
 | Interfaces: |  |

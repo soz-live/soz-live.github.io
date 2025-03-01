@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOObject](SZCOObject.html) |
 | Subclasses: | [SZCORegion-PlanarCurve](SZCORegion-PlanarCurve.html) <br> [SZCORegion-Loop](SZCORegion-Loop.html) |
 | Interfaces: |  |

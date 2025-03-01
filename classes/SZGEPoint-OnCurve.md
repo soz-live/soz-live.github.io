@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEPoint](SZGEPoint.html) |
 | Subclasses: | [SZGEPoint-OnCurve-DistFromEnd](SZGEPoint-OnCurve-DistFromEnd.html) <br> [SZGEPoint-OnCurve-DistFromStart](SZGEPoint-OnCurve-DistFromStart.html) <br> [SZGEPoint-OnCurve-MidPoint](SZGEPoint-OnCurve-MidPoint.html) <br> [SZGEPoint-OnCurve-EndPoint](SZGEPoint-OnCurve-EndPoint.html) <br> [SZGEPoint-OnCurve-StartPoint](SZGEPoint-OnCurve-StartPoint.html) |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOObject](SZCOObject.html) |
 | Subclasses: | [SZCOVisual-Entity](SZCOVisual-Entity.html) <br> [SZCOVisual-Current](SZCOVisual-Current.html) <br> [SZCOVisual-Default](SZCOVisual-Default.html) <br> [SZCOVisual-Color](SZCOVisual-Color.html) <br> [SZCOVisual-ByLayer](SZCOVisual-ByLayer.html) |
 | Interfaces: |  |

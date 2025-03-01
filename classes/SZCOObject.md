@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZOBCAD](SZOBCAD.html) |
 | Subclasses: | [SZCORigging](SZCORigging.html) <br> [SZCOVisual](SZCOVisual.html) <br> [SZCOColor](SZCOColor.html) <br> [SZCEElement](SZCEElement.html) <br> [SZCOFeature](SZCOFeature.html) <br> [SZCOSolid](SZCOSolid.html) <br> [SZCOProfile](SZCOProfile.html) <br> [SZCORegion](SZCORegion.html) <br> [SZCOSection](SZCOSection.html) |
 | Interfaces: | [Atom](Atom.html) |

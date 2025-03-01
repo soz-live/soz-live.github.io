@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-misc |
+| Repo: | [soz-misc](/repos/soz-misc.html) |
 | Superclass: | [SZGE3dCurve-OnTMatrix](SZGE3dCurve-OnTMatrix.html) |
 | Subclasses: | [SZGE3dCurve-3dFibonacci](SZGE3dCurve-3dFibonacci.html) <br> [SZGE3dCurve-2dFibonacci](SZGE3dCurve-2dFibonacci.html) |
 | Interfaces: |  |

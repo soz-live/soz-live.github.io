@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Option](Option.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -21,6 +21,14 @@
 | Returns: | [AcDbLineType](AcDbLineType.html) |
 | Help: | AcDbLineType |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| Continuous | Continuous |
+| ByLayer | ByLayer |
+| ByBlock | ByBlock |
 
 ## Functions:
 

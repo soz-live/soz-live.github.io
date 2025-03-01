@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOProfile-RHS](SZCOProfile-RHS.html) |
 | Subclasses: |  |
 | Interfaces: |  |

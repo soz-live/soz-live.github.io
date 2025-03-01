@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Atom](Atom.html) |
 | Subclasses: | [PathName](PathName.html) <br> [SZMAClassName](SZMAClassName.html) <br> [SOZID](SOZID.html) <br> [AcDbHandle](AcDbHandle.html) <br> [String-Delim](String-Delim.html) <br> [Code](Code.html) <br> [Comment](Comment.html) <br> [Key](Key.html) <br> [Label](Label.html) |
 | Interfaces: |  |

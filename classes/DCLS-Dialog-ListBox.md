@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [DCLS-Dialog](DCLS-Dialog.html) |
 | Subclasses: | [DCLS-Dialog-Docment-Reader](DCLS-Dialog-Docment-Reader.html) <br> [DCLS-Dialog-List-ObjectKeySelect](DCLS-Dialog-List-ObjectKeySelect.html) <br> [DCLS-Dialog-List-SelectItem](DCLS-Dialog-List-SelectItem.html) |
 | Interfaces: |  |

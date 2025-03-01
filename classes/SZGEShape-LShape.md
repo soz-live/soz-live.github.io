@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEShape](SZGEShape.html) |
 | Subclasses: | [SZGEShape-ColdAngle](SZGEShape-ColdAngle.html) <br> [SZGEShape-HotAngle](SZGEShape-HotAngle.html) |
 | Interfaces: |  |

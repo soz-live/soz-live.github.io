@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbArc](AcDbArc.html) |
 | Subclasses: | [SZCEArc-CircleSegment](SZCEArc-CircleSegment.html) <br> [SZCEArc-Offset](SZCEArc-Offset.html) <br> [SZCEArc-3xPoints](SZCEArc-3xPoints.html) |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEPlane](SZGEPlane.html) |
 | Subclasses: | [SZGEPlane-Member-MemberSide](SZGEPlane-Member-MemberSide.html) <br> [SZGEPlane-Member-End](SZGEPlane-Member-End.html) <br> [SZGEPlane-Footing](SZGEPlane-Footing.html) <br> [SZGEPlane-TiltNormal](SZGEPlane-TiltNormal.html) <br> [SZGEPlane-Mitre](SZGEPlane-Mitre.html) <br> [SZGEPlane-Line-YAxis](SZGEPlane-Line-YAxis.html) <br> [SZGEPlane-Ray-Inline](SZGEPlane-Ray-Inline.html) <br> [SZGEPlane-XLine-Inline](SZGEPlane-XLine-Inline.html) <br> [SZGEPlane-Line-Inline](SZGEPlane-Line-Inline.html) <br> [SZGEPlane-GridLine-Online](SZGEPlane-GridLine-Online.html) <br> [SZGEPlane-GridLine](SZGEPlane-GridLine.html) <br> [SZGEPlane-Level](SZGEPlane-Level.html) <br> [SZGEPlane-Point-PlaneNormal](SZGEPlane-Point-PlaneNormal.html) <br> [SZGEPlane-Entity](SZGEPlane-Entity.html) |
 | Interfaces: |  |

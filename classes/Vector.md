@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Reals](Reals.html) |
 | Subclasses: | [Point](Point.html) <br> [Orientation](Orientation.html) <br> [Vector2D](Vector2D.html) |
 | Interfaces: |  |

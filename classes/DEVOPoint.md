@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-devs |
+| Repo: | [soz-devs](/repos/soz-devs.html) |
 | Superclass: | [AcDbPoint](AcDbPoint.html) |
 | Subclasses: |  |
 | Interfaces: |  |

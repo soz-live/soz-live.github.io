@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [T](T.html) |
 | Subclasses: | [File](File.html) <br> [AXObject](AXObject.html) <br> [AcDbEname](AcDbEname.html) <br> [Option](Option.html) <br> [String](String.html) <br> [Number](Number.html) |
 | Interfaces: |  |

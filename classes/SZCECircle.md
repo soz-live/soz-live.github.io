@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbCircle](AcDbCircle.html) |
 | Subclasses: | [SZCECircle-Offset](SZCECircle-Offset.html) <br> [SZCECircle-OnLine](SZCECircle-OnLine.html) <br> [SZCECircle-3xPoints](SZCECircle-3xPoints.html) <br> [SZCECircle-Perimeter](SZCECircle-Perimeter.html) <br> [SZCECircle-Area](SZCECircle-Area.html) <br> [SZCECircle-Diameter](SZCECircle-Diameter.html) |
 | Interfaces: |  |

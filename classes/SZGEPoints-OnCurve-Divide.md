@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEPoints-OnCurve-DivideInto](SZGEPoints-OnCurve-DivideInto.html) |
 | Subclasses: |  |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-aec |
+| Repo: | [soz-aec](/repos/soz-aec.html) |
 | Superclass: | [BsysEntity](BsysEntity.html) |
 | Subclasses: | [Bsys3dAlignment](Bsys3dAlignment.html) |
 | Interfaces: |  |

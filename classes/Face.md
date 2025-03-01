@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Points](Points.html) |
 | Subclasses: | [Face-4xPoints](Face-4xPoints.html) <br> [Face-3xPoints](Face-3xPoints.html) |
 | Interfaces: |  |

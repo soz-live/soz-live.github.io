@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbGroup](AcDbGroup.html) |
 | Subclasses: | [SZCEModelGroup](SZCEModelGroup.html) <br> [SZCEGridLine](SZCEGridLine.html) |
 | Interfaces: |  |

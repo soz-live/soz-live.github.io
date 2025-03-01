@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPList](SZLPList.html) |
 | Subclasses: | [SZLP-CDR](SZLP-CDR.html) <br> [SZLP-CAR](SZLP-CAR.html) <br> [SZLP-SUBST](SZLP-SUBST.html) <br> [SZLP-REVERSE](SZLP-REVERSE.html) <br> [SZLP-APPENDS](SZLP-APPENDS.html) <br> [SZLP-APPEND](SZLP-APPEND.html) <br> [SZLP-LAST](SZLP-LAST.html) <br> [SZLP-MEMBER](SZLP-MEMBER.html) <br> [SZLP-NTH](SZLP-NTH.html) |
 | Interfaces: |  |

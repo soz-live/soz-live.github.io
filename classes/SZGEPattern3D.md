@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEPattern](SZGEPattern.html) |
 | Subclasses: | [SZGEPattern3D-Rectangular-RandomZ](SZGEPattern3D-Rectangular-RandomZ.html) <br> [SZGEPattern3D-Spherical](SZGEPattern3D-Spherical.html) |
 | Interfaces: |  |

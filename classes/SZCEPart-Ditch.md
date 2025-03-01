@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-aec |
+| Repo: | [soz-aec](/repos/soz-aec.html) |
 | Superclass: | [SZCEPart-MultiFeature](SZCEPart-MultiFeature.html) |
 | Subclasses: | [SZCEPart-Ditch-Constant](SZCEPart-Ditch-Constant.html) |
 | Interfaces: |  |

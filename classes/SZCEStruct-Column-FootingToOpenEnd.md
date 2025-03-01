@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-aec |
+| Repo: | [soz-aec](/repos/soz-aec.html) |
 | Superclass: | [SZCEStruct-Column](SZCEStruct-Column.html) |
 | Subclasses: |  |
 | Interfaces: |  |

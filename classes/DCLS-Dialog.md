@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [DCLS](DCLS.html) |
 | Subclasses: | [DCLS-Dialog-SOZIDs-Editor](DCLS-Dialog-SOZIDs-Editor.html) <br> [DCLS-Dialog-Alist-SZMACategory](DCLS-Dialog-Alist-SZMACategory.html) <br> [DCLS-Dialog-Alist-SZMAClass](DCLS-Dialog-Alist-SZMAClass.html) <br> [DCLS-Dialog-Alist-Selector](DCLS-Dialog-Alist-Selector.html) <br> [DCLS-Dialog-ListBox](DCLS-Dialog-ListBox.html) |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbUCS](AcDbUCS.html) |
 | Subclasses: | [SZCEUCS-Circle-Centre](SZCEUCS-Circle-Centre.html) <br> [SZCEUCS-Line-MidPoint](SZCEUCS-Line-MidPoint.html) <br> [SZCEUCS-Curve-Start](SZCEUCS-Curve-Start.html) |
 | Interfaces: |  |

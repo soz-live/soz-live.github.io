@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPInteger](SZLPInteger.html) |
 | Subclasses: | [SZLP-FIX](SZLP-FIX.html) <br> [SZLP-ATOI](SZLP-ATOI.html) |
 | Interfaces: |  |

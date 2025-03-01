@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPAtom](SZLPAtom.html) |
 | Subclasses: | [SZLPString-Code](SZLPString-Code.html) <br> [SZLPString-Concats-Delim](SZLPString-Concats-Delim.html) <br> [SZLPString-Concats](SZLPString-Concats.html) <br> [SZLPString-Concat](SZLPString-Concat.html) <br> [SZLPComment](SZLPComment.html) <br> [SZLPKey](SZLPKey.html) <br> [SZLPLabel](SZLPLabel.html) |
 | Interfaces: | [String](String.html) |

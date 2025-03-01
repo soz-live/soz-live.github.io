@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [ODBXObject](ODBXObject.html) |
 | Subclasses: | [ODBXScript-Section-PaperSpace-Setup](ODBXScript-Section-PaperSpace-Setup.html) |
 | Interfaces: |  |

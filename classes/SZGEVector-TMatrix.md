@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEVector](SZGEVector.html) |
 | Subclasses: | [SZGEVector-TMatrix-ZAxis](SZGEVector-TMatrix-ZAxis.html) <br> [SZGEVector-TMatrix-YAxis](SZGEVector-TMatrix-YAxis.html) <br> [SZGEVector-TMatrix-XAxis](SZGEVector-TMatrix-XAxis.html) |
 | Interfaces: |  |

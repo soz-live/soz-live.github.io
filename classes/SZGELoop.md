@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGE2dCurve](SZGE2dCurve.html) |
 | Subclasses: | [SZGEShape](SZGEShape.html) <br> [SZGELoop-Points](SZGELoop-Points.html) <br> [SZGELoop-AcDbPolyline](SZGELoop-AcDbPolyline.html) |
 | Interfaces: |  |

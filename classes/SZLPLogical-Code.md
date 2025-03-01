@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPLogical](SZLPLogical.html) |
 | Subclasses: | [SZLPPredicate-Code](SZLPPredicate-Code.html) <br> [SZLP-GREATERTHANEQ](SZLP-GREATERTHANEQ.html) <br> [SZLP-GREATERTHAN](SZLP-GREATERTHAN.html) <br> [SZLP-LESSTHANEQ](SZLP-LESSTHANEQ.html) <br> [SZLP-LESSTHAN](SZLP-LESSTHAN.html) <br> [SZLP-NUMNOTEQ](SZLP-NUMNOTEQ.html) <br> [SZLP-NUMEQS](SZLP-NUMEQS.html) <br> [SZLP-NUMEQ](SZLP-NUMEQ.html) <br> [SZLP-NOT](SZLP-NOT.html) <br> [SZLP-ANDS](SZLP-ANDS.html) <br> [SZLP-AND](SZLP-AND.html) <br> [SZLP-OR](SZLP-OR.html) <br> [SZLP-EQ](SZLP-EQ.html) <br> [SZLP-EQUAL](SZLP-EQUAL.html) |
 | Interfaces: |  |

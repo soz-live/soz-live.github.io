@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbObject](AcDbObject.html) |
 | Subclasses: | [AcDbUCS](AcDbUCS.html) <br> [AcDbBlock](AcDbBlock.html) <br> [AcDbLayerTableRecord](AcDbLayerTableRecord.html) <br> [AcDbLinetypeTableRecord](AcDbLinetypeTableRecord.html) |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Enum](Enum.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -21,6 +21,14 @@
 | Returns: | [Enum-AcDb3dPolylineType](Enum-AcDb3dPolylineType.html) |
 | Help: | Enum-AcDb3dPolylineType |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| Simple | 0 |
+| QuadSpline | 1 |
+| CubicSpline | 2 |
 
 ## Functions:
 

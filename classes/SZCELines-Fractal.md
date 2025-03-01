@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-misc |
+| Repo: | [soz-misc](/repos/soz-misc.html) |
 | Superclass: | [SZCELines](SZCELines.html) |
 | Subclasses: | [SZCELines-Fractal-Tree](SZCELines-Fractal-Tree.html) <br> [SZCELines-Fractal-Triangular](SZCELines-Fractal-Triangular.html) <br> [SZCELines-Fractal-HPattern](SZCELines-Fractal-HPattern.html) |
 | Interfaces: |  |

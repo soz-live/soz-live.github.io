@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEShape](SZGEShape.html) |
 | Subclasses: | [SZGEShape-WeldedI](SZGEShape-WeldedI.html) <br> [SZGEShape-UniversalI](SZGEShape-UniversalI.html) |
 | Interfaces: |  |

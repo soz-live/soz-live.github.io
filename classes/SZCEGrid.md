@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEEntities](SZCEEntities.html) |
 | Subclasses: | [SZCEGrid-OnLines](SZCEGrid-OnLines.html) <br> [SZCEGrid-Radial](SZCEGrid-Radial.html) <br> [SZCEGrid-Circle](SZCEGrid-Circle.html) <br> [SZCEGrid-Circles](SZCEGrid-Circles.html) <br> [SZCEGrid-Circular](SZCEGrid-Circular.html) <br> [SZCEGrid-Offsets](SZCEGrid-Offsets.html) <br> [SZCEGrid-Rectangular](SZCEGrid-Rectangular.html) |
 | Interfaces: |  |

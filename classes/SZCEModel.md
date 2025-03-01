@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEModelDef](SZCEModelDef.html) |
 | Subclasses: | [SZCEModel-TwistedLink](SZCEModel-TwistedLink.html) <br> [SZCEAssy](SZCEAssy.html) <br> [SZCEPart](SZCEPart.html) |
 | Interfaces: |  |

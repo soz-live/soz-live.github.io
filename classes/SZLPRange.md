@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPArray](SZLPArray.html) |
 | Subclasses: | [SZLPRange-CurveLength](SZLPRange-CurveLength.html) <br> [SZLPRange-FullCircleRadians](SZLPRange-FullCircleRadians.html) <br> [SZLPRange-Theta](SZLPRange-Theta.html) <br> [SZLPRange-ZeroToOne](SZLPRange-ZeroToOne.html) |
 | Interfaces: | [List:Number](List:Number.html) |

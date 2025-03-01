@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPEnum](SZLPEnum.html) |
 | Subclasses: |  |
 | Interfaces: | [Enum-AcDbLinearType](Enum-AcDbLinearType.html) |

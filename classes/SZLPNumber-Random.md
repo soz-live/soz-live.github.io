@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-misc |
+| Repo: | [soz-misc](/repos/soz-misc.html) |
 | Superclass: | [SZLPNumber](SZLPNumber.html) |
 | Subclasses: |  |
 | Interfaces: |  |

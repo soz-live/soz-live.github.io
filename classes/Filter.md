@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Structure](Structure.html) |
 | Subclasses: | [Filter-Value](Filter-Value.html) <br> [Filter-String](Filter-String.html) <br> [Filter-Point-AND](Filter-Point-AND.html) <br> [Filter-Method](Filter-Method.html) <br> [Filter-Property](Filter-Property.html) <br> [Filter-XOR](Filter-XOR.html) <br> [Filter-NOT](Filter-NOT.html) <br> [Filter-AND](Filter-AND.html) <br> [Filter-ANDS](Filter-ANDS.html) <br> [Filter-OR](Filter-OR.html) <br> [Filter-ORS](Filter-ORS.html) <br> [Filter-Type](Filter-Type.html) <br> [Filter-Class](Filter-Class.html) <br> [Filter-Any](Filter-Any.html) |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPReals](SZLPReals.html) |
 | Subclasses: | [SZLPReals-FullCircleRadians](SZLPReals-FullCircleRadians.html) <br> [SZLPReals-FullCircleDegrees](SZLPReals-FullCircleDegrees.html) |
 | Interfaces: |  |

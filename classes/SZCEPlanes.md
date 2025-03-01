@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEEntities](SZCEEntities.html) |
 | Subclasses: | [SZCEPlanes-Line](SZCEPlanes-Line.html) <br> [SZCEPlanes-OnCurve-Normal](SZCEPlanes-OnCurve-Normal.html) <br> [SZCEPlanes-OnCurve-Tangent](SZCEPlanes-OnCurve-Tangent.html) <br> [SZCEPlanes-Offsets](SZCEPlanes-Offsets.html) <br> [SZCEPlanes-Levels](SZCEPlanes-Levels.html) <br> [SZCEPlanes-SZGEPlanes](SZCEPlanes-SZGEPlanes.html) |
 | Interfaces: | [List:SZCEPlane](List:SZCEPlane.html) |

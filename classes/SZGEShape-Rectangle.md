@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEShape](SZGEShape.html) |
 | Subclasses: | [SZGEShape-Rectangle-Chamfered](SZGEShape-Rectangle-Chamfered.html) <br> [SZGEShape-Rectangle-Filleted](SZGEShape-Rectangle-Filleted.html) <br> [SZGEShape-Square](SZGEShape-Square.html) |
 | Interfaces: |  |

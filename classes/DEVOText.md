@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-devs |
+| Repo: | [soz-devs](/repos/soz-devs.html) |
 | Superclass: | [AcDbText](AcDbText.html) |
 | Subclasses: | [DEVOText-LineOfCode](DEVOText-LineOfCode.html) <br> [DEVOText-FunctionName](DEVOText-FunctionName.html) <br> [DEVOText-ClassName](DEVOText-ClassName.html) |
 | Interfaces: |  |

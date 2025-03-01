@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOFeature](SZCOFeature.html) |
 | Subclasses: | [SZCOFeature-Assy-RelativeRef](SZCOFeature-Assy-RelativeRef.html) <br> [SZCOFeature-Assy-WorldRef](SZCOFeature-Assy-WorldRef.html) |
 | Interfaces: |  |

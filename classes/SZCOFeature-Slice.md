@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOFeature-Part](SZCOFeature-Part.html) |
 | Subclasses: | [SZCOFeature-Slice-Plane](SZCOFeature-Slice-Plane.html) <br> [SZCOFeature-Slice-TMatrix](SZCOFeature-Slice-TMatrix.html) |
 | Interfaces: |  |

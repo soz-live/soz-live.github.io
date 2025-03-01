@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbEntity](AcDbEntity.html) |
 | Subclasses: | [DEVOPoint](DEVOPoint.html) <br> [SZCEPoint-Random-Spherical](SZCEPoint-Random-Spherical.html) <br> [SZCEPoint-Random](SZCEPoint-Random.html) <br> [SZLVPoint](SZLVPoint.html) <br> [SZCEPosn](SZCEPosn.html) |
 | Interfaces: | [SZGEPoint](SZGEPoint.html), [Point](Point.html) |

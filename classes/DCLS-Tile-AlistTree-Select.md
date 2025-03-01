@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [DCLS-Tile-TreeView-Select](DCLS-Tile-TreeView-Select.html) |
 | Subclasses: | [DCLS-Tile-SOZIDTree-Edit](DCLS-Tile-SOZIDTree-Edit.html) <br> [DCLS-Tile-AlistTree-CategorySelect](DCLS-Tile-AlistTree-CategorySelect.html) <br> [DCLS-Tile-AlistTree-ClassSelect](DCLS-Tile-AlistTree-ClassSelect.html) |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-rigging |
+| Repo: | [soz-rigging](/repos/soz-rigging.html) |
 | Superclass: | [SZCORigging-Bar](SZCORigging-Bar.html) |
 | Subclasses: | [SZCORigging-Triangle](SZCORigging-Triangle.html) |
 | Interfaces: |  |

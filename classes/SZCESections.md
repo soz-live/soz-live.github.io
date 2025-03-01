@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEEntities](SZCEEntities.html) |
 | Subclasses: | [SZCESections-OnCurve-Chainage-Exported](SZCESections-OnCurve-Chainage-Exported.html) <br> [SZCESections-TMatrixs](SZCESections-TMatrixs.html) |
 | Interfaces: |  |

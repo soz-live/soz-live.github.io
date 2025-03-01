@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Enum](Enum.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -21,6 +21,23 @@
 | Returns: | [Enum-AcDbLineWeight](Enum-AcDbLineWeight.html) |
 | Help: | Enum-AcDbLineWeight |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| ByDefault | -3 |
+| ByBlock | -2 |
+| ByLayer | -1 |
+| 000 | 0 |
+| 010 | nil |
+| 018 | 18 |
+| 025 | 25 |
+| 035 | 35 |
+| 040 | 40 |
+| 050 | 50 |
+| 100 | 100 |
+| 200 | 200 |
 
 ## Functions:
 

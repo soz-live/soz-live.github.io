@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEPoints](SZCEPoints.html) |
 | Subclasses: | [SZCEPointCloud-Random-Spherical](SZCEPointCloud-Random-Spherical.html) <br> [SZCEPointCloud-Random](SZCEPointCloud-Random.html) |
 | Interfaces: |  |

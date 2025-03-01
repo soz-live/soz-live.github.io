@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-aec |
+| Repo: | [soz-aec](/repos/soz-aec.html) |
 | Superclass: | [AcDb3dSolid](AcDb3dSolid.html) |
 | Subclasses: |  |
 | Interfaces: |  |

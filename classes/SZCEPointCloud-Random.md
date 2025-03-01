@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-misc |
+| Repo: | [soz-misc](/repos/soz-misc.html) |
 | Superclass: | [SZCEPointCloud](SZCEPointCloud.html) |
 | Subclasses: |  |
 | Interfaces: |  |

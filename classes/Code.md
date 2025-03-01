@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [String](String.html) |
 | Subclasses: | [Symbol](Symbol.html) <br> [Function](Function.html) <br> [Equation](Equation.html) |
 | Interfaces: |  |

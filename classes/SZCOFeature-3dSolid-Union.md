@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOFeature-3dSolid](SZCOFeature-3dSolid.html) |
 | Subclasses: |  |
 | Interfaces: |  |

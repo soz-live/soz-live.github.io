@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPReal](SZLPReal.html) |
 | Subclasses: | [SZLP-FLOAT](SZLP-FLOAT.html) <br> [SZLP-SIN](SZLP-SIN.html) <br> [SZLP-COS](SZLP-COS.html) <br> [SZLP-ATOF](SZLP-ATOF.html) |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEEntities](SZCEEntities.html) |
 | Subclasses: | [SZCEUCSs-OnCurve-Divide](SZCEUCSs-OnCurve-Divide.html) |
 | Interfaces: | [List:SZCEUCS](List:SZCEUCS.html) |

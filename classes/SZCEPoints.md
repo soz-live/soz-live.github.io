@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEEntities](SZCEEntities.html) |
 | Subclasses: | [SZCEPoints-OnCurve](SZCEPoints-OnCurve.html) <br> [SZCEPoints-XYsRL-PlaneIntersects](SZCEPoints-XYsRL-PlaneIntersects.html) <br> [SZCEPoints-XsYsRL-PlaneIntersects](SZCEPoints-XsYsRL-PlaneIntersects.html) <br> [SZCEPoints-XsYsRLs-PlaneIntersects](SZCEPoints-XsYsRLs-PlaneIntersects.html) <br> [SZCEPointCloud](SZCEPointCloud.html) <br> [SZCEPoints-SZGEPoints](SZCEPoints-SZGEPoints.html) <br> [SZCEPoints-AcDbPoints](SZCEPoints-AcDbPoints.html) |
 | Interfaces: | [List:AcDbPoint](List:AcDbPoint.html) |

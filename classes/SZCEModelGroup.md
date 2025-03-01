@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEGroup](SZCEGroup.html) |
 | Subclasses: | [SZCEModelGroup-BlockRef](SZCEModelGroup-BlockRef.html) <br> [SZCEModelGroup-Solids](SZCEModelGroup-Solids.html) |
 | Interfaces: |  |

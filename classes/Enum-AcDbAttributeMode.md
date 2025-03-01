@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Enum](Enum.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -21,6 +21,17 @@
 | Returns: | [Enum-AcDbAttributeMode](Enum-AcDbAttributeMode.html) |
 | Help: | Enum-AcDbAttributeMode |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| Invisible | 1 |
+| Constant | 2 |
+| Verify | 4 |
+| LockPosition | 16 |
+| MultipleLine | 32 |
+| Preset | 8 |
 
 ## Functions:
 

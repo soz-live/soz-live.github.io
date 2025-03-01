@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCECurves](SZCECurves.html) |
 | Subclasses: | [SZCE3dCurves-HelicalCurves](SZCE3dCurves-HelicalCurves.html) |
 | Interfaces: | [List:AcDb3dPolyline](List:AcDb3dPolyline.html) |

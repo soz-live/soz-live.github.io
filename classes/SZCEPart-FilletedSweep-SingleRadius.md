@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEPart-MultiFeature](SZCEPart-MultiFeature.html) |
 | Subclasses: | [SZCEPart-FilletedSweep-Pipe](SZCEPart-FilletedSweep-Pipe.html) <br> [SZCEPart-FilletedSweep-Round](SZCEPart-FilletedSweep-Round.html) |
 | Interfaces: |  |

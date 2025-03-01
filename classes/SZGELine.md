@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGE3dCurve](SZGE3dCurve.html) |
 | Subclasses: | [SZGELine-Brace](SZGELine-Brace.html) <br> [SZGELine-MidPoint-Vector-Dist](SZGELine-MidPoint-Vector-Dist.html) <br> [SZGELine-GridLine](SZGELine-GridLine.html) <br> [SZGELine-XLine-2xPlaneIntersect](SZGELine-XLine-2xPlaneIntersect.html) <br> [SZGELine-2xLines-PlaneIntersect](SZGELine-2xLines-PlaneIntersect.html) <br> [SZGELine-LineToPlane-Vertical](SZGELine-LineToPlane-Vertical.html) <br> [SZGELine-PlaneToPlane](SZGELine-PlaneToPlane.html) <br> [SZGELine-PlaneToPlane-Vertical](SZGELine-PlaneToPlane-Vertical.html) <br> [SZGELine-PointToPlane-Vertical](SZGELine-PointToPlane-Vertical.html) <br> [SZGELine-AcDbCircle-Axis](SZGELine-AcDbCircle-Axis.html) <br> [SZGELine-AcDb3dPolyline-Segment](SZGELine-AcDb3dPolyline-Segment.html) <br> [SZGELine-PlaneDistAng](SZGELine-PlaneDistAng.html) <br> [SZGELine-Planes-Intersect](SZGELine-Planes-Intersect.html) <br> [SZGELine-Points-Offsets](SZGELine-Points-Offsets.html) <br> [SZGELine-PointVector-PlaneToPlane](SZGELine-PointVector-PlaneToPlane.html) <br> [SZGELine-PointVector-Plane](SZGELine-PointVector-Plane.html) <br> [SZGELine-PointVector-Dist](SZGELine-PointVector-Dist.html) <br> [SZGELine-PointVector](SZGELine-PointVector.html) |
 | Interfaces: | [Line](Line.html) |

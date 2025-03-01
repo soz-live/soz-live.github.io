@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEObjects](SZGEObjects.html) |
 | Subclasses: | [SZGEPoints-OnCurve](SZGEPoints-OnCurve.html) |
 | Interfaces: | [List:Point](List:Point.html) |

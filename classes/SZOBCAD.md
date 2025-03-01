@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZOBObject](SZOBObject.html) |
 | Subclasses: | [ODBXObject](ODBXObject.html) <br> [AcDbObject](AcDbObject.html) <br> [SZCOObjects](SZCOObjects.html) <br> [SZCOObject](SZCOObject.html) <br> [AcDbVars](AcDbVars.html) |
 | Interfaces: |  |

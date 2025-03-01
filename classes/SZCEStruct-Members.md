@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-aec |
+| Repo: | [soz-aec](/repos/soz-aec.html) |
 | Superclass: | [SZCEStruct](SZCEStruct.html) |
 | Subclasses: | [SZCEStruct-Brace](SZCEStruct-Brace.html) <br> [SZCEStruct-PortalFrame](SZCEStruct-PortalFrame.html) <br> [SZCEStruct-KneeBrace](SZCEStruct-KneeBrace.html) |
 | Interfaces: |  |

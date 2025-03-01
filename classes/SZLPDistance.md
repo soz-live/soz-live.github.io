@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPReal](SZLPReal.html) |
 | Subclasses: | [SZLPDistance-SumOfCurveLengths](SZLPDistance-SumOfCurveLengths.html) <br> [SZLPDistance-BetweenPoints](SZLPDistance-BetweenPoints.html) <br> [SZLPDistance-BetweenPlanes](SZLPDistance-BetweenPlanes.html) <br> [SZLPDistance-MultipleOf](SZLPDistance-MultipleOf.html) <br> [SZLPDistance-DivideBy](SZLPDistance-DivideBy.html) <br> [SZLPDistance-CurveLength](SZLPDistance-CurveLength.html) <br> [SZLPDistance-LineLength](SZLPDistance-LineLength.html) |
 | Interfaces: |  |

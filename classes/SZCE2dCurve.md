@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbPolyline](AcDbPolyline.html) |
 | Subclasses: | [SZCEPolyline-AcDbPolyline-Offset](SZCEPolyline-AcDbPolyline-Offset.html) <br> [SZCEPolyline-Loop](SZCEPolyline-Loop.html) |
 | Interfaces: |  |

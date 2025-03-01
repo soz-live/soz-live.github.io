@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [DCLS-Tile](DCLS-Tile.html) |
 | Subclasses: | [DCLS-Tile-Button-Highlight](DCLS-Tile-Button-Highlight.html) <br> [DCLS-Tile-Button-SubClass](DCLS-Tile-Button-SubClass.html) |
 | Interfaces: |  |

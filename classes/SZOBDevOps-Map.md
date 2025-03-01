@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-devs |
+| Repo: | [soz-devs](/repos/soz-devs.html) |
 | Superclass: | [SZOBDevOps](SZOBDevOps.html) |
 | Subclasses: | [SZOBDevOps-Map-ClassFuncLine](SZOBDevOps-Map-ClassFuncLine.html) <br> [SZOBDevOps-Map-ClassFunc](SZOBDevOps-Map-ClassFunc.html) <br> [SZOBDevOps-Map-Class](SZOBDevOps-Map-Class.html) |
 | Interfaces: |  |

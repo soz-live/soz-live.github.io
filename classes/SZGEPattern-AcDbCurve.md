@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEPattern](SZGEPattern.html) |
 | Subclasses: | [SZGEPattern-AcDbCurve-SectionsOnPitch](SZGEPattern-AcDbCurve-SectionsOnPitch.html) <br> [SZGEPattern-AcDbCurve-Pitch](SZGEPattern-AcDbCurve-Pitch.html) <br> [SZGEPattern-AcDbCurve-Divide](SZGEPattern-AcDbCurve-Divide.html) |
 | Interfaces: |  |

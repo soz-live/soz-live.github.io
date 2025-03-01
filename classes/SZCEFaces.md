@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCECurves](SZCECurves.html) |
 | Subclasses: | [SZCEFaces-BetweenPoints](SZCEFaces-BetweenPoints.html) |
 | Interfaces: | [List:AcDbPolyline](List:AcDbPolyline.html) |

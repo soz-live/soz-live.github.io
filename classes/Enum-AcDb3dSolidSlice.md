@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Enum](Enum.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -21,6 +21,13 @@
 | Returns: | [Enum-AcDb3dSolidSlice](Enum-AcDb3dSolidSlice.html) |
 | Help: | Enum-AcDb3dSolidSlice |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| Below | 0 |
+| Above | 1 |
 
 ## Functions:
 

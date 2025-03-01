@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOFeature-Part](SZCOFeature-Part.html) |
 | Subclasses: | [SZCOFeatures-PunchedHoles-OnLines](SZCOFeatures-PunchedHoles-OnLines.html) |
 | Interfaces: | [List:SZCOFeature](List:SZCOFeature.html) |

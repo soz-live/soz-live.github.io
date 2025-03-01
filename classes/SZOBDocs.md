@@ -3,9 +3,9 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-devs |
+| Repo: | [soz-devs](/repos/soz-devs.html) |
 | Superclass: | [SZOBDoc](SZOBDoc.html) |
-| Subclasses: | [SZOBDocs-CSV](SZOBDocs-CSV.html) <br> [SZOBDocs-GitHub](SZOBDocs-GitHub.html) |
+| Subclasses: | [SZOBDocs-CSV](SZOBDocs-CSV.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

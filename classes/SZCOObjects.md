@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZOBCAD](SZOBCAD.html) |
 | Subclasses: | [SZCEEntities](SZCEEntities.html) |
 | Interfaces: | [List](List.html), [List:SZCOObject](List:SZCOObject.html) |

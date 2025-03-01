@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPConditional](SZLPConditional.html) |
 | Subclasses: | [SZLP-IF-Number](SZLP-IF-Number.html) |
 | Interfaces: |  |

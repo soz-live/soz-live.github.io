@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbLine](AcDbLine.html) |
 | Subclasses: | [SZCELine-2xPoints](SZCELine-2xPoints.html) |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGE3dCurve](SZGE3dCurve.html) |
 | Subclasses: |  |
 | Interfaces: |  |

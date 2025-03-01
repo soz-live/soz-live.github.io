@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Enum](Enum.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -21,6 +21,14 @@
 | Returns: | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |
 | Help: | Enum-AcDbExtrudeType |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| Positive | 0 |
+| Negative | 1 |
+| Midplane | 2 |
 
 ## Functions:
 

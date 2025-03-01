@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Enum](Enum.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -21,6 +21,15 @@
 | Returns: | [Enum-AcDbExtend](Enum-AcDbExtend.html) |
 | Help: | Enum-AcDbExtend |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| Extend None | 0 |
+| Extend This | 1 |
+| Extend Other | 2 |
+| Extend Both | 3 |
 
 ## Functions:
 

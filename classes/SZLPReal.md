@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPNumber](SZLPNumber.html) |
 | Subclasses: | [SZLPReal-Code](SZLPReal-Code.html) <br> [SZLPDistance](SZLPDistance.html) <br> [SZLPReal-Reals-Min](SZLPReal-Reals-Min.html) <br> [SZLPReal-Reals-Max](SZLPReal-Reals-Max.html) <br> [SZLPReal-Reals-Index](SZLPReal-Reals-Index.html) <br> [SZLPAngle](SZLPAngle.html) <br> [SZLPInteger](SZLPInteger.html) <br> [SZLPReal-Curve-BaryComb](SZLPReal-Curve-BaryComb.html) <br> [SZLPReal-2xPI](SZLPReal-2xPI.html) <br> [SZLPReal-PI](SZLPReal-PI.html) |
 | Interfaces: | [Real](Real.html) |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-devs |
+| Repo: | [soz-devs](/repos/soz-devs.html) |
 | Superclass: | [SZOBDoc-Block](SZOBDoc-Block.html) |
 | Subclasses: |  |
 | Interfaces: |  |

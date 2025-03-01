@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-aec |
+| Repo: | [soz-aec](/repos/soz-aec.html) |
 | Superclass: | [SZCEScript-Members](SZCEScript-Members.html) |
 | Subclasses: | [SZCEScript-XBraces](SZCEScript-XBraces.html) <br> [SZCEScript-KBraces](SZCEScript-KBraces.html) |
 | Interfaces: |  |

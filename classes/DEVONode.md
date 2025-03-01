@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-devs |
+| Repo: | [soz-devs](/repos/soz-devs.html) |
 | Superclass: | [AcDbBlockReference](AcDbBlockReference.html) |
 | Subclasses: | [DEVONode-FunctionName](DEVONode-FunctionName.html) <br> [DEVONode-ClassName](DEVONode-ClassName.html) |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbLayerTableRecord](AcDbLayerTableRecord.html) |
 | Subclasses: | [SZCOLayer-ColorName](SZCOLayer-ColorName.html) <br> [SZCOLayer-Default](SZCOLayer-Default.html) |
 | Interfaces: |  |

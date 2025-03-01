@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEPoints-OnCurve-PlaneIntersects](SZGEPoints-OnCurve-PlaneIntersects.html) |
 | Subclasses: |  |
 | Interfaces: |  |

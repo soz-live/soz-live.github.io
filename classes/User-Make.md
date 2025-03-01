@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [User](User.html) |
 | Subclasses: | [User-Make-Auto](User-Make-Auto.html) <br> [User-Make-Key](User-Make-Key.html) <br> [User-Make-FixedClass](User-Make-FixedClass.html) |
 | Interfaces: |  |

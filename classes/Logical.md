@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Lisp](Lisp.html) |
 | Subclasses: | [NIL](NIL.html) <br> [T](T.html) |
 | Interfaces: |  |

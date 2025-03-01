@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Real](Real.html) |
 | Subclasses: | [Rad](Rad.html) <br> [Deg](Deg.html) |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Enum](Enum.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -21,6 +21,20 @@
 | Returns: | [Enum-AcDbAlignment](Enum-AcDbAlignment.html) |
 | Help: | Enum-AcDbAlignment |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| TopLeft | 1 |
+| TopCenter | 2 |
+| TopRight | 3 |
+| MiddleLeft | 4 |
+| MiddleCenter | 5 |
+| MiddleRight | 6 |
+| BottomLeft | 7 |
+| BottomCenter | 8 |
+| BottomRight | 9 |
 
 ## Functions:
 

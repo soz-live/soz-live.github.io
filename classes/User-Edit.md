@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [User-Method](User-Method.html) |
 | Subclasses: | [User-Edit-Keys](User-Edit-Keys.html) <br> [User-Edit-Simple](User-Edit-Simple.html) <br> [User-Edit-SZLVNode](User-Edit-SZLVNode.html) <br> [User-Edit-Object](User-Edit-Object.html) |
 | Interfaces: |  |

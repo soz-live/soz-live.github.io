@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-misc |
+| Repo: | [soz-misc](/repos/soz-misc.html) |
 | Superclass: | [SZCE3dCurve](SZCE3dCurve.html) |
 | Subclasses: |  |
 | Interfaces: |  |

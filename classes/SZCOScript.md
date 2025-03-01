@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZOBScript](SZOBScript.html) |
 | Subclasses: | [SZCOScript-ModelGroups](SZCOScript-ModelGroups.html) <br> [SZCOScript-Features](SZCOScript-Features.html) <br> [SZCEScript](SZCEScript.html) |
 | Interfaces: |  |

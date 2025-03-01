@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEObjects](SZGEObjects.html) |
 | Subclasses: | [SZGEPlanes-OnCurve-Tangent-Points](SZGEPlanes-OnCurve-Tangent-Points.html) <br> [SZGEPlanes-OnCurve-Normal](SZGEPlanes-OnCurve-Normal.html) <br> [SZGEPlanes-OnCurve-Tangent](SZGEPlanes-OnCurve-Tangent.html) <br> [SZGEPlanes-Offsets](SZGEPlanes-Offsets.html) <br> [SZGEPlanes-Levels](SZGEPlanes-Levels.html) |
 | Interfaces: | [List:SZGEPlane](List:SZGEPlane.html) |

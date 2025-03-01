@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEPattern](SZGEPattern.html) |
 | Subclasses: | [SZGEPattern2D-Rectangular](SZGEPattern2D-Rectangular.html) <br> [SZGEPattern2D-Polar](SZGEPattern2D-Polar.html) |
 | Interfaces: |  |

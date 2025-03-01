@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEPlane](SZGEPlane.html) |
 | Subclasses: | [SZGEPlane-TMatrix-ZAxis](SZGEPlane-TMatrix-ZAxis.html) <br> [SZGEPlane-TMatrix-YAxis](SZGEPlane-TMatrix-YAxis.html) <br> [SZGEPlane-TMatrix-XAxis](SZGEPlane-TMatrix-XAxis.html) |
 | Interfaces: |  |

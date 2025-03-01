@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbObject](AcDbObject.html) |
 | Subclasses: | [BsysEntity](BsysEntity.html) <br> [SZCELinear](SZCELinear.html) <br> [SZCEPlane](SZCEPlane.html) <br> [ACISEntity](ACISEntity.html) <br> [AcDbCurve](AcDbCurve.html) <br> [AcDbViewport](AcDbViewport.html) <br> [AcDbRay](AcDbRay.html) <br> [AcDbXline](AcDbXline.html) <br> [AcDbPoint](AcDbPoint.html) <br> [AcDbAbstractText](AcDbAbstractText.html) <br> [AcDbAttributeDefinition](AcDbAttributeDefinition.html) <br> [AcDbBlockReference](AcDbBlockReference.html) <br> [AcDbFace](AcDbFace.html) <br> [AcDbMesh](AcDbMesh.html) |
 | Interfaces: |  |

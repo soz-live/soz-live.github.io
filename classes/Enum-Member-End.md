@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-aec |
+| Repo: | [soz-aec](/repos/soz-aec.html) |
 | Superclass: | [Enum](Enum.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -21,6 +21,14 @@
 | Returns: | [Enum-Member-End](Enum-Member-End.html) |
 | Help: | Make a Member-End Enum |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| StartPoint | 0 |
+| EndPoint | 1 |
+| MidPoint | 2 |
 
 ## Functions:
 

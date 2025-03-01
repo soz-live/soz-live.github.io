@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [List](List.html) |
 | Subclasses: | [Alist](Alist.html) <br> [Curves](Curves.html) <br> [Planes](Planes.html) <br> [Matrix](Matrix.html) <br> [Curve](Curve.html) <br> [Points](Points.html) <br> [Axes](Axes.html) <br> [Reals](Reals.html) <br> [Strings](Strings.html) <br> [SOZIDs](SOZIDs.html) <br> [AcDbEnames](AcDbEnames.html) <br> [Array3D](Array3D.html) <br> [Array2D](Array2D.html) |
 | Interfaces: |  |

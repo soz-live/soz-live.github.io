@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLVNode-Method](SZLVNode-Method.html) |
 | Subclasses: | [SZLVNode-SZOBObject](SZLVNode-SZOBObject.html) |
 | Interfaces: |  |

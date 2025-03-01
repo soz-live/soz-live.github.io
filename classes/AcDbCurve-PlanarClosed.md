@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbCurve](AcDbCurve.html) |
 | Subclasses: |  |
 | Interfaces: | [AcDbPolyline](AcDbPolyline.html), [AcDbSpline](AcDbSpline.html), [AcDb3dPolyline](AcDb3dPolyline.html), [AcDbCircle](AcDbCircle.html), [AcDbEllipse](AcDbEllipse.html) |

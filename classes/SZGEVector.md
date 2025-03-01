@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEObject](SZGEObject.html) |
 | Subclasses: | [SZGEVector-Member-MemberSide](SZGEVector-Member-MemberSide.html) <br> [SZGEVector-Member-End](SZGEVector-Member-End.html) <br> [SZGEVector-TMatrix](SZGEVector-TMatrix.html) <br> [SZGEVector-OnCurve](SZGEVector-OnCurve.html) <br> [SZGEVector-Planes-Intersect](SZGEVector-Planes-Intersect.html) <br> [SZGEVector-Plane-Normal](SZGEVector-Plane-Normal.html) <br> [SZGEVector-LineY](SZGEVector-LineY.html) <br> [SZGEVector-LineX](SZGEVector-LineX.html) <br> [SZGEVector-Line](SZGEVector-Line.html) <br> [SZGEVector-CrossProduct](SZGEVector-CrossProduct.html) <br> [SZGEVector-Relative](SZGEVector-Relative.html) <br> [SZGEVector-Point](SZGEVector-Point.html) <br> [SZGEVector-Negate](SZGEVector-Negate.html) <br> [SZGEVector-WZ](SZGEVector-WZ.html) <br> [SZGEVector-WY](SZGEVector-WY.html) <br> [SZGEVector-WX](SZGEVector-WX.html) |
 | Interfaces: | [Vector](Vector.html) |

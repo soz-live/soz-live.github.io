@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [DCLS-Tile](DCLS-Tile.html) |
 | Subclasses: | [DCLS-Tile-EditBox-TreeFilter](DCLS-Tile-EditBox-TreeFilter.html) <br> [DCLS-Tile-EditBox-ListFilter](DCLS-Tile-EditBox-ListFilter.html) |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGELoop](SZGELoop.html) |
 | Subclasses: | [SZGEShape-Shackle-Eye](SZGEShape-Shackle-Eye.html) <br> [SZGEShape-ChainLink](SZGEShape-ChainLink.html) <br> [SZGEShape-Hat](SZGEShape-Hat.html) <br> [SZGEShape-ZPurlin](SZGEShape-ZPurlin.html) <br> [SZGEShape-CPurlin](SZGEShape-CPurlin.html) <br> [SZGEShape-LShape](SZGEShape-LShape.html) <br> [SZGEShape-CShape](SZGEShape-CShape.html) <br> [SZGEShape-IShape](SZGEShape-IShape.html) <br> [SZGEShape-Polygon](SZGEShape-Polygon.html) <br> [SZGEShape-Slot](SZGEShape-Slot.html) <br> [SZGEShape-Rectangle](SZGEShape-Rectangle.html) <br> [SZGEShape-Circle](SZGEShape-Circle.html) |
 | Interfaces: |  |

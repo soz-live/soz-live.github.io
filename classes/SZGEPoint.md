@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEObject](SZGEObject.html) |
 | Subclasses: | [SZGEPoint-Member-End](SZGEPoint-Member-End.html) <br> [SZGEPoint-OnCurve](SZGEPoint-OnCurve.html) <br> [SZGEPoint-Addition](SZGEPoint-Addition.html) <br> [SZGEPoint-Spherical](SZGEPoint-Spherical.html) <br> [SZGEPoint-AcDbArc-Center](SZGEPoint-AcDbArc-Center.html) <br> [SZGEPoint-AcDbCircle-Center](SZGEPoint-AcDbCircle-Center.html) <br> [SZGEPoint-TMatrix](SZGEPoint-TMatrix.html) <br> [SZGEPoint-PointVectorPlane](SZGEPoint-PointVectorPlane.html) <br> [SZGEPoint-PlanesIntersect](SZGEPoint-PlanesIntersect.html) <br> [SZGEPoint-Line-PlaneIntersect](SZGEPoint-Line-PlaneIntersect.html) <br> [SZGEPoint-Plane](SZGEPoint-Plane.html) <br> [SZGEPoint-Entity](SZGEPoint-Entity.html) <br> [SZGEPoint-Line-Ratio](SZGEPoint-Line-Ratio.html) <br> [SZGEPoint-2D](SZGEPoint-2D.html) <br> [SZGEPoint-Origin](SZGEPoint-Origin.html) |
 | Interfaces: | [Point](Point.html) |

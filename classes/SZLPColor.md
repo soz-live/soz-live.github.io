@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPAtom](SZLPAtom.html) |
 | Subclasses: | [SZLPColor-Black](SZLPColor-Black.html) <br> [SZLPColor-MidGrey](SZLPColor-MidGrey.html) <br> [SZLPColor-Magenta](SZLPColor-Magenta.html) <br> [SZLPColor-Cyan](SZLPColor-Cyan.html) <br> [SZLPColor-Yellow](SZLPColor-Yellow.html) <br> [SZLPColor-White](SZLPColor-White.html) <br> [SZLPColor-Blue](SZLPColor-Blue.html) <br> [SZLPColor-Green](SZLPColor-Green.html) <br> [SZLPColor-Red](SZLPColor-Red.html) |
 | Interfaces: | [RGB](RGB.html) |

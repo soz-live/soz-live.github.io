@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-aec |
+| Repo: | [soz-aec](/repos/soz-aec.html) |
 | Superclass: | [SZCEStruct-Connection-Rafter](SZCEStruct-Connection-Rafter.html) |
 | Subclasses: |  |
 | Interfaces: |  |

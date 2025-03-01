@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbEntity](AcDbEntity.html) |
 | Subclasses: | [AcDbPolygonMesh](AcDbPolygonMesh.html) <br> [AcDbPolyFaceMesh](AcDbPolyFaceMesh.html) |
 | Interfaces: |  |

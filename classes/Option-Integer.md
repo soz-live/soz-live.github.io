@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Option](Option.html) |
 | Subclasses: | [Option-FractalDepth](Option-FractalDepth.html) |
 | Interfaces: |  |
@@ -12,6 +12,21 @@
 | isValue?: | Yes |
 | Help: | Integer Options |
 
+
+## Options
+
+| Names | Values |
+| --------- | --------- |
+| 1 | 1 |
+| 2 | 2 |
+| 3 | 3 |
+| 4 | 4 |
+| 5 | 5 |
+| 6 | 6 |
+| 7 | 7 |
+| 8 | 8 |
+| 9 | 9 |
+| 10 | 10 |
 
 ## Functions:
 

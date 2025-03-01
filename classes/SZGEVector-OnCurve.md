@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEVector](SZGEVector.html) |
 | Subclasses: | [SZGEVector-OnCurve-Normal](SZGEVector-OnCurve-Normal.html) <br> [SZGEVector-OnCurve-Tangent](SZGEVector-OnCurve-Tangent.html) |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbEntity](AcDbEntity.html) |
 | Subclasses: | [DEVONode](DEVONode.html) <br> [SZLVNode](SZLVNode.html) <br> [SZCEModelRef](SZCEModelRef.html) <br> [AcDbExternalReference](AcDbExternalReference.html) |
 | Interfaces: |  |

@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-aec |
+| Repo: | [soz-aec](/repos/soz-aec.html) |
 | Superclass: | [SZCOFeature-3dSolid](SZCOFeature-3dSolid.html) |
 | Subclasses: |  |
 | Interfaces: |  |

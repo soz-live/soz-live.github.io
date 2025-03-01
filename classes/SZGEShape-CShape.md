@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEShape](SZGEShape.html) |
 | Subclasses: | [SZGEShape-ColdChannel](SZGEShape-ColdChannel.html) <br> [SZGEShape-ParallelChannel](SZGEShape-ParallelChannel.html) |
 | Interfaces: |  |

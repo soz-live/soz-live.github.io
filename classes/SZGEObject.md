@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZOBObject](SZOBObject.html) |
 | Subclasses: | [SZGECurve](SZGECurve.html) <br> [SZGETMatrix](SZGETMatrix.html) <br> [SZGEPlane](SZGEPlane.html) <br> [SZGEPoint](SZGEPoint.html) <br> [SZGEVector](SZGEVector.html) |
 | Interfaces: | [SZLPAtom](SZLPAtom.html) |

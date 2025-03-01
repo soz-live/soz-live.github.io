@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPAngle](SZLPAngle.html) |
 | Subclasses: | [SZLPDegMinSec](SZLPDegMinSec.html) |
 | Interfaces: |  |

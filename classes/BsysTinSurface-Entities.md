@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-aec |
+| Repo: | [soz-aec](/repos/soz-aec.html) |
 | Superclass: | [BsysTinSurface](BsysTinSurface.html) |
 | Subclasses: | [BsysTinSurface-Faces](BsysTinSurface-Faces.html) <br> [BsysTinSurface-Meshes](BsysTinSurface-Meshes.html) <br> [BsysTinSurface-ACISEntities](BsysTinSurface-ACISEntities.html) <br> [BsysTinSurface-Curves](BsysTinSurface-Curves.html) |
 | Interfaces: |  |

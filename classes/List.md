@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-live |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [T](T.html) |
 | Subclasses: | [Set](Set.html) <br> [Array](Array.html) <br> [Pair](Pair.html) <br> [Cons](Cons.html) <br> [Tree](Tree.html) |
 | Interfaces: |  |
