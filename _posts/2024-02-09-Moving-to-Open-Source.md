@@ -28,7 +28,7 @@ There seems to be three options available to me at present:
 
 1. Remain a single developer / single user project.
 2. Dive straight into Open Source head first and try to keep my head above water.
-3. Keep the the project Closed, grow the community slowly by building a team of Developers and Testers and the open it up later on.
+3. Keep the the project Closed, grow the community slowly by building a team of Developers and Testers and then open it up later on.
 
 ## The Solution
 

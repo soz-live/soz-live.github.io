@@ -46,18 +46,11 @@ As competitors to AutoCAD came into the market, they realised the potential, imp
 Thereby enabling users to bring their collection of routines developed over the years with them and maintain their levels of productivity.
 
 
-
 ### AutoLISP Limitations
 
 Because of its roots, AutoLISP, and it's associated Dialog Control Language (DCL), suffer from limitations when compared to other dialects of Lisp such as Common Lisp and Scheme.  
 Limitations of the language include the lack of an object system, a macro system, defining functions with a variable number of arguments and the ability to create closures.
 Despite that, developers continue to work on improving it by providing solutions to shortfalls in functionality. 
-
-Additionally, external applications have been built to extend its functionality. Examples of this are:
-
-- DOSLib, a library of functions previously not possible in CAD-based Lisp languages.
-- OpenDCL & ObjectDCL, a replacement for DCL dialog boxes, to create feature rich dialogs using standard Windows controls.
-
 
 
 ### AutoLISP Development
@@ -147,6 +140,7 @@ The Base hierarchy of Types for the Project is:
   - [SZOBScript](/classes/SZOBScript.html) - Abstract Script Class
 
 With the full hierarchy of [soz-live](/repos/soz-live.html) listed here.
+
 
 ## Next
 

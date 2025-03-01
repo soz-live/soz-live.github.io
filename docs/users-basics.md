@@ -2,11 +2,11 @@
 layout: default
 ---
 
-# Users Basics
+# User Basics
 
 ## Contents
 
-- Users Basics
+- User Basics
   - [Introduction](#introduction)
   - [Concepts](#concepts)
     - [Class](#class)
