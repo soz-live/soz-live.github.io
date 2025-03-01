@@ -25,6 +25,7 @@ This page lists documentation for **SOZ-LIVE**.
 
 ## Coders
 
+- [Lisp Introduction](/docs/coders-lisp.html).
 - [Basic Information for Coders](/docs/coders-basics.html).
 
 

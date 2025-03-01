@@ -34,7 +34,7 @@ While **SOZ** only uses single inheritance:
 - Classes can share an interface with other classes.
 - Classes can be contained in multiple Categories.
 
-Each entry in the [Class Hierarchy](classes.html) is a link to the documentation for the particular class.
+Each entry in the [Class Hierarchy](/repos/soz-live.html) is a link to the documentation for the particular class.
 
 A class is defined with a call to register it in the [Meta Environment](#the-meta-environment) using the Class Make function:
 
@@ -58,7 +58,7 @@ And:
 > **Notes:**<br>
 > Many of the specified classes are Abstract classes - meaning that they can't be instanced - or objects created from them.  
 > They are used to set out the hierarchy in a logical fashion so that LSP works for each type / class specified.  
-> Sometimes the depth of abstract classes can reach 8 levels deep.
+> Sometimes the depth of abstraction can reach 8 levels.
 
 
 ## Objects
