@@ -96,7 +96,7 @@ Not only that, it also leads to an understanding that Lisp code can be considere
 
 `(SZOB-Apply object method args)`
 
-In SOZ, it doesn’t matter which format you use for method invocation, however to remain in the spirit of Lisp many Apply calls have been rewritten to the purely functional format:
+In SOZ, it doesn't matter which format you use for method invocation, however to remain in the spirit of Lisp many Apply calls have been rewritten to the purely functional format:
 
 `(defun SZOB-length (o) (SZOB-Apply o "length" nil))`
 
