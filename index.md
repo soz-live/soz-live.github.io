@@ -76,4 +76,4 @@ The routines are built into the Core of **SOZ**, and consist of under 1000 lines
 - [For Users](/users.html)
 - [For Coders](/coders.html)
 
-For all other documentation, including Class information, refer to the [Docs](/docs.html) page.
+For all documentation, including Class information, refer to the [Docs](/docs.html) page.
