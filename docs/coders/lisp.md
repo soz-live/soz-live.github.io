@@ -17,8 +17,6 @@ layout: default
     - [Lisp Functions](#lisp-functions)
     - [Function Renaming](#function-renaming)
   - [Types](#types)
-  - [Next](#next)
-
 
 
 
@@ -141,7 +139,3 @@ The Base hierarchy of Types for the Project is:
 
 With the full hierarchy of [soz-live](/repos/soz-live.html) listed here.
 
-
-## Next
-
-Read the [Basic Information for Coders](/docs/coders-basics.html) to get coding using **SOZ-LIVE**.

@@ -13,8 +13,7 @@ layout: default
     - [Object](#object)
     - [Entity](#entity)
     - [Identifiers](#identifiers)
-    - [Methods](#methods)
-  - [Next](#next)    
+    - [Methods](#methods)  
 
 ## Introduction
 
@@ -88,6 +87,3 @@ Within **SOZ** each function is defined as a Method of a particular Class.
 
 When interacting with **SOZ** you are basically manipulating Objects by applying a method of an Object.
 
-## Next
-
-Read the [Quickstart Guide](/docs/users-quickstart.html) to get going using **SOZ-LIVE**.
