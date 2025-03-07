@@ -1,13 +1,13 @@
 - name: Home
   link: /
 - name: Users
-  link: /users.html
+  link: /docs/users.html
 - name: Coders
-  link: /coders.html  
+  link: /docs/coders.html  
 - name: Docs
-  link: /docs.html
+  link: /docs/docs.html
 - name: Videos
-  link: /videos.html
+  link: /videos/videos.html
 - name: Blog
   link: /blog.html  
 - name: About

@@ -31,4 +31,4 @@ It enables coders to use OOP techniques from within a functional / scripting lan
 - [Lisp Introduction](/docs/coders/lisp.html).
 - [Basic Information](/docs/coders/basics.html)
 
-For all other documentation, including Class information, refer to the [Docs](/docs.html) page.
+For all other documentation, including Class information, refer to the [Docs](/docs/docs.html) page.

@@ -18,7 +18,7 @@ This page lists videos for **SOZ-LIVE**.
 
 ## Users
 
-- [Part 1](/videos/users-part-1.html) - an example of Boolean Features on a Solid.
+- [Part 1](/videos/users/part-1.html) - an example of a Boolean Feature Solid.
 
 ## Coders
 
