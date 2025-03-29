@@ -13,7 +13,7 @@ layout: default
 
 ## Introduction
 
-This page lists videos for **SOZ-LIVE**.  
+This page lists videos for **SOZ-LIVE**.
 
 
 ## Users

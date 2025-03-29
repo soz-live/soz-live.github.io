@@ -27,7 +27,7 @@ While aiming to be:
 - healthy
 - giving
 
-All members actions  will be governed by the **Code of Conduct** in the GitHub repo.
+All members actions will be governed by the **Code of Conduct** in the GitHub repo.
 
 ## Joining
 
@@ -37,12 +37,12 @@ Or by emailing your request to:
 
 ### GitHub
 
-You can join the GitHub repository by adding your email into the form above.
+You can join the GitHub repository by adding your email into the form above.  
 You will need to set-up a GitHub account.
 
 ### Discord
 
-You can join the **soz-live** Discord Server by using the link in the form above.
+You can join the **soz-live** Discord Server by using the link in the form above.  
 You will need to set-up a Discord account.
 
 ### YouTube

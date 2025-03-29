@@ -1,0 +1,23 @@
+columns:
+  - title: Home
+    subitems:
+      - name: Home
+        link: /index.html
+      - name: Users
+        link: /docs/users.html
+      - name: Coders
+        link: /docs/coders.html  
+  - title: Docs
+    subitems:
+      - name: Docs
+        link: /docs/docs.html
+      - name: Videos
+        link: /videos/videos.html
+      - name: Blog
+        link: /blog.html  
+  - title: About
+    subitems:        
+      - name: About
+        link: /about.html
+      - name: Community
+        link: /community.html

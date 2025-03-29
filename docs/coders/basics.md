@@ -230,7 +230,6 @@ The **Meta** Environment exists as a single entity in memory at run-time and sto
 - Methods
 - Categories
 - Settings
-- etc.
 
 The **Meta** information is accessed to determine things such as:
 
