@@ -19,12 +19,14 @@ This page lists documentation for **SOZ-LIVE**. It is broken into a few sections
 
 ## Users
 
+- [Introduction](/docs/users.html). 
 - [Basic Information for Users](/docs/users/basics.html).
 - [Quickstart Guide for Users](/docs/users/quickstart.html).
 
 
 ## Coders
 
+- [Introduction](/docs/coders.html). 
 - [Lisp Introduction](/docs/coders/lisp.html).
 - [Basic Information for Coders](/docs/coders/basics.html).
 
