@@ -40,7 +40,7 @@ As well as for the following disciplines:
 - Construction
   - Rigging
 
-It enables the user to work in a number of consistent User Interfaces (UIs) including a dialog box GUI and **LIVE**, a node based UI.
+It enables the user to work in a number of consistent User Interfaces (UIs) including a dialog box GUI and **LIVE**, a node based UI.  
 All with the ability to Edit and Update previously created Objects and Entities.
 
 ## Potential Users
@@ -57,7 +57,6 @@ All with the ability to Edit and Update previously created Objects and Entities.
 - Artists
 - Modellers
 - Hobbyists
-
 
 ## Documents
 

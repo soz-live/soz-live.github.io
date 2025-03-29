@@ -1,16 +1,26 @@
 columns:
-  - title: Support
+  - title: Users
     subitems:
-      - name: Users
+      - name: Intro
         link: /docs/users.html
-      - name: Coders
-        link: /docs/coders.html  
+      - name: Basics
+        link: /docs/users/basics.html
+      - name: Quickstart
+        link: /docs/users/quickstart.html
+  - title: Coders
+    subitems:
+      - name: Intro
+        link: /docs/coders.html
+      - name: Lisp
+        link: /docs/coders/lisp.html
+      - name: Basics
+        link: /docs/coders/basics.html
+  - title: Resources
+    subitems:
       - name: Docs
         link: /docs/docs.html
       - name: Videos
         link: /videos/videos.html
-  - title: Resources
-    subitems:
       - name: Glossary
         link: /docs/glossary.html
       - name: Prefixes

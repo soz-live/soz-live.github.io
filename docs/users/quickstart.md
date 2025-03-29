@@ -24,7 +24,7 @@ To use **SOZ-LIVE** follow the next few sections...
 
 ### Downloading SOZ
 
-Download the complete project file **SOZ-LIVE.lsp** from the **code** directory and save it into a local directory for loading into CAD.
+Download the complete project file **SOZ-LIVE.lsp** from the **code** directory in the repo, and save it into a local directory for loading into CAD.
 
 > **Notes:**<br>
 > - While the source code is split into multiple files, the entire project is contained within the one combined Lisp file.  
@@ -46,9 +46,9 @@ You can interact with the program in a number of ways.
 The easiest way to interact with **SOZ** is to type **Y** on the command line - a dialog box appears with a tree-view of options available to select. <br>
 
 > **Notes:**<br>
-> - **Y** is the only key not used as a standard CAD command short-cut.  
 > - All **SOZ** commands are in the same format, eg `M-...`, so as not to interfere with conventional CAD shortcuts.  
-> - Once you know the name of a command, eg. `M-Circle` to create a Circle or `M-Part` to create a Part, you can just type that command instead.
+> - Once you know the name of a command, eg. `M-Circle` to create a Circle or `M-Part` to create a Part, you can just type that command instead.  
+> - **Y** is the only key not used as a standard CAD command short-cut.  
 
 
 ## SOZ Dialogs
@@ -142,5 +142,5 @@ During each phase the basic approach to using **SOZ** is followed:
 
 - **Make** objects & entities - using the **Y** or **M-** commands
 - **Edit** objects & entities - using the **E-** commands, within a dialog box.
-- **Update** - this is part of the Edit command.
+- **Update** the objects & entities - this is part of the Edit command.
 
