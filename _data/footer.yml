@@ -9,6 +9,16 @@ columns:
         link: /docs/docs.html
       - name: Videos
         link: /videos/videos.html
+  - title: Resources
+    subitems:
+      - name: Glossary
+        link: /docs/glossary.html
+      - name: Prefixes
+        link: /docs/prefixes.html  
+      - name: Categories
+        link: /docs/categories.html
+      - name: Commands
+        link: /docs/commands.html       
   - title: Community
     subitems:        
       - name: Blog
