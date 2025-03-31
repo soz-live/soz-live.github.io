@@ -60,7 +60,5 @@ All with the ability to Edit and Update previously created Objects and Entities.
 
 ## Documents
 
-- [Basic Information](/docs/users/basics.html)
 - [Quickstart Guide](/docs/users/quickstart.html)
-
-For all other documentation, including Class information, refer to the [Docs](/docs/docs.html) page.
+- [Basic Information](/docs/users/basics.html)

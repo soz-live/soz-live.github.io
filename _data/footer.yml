@@ -2,15 +2,15 @@ columns:
   - title: Users
     subitems:
       - name: Intro
-        link: /docs/users.html
-      - name: Basics
-        link: /docs/users/basics.html
+        link: /docs/users/intro.html
       - name: Quickstart
         link: /docs/users/quickstart.html
+      - name: Basics
+        link: /docs/users/basics.html
   - title: Coders
     subitems:
       - name: Intro
-        link: /docs/coders.html
+        link: /docs/coders/intro.html
       - name: Lisp
         link: /docs/coders/lisp.html
       - name: Basics

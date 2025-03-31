@@ -30,7 +30,7 @@ nav a {
   height: 100%;
 }
 
-.flex-container {
+.footer-flex-container {
   display: flex;
   flex-direction: row;  
   justify-content: space-around;
@@ -38,7 +38,7 @@ nav a {
 }
 
 @media (max-width: 480px) {
-  .flex-container {
+  .footer-flex-container {
     flex-direction: column;
   }
 }

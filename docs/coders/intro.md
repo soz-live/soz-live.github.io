@@ -25,10 +25,7 @@ For coders, **SOZ-LIVE** is a platform for developing additional functionality f
 
 It enables coders to use OOP techniques from within a functional / scripting language.
 
-
 ## Documents
 
 - [Lisp Introduction](/docs/coders/lisp.html).
 - [Basic Information](/docs/coders/basics.html)
-
-For all other documentation, including Class information, refer to the [Docs](/docs/docs.html) page.

@@ -85,5 +85,5 @@ eg: **`"#O#AA5"`** would be the **SOZ** object with the handle **AA5**.
 
 Within **SOZ** each function is defined as a Method of a particular Class.  
 
-When interacting with **SOZ** you are basically manipulating Objects by applying a method of an Object.
+When interacting with **SOZ** you are basically manipulating Objects by applying a method to the Object.
 

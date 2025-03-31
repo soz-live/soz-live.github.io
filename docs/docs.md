@@ -15,18 +15,18 @@ layout: default
   
 ## Introduction
 
-This page lists documentation for **SOZ-LIVE**. It is broken into a few sections:
+This page lists documentation for **SOZ-LIVE**. It is broken into the following sections:
 
 ## Users
 
-- [Introduction](/docs/users.html). 
-- [Basic Information for Users](/docs/users/basics.html).
+- [Introduction for Users](/docs/users/intro.html). 
 - [Quickstart Guide for Users](/docs/users/quickstart.html).
+- [Basic Information for Users](/docs/users/basics.html).
 
 
 ## Coders
 
-- [Introduction](/docs/coders.html). 
+- [Introduction for Coders](/docs/coders/intro.html). 
 - [Lisp Introduction](/docs/coders/lisp.html).
 - [Basic Information for Coders](/docs/coders/basics.html).
 
@@ -40,8 +40,8 @@ This page lists documentation for **SOZ-LIVE**. It is broken into a few sections
 
 ## Repos
 
-A hierarchial list of Classes in each repo, with links to documentation for each Class. Each entry is a link to the documentation for the particular class which specifies Class properties and Class Functions: <br>
-  
+A hierarchial list of Classes in each repo, with links to documentation for each Class.<br>
+Each entry is a link to the documentation for the particular class which specifies Class properties and Class Functions: <br>
 
 - [soz-live](/repos/soz-live.html) - Main repo, with all of the core functionality included.
 - [soz-misc](/repos/soz-misc.html) - additional repo with Miscelaneous classes and scripts.
