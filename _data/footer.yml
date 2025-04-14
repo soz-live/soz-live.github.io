@@ -28,7 +28,9 @@ columns:
       - name: Categories
         link: /docs/categories.html
       - name: Commands
-        link: /docs/commands.html       
+        link: /docs/commands.html
+      - name: Repos
+        link: /docs/repos.html
   - title: Community
     subitems:        
       - name: Blog
