@@ -11,7 +11,8 @@ Each entry can be called from the command line.
 To view all of the Commands in a dialog box - use the **Y** command.
 
 
-## Hierarchy
+
+## Command Hierarchy
 
 - Y
   - Add
@@ -22,6 +23,23 @@ To view all of the Commands in a dialog box - use the **Y** command.
     - C-Object
     - C-Part
     - C-Reference
+  - Development
+    - Dev-GitHub
+      - D-GitHub-ReleaseCode
+      - D-GitHub-ReleaseVersion
+    - Dev-Map
+      - D-Map-Class
+      - D-Map-ClassFunc
+      - D-Map-ClassFuncLine
+      - D-Map-Function
+    - Dev-Source
+      - D-Source-Reload
+    - Dev-View
+      - D-View-Class
+      - D-View-Entities
+      - D-View-Entity
+      - D-View-Part
+      - D-View-RunTime
   - Edit
     - E-Custom
     - E-Entity
@@ -32,6 +50,11 @@ To view all of the Commands in a dialog box - use the **Y** command.
   - Export
     - X-Array
     - X-SOZ
+  - History
+    - H-First
+    - H-Last
+    - H-Record
+    - H-Select
   - Import
     - I-Array
     - I-CSV
@@ -68,6 +91,7 @@ To view all of the Commands in a dialog box - use the **Y** command.
           - M-Fabrication
           - M-Rebar
           - M-Rigging
+            - M-Slings
           - M-Surveying
             - M-Grid
             - M-Levels
@@ -85,6 +109,7 @@ To view all of the Commands in a dialog box - use the **Y** command.
               - M-Column
             - M-Members
               - M-Brace
+      - M-History
       - M-Misc
         - M-Fractal
         - M-Random
@@ -151,6 +176,6 @@ To view all of the Commands in a dialog box - use the **Y** command.
     - V-ResetEntities
     - V-SetEntities
 
-Version:  1.21.1
+Version:  1.22.5
 <br>
-Date: 20250301.1406
+Date: 20250414.205

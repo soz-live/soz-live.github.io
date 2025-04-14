@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-aec](/repos/soz-aec.html) |
+| Repo: | [soz-structural](/repos/soz-structural.html) |
 | Superclass: | [Enum](Enum.html) |
 | Subclasses: |  |
 | Interfaces: |  |

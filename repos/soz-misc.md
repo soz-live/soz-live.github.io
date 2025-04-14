@@ -1,5 +1,6 @@
 ---
 layout: default
+description: Sub Repo, with additional Misc. functionality included.
 ---
 
 # soz-misc
@@ -8,7 +9,7 @@ layout: default
 
 This repo includes additional misc. functionality for **soz-live**.
 
-## Hierarchy
+## Class Hierarchy
 
 - [SZOBBase](/classes/SZOBBase.html)
   - [Lisp](/classes/Lisp.html)
@@ -81,6 +82,6 @@ This repo includes additional misc. functionality for **soz-live**.
       - [SZCEScript](/classes/SZCEScript.html)
         - [SZCEScript-NestedHypocycloid](/classes/SZCEScript-NestedHypocycloid.html)
 
-Version:  1.21.1
+Version:  1.22.5
 <br>
-Date: 20250301.1406
+Date: 20250414.205

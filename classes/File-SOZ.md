@@ -5,7 +5,7 @@
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [File-TXT](File-TXT.html) |
-| Subclasses: | [SZIX-SOZ](SZIX-SOZ.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

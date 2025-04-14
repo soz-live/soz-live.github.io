@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-aec](/repos/soz-aec.html) |
+| Repo: | [soz-structural](/repos/soz-structural.html) |
 | Superclass: | [SZGETMatrix](SZGETMatrix.html) |
 | Subclasses: |  |
 | Interfaces: |  |

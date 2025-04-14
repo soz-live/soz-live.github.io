@@ -1,14 +1,21 @@
 ---
 layout: default
+description: Sub Repo, with Developer specific functionality included.
 ---
 
 # soz-devs
 
 ## Introduction
 
-This repo includes functionality for Developers of **soz-live**.
+This repo includes functionality for Developers of **soz-live**, including:
 
-## Hierarchy
+- Source code release creation functions and commands
+- Scripting routines for Github and PowerShell
+- Code Visualisation tools using mapping functions
+- Code Documentation tools used during the release of code.
+
+
+## Class Hierarchy
 
 - [SZOBBase](/classes/SZOBBase.html)
   - [SZOBObject](/classes/SZOBObject.html)
@@ -23,8 +30,7 @@ This repo includes functionality for Developers of **soz-live**.
                 - [DEVOText-LineOfCode](/classes/DEVOText-LineOfCode.html)
           - [AcDbBlockReference](/classes/AcDbBlockReference.html)
             - [DEVONode](/classes/DEVONode.html)
-              - [DEVONode-ClassName](/classes/DEVONode-ClassName.html)
-              - [DEVONode-FunctionName](/classes/DEVONode-FunctionName.html)
+              - [DEVONode-Function](/classes/DEVONode-Function.html)
           - [AcDbCurve](/classes/AcDbCurve.html)
             - [AcDb3dPolyline](/classes/AcDb3dPolyline.html)
               - [DEVOLink](/classes/DEVOLink.html)
@@ -33,9 +39,7 @@ This repo includes functionality for Developers of **soz-live**.
         - [AcDbTableRecord](/classes/AcDbTableRecord.html)
           - [AcDbBlock](/classes/AcDbBlock.html)
             - [DEVODef](/classes/DEVODef.html)
-              - [DEVODef-ClassName](/classes/DEVODef-ClassName.html)
               - [DEVODef-Function](/classes/DEVODef-Function.html)
-              - [DEVODef-FunctionName](/classes/DEVODef-FunctionName.html)
     - [SZOBDevOps](/classes/SZOBDevOps.html)
       - [SZOBDevOps-IDE](/classes/SZOBDevOps-IDE.html)
       - [SZOBDevOps-Map](/classes/SZOBDevOps-Map.html)
@@ -50,6 +54,6 @@ This repo includes functionality for Developers of **soz-live**.
         - [SZOBDocs](/classes/SZOBDocs.html)
           - [SZOBDocs-CSV](/classes/SZOBDocs-CSV.html)
 
-Version:  1.21.1
+Version:  1.22.5
 <br>
-Date: 20250301.1406
+Date: 20250414.205

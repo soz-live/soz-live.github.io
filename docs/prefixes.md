@@ -19,5 +19,4 @@ The Class Prefixes used within **SOZ-LIVE** are:
 | BSYS | BricSYS Entities | Bricsys database entities prefix |
 | SZCO | SoZ Cad Object | Extended CAD Objects prefix |
 | SZCE | SoZ Cad Entity | Extended CAD Entities prefix |
-| SZIX | SoZ Import eXport | Import and Export classes prefix |
 | DCLS | DCL Structure | A prefix for dialog box structures |

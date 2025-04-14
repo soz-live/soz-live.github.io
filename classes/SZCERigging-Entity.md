@@ -7,7 +7,7 @@
 | Superclass: | [SZCORigging](SZCORigging.html) |
 | Subclasses: |  |
 | Interfaces: |  |
-| Interfaced: | [SZCERigging-Shackle](SZCERigging-Shackle.html), [SZCERigging-Link](SZCERigging-Link.html), [SZCERigging-TwistedSling](SZCERigging-TwistedSling.html) |
+| Interfaced: | [SZCERigging-TwistedSling](SZCERigging-TwistedSling.html), [SZCERigging-Shackle](SZCERigging-Shackle.html), [SZCERigging-Link](SZCERigging-Link.html) |
 | Abstract?: | Yes |
 | isValue?: | No |
 | Help: | Base Rigging Entity Class |

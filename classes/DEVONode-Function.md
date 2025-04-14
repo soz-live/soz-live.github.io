@@ -1,5 +1,5 @@
 
-# Class:	DEVONode-ClassName
+# Class:	DEVONode-Function
 
 | Fields | Values |
 | --------- | --------- |
@@ -12,16 +12,15 @@
 | isValue?: | No |
 | Help: |  |
 
-### DEVONode-ClassName-Make
+### DEVONode-Function-Make
 
 | Keys | Types |
 | --------- | --------- |
-| CN | [SZMAClassName](SZMAClassName.html) |
 | POINT | [SZGEPoint](SZGEPoint.html) |
-| ANG | [Deg](Deg.html) |
+| FUNC | [SZMAFunctionName](SZMAFunctionName.html) |
 | **---** | **---** |
-| Returns: | [DEVONode-ClassName](DEVONode-ClassName.html) |
-| Help: | Make a Class Node |
+| Returns: | [DEVONode-Function](DEVONode-Function.html) |
+| Help: | Make a Function Node |
 
 
 ## Functions:

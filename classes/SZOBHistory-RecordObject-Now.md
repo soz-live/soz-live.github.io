@@ -1,0 +1,32 @@
+
+# Class:	SZOBHistory-RecordObject-Now
+
+| Fields | Values |
+| --------- | --------- |
+| Repo: | [soz-history](/repos/soz-history.html) |
+| Superclass: | [SZOBHistory-RecordObject](SZOBHistory-RecordObject.html) |
+| Subclasses: |  |
+| Interfaces: |  |
+| Interfaced: |  |
+| Abstract?: | No |
+| isValue?: | No |
+| Help: | RecordObject Now Class |
+
+### SZOBHistory-RecordObject-Now-Make
+
+| Keys | Types |
+| --------- | --------- |
+| OBJ | [SZOBObject](SZOBObject.html) |
+| **---** | **---** |
+| Returns: | [SZOBHistory-RecordObject](SZOBHistory-RecordObject.html) |
+| Help: | RecordObject Now |
+
+
+## Functions:
+
+| Types | Functions |
+| --------- | --------- |
+| Class: |  |
+| Super: | [SZOBHistory-RecordObject-Make](SZOBHistory-RecordObject.html) <br> [SZOBHistory-Record-Make](SZOBHistory-Record.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+
+

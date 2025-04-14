@@ -1,14 +1,15 @@
 ---
 layout: default
+description: Sub Repo, with rigging specific functionality included.
 ---
 
 # soz-rigging
 
 ## Introduction
 
-This repo includes rigging functionality for **soz-live**.
+This repo provides crane rigging functionality for **soz-live**.
 
-## Hierarchy
+## Class Hierarchy
 
 - [SZOBBase](/classes/SZOBBase.html)
   - [SZOBObject](/classes/SZOBObject.html)
@@ -18,25 +19,11 @@ This repo includes rigging functionality for **soz-live**.
           - [SZGELoop](/classes/SZGELoop.html)
             - [SZGEShape](/classes/SZGEShape.html)
               - [SZGEShape-Shackle-Eye](/classes/SZGEShape-Shackle-Eye.html)
-        - [SZGE3dCurve](/classes/SZGE3dCurve.html)
-          - [SZGE3dCurve-TwistedSling](/classes/SZGE3dCurve-TwistedSling.html)
     - [SZOBCAD](/classes/SZOBCAD.html)
       - [AcDbObject](/classes/AcDbObject.html)
-        - [AcDbGroup](/classes/AcDbGroup.html)
-          - [SZCEGroup](/classes/SZCEGroup.html)
-            - [SZCEModelGroup](/classes/SZCEModelGroup.html)
-              - [SZCEModelGroup-BlockRef](/classes/SZCEModelGroup-BlockRef.html)
-                - [SZCEModelGroup-BlockRef-Rotation](/classes/SZCEModelGroup-BlockRef-Rotation.html)
-                  - [SZCEModelGroup-TwistedChain](/classes/SZCEModelGroup-TwistedChain.html)
         - [AcDbTableRecord](/classes/AcDbTableRecord.html)
           - [AcDbBlock](/classes/AcDbBlock.html)
             - [SZCEModelDef](/classes/SZCEModelDef.html)
-              - [SZCEModel](/classes/SZCEModel.html)
-                - [SZCEModel-TwistedLink](/classes/SZCEModel-TwistedLink.html)
-                - [SZCEPart](/classes/SZCEPart.html)
-                  - [SZCEPart-MultiFeature](/classes/SZCEPart-MultiFeature.html)
-                    - [SZCEPart-FilletedSweep-MultiRadii](/classes/SZCEPart-FilletedSweep-MultiRadii.html)
-                      - [SZCERigging-TwistedSling](/classes/SZCERigging-TwistedSling.html)
               - [SZCEModelDef-ChainLink](/classes/SZCEModelDef-ChainLink.html)
                 - [SZCERigging-Link](/classes/SZCERigging-Link.html)
               - [SZCERigging-Shackle](/classes/SZCERigging-Shackle.html)
@@ -65,6 +52,6 @@ This repo includes rigging functionality for **soz-live**.
                 - [SZCORigging-Chain](/classes/SZCORigging-Chain.html)
                 - [SZCORigging-RoundSling](/classes/SZCORigging-RoundSling.html)
 
-Version:  1.21.1
+Version:  1.22.5
 <br>
-Date: 20250301.1406
+Date: 20250414.205

@@ -5,7 +5,7 @@
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [T](T.html) |
-| Subclasses: | [File](File.html) <br> [AXObject](AXObject.html) <br> [AcDbEname](AcDbEname.html) <br> [Option](Option.html) <br> [String](String.html) <br> [Number](Number.html) |
+| Subclasses: | [AXObject](AXObject.html) <br> [File](File.html) <br> [AcDbEname](AcDbEname.html) <br> [Option](Option.html) <br> [String](String.html) <br> [Number](Number.html) |
 | Interfaces: |  |
 | Interfaced: | [SZLPAtom](SZLPAtom.html), [SZCOObject](SZCOObject.html) |
 | Abstract?: | Yes |

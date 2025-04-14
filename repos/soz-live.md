@@ -1,16 +1,17 @@
 ---
 layout: default
+description: Main project Repo, with core functionality included.
 ---
 
 # soz-live
 
 ## Introduction
 
+The main project repo, with core functionality included.  
 All classes are derived from the Base Class - **SZOBBase**.<br>
 
 
-
-## Hierarchy
+## Class Hierarchy
 
 - [SZOBBase](/classes/SZOBBase.html)
   - [Lisp](/classes/Lisp.html)
@@ -26,11 +27,9 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
             - [File-DWG](/classes/File-DWG.html)
             - [File-TXT](/classes/File-TXT.html)
               - [File-CSV](/classes/File-CSV.html)
-                - [SZIX-CSVA](/classes/SZIX-CSVA.html)
               - [File-LSP](/classes/File-LSP.html)
               - [File-MD](/classes/File-MD.html)
               - [File-SOZ](/classes/File-SOZ.html)
-                - [SZIX-SOZ](/classes/SZIX-SOZ.html)
           - [Number](/classes/Number.html)
             - [Real](/classes/Real.html)
               - [Angle](/classes/Angle.html)
@@ -67,14 +66,22 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
               - [Function](/classes/Function.html)
               - [Symbol](/classes/Symbol.html)
             - [Comment](/classes/Comment.html)
+            - [Date](/classes/Date.html)
+              - [Date-Now](/classes/Date-Now.html)
+            - [Day](/classes/Day.html)
+            - [Hour](/classes/Hour.html)
             - [Key](/classes/Key.html)
             - [Label](/classes/Label.html)
+            - [Minute](/classes/Minute.html)
+            - [Month](/classes/Month.html)
             - [PathName](/classes/PathName.html)
               - [FileName](/classes/FileName.html)
             - [SOZID](/classes/SOZID.html)
             - [SZMAClassName](/classes/SZMAClassName.html)
+            - [Second](/classes/Second.html)
             - [String-Delim](/classes/String-Delim.html)
               - [String-CSV](/classes/String-CSV.html)
+            - [Year](/classes/Year.html)
         - [List](/classes/List.html)
           - [Array](/classes/Array.html)
             - [AcDbEnames](/classes/AcDbEnames.html)
@@ -140,21 +147,6 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
                       - [DCLS-Dialog-List-ObjectKeySelect](/classes/DCLS-Dialog-List-ObjectKeySelect.html)
                       - [DCLS-Dialog-List-SelectItem](/classes/DCLS-Dialog-List-SelectItem.html)
                     - [DCLS-Dialog-SOZIDs-Editor](/classes/DCLS-Dialog-SOZIDs-Editor.html)
-                - [Filter](/classes/Filter.html)
-                  - [Filter-AND](/classes/Filter-AND.html)
-                  - [Filter-ANDS](/classes/Filter-ANDS.html)
-                  - [Filter-Any](/classes/Filter-Any.html)
-                  - [Filter-Class](/classes/Filter-Class.html)
-                  - [Filter-Method](/classes/Filter-Method.html)
-                  - [Filter-NOT](/classes/Filter-NOT.html)
-                  - [Filter-OR](/classes/Filter-OR.html)
-                  - [Filter-ORS](/classes/Filter-ORS.html)
-                  - [Filter-Point-AND](/classes/Filter-Point-AND.html)
-                  - [Filter-Property](/classes/Filter-Property.html)
-                  - [Filter-String](/classes/Filter-String.html)
-                  - [Filter-Type](/classes/Filter-Type.html)
-                  - [Filter-Value](/classes/Filter-Value.html)
-                  - [Filter-XOR](/classes/Filter-XOR.html)
                 - [User](/classes/User.html)
                   - [User-Function](/classes/User-Function.html)
                   - [User-LiveMake](/classes/User-LiveMake.html)
@@ -254,7 +246,6 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
               - [SZGEShape-CShape](/classes/SZGEShape-CShape.html)
                 - [SZGEShape-ColdChannel](/classes/SZGEShape-ColdChannel.html)
                 - [SZGEShape-ParallelChannel](/classes/SZGEShape-ParallelChannel.html)
-              - [SZGEShape-ChainLink](/classes/SZGEShape-ChainLink.html)
               - [SZGEShape-Circle](/classes/SZGEShape-Circle.html)
               - [SZGEShape-Hat](/classes/SZGEShape-Hat.html)
               - [SZGEShape-IShape](/classes/SZGEShape-IShape.html)
@@ -525,10 +516,6 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
               - [SZLPExpression](/classes/SZLPExpression.html)
               - [SZLPFunction-Block](/classes/SZLPFunction-Block.html)
                 - [SZLP-PROGN](/classes/SZLP-PROGN.html)
-            - [SZLPMacro](/classes/SZLPMacro.html)
-              - [SZLPMacro-Equation](/classes/SZLPMacro-Equation.html)
-              - [SZLPMacro-Point](/classes/SZLPMacro-Point.html)
-              - [SZLPMacro-Points](/classes/SZLPMacro-Points.html)
             - [SZLPSymbol](/classes/SZLPSymbol.html)
           - [SZLPList](/classes/SZLPList.html)
             - [SZLPArray](/classes/SZLPArray.html)
@@ -691,7 +678,6 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
             - [SZCEModelGroup](/classes/SZCEModelGroup.html)
               - [SZCEModelGroup-BlockRef](/classes/SZCEModelGroup-BlockRef.html)
                 - [SZCEModelGroup-BlockRef-Rotation](/classes/SZCEModelGroup-BlockRef-Rotation.html)
-                  - [SZCEModelGroup-Chain](/classes/SZCEModelGroup-Chain.html)
               - [SZCEModelGroup-Solids](/classes/SZCEModelGroup-Solids.html)
                 - [SZCEModelGroup-Solid-CubedOnCurve](/classes/SZCEModelGroup-Solid-CubedOnCurve.html)
                 - [SZCEModelGroup-Solid-DiceOnWCS](/classes/SZCEModelGroup-Solid-DiceOnWCS.html)
@@ -719,7 +705,6 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
                     - [SZCEPart-Extrusion-AcDbPolyline](/classes/SZCEPart-Extrusion-AcDbPolyline.html)
                   - [SZCEPart-Sphere](/classes/SZCEPart-Sphere.html)
                   - [SZCEPart-Sweep](/classes/SZCEPart-Sweep.html)
-              - [SZCEModelDef-ChainLink](/classes/SZCEModelDef-ChainLink.html)
               - [SZCESection](/classes/SZCESection.html)
             - [SZLVDef](/classes/SZLVDef.html)
           - [AcDbLayerTableRecord](/classes/AcDbLayerTableRecord.html)
@@ -734,11 +719,6 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
               - [SZCEUCS-Line-MidPoint](/classes/SZCEUCS-Line-MidPoint.html)
         - [AcDbXrecord](/classes/AcDbXrecord.html)
       - [AcDbVars](/classes/AcDbVars.html)
-      - [ODBXObject](/classes/ODBXObject.html)
-        - [ODBXApplication](/classes/ODBXApplication.html)
-        - [ODBXDocument](/classes/ODBXDocument.html)
-        - [ODBXScript](/classes/ODBXScript.html)
-          - [ODBXScript-Section-PaperSpace-Setup](/classes/ODBXScript-Section-PaperSpace-Setup.html)
       - [SZCOObject](/classes/SZCOObject.html)
         - [SZCEElement](/classes/SZCEElement.html)
         - [SZCOColor](/classes/SZCOColor.html)
@@ -875,6 +855,6 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
           - [SZCOScript-Features-ProfileCut](/classes/SZCOScript-Features-ProfileCut.html)
       - [SZCOScript-ModelGroups](/classes/SZCOScript-ModelGroups.html)
 
-Version:  1.21.1
+Version:  1.22.5
 <br>
-Date: 20250301.1406
+Date: 20250414.205

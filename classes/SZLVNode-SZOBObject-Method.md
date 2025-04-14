@@ -17,7 +17,7 @@
 | Keys | Types |
 | --------- | --------- |
 | POINT | [SZGEPoint](SZGEPoint.html) |
-| OBJ | [SZOBObject-Method](SZOBObject-Method.html) |
+| RETURNS | [SZOBObject-Method](SZOBObject-Method.html) |
 | **---** | **---** |
 | Returns: | [SZLVNode](SZLVNode.html) |
 | Help: | SZLVNode using a MethodObject |

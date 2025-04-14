@@ -5,7 +5,7 @@
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [File-TXT](File-TXT.html) |
-| Subclasses: | [SZIX-CSVA](SZIX-CSVA.html) |
+| Subclasses: | [File-CSVA](File-CSVA.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

@@ -14,7 +14,7 @@ For example:
 - The **M-Part** command will bring up a list of different types of Parts that can be made.  
 - While **M-Model** will bring up all Parts and Assemblies, Features, Groups, References etc...  
 
-## Hierarchy
+## Category Hierarchy
 
 - Base
   - Code
@@ -38,6 +38,7 @@ For example:
       - Fabrication
       - Rebar
       - Rigging
+        - Slings
       - Surveying
         - Grid
         - Levels
@@ -55,6 +56,7 @@ For example:
           - Column
         - Members
           - Brace
+  - History
   - Misc
     - Fractal
     - Random
@@ -104,6 +106,6 @@ For example:
         - List
   - Script
 
-Version:  1.21.1
+Version:  1.22.5
 <br>
-Date: 20250301.1406
+Date: 20250414.205

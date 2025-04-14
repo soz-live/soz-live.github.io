@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-devs](/repos/soz-devs.html) |
+| Repo: |  |
 | Superclass: | [SZOBObject](SZOBObject.html) |
 | Subclasses: | [SZOBDevOps-Map](SZOBDevOps-Map.html) <br> [SZOBDevOps-IDE](SZOBDevOps-IDE.html) <br> [SZOBDoc](SZOBDoc.html) |
 | Interfaces: |  |

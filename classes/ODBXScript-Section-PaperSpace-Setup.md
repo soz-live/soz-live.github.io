@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-live](/repos/soz-live.html) |
+| Repo: | [soz-odbx](/repos/soz-odbx.html) |
 | Superclass: | [ODBXScript](ODBXScript.html) |
 | Subclasses: |  |
 | Interfaces: |  |

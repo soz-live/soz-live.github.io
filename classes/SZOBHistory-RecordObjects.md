@@ -1,16 +1,16 @@
 
-# Class:	SZOBDocs-GitHub
+# Class:	SZOBHistory-RecordObjects
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | soz-devs |
-| Superclass: | [SZOBDocs](SZOBDocs.html) |
+| Repo: | [soz-history](/repos/soz-history.html) |
+| Superclass: | [SZOBHistory](SZOBHistory.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Documentation of GitHub Files |
+| Help: | Base History RecordObjects Class |
 
 
 ## Functions:

@@ -1,16 +1,16 @@
 
-# Class:	SZIX-SOZ
+# Class:	File-CSVA
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [File-SOZ](File-SOZ.html) |
+| Repo: | [soz-files](/repos/soz-files.html) |
+| Superclass: | [File-CSV](File-CSV.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | SZIX-SOZ Class |
+| Help: | File-CSVA Class |
 
 
 ## Functions:

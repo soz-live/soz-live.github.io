@@ -1,12 +1,3 @@
----
-layout: default
----
-
-# SZOBBase
-
-This is the Base class of the **soz-live** project.
-Every class and script is derived from this class.
-
 
 # Class:	SZOBBase
 

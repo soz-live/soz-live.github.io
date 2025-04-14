@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-live](/repos/soz-live.html) |
+| Repo: | [soz-slings](/repos/soz-slings.html) |
 | Superclass: | [SZCEModelDef](SZCEModelDef.html) |
 | Subclasses: | [SZCERigging-Link](SZCERigging-Link.html) |
 | Interfaces: |  |

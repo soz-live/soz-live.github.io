@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-aec](/repos/soz-aec.html) |
+| Repo: | [soz-bsys](/repos/soz-bsys.html) |
 | Superclass: | [AcDb3dSolid-BsysTinSurface](AcDb3dSolid-BsysTinSurface.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -16,8 +16,8 @@
 
 | Keys | Types |
 | --------- | --------- |
+| TIN0 | [BsysTinSurface](BsysTinSurface.html) |
 | TIN1 | [BsysTinSurface](BsysTinSurface.html) |
-| TIN2 | [BsysTinSurface](BsysTinSurface.html) |
 | **---** | **---** |
 | Returns: | [AcDb3dSolid-BsysTinSurface](AcDb3dSolid-BsysTinSurface.html) |
 | Help: | Creates a TIN based Solid |

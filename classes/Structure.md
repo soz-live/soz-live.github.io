@@ -5,7 +5,7 @@
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Alist](Alist.html) |
-| Subclasses: | [DCLS](DCLS.html) <br> [User](User.html) <br> [Filter](Filter.html) |
+| Subclasses: | [DCLS](DCLS.html) <br> [User](User.html) |
 | Interfaces: |  |
 | Interfaced: | [DCLS](DCLS.html) |
 | Abstract?: | Yes |
