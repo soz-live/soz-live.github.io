@@ -203,7 +203,7 @@ And:
 | ClassName | String | Name of the Class |
 | Categories | List:Category | a list of Categories for the Class |
 
-For the full list - refer to the [Categories](categories.html) document.
+For the full list - refer to the [Categories](/docs/categories.html) document.
 
 
 > **Notes:**<br>

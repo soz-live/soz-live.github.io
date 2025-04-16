@@ -74,7 +74,7 @@ Command-Line user Interface
 
 ## DIP
 
-Stands for the Dependency Inversion Priciple and is the D in [SOLID](#solid). <br> It describes the strategy of depending upon Abstractions (abstract classes) and not to depend upon concretions (actual classes).
+Stands for the Dependency Inversion Priciple and is the D in [SOLID](#solid). <br> It describes the strategy of depending upon Abstractions (abstract classes) and not to depend upon concretions (actual classes).
 
 
 ## DRY
@@ -141,7 +141,7 @@ A self contained thing - interacting with other Objects through methods. <br> An
 
 ## OCP
 
-Stands for the Open Closed Principle and is the O in [SOLID](#solid). <br> It describes the requirement that a module should be open for extension but closed for modification.
+Stands for the Open Closed Principle and is the O in [SOLID](#solid). <br> It describes the requirement that a module should be open for extension but closed for modification.
 
 
 ## OOP
@@ -163,7 +163,7 @@ Refer to the below glossary entries for the five principles.
 
 ## SOZ
 
-An extension of the [Lisp](#lisp) programming language within [CAD](#cad) that provides a means of doing [OOP](#oop) using a [FP](#fp) language to create and manipulate [objects](#object).  
+An extension of the [Lisp](#lisp) programming language within [CAD](#cad) that provides a means of doing [OOP](#oop) using a [FP](#fp) language to create and manipulate [objects](#object).  
 The name SOZ comes from Scripted ObjectZ, with the Z used to indicate the reflective nature of the language.  
 
 
@@ -197,4 +197,4 @@ Also know as a Class.
 
 User Interface - for users to interact with the program. <br> In SOZ there are three UIs - a CLI, a GUI and LIVE.
 
-Date: 20250414.205
+Date: 20250416.1904
