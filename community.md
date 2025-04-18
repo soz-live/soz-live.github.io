@@ -42,7 +42,7 @@ You will need to set-up a GitHub account.
 
 ### Discord
 
-You can join the **soz-live** Discord Server by using the link in the form above.  
+You can join the **soz-live** Discord Server by using this [link](https://discord.gg/UwKKv3C3Mk).  
 You will need to set-up a Discord account.
 
 ### YouTube

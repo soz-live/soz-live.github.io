@@ -7,8 +7,8 @@ layout: default
 ## Contents
 
 - Home
-  - [Status](#status)
   - [Introduction](#introduction)
+  - [Status](#status)
   - [SOZ](#soz)
     - [The What of SOZ](#the-what-of-soz)  
     - [The Why of SOZ](#the-why-of-soz)  
@@ -18,15 +18,15 @@ layout: default
   - [Platforms](#platforms)
 
 
+## Introduction
+
+**SOZ-LIVE** is a CAD extension, written in Lisp.  
+
+**SOZ-LIVE** is a collection of over 2600 Lisp routines, that enables the creation of complex CAD entities, from a series of inputs of simpler objects.
+
 ## Status
 
 The current status of the project is **Private Beta**.
-
-## Introduction
-
-**SOZ-LIVE** is a CAD extension, written in LISP.  
-
-**SOZ-LIVE** is a collection of over 2600 Lisp routines, that enables the creation of complex CAD entities, from a series of inputs of simpler objects.
 
 ## SOZ
 
@@ -77,4 +77,3 @@ The routines are built into the Core of **SOZ**, and consist of under 1000 lines
 
 - 3D Modelling functionality requires BricsCAD Pro or above, or full AutoCAD.<br>
 - Some Civil functionality is limited to BricsCAD Pro or above only.
-

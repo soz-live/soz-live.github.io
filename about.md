@@ -7,7 +7,7 @@ layout: default
 ## The Vision
 
 The vision is to provide a better way of programming Lisp in CAD with immediate benefits to the coder, the user and the community.  
-By combining the functionality that **SOZ** provides, with the visual experience of **LIVE**, the project can create a niche product not seen before.  
+By combining the functionality that **SOZ** provides, with the visual experience of **LIVE**, the project creates a niche product not seen before.  
 All written in the one language, Lisp.  
 
 ## Timeline
