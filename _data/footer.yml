@@ -1,26 +1,18 @@
 columns:
-  - title: Users
+  - title: Support
     subitems:
-      - name: Intro
-        link: /docs/users/intro.html
-      - name: Quickstart
-        link: /docs/users/quickstart.html
-      - name: Basics
-        link: /docs/users/basics.html
-  - title: Coders
-    subitems:
-      - name: Intro
-        link: /docs/coders/intro.html
-      - name: Lisp
-        link: /docs/coders/lisp.html
-      - name: Basics
-        link: /docs/coders/basics.html
-  - title: Resources
-    subitems:
+      - name: Users
+        link: /docs/users/intro.html    
+      - name: Coders
+        link: /docs/coders/intro.html    
       - name: Docs
         link: /docs/docs.html
       - name: Videos
         link: /videos/videos.html
+      - name: Repos
+        link: /docs/repos.html        
+  - title: References
+    subitems:
       - name: Glossary
         link: /docs/glossary.html
       - name: Prefixes
@@ -29,8 +21,6 @@ columns:
         link: /docs/categories.html
       - name: Commands
         link: /docs/commands.html
-      - name: Repos
-        link: /docs/repos.html
   - title: Community
     subitems:        
       - name: Blog
