@@ -1,24 +1,22 @@
----
----
-    <!-- <div>  -->
+<!-- <div>  -->
+
+<h4>Examples</h4>
+
+{% for item in include.id %}  
+
+<p><b>{{ item.title }}</b></p>  
+
+<div class="example-flex-container"> 
+
+    <div>
+    {{ item.text }}
+    </div> 
     
-    <h4>Examples</h4>
+    <div>        
+    <img src="{{ item.image }}" alt="{{ item.alt }}">
+    </div>  
     
-    {% for item in include.id %}  
-    
-    <p><b>{{ item.title }}</b></p>  
-    
-    <div class="example-flex-container"> 
-    
-        <div>
-        {{ item.text }}
-        </div> 
-        
-        <div>        
-        <img src="{{ item.image }}" alt="{{ item.alt }}">
-        </div>  
-        
-    </div>
-    {% endfor %}
-      
-    <!-- </div>     -->
+</div>
+{% endfor %}
+  
+<!-- </div>     -->
