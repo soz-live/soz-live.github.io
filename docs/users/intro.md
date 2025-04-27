@@ -62,3 +62,4 @@ All with the ability to Edit and Update previously created Objects and Entities.
 
 - [Quickstart Guide](/docs/users/quickstart.html)
 - [Basic Information](/docs/users/basics.html)
+- [soz-live Guide](/docs/users/soz-live.html)
