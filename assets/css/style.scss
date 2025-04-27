@@ -43,6 +43,20 @@ nav a {
   }
 }
 
+.header-flex-container {
+  display: flex;
+  flex-direction: row;  
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+@media (max-width: 480px) {
+  .header-flex-container {
+    flex-direction: column;
+  }
+}
+
+
 .example-flex-container {
   display: flex;
   flex-direction: row;  
