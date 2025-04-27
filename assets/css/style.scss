@@ -42,3 +42,16 @@ nav a {
     flex-direction: column;
   }
 }
+
+.example-flex-container {
+  display: flex;
+  flex-direction: row;  
+  justify-content: space-around;
+  align-items: flex-start;
+}
+
+@media (max-width: 480px) {
+  .example-flex-container {
+    flex-direction: column;
+  }
+}
