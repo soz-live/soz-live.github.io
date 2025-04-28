@@ -1,21 +1,6 @@
 ---
 layout: default
 
-real_examples:
-  - title: Basic
-    text: "With a leading 0"
-    image: /assets/images/egs-real-1.png    
-    alt: Test Alt Text
-  - title: Intermediate
-    text: "Using a Lisp Equation"
-    image: /assets/images/egs-real-2.png    
-    alt: Using a Lisp Equation
-  - title: Advanced
-    text: "Adding a list of Reals"
-    image: /assets/images/egs-real-3.png    
-    alt: Using the ADDS function        
-
-
 ---
 # SOZ-LIVE - Users
 
@@ -51,6 +36,8 @@ There are a variety of Value types that are explored more below.
 A Real value represents a real number.  
 There are Real Values and there are Real Objects, both of which return a value that can be used within other objects, such as Points and Vectors to represent coordinates and length arguments.  
 
-{% include examples.html id=page.real_examples %}
+{% include note.html content="These examples are only testing functionality at the moment." %}
 
-Date: 20250427.1201
+{% include examples.html id=site.data.examples.szlpreal %}
+
+Date: 20250428.2024

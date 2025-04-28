@@ -21,7 +21,7 @@ The model is then created as a **LIVE** model - to enable editing and updating o
 - Editing the values 
 - Updating the Model
 
-{% include youtube.html id=page.youtubeId_1 %}
+{% include youtube.html ytid=page.youtubeId_1 %}
 
 
 ## Stage 2
@@ -30,7 +30,7 @@ The model is then created as a **LIVE** model - to enable editing and updating o
 - Editing the Part
 - Updating the Model
 
-{% include youtube.html id=page.youtubeId_2 %}
+{% include youtube.html ytid=page.youtubeId_2 %}
 
 
 ## Stage 3
@@ -39,5 +39,5 @@ The model is then created as a **LIVE** model - to enable editing and updating o
 - Editing values within the Part
 - Updating the Model.
 
-{% include youtube.html id=page.youtubeId_3 %}
+{% include youtube.html ytid=page.youtubeId_3 %}
 

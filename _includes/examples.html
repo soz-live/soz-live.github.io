@@ -3,16 +3,18 @@
 
 {% for item in include.id %}  
 
-<b>{{ item.title }}</b>
+<h5>{{ item.title }}</h5>
+
+{{ item.text }}
 
 <div class="example-flex-container"> 
 
-    <div>
-    {{ item.text }}
+    <div style="flex-grow: 1">
+      <img src="{{ item.image }}" alt="{{ item.alt }}">
     </div> 
     
-    <div>        
-    <img src="{{ item.image }}" alt="{{ item.alt }}">
+    <div style="flex-grow: 3">       
+      {% include youtube.html ytid=item.youtube %}
     </div>  
     
 </div>

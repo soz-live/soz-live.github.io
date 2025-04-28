@@ -1,0 +1,18 @@
+
+szlpreal:
+  - title: Basic
+    text: "With a leading 0"
+    image: /assets/images/egs-real-1.png    
+    alt: Test Alt Text
+    youtube: -3fIljgH8Os
+  - title: Intermediate
+    text: "Using a Lisp Equation"
+    image: /assets/images/egs-real-2.png    
+    alt: Using a Lisp Equation
+    youtube: ZgXpgT1C07c
+  - title: Advanced
+    text: "Adding a list of Reals"
+    image: /assets/images/egs-real-3.png    
+    alt: Using the ADDS function        
+    youtube: Bewosa4CFw4
+
