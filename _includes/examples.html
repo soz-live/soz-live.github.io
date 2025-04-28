@@ -7,15 +7,15 @@
 
 {{ item.text }}
 
-<div class="example-flex-container"> 
+<!-- <div class="example-flex-container">  -->
 
-    <div style="flex-grow: 1">
-      <img src="{{ item.image }}" alt="{{ item.alt }}">
-    </div> 
+<!--     <div>
+      <img src="{{ item.image }}" alt="{{ item.alt }}" width="300px">
+    </div>  -->
     
-    <div style="flex-grow: 3">       
-      {% include youtube.html ytid=item.youtube %}
-    </div>  
+    <!-- <div>        -->
+{% include youtube.html ytid=item.youtube %}
+    <!-- </div>   -->
     
-</div>
+<!-- </div> -->
 {% endfor %}
