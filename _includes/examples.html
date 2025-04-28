@@ -1,21 +1,8 @@
-
-<h4>Examples</h4>
-
-{% for item in include.id %}  
-
-<h5>{{ item.title }}</h5>
-
-{{ item.text }}
-
-<!-- <div class="example-flex-container">  -->
-
-<!--     <div>
-      <img src="{{ item.image }}" alt="{{ item.alt }}" width="300px">
-    </div>  -->
-    
-    <!-- <div>        -->
-{% include youtube.html ytid=item.youtube %}
-    <!-- </div>   -->
-    
-<!-- </div> -->
-{% endfor %}
+<div>
+  <h4>Examples</h4>
+  {% for item in include.id %}  
+    <h5>{{ item.title }}</h5>
+    {{ item.text }}
+    {% include youtube.html ytid=item.youtube %}
+  {% endfor %}
+</div>
