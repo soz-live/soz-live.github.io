@@ -176,6 +176,6 @@ To view all of the Commands in a dialog box - use the **Y** command.
     - V-ResetEntities
     - V-SetEntities
 
-Version:  1.22.5
+Version:  1.23.0
 <br>
-Date: 20250414.205
+Date: 20250502.1752

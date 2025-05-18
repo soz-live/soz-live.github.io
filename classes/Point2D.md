@@ -1,5 +1,5 @@
 
-# Class:	Point-Spherical
+# Class:	Point2D
 
 | Fields | Values |
 | --------- | --------- |
@@ -10,18 +10,17 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Spherical Point |
+| Help: | Point2D Class |
 
-### Point-Spherical-Make
+### Point2D-Make
 
 | Keys | Types |
 | --------- | --------- |
-| RADIUS | [Real](Real.html) |
-| THETA | [Rad](Rad.html) |
-| PHI | [Rad](Rad.html) |
+| X | [Real](Real.html) |
+| Y | [Real](Real.html) |
 | **---** | **---** |
-| Returns: | [Point-Spherical](Point-Spherical.html) |
-| Help: | Make a Point-Spherical |
+| Returns: | [Point2D](Point2D.html) |
+| Help: | Creates a Point2D of X Y values |
 
 
 ## Functions:

@@ -8,9 +8,20 @@
 | Subclasses: | [SZGEShape](SZGEShape.html) <br> [SZGELoop-Points](SZGELoop-Points.html) <br> [SZGELoop-AcDbPolyline](SZGELoop-AcDbPolyline.html) |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | Yes |
+| Abstract?: | No |
 | isValue?: | Yes |
 | Help: | SZGELoop Class |
+
+### SZGELoop-Make
+
+| Keys | Types |
+| --------- | --------- |
+| POINTS | [List:Point2D](Point2D.html) |
+| BULGES | [List:Bulge](Bulge.html) |
+| CLOSED | [Boolean](Boolean.html) |
+| **---** | **---** |
+| Returns: | [SZGELoop](SZGELoop.html) |
+| Help: | Make a SZGELoop |
 
 
 ## Functions:

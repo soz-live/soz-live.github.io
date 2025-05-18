@@ -98,6 +98,6 @@ With this repo it is possible to:
             - [SZCEScript-Columns-FootingToOpenEnd](/classes/SZCEScript-Columns-FootingToOpenEnd.html)
           - [SZCEScript-Members-MemberToMember-OnPlanes](/classes/SZCEScript-Members-MemberToMember-OnPlanes.html)
 
-Version:  1.22.5
+Version:  1.23.0
 <br>
-Date: 20250414.205
+Date: 20250502.1752

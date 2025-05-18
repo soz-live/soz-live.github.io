@@ -1,6 +1,5 @@
 ---
 layout: default
-
 ---
 # SOZ-LIVE - Users
 
@@ -33,11 +32,11 @@ There are a variety of Value types that are explored more below.
 
 ### Real
 
-A Real value represents a real number.  
-There are Real Values and there are Real Objects, both of which return a value that can be used within other objects, such as Points and Vectors to represent coordinates and length arguments.  
+A Real value represents a real number to represent length arguments.  
+There are Real Values and there are Real Objects, both of which return a value that can be used within other objects, such as Points and Vectors to represent coordinates.  
 
 {% include note.html content="These examples are only testing functionality at the moment." %}
 
 {% include examples.html id=site.data.examples.szlpreal %}
 
-Date: 20250428.2024
+Date: 20250502.1752

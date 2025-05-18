@@ -20,6 +20,7 @@
 | FLIP | [Boolean](Boolean.html) |
 | OFFSET | [Real](Real.html) |
 | KEEP | [Enum-AcDb3dSolidSlice](Enum-AcDb3dSolidSlice.html) |
+| SHOW | [Boolean](Boolean.html) |
 | **---** | **---** |
 | Returns: | [SZCOFeature-Slice-Plane](SZCOFeature-Slice-Plane.html) |
 | Help: | Make a SZCOFeature-Slice-Plane |

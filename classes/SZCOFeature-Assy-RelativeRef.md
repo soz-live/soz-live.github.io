@@ -17,6 +17,7 @@
 | Keys | Types |
 | --------- | --------- |
 | MODEL | [SZCEModelRef](SZCEModelRef.html) |
+| SHOW | [Boolean](Boolean.html) |
 | **---** | **---** |
 | Returns: | [SZCOFeature-Assy-RelativeRef](SZCOFeature-Assy-RelativeRef.html) |
 | Help: | Make a SZCOFeature-Assy-RelativeRef |

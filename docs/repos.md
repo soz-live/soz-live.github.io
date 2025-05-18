@@ -22,6 +22,6 @@ Each link refers to a file for the repo which contains a hierarchial list of Cla
 - [soz-structural](/repos/soz-structural.html)<br>  - Sub Repo, with structural functionality included.
 - [soz-devs](/repos/soz-devs.html)<br>  - Sub Repo, with Developer specific functionality included.
 
-Version:  1.22.5
+Version:  1.23.0
 <br>
-Date: 20250414.205
+Date: 20250502.1752

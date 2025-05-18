@@ -220,6 +220,7 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
                 - [Orientation](/classes/Orientation.html)
                 - [Point](/classes/Point.html)
                   - [Point-Spherical](/classes/Point-Spherical.html)
+                  - [Point2D](/classes/Point2D.html)
                 - [Vector2D](/classes/Vector2D.html)
             - [SOZIDs](/classes/SOZIDs.html)
             - [Strings](/classes/Strings.html)
@@ -855,6 +856,6 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
           - [SZCOScript-Features-ProfileCut](/classes/SZCOScript-Features-ProfileCut.html)
       - [SZCOScript-ModelGroups](/classes/SZCOScript-ModelGroups.html)
 
-Version:  1.22.5
+Version:  1.23.0
 <br>
-Date: 20250414.205
+Date: 20250502.1752

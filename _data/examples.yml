@@ -7,6 +7,17 @@ szlpreal:
     text: "Using a Lisp Equation"
     youtube: ZgXpgT1C07c
   - title: Advanced
-    text: "Adding a list of Reals"
+    text: "Adding together a list of Reals"
     youtube: Bewosa4CFw4
 
+
+option:
+  - title: Basic
+    text: "Boolean - True or False"
+    youtube: -3fIljgH8Os
+  - title: Intermediate
+    text: "A Boolean Combination Value"
+    youtube: ZgXpgT1C07c
+  - title: Advanced
+    text: "A Loop Alignment Value"
+    youtube: Bewosa4CFw4

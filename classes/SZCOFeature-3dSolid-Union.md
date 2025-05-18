@@ -17,6 +17,7 @@
 | Keys | Types |
 | --------- | --------- |
 | SOLID | [SZCOSolid](SZCOSolid.html) |
+| SHOW | [Boolean](Boolean.html) |
 | **---** | **---** |
 | Returns: | [SZCOFeature-3dSolid-Union](SZCOFeature-3dSolid-Union.html) |
 | Help: | Union Feature |

@@ -20,6 +20,7 @@
 | OPERATION | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |
 | PMATRIX | [SZGETMatrix](SZGETMatrix.html) |
 | PATTERN | [SZGEPattern](SZGEPattern.html) |
+| SHOW | [Boolean](Boolean.html) |
 | **---** | **---** |
 | Returns: | [SZCOFeature-PatternedSolid](SZCOFeature-PatternedSolid.html) |
 | Help: | Make a SZCOFeature-PatternedSolid |

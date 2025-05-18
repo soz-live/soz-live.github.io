@@ -17,6 +17,7 @@
 | Keys | Types |
 | --------- | --------- |
 | SOLID | [SZCOSolid](SZCOSolid.html) |
+| SHOW | [Boolean](Boolean.html) |
 | **---** | **---** |
 | Returns: | [SZCOFeature-3dSolid-Intersection](SZCOFeature-3dSolid-Intersection.html) |
 | Help: | Intersection Feature |

@@ -17,6 +17,7 @@
 | Keys | Types |
 | --------- | --------- |
 | MREF | [SZCEModelRef](SZCEModelRef.html) |
+| SHOW | [Boolean](Boolean.html) |
 | **---** | **---** |
 | Returns: | [SZCOFeature-ProfileCut](SZCOFeature-ProfileCut.html) |
 | Help: | ProfileCut Feature |

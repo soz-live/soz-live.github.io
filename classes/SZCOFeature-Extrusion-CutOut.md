@@ -17,6 +17,7 @@
 | Keys | Types |
 | --------- | --------- |
 | PLANES | [List:SZCEPlane](SZCEPlane.html) |
+| SHOW | [Boolean](Boolean.html) |
 | **---** | **---** |
 | Returns: | [SZCOFeature-Extrusion-CutOut](SZCOFeature-Extrusion-CutOut.html) |
 | Help: | Make a Face Cut out |

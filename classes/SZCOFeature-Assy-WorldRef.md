@@ -18,6 +18,7 @@
 | --------- | --------- |
 | MODEL | [SZCEModelRef](SZCEModelRef.html) |
 | WMATRIX | [SZGETMatrix](SZGETMatrix.html) |
+| SHOW | [Boolean](Boolean.html) |
 | **---** | **---** |
 | Returns: | [SZCOFeature-Assy-WorldRef](SZCOFeature-Assy-WorldRef.html) |
 | Help: | Make a SZCOFeature-Assy-WorldRef |

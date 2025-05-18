@@ -18,6 +18,7 @@
 | --------- | --------- |
 | TOOL | [SZCEModelRef](SZCEModelRef.html) |
 | OPERATION | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |
+| SHOW | [Boolean](Boolean.html) |
 | **---** | **---** |
 | Returns: | [SZCOFeature-Toolbody](SZCOFeature-Toolbody.html) |
 | Help: | Make SZCOFeature-Toolbody |
