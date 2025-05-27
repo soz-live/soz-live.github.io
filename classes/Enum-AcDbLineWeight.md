@@ -14,10 +14,10 @@
 
 ### Enum-AcDbLineWeight-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Enum-AcDbLineWeight](Enum-AcDbLineWeight.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Enum-AcDbLineWeight](Enum-AcDbLineWeight.html) |  |
+| --- | --- | --- |
 | Returns: | [Enum-AcDbLineWeight](Enum-AcDbLineWeight.html) |
 | Help: | Enum-AcDbLineWeight |
 

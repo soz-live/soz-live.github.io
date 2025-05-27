@@ -14,13 +14,13 @@
 
 ### SZCEScript-KBraces-Make
 
-| Keys | Types |
-| --------- | --------- |
-| PROFILE | [SZCOProfile](SZCOProfile.html) |
-| BEAMS | [Set:SZCEStruct-Member](SZCEStruct-Member.html) |
-| CONN0 | [SZCEStruct-Connection-ToMembers](SZCEStruct-Connection-ToMembers.html) |
-| CONN1 | [SZCEStruct-Connection-ToMember](SZCEStruct-Connection-ToMember.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| PROFILE | [SZCOProfile](SZCOProfile.html) |  |
+| BEAMS | [Set:SZCEStruct-Member](SZCEStruct-Member.html) |  |
+| CONN0 | [SZCEStruct-Connection-ToMembers](SZCEStruct-Connection-ToMembers.html) |  |
+| CONN1 | [SZCEStruct-Connection-ToMember](SZCEStruct-Connection-ToMember.html) |  |
+| --- | --- | --- |
 | Returns: | [SZCEStruct-KBrace](SZCEStruct-KBrace.html) |
 | Help: | KBrace Structural Member |
 

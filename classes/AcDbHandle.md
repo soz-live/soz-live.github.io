@@ -23,10 +23,10 @@
 
 ### AcDbHandle->AcDbEname
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [AcDbHandle](AcDbHandle.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [AcDbHandle](AcDbHandle.html) |  |
+| --- | --- | --- |
 | Returns: | [AcDbEname](AcDbEname.html) |
 | Help: | Convert AcDbHandle to AcDbEname |
 

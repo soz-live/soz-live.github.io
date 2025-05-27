@@ -14,10 +14,10 @@
 
 ### Byte-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Byte](Byte.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Byte](Byte.html) |  |
+| --- | --- | --- |
 | Returns: | [Byte](Byte.html) |
 | Help: | New Byte |
 

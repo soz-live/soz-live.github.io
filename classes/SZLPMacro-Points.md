@@ -14,12 +14,12 @@
 
 ### SZLPMacro-Points-Make
 
-| Keys | Types |
-| --------- | --------- |
-| NAME | [String](String.html) |
-| POINT | [SZLPMacro-Point](SZLPMacro-Point.html) |
-| KEY | [Key](Key.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| NAME | [String](String.html) |  |
+| POINT | [SZLPMacro-Point](SZLPMacro-Point.html) |  |
+| KEY | [Key](Key.html) |  |
+| --- | --- | --- |
 | Returns: | [SZLPMacro-Points](SZLPMacro-Points.html) |
 | Help: | Macro Points |
 
@@ -29,6 +29,6 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

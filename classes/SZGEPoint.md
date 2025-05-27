@@ -14,12 +14,12 @@
 
 ### SZGEPoint-Make
 
-| Keys | Types |
-| --------- | --------- |
-| X | [Real](Real.html) |
-| Y | [Real](Real.html) |
-| Z | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| X | [Real](Real.html) |  |
+| Y | [Real](Real.html) |  |
+| Z | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [SZGEPoint](SZGEPoint.html) |
 | Help: | Make a SZGEPoint |
 
@@ -29,42 +29,42 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: | [SZGEPoint-User_Origin](#SZGEPoint-User_Origin) <br> [SZGEPoint-User_Pick](#SZGEPoint-User_Pick) <br> [SZGEPoint-User_Prompt](#SZGEPoint-User_Prompt) <br> [SZGEPoint-Value](#SZGEPoint-Value) |
-| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### SZGEPoint-User_Origin
 
-| Keys | Types |
-| --------- | --------- |
-| USER | [User](User.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| USER | [User](User.html) |  |
+| --- | --- | --- |
 | Returns: | [SZGEPoint](SZGEPoint.html) |
 | Help: | User_Origin |
 
 ### SZGEPoint-User_Pick
 
-| Keys | Types |
-| --------- | --------- |
-| USER | [User](User.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| USER | [User](User.html) |  |
+| --- | --- | --- |
 | Returns: | [SZGEPoint](SZGEPoint.html) |
 | Help: | User_Pick |
 
 ### SZGEPoint-User_Prompt
 
-| Keys | Types |
-| --------- | --------- |
-| USER | [User](User.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| USER | [User](User.html) |  |
+| --- | --- | --- |
 | Returns: | [SZGEPoint](SZGEPoint.html) |
 | Help: | User_Prompt |
 
 ### SZGEPoint-Value
 
-| Keys | Types |
-| --------- | --------- |
-| O | [SZGEPoint](SZGEPoint.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| O | [SZGEPoint](SZGEPoint.html) |  |
+| --- | --- | --- |
 | Returns: | [Point](Point.html) |
 | Help: | Value of a SZGEPoint |
 

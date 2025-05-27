@@ -14,10 +14,10 @@
 
 ### Enum-AcDbMTextAttachment-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Enum-AcDbMTextAttachment](Enum-AcDbMTextAttachment.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Enum-AcDbMTextAttachment](Enum-AcDbMTextAttachment.html) |  |
+| --- | --- | --- |
 | Returns: | [Enum-AcDbMTextAttachment](Enum-AcDbMTextAttachment.html) |
 | Help: | Enum-AcDbMTextAttachment |
 

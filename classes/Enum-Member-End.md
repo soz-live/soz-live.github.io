@@ -14,10 +14,10 @@
 
 ### Enum-Member-End-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Enum-Member-End](Enum-Member-End.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Enum-Member-End](Enum-Member-End.html) |  |
+| --- | --- | --- |
 | Returns: | [Enum-Member-End](Enum-Member-End.html) |
 | Help: | Make a Member-End Enum |
 

@@ -14,10 +14,10 @@
 
 ### String-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [String](String.html) |
 | Help: | New String Value |
 
@@ -32,173 +32,173 @@
 
 ### String->Integer
 
-| Keys | Types |
-| --------- | --------- |
-| O | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| O | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [Integer](Integer.html) |
 | Help: | String to Integer |
 
 ### String->Real
 
-| Keys | Types |
-| --------- | --------- |
-| O | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| O | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [Real](Real.html) |
 | Help: | String to Real |
 
 ### String->Strings
 
-| Keys | Types |
-| --------- | --------- |
-| STR | [String](String.html) |
-| DELIM | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| STR | [String](String.html) |  |
+| DELIM | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [Strings](Strings.html) |
 | Help: | Convert String to Strings using Delim |
 
 ### String-AddToFront
 
-| Keys | Types |
-| --------- | --------- |
-| STR | [String](String.html) |
-| NO | [Integer](Integer.html) |
-| PAD | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| STR | [String](String.html) |  |
+| NO | [Integer](Integer.html) |  |
+| PAD | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [String](String.html) |
 | Help: | AddToFront of a String to a given Number |
 
 ### String-AddToRear
 
-| Keys | Types |
-| --------- | --------- |
-| STR | [String](String.html) |
-| NO | [Integer](Integer.html) |
-| PAD | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| STR | [String](String.html) |  |
+| NO | [Integer](Integer.html) |  |
+| PAD | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [String](String.html) |
 | Help: | AddToRear of a String to a given Number |
 
 ### String-CountAscii
 
-| Keys | Types |
-| --------- | --------- |
-| STR | [String](String.html) |
-| CHAR | [Integer](Integer.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| STR | [String](String.html) |  |
+| CHAR | [Integer](Integer.html) |  |
+| --- | --- | --- |
 | Returns: | [Integer](Integer.html) |
 | Help: | Number of Ascii Char matching in String |
 
 ### String-CountChar
 
-| Keys | Types |
-| --------- | --------- |
-| STR | [String](String.html) |
-| CHAR | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| STR | [String](String.html) |  |
+| CHAR | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [Integer](Integer.html) |
 | Help: | Number of characters matching in String |
 
 ### String-CountLeading
 
-| Keys | Types |
-| --------- | --------- |
-| STR | [String](String.html) |
-| CHAR | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| STR | [String](String.html) |  |
+| CHAR | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [Integer](Integer.html) |
 | Help: | Number of leading characters matching |
 
 ### String-FindPosition
 
-| Keys | Types |
-| --------- | --------- |
-| STR | [String](String.html) |
-| CHAR | [Integer](Integer.html) |
-| POSN | [Integer](Integer.html) |
-| END | [Boolean](Boolean.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| STR | [String](String.html) |  |
+| CHAR | [Integer](Integer.html) |  |
+| POSN | [Integer](Integer.html) |  |
+| END | [Boolean](Boolean.html) |  |
+| --- | --- | --- |
 | Returns: | [Integer](Integer.html) |
 | Help: | Position in String of char |
 
 ### String-Length
 
-| Keys | Types |
-| --------- | --------- |
-| O | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| O | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [Integer](Integer.html) |
 | Help: | Length of a String |
 
 ### String-LowerCase
 
-| Keys | Types |
-| --------- | --------- |
-| o | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| o | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [String](String.html) |
 | Help: | LowerCase String |
 
 ### String-PadFront
 
-| Keys | Types |
-| --------- | --------- |
-| STR | [String](String.html) |
-| LEN | [Integer](Integer.html) |
-| PAD | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| STR | [String](String.html) |  |
+| LEN | [Integer](Integer.html) |  |
+| PAD | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [String](String.html) |
 | Help: | Pad the Front of a String to a given Length |
 
 ### String-PadRear
 
-| Keys | Types |
-| --------- | --------- |
-| STR | [String](String.html) |
-| LEN | [Integer](Integer.html) |
-| PAD | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| STR | [String](String.html) |  |
+| LEN | [Integer](Integer.html) |  |
+| PAD | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [String](String.html) |
 | Help: | Pad the Rear of a String to a given Length |
 
 ### String-RemoveChar
 
-| Keys | Types |
-| --------- | --------- |
-| STR | [String](String.html) |
-| CHAR | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| STR | [String](String.html) |  |
+| CHAR | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [Integer](Integer.html) |
 | Help: | Number of characters matching in String |
 
 ### String-SwapDelim
 
-| Keys | Types |
-| --------- | --------- |
-| STR | [String](String.html) |
-| FROM | [String](String.html) |
-| TO | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| STR | [String](String.html) |  |
+| FROM | [String](String.html) |  |
+| TO | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [String](String.html) |
 | Help: | Swap Delim of a String |
 
 ### String-UpperCase
 
-| Keys | Types |
-| --------- | --------- |
-| o | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| o | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [String](String.html) |
 | Help: | UpperCase String |
 
 ### String-WCMatch
 
-| Keys | Types |
-| --------- | --------- |
-| O | [String](String.html) |
-| PAT | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| O | [String](String.html) |  |
+| PAT | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [String](String.html) |
 | Help: | WCMatch of a String |
 

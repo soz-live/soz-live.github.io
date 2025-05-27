@@ -23,10 +23,10 @@
 
 ### AXObject->SOZID
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [AXObject](AXObject.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [AXObject](AXObject.html) |  |
+| --- | --- | --- |
 | Returns: | [SOZID](SOZID.html) |
 | Help: | Converts an AXObject to SOZID |
 

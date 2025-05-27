@@ -14,10 +14,10 @@
 
 ### PathName-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [PathName](PathName.html) |
 | Help: | New PathName |
 
@@ -32,48 +32,48 @@
 
 ### PathName-AllDirectories
 
-| Keys | Types |
-| --------- | --------- |
-| PN | [PathName](PathName.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| PN | [PathName](PathName.html) |  |
+| --- | --- | --- |
 | Returns: | [List:PathName](PathName.html) |
 | Help: | All Directories |
 
 ### PathName-AllExtFileNames
 
-| Keys | Types |
-| --------- | --------- |
-| PN | [PathName](PathName.html) |
-| EXT | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| PN | [PathName](PathName.html) |  |
+| EXT | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [List:FileName](FileName.html) |
 | Help: | AllExtFileNames |
 
 ### PathName-AllFileNames
 
-| Keys | Types |
-| --------- | --------- |
-| PN | [PathName](PathName.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| PN | [PathName](PathName.html) |  |
+| --- | --- | --- |
 | Returns: | [List:FileName](FileName.html) |
 | Help: | AllFileNames |
 
 ### PathName-AllSubDirectories
 
-| Keys | Types |
-| --------- | --------- |
-| PN | [PathName](PathName.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| PN | [PathName](PathName.html) |  |
+| --- | --- | --- |
 | Returns: | [List:PathName](PathName.html) |
 | Help: | All Sub Directories |
 
 ### PathName-AllSubExtFileNames
 
-| Keys | Types |
-| --------- | --------- |
-| PN | [PathName](PathName.html) |
-| EXT | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| PN | [PathName](PathName.html) |  |
+| EXT | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [List:FileName](FileName.html) |
 | Help: | All Sub Ext Files |
 

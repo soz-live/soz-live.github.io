@@ -14,10 +14,10 @@
 
 ### Enum-AcDb3dPolylineType-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Enum-AcDb3dPolylineType](Enum-AcDb3dPolylineType.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Enum-AcDb3dPolylineType](Enum-AcDb3dPolylineType.html) |  |
+| --- | --- | --- |
 | Returns: | [Enum-AcDb3dPolylineType](Enum-AcDb3dPolylineType.html) |
 | Help: | Enum-AcDb3dPolylineType |
 

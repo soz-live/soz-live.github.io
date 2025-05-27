@@ -14,15 +14,15 @@
 
 ### SZCEScript-Members-MemberToMember-OnPlanes-Make
 
-| Keys | Types |
-| --------- | --------- |
-| PROFILE | [SZCOProfile](SZCOProfile.html) |
-| MEM0 | [SZCEStruct-Member](SZCEStruct-Member.html) |
-| MEM1 | [SZCEStruct-Member](SZCEStruct-Member.html) |
-| PLANES | [Set:SZCEPlane](SZCEPlane.html) |
-| CONN0 | [SZCEStruct-Connection-ToMember](SZCEStruct-Connection-ToMember.html) |
-| CONN1 | [SZCEStruct-Connection-ToMember](SZCEStruct-Connection-ToMember.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| PROFILE | [SZCOProfile](SZCOProfile.html) |  |
+| MEM0 | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
+| MEM1 | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
+| PLANES | [Set:SZCEPlane](SZCEPlane.html) |  |
+| CONN0 | [SZCEStruct-Connection-ToMember](SZCEStruct-Connection-ToMember.html) |  |
+| CONN1 | [SZCEStruct-Connection-ToMember](SZCEStruct-Connection-ToMember.html) |  |
+| --- | --- | --- |
 | Returns: | [SZCEScript-Members-MemberToMember-OnPlanes](SZCEScript-Members-MemberToMember-OnPlanes.html) |
 | Help: | MemberToMember-OnPlanes Linear Structural Members |
 

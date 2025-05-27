@@ -14,10 +14,10 @@
 
 ### Minute-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [Minute](Minute.html) |
 | Help: | MM |
 

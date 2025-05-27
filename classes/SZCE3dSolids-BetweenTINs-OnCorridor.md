@@ -14,11 +14,11 @@
 
 ### SZCE3dSolids-BetweenTINs-OnCorridor-Make
 
-| Keys | Types |
-| --------- | --------- |
-| TINS | [Set:BsysTinSurface](BsysTinSurface.html) |
-| CORRIDOR | [BsysCvDbCorridor](BsysCvDbCorridor.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| TINS | [Set:BsysTinSurface](BsysTinSurface.html) |  |
+| CORRIDOR | [BsysCvDbCorridor](BsysCvDbCorridor.html) |  |
+| --- | --- | --- |
 | Returns: | [SZCE3dSolids-BetweenTINs-OnCorridor](SZCE3dSolids-BetweenTINs-OnCorridor.html) |
 | Help: | Creates Corridor Solids from different TINs |
 
@@ -28,6 +28,6 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZCEEntities-Index](SZCEEntities.html) <br> [SZCOObjects-Make](SZCOObjects.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZCEEntities-Index](SZCEEntities.html) <br> [SZCOObjects-Make](SZCOObjects.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

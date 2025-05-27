@@ -14,10 +14,10 @@
 
 ### Enum-SZCORegion-Loop-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Enum-SZCORegion-Loop](Enum-SZCORegion-Loop.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Enum-SZCORegion-Loop](Enum-SZCORegion-Loop.html) |  |
+| --- | --- | --- |
 | Returns: | [Enum-SZCORegion-Loop](Enum-SZCORegion-Loop.html) |
 | Help: | Enum-SZCORegion-Loop |
 

@@ -14,10 +14,10 @@
 
 ### Bulge-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Rad](Rad.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Deg](Deg.html) |  |
+| --- | --- | --- |
 | Returns: | [Bulge](Bulge.html) |
 | Help: | Creates a Bulge |
 
@@ -32,19 +32,19 @@
 
 ### Bulge->Deg
 
-| Keys | Types |
-| --------- | --------- |
-| B | [Bulge](Bulge.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| B | [Bulge](Bulge.html) |  |
+| --- | --- | --- |
 | Returns: | [Deg](Deg.html) |
 | Help: | Convert a Bulge to a Deg |
 
 ### Bulge->Rad
 
-| Keys | Types |
-| --------- | --------- |
-| B | [Bulge](Bulge.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| B | [Bulge](Bulge.html) |  |
+| --- | --- | --- |
 | Returns: | [Rad](Rad.html) |
 | Help: | Convert a Bulge to a Rad |
 

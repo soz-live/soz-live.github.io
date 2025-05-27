@@ -23,73 +23,73 @@
 
 ### SZOBBase-User_Clone
 
-| Keys | Types |
-| --------- | --------- |
-| USER | [User](User.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| USER | [User](User.html) |  |
+| --- | --- | --- |
 | Returns: | [SZOBBase](SZOBBase.html) |
 | Help: | User_Clone |
 
 ### SZOBBase-User_Edit
 
-| Keys | Types |
-| --------- | --------- |
-| USER | [User](User.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| USER | [User](User.html) |  |
+| --- | --- | --- |
 | Returns: | [SZOBBase](SZOBBase.html) |
 | Help: | Edit a thing |
 
 ### SZOBBase-User_Make
 
-| Keys | Types |
-| --------- | --------- |
-| USER | [User](User.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| USER | [User](User.html) |  |
+| --- | --- | --- |
 | Returns: | [SZOBBase](SZOBBase.html) |
 | Help: | Make a thing |
 
 ### SZOBBase-User_Method
 
-| Keys | Types |
-| --------- | --------- |
-| USER | [User](User.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| USER | [User](User.html) |  |
+| --- | --- | --- |
 | Returns: | [SZOBObject-Method](SZOBObject-Method.html) |
 | Help: | Make a method Object |
 
 ### SZOBBase-User_ObjectKey
 
-| Keys | Types |
-| --------- | --------- |
-| USER | [User](User.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| USER | [User](User.html) |  |
+| --- | --- | --- |
 | Returns: | [SZOBObject-KeyOf](SZOBObject-KeyOf.html) |
 | Help: | Make an Object from an Object Key |
 
 ### SZOBBase-User_PickModel
 
-| Keys | Types |
-| --------- | --------- |
-| USER | [User](User.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| USER | [User](User.html) |  |
+| --- | --- | --- |
 | Returns: | [SZOBBase](SZOBBase.html) |
 | Help: | User_PickModel |
 
 ### SZOBBase-User_PickNode
 
-| Keys | Types |
-| --------- | --------- |
-| USER | [User](User.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| USER | [User](User.html) |  |
+| --- | --- | --- |
 | Returns: | [SZOBBase](SZOBBase.html) |
 | Help: | User_PickNode |
 
 ### SZOBBase-User_Select
 
-| Keys | Types |
-| --------- | --------- |
-| USER | [User](User.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| USER | [User](User.html) |  |
+| --- | --- | --- |
 | Returns: | [SZOBBase](SZOBBase.html) |
 | Help: | User_Select |
 

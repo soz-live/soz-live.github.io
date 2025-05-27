@@ -14,11 +14,11 @@
 
 ### SZLP-EXPT-Make
 
-| Keys | Types |
-| --------- | --------- |
-| BASE | [Number](Number.html) |
-| POW | [Number](Number.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| BASE | [Number](Number.html) |  |
+| POW | [Number](Number.html) |  |
+| --- | --- | --- |
 | Returns: | [Number](Number.html) |
 | Help: | EXPT Function |
 
@@ -28,6 +28,6 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZLPNumber-Make](SZLPNumber.html) <br> [SZLPNumber-User_Equation](SZLPNumber.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZLPNumber-Make](SZLPNumber.html) <br> [SZLPNumber-User_Equation](SZLPNumber.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

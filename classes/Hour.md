@@ -14,10 +14,10 @@
 
 ### Hour-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [Hour](Hour.html) |
 | Help: | HH |
 

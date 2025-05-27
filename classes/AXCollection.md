@@ -23,11 +23,11 @@
 
 ### AXCollection-Item
 
-| Keys | Types |
-| --------- | --------- |
-| OBJECT | [AXCollection](AXCollection.html) |
-| ITEM | [Integer](Integer.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| OBJECT | [AXCollection](AXCollection.html) |  |
+| ITEM | [Integer](Integer.html) |  |
+| --- | --- | --- |
 | Returns: | [AXObject](AXObject.html) |
 | Help: | Safely gets an Object from a Collection |
 

@@ -23,19 +23,19 @@
 
 ### File-User_Make
 
-| Keys | Types |
-| --------- | --------- |
-| USER | [User](User.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| USER | [User](User.html) |  |
+| --- | --- | --- |
 | Returns: | [File](File.html) |
 | Help: | Make a File Path |
 
 ### File-User_Select
 
-| Keys | Types |
-| --------- | --------- |
-| USER | [User](User.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| USER | [User](User.html) |  |
+| --- | --- | --- |
 | Returns: | [File](File.html) |
 | Help: | Select a File Path |
 

@@ -3,22 +3,22 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-misc](/repos/soz-misc.html) |
+| Repo: | [soz-random](/repos/soz-random.html) |
 | Superclass: | [Real](Real.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Random Number between 0 and 1 |
+| Help: | Real Random Number between 0 and 1 |
 
 ### Real-Random-Make
 
-| Keys | Types |
-| --------- | --------- |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| --- | --- | --- |
 | Returns: | [Real](Real.html) |
-| Help: | New Random Number between 0 and 1 |
+| Help: | New Real Random Number between 0 and 1 |
 
 
 ## Functions:

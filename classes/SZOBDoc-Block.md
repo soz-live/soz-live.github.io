@@ -14,11 +14,11 @@
 
 ### SZOBDoc-Block-Make
 
-| Keys | Types |
-| --------- | --------- |
-| BLOCK | [File-MD](File-MD.html) |
-| SUBS | [List:SZOBDoc-Block](SZOBDoc-Block.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| BLOCK | [File-MD](File-MD.html) |  |
+| SUBS | [List:SZOBDoc-Block](SZOBDoc-Block.html) |  |
+| --- | --- | --- |
 | Returns: | [SZOBDoc-Block](SZOBDoc-Block.html) |
 | Help: | Make a Document Block Object |
 
@@ -28,6 +28,6 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

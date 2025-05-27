@@ -14,13 +14,13 @@
 
 ### SZCOVisual-Make
 
-| Keys | Types |
-| --------- | --------- |
-| LAYER | [AcDbLayerTableRecord](AcDbLayerTableRecord.html) |
-| COLOR | [SZCOColor](SZCOColor.html) |
-| LTYPE | [AcDbLineType](AcDbLineType.html) |
-| LWEIGHT | [Enum-AcDbLineWeight](Enum-AcDbLineWeight.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| LAYER | [AcDbLayerTableRecord](AcDbLayerTableRecord.html) |  |
+| COLOR | [SZCOColor](SZCOColor.html) |  |
+| LTYPE | [AcDbLineType](AcDbLineType.html) |  |
+| LWEIGHT | [Enum-AcDbLineWeight](Enum-AcDbLineWeight.html) |  |
+| --- | --- | --- |
 | Returns: | [SZCOVisual](SZCOVisual.html) |
 | Help: | SZCOVisual |
 
@@ -30,26 +30,26 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: | [SZCOVisual-SetEntities](#SZCOVisual-SetEntities) <br> [SZCOVisual-SetEntity](#SZCOVisual-SetEntity) |
-| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### SZCOVisual-SetEntities
 
-| Keys | Types |
-| --------- | --------- |
-| VIZ | [SZCOVisual](SZCOVisual.html) |
-| ENTS | [Set:AcDbEntity](AcDbEntity.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VIZ | [SZCOVisual](SZCOVisual.html) | Visual Settings |
+| ENTS | [Set:AcDbEntity](AcDbEntity.html) |  |
+| --- | --- | --- |
 | Returns: | [Set:AcDbEntity](AcDbEntity.html) |
 | Help: | Sets the Visual Settings for the Entity |
 
 ### SZCOVisual-SetEntity
 
-| Keys | Types |
-| --------- | --------- |
-| VIZ | [SZCOVisual](SZCOVisual.html) |
-| ENT | [AcDbEntity](AcDbEntity.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VIZ | [SZCOVisual](SZCOVisual.html) | Visual Settings |
+| ENT | [AcDbEntity](AcDbEntity.html) |  |
+| --- | --- | --- |
 | Returns: | [AcDbEntity](AcDbEntity.html) |
 | Help: | Sets the Visual Settings for the Entity |
 

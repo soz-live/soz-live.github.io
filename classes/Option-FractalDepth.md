@@ -14,10 +14,10 @@
 
 ### Option-FractalDepth-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Option-FractalDepth](Option-FractalDepth.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Option-FractalDepth](Option-FractalDepth.html) |  |
+| --- | --- | --- |
 | Returns: | [Option-FractalDepth](Option-FractalDepth.html) |
 | Help: | Option-FractalDepth |
 

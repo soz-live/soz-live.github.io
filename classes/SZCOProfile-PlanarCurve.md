@@ -14,11 +14,11 @@
 
 ### SZCOProfile-PlanarCurve-Make
 
-| Keys | Types |
-| --------- | --------- |
-| ENTITY | [AcDbCurve-PlanarClosed](AcDbCurve-PlanarClosed.html) |
-| TMATRIX | [SZGETMatrix](SZGETMatrix.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| ENTITY | [AcDbCurve-PlanarClosed](AcDbCurve-PlanarClosed.html) |  |
+| TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
+| --- | --- | --- |
 | Returns: | [SZCOProfile-PlanarCurve](SZCOProfile-PlanarCurve.html) |
 | Help: | Make a SZCOProfile-PlanarCurve |
 
@@ -28,6 +28,6 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZCOProfile-Make](SZCOProfile.html) <br> [SZCOProfile-Regions](SZCOProfile.html) <br> [SZCOProfile-User_PickPart](SZCOProfile.html) <br> [SZCOProfile-User_PickFeature](SZCOProfile.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZCOProfile-Make](SZCOProfile.html) <br> [SZCOProfile-Regions](SZCOProfile.html) <br> [SZCOProfile-User_PickPart](SZCOProfile.html) <br> [SZCOProfile-User_PickFeature](SZCOProfile.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

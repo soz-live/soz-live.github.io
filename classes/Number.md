@@ -14,10 +14,10 @@
 
 ### Number-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Number](Number.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Number](Number.html) |  |
+| --- | --- | --- |
 | Returns: | [Number](Number.html) |
 | Help: | Makes a Number |
 
@@ -32,20 +32,20 @@
 
 ### Number-ExptSum
 
-| Keys | Types |
-| --------- | --------- |
-| N | [Integer](Integer.html) |
-| F | [Integer](Integer.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| N | [Integer](Integer.html) |  |
+| F | [Integer](Integer.html) |  |
+| --- | --- | --- |
 | Returns: | [Number](Number.html) |
 | Help: | ExptSum of a Number |
 
 ### Number-Factorial
 
-| Keys | Types |
-| --------- | --------- |
-| N | [Integer](Integer.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| N | [Integer](Integer.html) |  |
+| --- | --- | --- |
 | Returns: | [Number](Number.html) |
 | Help: | Factorial of a Number |
 

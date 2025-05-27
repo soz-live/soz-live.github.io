@@ -397,7 +397,7 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
           - [SZGEFaces-BetweenPoints](/classes/SZGEFaces-BetweenPoints.html)
         - [SZGELines](/classes/SZGELines.html)
       - [SZGEMatrices](/classes/SZGEMatrices.html)
-        - [SZGETMatrixs](/classes/SZGETMatrixs.html)
+        - [SZGETMatrices](/classes/SZGETMatrices.html)
           - [SZGEPattern](/classes/SZGEPattern.html)
             - [SZGEPattern-AcDbCurve](/classes/SZGEPattern-AcDbCurve.html)
               - [SZGEPattern-AcDbCurve-Divide](/classes/SZGEPattern-AcDbCurve-Divide.html)
@@ -743,8 +743,6 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
               - [SZCOFeature-Slice-Plane](/classes/SZCOFeature-Slice-Plane.html)
               - [SZCOFeature-Slice-TMatrix](/classes/SZCOFeature-Slice-TMatrix.html)
             - [SZCOFeature-Toolbody](/classes/SZCOFeature-Toolbody.html)
-            - [SZCOFeatures-Part](/classes/SZCOFeatures-Part.html)
-              - [SZCOFeatures-PunchedHoles-OnLines](/classes/SZCOFeatures-PunchedHoles-OnLines.html)
         - [SZCOProfile](/classes/SZCOProfile.html)
           - [SZCOProfile-AcDbCircle](/classes/SZCOProfile-AcDbCircle.html)
           - [SZCOProfile-AcDbPolyline](/classes/SZCOProfile-AcDbPolyline.html)
@@ -816,6 +814,7 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
             - [SZCEGrid-OnLines](/classes/SZCEGrid-OnLines.html)
             - [SZCEGrid-Radial](/classes/SZCEGrid-Radial.html)
             - [SZCEGrid-Rectangular](/classes/SZCEGrid-Rectangular.html)
+          - [SZCEParts](/classes/SZCEParts.html)
           - [SZCEPattern](/classes/SZCEPattern.html)
           - [SZCEPlanes](/classes/SZCEPlanes.html)
             - [SZCEPlanes-Levels](/classes/SZCEPlanes-Levels.html)
@@ -837,6 +836,10 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
             - [SZCESections-TMatrixs](/classes/SZCESections-TMatrixs.html)
           - [SZCEUCSs](/classes/SZCEUCSs.html)
             - [SZCEUCSs-OnCurve-Divide](/classes/SZCEUCSs-OnCurve-Divide.html)
+          - [SZCOFeatures](/classes/SZCOFeatures.html)
+            - [SZCOFeatures-Part](/classes/SZCOFeatures-Part.html)
+              - [SZCOFeatures-3dSolid](/classes/SZCOFeatures-3dSolid.html)
+              - [SZCOFeatures-PunchedHoles-OnLines](/classes/SZCOFeatures-PunchedHoles-OnLines.html)
     - [SZOBObject-Method](/classes/SZOBObject-Method.html)
     - [SZOBObject-Value](/classes/SZOBObject-Value.html)
       - [SZOBObject-IndexOf](/classes/SZOBObject-IndexOf.html)
@@ -856,6 +859,6 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
           - [SZCOScript-Features-ProfileCut](/classes/SZCOScript-Features-ProfileCut.html)
       - [SZCOScript-ModelGroups](/classes/SZCOScript-ModelGroups.html)
 
-Version:  1.23.0
+Version:  1.23.4
 <br>
-Date: 20250502.1752
+Date: 20250527.1922

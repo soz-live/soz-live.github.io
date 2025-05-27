@@ -14,10 +14,10 @@
 
 ### Enum-AcDbExtrudeType-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
+| --- | --- | --- |
 | Returns: | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |
 | Help: | Enum-AcDbExtrudeType |
 

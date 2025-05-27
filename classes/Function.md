@@ -14,10 +14,10 @@
 
 ### Function-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Key](Key.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Key](Key.html) |  |
+| --- | --- | --- |
 | Returns: | [Function](Function.html) |
 | Help: | Function Class |
 

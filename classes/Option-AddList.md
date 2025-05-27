@@ -14,10 +14,10 @@
 
 ### Option-AddList-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Option-AddList](Option-AddList.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Option-AddList](Option-AddList.html) |  |
+| --- | --- | --- |
 | Returns: | [Option-AddList](Option-AddList.html) |
 | Help: | Option-AddList |
 

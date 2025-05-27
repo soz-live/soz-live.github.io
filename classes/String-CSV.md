@@ -14,10 +14,10 @@
 
 ### String-CSV-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUES | [List:String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUES | [List:String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [String-CSV](String-CSV.html) |
 | Help: | New String-CSV |
 
@@ -32,10 +32,10 @@
 
 ### String-CSV->Strings
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [Strings](Strings.html) |
 | Help: | Convert CSV String to Strings |
 

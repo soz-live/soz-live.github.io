@@ -14,10 +14,10 @@
 
 ### Integer-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Integer](Integer.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Integer](Integer.html) |  |
+| --- | --- | --- |
 | Returns: | [Integer](Integer.html) |
 | Help: | New Integer |
 
@@ -32,19 +32,19 @@
 
 ### Integer->Real
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Integer](Integer.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Integer](Integer.html) |  |
+| --- | --- | --- |
 | Returns: | [Real](Real.html) |
 | Help: | Convert Integer to Real |
 
 ### Integer->String
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Integer](Integer.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Integer](Integer.html) |  |
+| --- | --- | --- |
 | Returns: | [String](String.html) |
 | Help: | Convert Integer to String |
 

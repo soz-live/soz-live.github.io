@@ -14,10 +14,10 @@
 
 ### Rad-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Rad](Rad.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Rad](Rad.html) |  |
+| --- | --- | --- |
 | Returns: | [Rad](Rad.html) |
 | Help: | New Radian Angle |
 
@@ -32,73 +32,73 @@
 
 ### Rad->Deg
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [Deg](Deg.html) |
 | Help: | Convert Rad to Deg |
 
 ### Rad->Vector
 
-| Keys | Types |
-| --------- | --------- |
-| R | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| R | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [Vector](Vector.html) |
 | Help: | Convert Rad to Vector |
 
 ### Rad-Cosh
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [Real](Real.html) |
 | Help: | Cosh of Rad |
 
 ### Rad-Sinh
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [Real](Real.html) |
 | Help: | Sinh of Rad |
 
 ### Rad-Tanh
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [Real](Real.html) |
 | Help: | Tanh of Rad |
 
 ### Rad-cos
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [Real](Real.html) |
 | Help: | cos of Rad |
 
 ### Rad-sin
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [Real](Real.html) |
 | Help: | Sin of Rad |
 
 ### Rad-tan
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [Real](Real.html) |
 | Help: | tan of Rad |
 

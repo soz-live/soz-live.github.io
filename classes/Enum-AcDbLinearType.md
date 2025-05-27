@@ -14,10 +14,10 @@
 
 ### Enum-AcDbLinearType-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Enum-AcDbLinearType](Enum-AcDbLinearType.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Enum-AcDbLinearType](Enum-AcDbLinearType.html) |  |
+| --- | --- | --- |
 | Returns: | [Enum-AcDbLinearType](Enum-AcDbLinearType.html) |
 | Help: | Enum-AcDbLinearType |
 

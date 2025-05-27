@@ -14,11 +14,11 @@
 
 ### SZCEScript-Parts-Sweep-Make
 
-| Keys | Types |
-| --------- | --------- |
-| PROFILE | [SZCOProfile](SZCOProfile.html) |
-| CURVES | [Set:AcDbCurve](AcDbCurve.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| PROFILE | [SZCOProfile](SZCOProfile.html) |  |
+| CURVES | [Set:AcDbCurve](AcDbCurve.html) |  |
+| --- | --- | --- |
 | Returns: | [SZCEScript-Parts-Sweep](SZCEScript-Parts-Sweep.html) |
 | Help: | Sweep on Multiple Curves |
 

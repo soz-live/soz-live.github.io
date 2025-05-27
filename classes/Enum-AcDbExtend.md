@@ -14,10 +14,10 @@
 
 ### Enum-AcDbExtend-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Enum-AcDbExtend](Enum-AcDbExtend.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Enum-AcDbExtend](Enum-AcDbExtend.html) |  |
+| --- | --- | --- |
 | Returns: | [Enum-AcDbExtend](Enum-AcDbExtend.html) |
 | Help: | Enum-AcDbExtend |
 

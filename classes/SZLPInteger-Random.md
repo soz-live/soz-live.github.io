@@ -3,7 +3,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-misc](/repos/soz-misc.html) |
+| Repo: | [soz-random](/repos/soz-random.html) |
 | Superclass: | [SZLPInteger](SZLPInteger.html) |
 | Subclasses: |  |
 | Interfaces: |  |
@@ -14,11 +14,11 @@
 
 ### SZLPInteger-Random-Make
 
-| Keys | Types |
-| --------- | --------- |
-| LOW | [Number](Number.html) |
-| HIGH | [Number](Number.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| LOW | [Number](Number.html) |  |
+| HIGH | [Number](Number.html) |  |
+| --- | --- | --- |
 | Returns: | [SZLPInteger](SZLPInteger.html) |
 | Help: | Random Integer Object using Range |
 
@@ -28,6 +28,6 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZLPInteger-Make](SZLPInteger.html) <br> [SZLPReal-Make](SZLPReal.html) <br> [SZLPReal-User_PI](SZLPReal.html) <br> [SZLPReal-User_2xPI](SZLPReal.html) <br> [SZLPNumber-Make](SZLPNumber.html) <br> [SZLPNumber-User_Equation](SZLPNumber.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZLPInteger-Make](SZLPInteger.html) <br> [SZLPReal-Make](SZLPReal.html) <br> [SZLPReal-User_PI](SZLPReal.html) <br> [SZLPReal-User_2xPI](SZLPReal.html) <br> [SZLPNumber-Make](SZLPNumber.html) <br> [SZLPNumber-User_Equation](SZLPNumber.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

@@ -14,9 +14,9 @@
 
 ### File-TXT-Make
 
-| Keys | Types |
-| --------- | --------- |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| --- | --- | --- |
 | Returns: |  |
 | Help: |  |
 
@@ -31,77 +31,77 @@
 
 ### File-TXT-AppendLines
 
-| Keys | Types |
-| --------- | --------- |
-| FILENAME | [File-TXT](File-TXT.html) |
-| LINES | [Strings](Strings.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| FILENAME | [File-TXT](File-TXT.html) |  |
+| LINES | [Strings](Strings.html) |  |
+| --- | --- | --- |
 | Returns: | [NIL](NIL.html) |
 | Help: | Append Lines to a Text File |
 
 ### File-TXT-Close
 
-| Keys | Types |
-| --------- | --------- |
-| fn | [File-TXT](File-TXT.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| fn | [File-TXT](File-TXT.html) |  |
+| --- | --- | --- |
 | Returns: | [File-TXT](File-TXT.html) |
 | Help: | Closing of a Text File |
 
 ### File-TXT-Open
 
-| Keys | Types |
-| --------- | --------- |
-| fn | [String](String.html) |
-| access | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| fn | [String](String.html) |  |
+| access | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [File-TXT](File-TXT.html) |
 | Help: | Opening of a Text File |
 
 ### File-TXT-ReadFirst
 
-| Keys | Types |
-| --------- | --------- |
-| FILENAME | [File-TXT](File-TXT.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| FILENAME | [File-TXT](File-TXT.html) |  |
+| --- | --- | --- |
 | Returns: | [Strings](Strings.html) |
 | Help: | Reading First Line |
 
 ### File-TXT-ReadLine
 
-| Keys | Types |
-| --------- | --------- |
-| fn | [File-TXT](File-TXT.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| fn | [File-TXT](File-TXT.html) |  |
+| --- | --- | --- |
 | Returns: | [String](String.html) |
 | Help: | Reading a line of a Text File |
 
 ### File-TXT-ReadLines
 
-| Keys | Types |
-| --------- | --------- |
-| FILENAME | [File-TXT](File-TXT.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| FILENAME | [File-TXT](File-TXT.html) |  |
+| --- | --- | --- |
 | Returns: | [Strings](Strings.html) |
 | Help: | Reading Text File Lines |
 
 ### File-TXT-WriteLine
 
-| Keys | Types |
-| --------- | --------- |
-| FILENAME | [File-TXT](File-TXT.html) |
-| LINE | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| FILENAME | [File-TXT](File-TXT.html) |  |
+| LINE | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [File-TXT](File-TXT.html) |
 | Help: | Writing a line to a Text File |
 
 ### File-TXT-WriteLines
 
-| Keys | Types |
-| --------- | --------- |
-| FILENAME | [File-TXT](File-TXT.html) |
-| LINES | [Strings](Strings.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| FILENAME | [File-TXT](File-TXT.html) |  |
+| LINES | [Strings](Strings.html) |  |
+| --- | --- | --- |
 | Returns: | [NIL](NIL.html) |
 | Help: | Writing lines to a Text File |
 

@@ -14,10 +14,10 @@
 
 ### Enum-AcDbAttributeMode-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Enum-AcDbAttributeMode](Enum-AcDbAttributeMode.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Enum-AcDbAttributeMode](Enum-AcDbAttributeMode.html) |  |
+| --- | --- | --- |
 | Returns: | [Enum-AcDbAttributeMode](Enum-AcDbAttributeMode.html) |
 | Help: | Enum-AcDbAttributeMode |
 

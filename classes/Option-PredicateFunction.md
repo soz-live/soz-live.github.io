@@ -14,10 +14,10 @@
 
 ### Option-PredicateFunction-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Option-PredicateFunction](Option-PredicateFunction.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Option-PredicateFunction](Option-PredicateFunction.html) |  |
+| --- | --- | --- |
 | Returns: | [Option-PredicateFunction](Option-PredicateFunction.html) |
 | Help: | Option-PredicateFunction |
 

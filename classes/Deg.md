@@ -14,10 +14,10 @@
 
 ### Deg-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Deg](Deg.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Deg](Deg.html) |  |
+| --- | --- | --- |
 | Returns: | [Deg](Deg.html) |
 | Help: | New Degree Angle |
 
@@ -32,37 +32,37 @@
 
 ### Deg->Rad
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [Rad](Rad.html) |
 | Help: | Convert Deg to Rad |
 
 ### Deg-cos
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [Real](Real.html) |
 | Help: | cos of deg |
 
 ### Deg-sin
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [Real](Real.html) |
 | Help: | Sin of deg |
 
 ### Deg-tan
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [Real](Real.html) |
 | Help: | tan of deg |
 

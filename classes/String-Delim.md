@@ -14,11 +14,11 @@
 
 ### String-Delim-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUES | [List:String](String.html) |
-| DELIM | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUES | [List:String](String.html) |  |
+| DELIM | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [String-Delim](String-Delim.html) |
 | Help: | New Delim String |
 
@@ -33,11 +33,11 @@
 
 ### String-Delim->Strings
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [String](String.html) |
-| DELIM | [String](String.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [String](String.html) |  |
+| DELIM | [String](String.html) |  |
+| --- | --- | --- |
 | Returns: | [Strings](Strings.html) |
 | Help: | Convert Delim String to Strings |
 

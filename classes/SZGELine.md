@@ -14,11 +14,11 @@
 
 ### SZGELine-Make
 
-| Keys | Types |
-| --------- | --------- |
-| POINT0 | [SZGEPoint](SZGEPoint.html) |
-| POINT1 | [SZGEPoint](SZGEPoint.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| POINT0 | [SZGEPoint](SZGEPoint.html) |  |
+| POINT1 | [SZGEPoint](SZGEPoint.html) |  |
+| --- | --- | --- |
 | Returns: | [SZGELine](SZGELine.html) |
 | Help: | Makes a Line |
 
@@ -28,88 +28,88 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: | [SZGELine-BaryComb](#SZGELine-BaryComb) <br> [SZGELine-EndPoint](#SZGELine-EndPoint) <br> [SZGELine-Length](#SZGELine-Length) <br> [SZGELine-MidPoint](#SZGELine-MidPoint) <br> [SZGELine-StartPoint](#SZGELine-StartPoint) <br> [SZGELine-TMatrix](#SZGELine-TMatrix) <br> [SZGELine-User_Pick](#SZGELine-User_Pick) <br> [SZGELine-Value](#SZGELine-Value) <br> [SZGELine-Vector](#SZGELine-Vector) |
-| Super: | [SZGE3dCurve-Make](SZGE3dCurve.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZGE3dCurve-Make](SZGE3dCurve.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### SZGELine-BaryComb
 
-| Keys | Types |
-| --------- | --------- |
-| O | [SZGELine](SZGELine.html) |
-| BC | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| O | [SZGELine](SZGELine.html) |  |
+| BC | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [Point](Point.html) |
 | Help: | BaryComb of a SZGELine |
 
 ### SZGELine-EndPoint
 
-| Keys | Types |
-| --------- | --------- |
-| O | [SZGELine](SZGELine.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| O | [SZGELine](SZGELine.html) |  |
+| --- | --- | --- |
 | Returns: | [Point](Point.html) |
 | Help: | EndPoint of a SZGELine |
 
 ### SZGELine-Length
 
-| Keys | Types |
-| --------- | --------- |
-| O | [SZGELine](SZGELine.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| O | [SZGELine](SZGELine.html) |  |
+| --- | --- | --- |
 | Returns: | [Real](Real.html) |
 | Help: | Length of a SZGELine |
 
 ### SZGELine-MidPoint
 
-| Keys | Types |
-| --------- | --------- |
-| O | [SZGELine](SZGELine.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| O | [SZGELine](SZGELine.html) |  |
+| --- | --- | --- |
 | Returns: | [Point](Point.html) |
 | Help: | MidPoint of a SZGELine |
 
 ### SZGELine-StartPoint
 
-| Keys | Types |
-| --------- | --------- |
-| O | [SZGELine](SZGELine.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| O | [SZGELine](SZGELine.html) |  |
+| --- | --- | --- |
 | Returns: | [Point](Point.html) |
 | Help: | StartPoint of a SZGELine |
 
 ### SZGELine-TMatrix
 
-| Keys | Types |
-| --------- | --------- |
-| O | [SZGELine](SZGELine.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| O | [SZGELine](SZGELine.html) |  |
+| --- | --- | --- |
 | Returns: | [TMatrix](TMatrix.html) |
 | Help: | TMatrix of a SZGELine |
 
 ### SZGELine-User_Pick
 
-| Keys | Types |
-| --------- | --------- |
-| USER | [User](User.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| USER | [User](User.html) |  |
+| --- | --- | --- |
 | Returns: | [SZGELine](SZGELine.html) |
 | Help: | User_Pick |
 
 ### SZGELine-Value
 
-| Keys | Types |
-| --------- | --------- |
-| O | [SZGELine](SZGELine.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| O | [SZGELine](SZGELine.html) |  |
+| --- | --- | --- |
 | Returns: | [Line](Line.html) |
 | Help: | Value of a SZGELine |
 
 ### SZGELine-Vector
 
-| Keys | Types |
-| --------- | --------- |
-| O | [SZGELine](SZGELine.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| O | [SZGELine](SZGELine.html) |  |
+| --- | --- | --- |
 | Returns: | [Vector](Vector.html) |
 | Help: | Vector of a SZGELine |
 

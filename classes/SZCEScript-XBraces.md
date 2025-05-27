@@ -14,13 +14,13 @@
 
 ### SZCEScript-XBraces-Make
 
-| Keys | Types |
-| --------- | --------- |
-| PROFILE | [SZCOProfile](SZCOProfile.html) |
-| BEAMS | [Set:SZCEStruct-Member](SZCEStruct-Member.html) |
-| CONN0 | [SZCEStruct-Connection-ToMembers](SZCEStruct-Connection-ToMembers.html) |
-| CONN1 | [SZCEStruct-Connection-ToMembers](SZCEStruct-Connection-ToMembers.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| PROFILE | [SZCOProfile](SZCOProfile.html) |  |
+| BEAMS | [Set:SZCEStruct-Member](SZCEStruct-Member.html) |  |
+| CONN0 | [SZCEStruct-Connection-ToMembers](SZCEStruct-Connection-ToMembers.html) |  |
+| CONN1 | [SZCEStruct-Connection-ToMembers](SZCEStruct-Connection-ToMembers.html) |  |
+| --- | --- | --- |
 | Returns: | [SZCEStruct-XBrace](SZCEStruct-XBrace.html) |
 | Help: | XBrace Structural Member |
 

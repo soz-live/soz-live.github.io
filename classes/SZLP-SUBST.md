@@ -14,12 +14,12 @@
 
 ### SZLP-SUBST-Make
 
-| Keys | Types |
-| --------- | --------- |
-| LST | [SZLPList](SZLPList.html) |
-| NEW | [SZLP-T](SZLP-T.html) |
-| OLD | [SZLP-T](SZLP-T.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| LST | [SZLPList](SZLPList.html) |  |
+| NEW | [SZLP-T](SZLP-T.html) |  |
+| OLD | [SZLP-T](SZLP-T.html) |  |
+| --- | --- | --- |
 | Returns: | [List](List.html) |
 | Help: | SUBST Function |
 
@@ -29,6 +29,6 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZLPList-Value](SZLPList.html) <br> [SZLPList-Index](SZLPList.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZLPList-Value](SZLPList.html) <br> [SZLPList-Index](SZLPList.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

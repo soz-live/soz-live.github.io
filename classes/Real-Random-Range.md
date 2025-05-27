@@ -3,24 +3,24 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-misc](/repos/soz-misc.html) |
+| Repo: | [soz-random](/repos/soz-random.html) |
 | Superclass: | [Real](Real.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Random Number between LOW and HIGH |
+| Help: | Real Random Number between LOW and HIGH |
 
 ### Real-Random-Range-Make
 
-| Keys | Types |
-| --------- | --------- |
-| LOW | [Number](Number.html) |
-| HIGH | [Number](Number.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| LOW | [Number](Number.html) |  |
+| HIGH | [Number](Number.html) |  |
+| --- | --- | --- |
 | Returns: | [Number](Number.html) |
-| Help: | Random Number between Low & High |
+| Help: | Real Random Number between Low & High |
 
 
 ## Functions:

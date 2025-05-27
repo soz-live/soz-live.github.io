@@ -14,10 +14,10 @@
 
 ### SZLPDeg-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Deg](Deg.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Deg](Deg.html) |  |
+| --- | --- | --- |
 | Returns: | [SZLPDeg](SZLPDeg.html) |
 | Help: | New Degree Angle |
 
@@ -27,6 +27,6 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZLPAngle-Make](SZLPAngle.html) <br> [SZLPReal-Make](SZLPReal.html) <br> [SZLPReal-User_PI](SZLPReal.html) <br> [SZLPReal-User_2xPI](SZLPReal.html) <br> [SZLPNumber-Make](SZLPNumber.html) <br> [SZLPNumber-User_Equation](SZLPNumber.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZLPAngle-Make](SZLPAngle.html) <br> [SZLPReal-Make](SZLPReal.html) <br> [SZLPReal-User_PI](SZLPReal.html) <br> [SZLPReal-User_2xPI](SZLPReal.html) <br> [SZLPNumber-Make](SZLPNumber.html) <br> [SZLPNumber-User_Equation](SZLPNumber.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

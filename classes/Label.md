@@ -14,10 +14,10 @@
 
 ### Label-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Label](Label.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Label](Label.html) |  |
+| --- | --- | --- |
 | Returns: | [Label](Label.html) |
 | Help: | Make Label |
 

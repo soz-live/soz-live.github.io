@@ -14,10 +14,10 @@
 
 ### Option-EditList-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Option-EditList](Option-EditList.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Option-EditList](Option-EditList.html) |  |
+| --- | --- | --- |
 | Returns: | [Option-EditList](Option-EditList.html) |
 | Help: | Option-EditList |
 

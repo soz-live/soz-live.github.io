@@ -14,10 +14,10 @@
 
 ### Enum-AcDb3dSolidSlice-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Enum-AcDb3dSolidSlice](Enum-AcDb3dSolidSlice.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Enum-AcDb3dSolidSlice](Enum-AcDb3dSolidSlice.html) |  |
+| --- | --- | --- |
 | Returns: | [Enum-AcDb3dSolidSlice](Enum-AcDb3dSolidSlice.html) |
 | Help: | Enum-AcDb3dSolidSlice |
 

@@ -14,10 +14,10 @@
 
 ### Equation-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Equation](Equation.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Equation](Equation.html) |  |
+| --- | --- | --- |
 | Returns: | [Equation](Equation.html) |
 | Help: | New Equation |
 

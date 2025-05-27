@@ -14,10 +14,10 @@
 
 ### Symbol-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Key](Key.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Key](Key.html) |  |
+| --- | --- | --- |
 | Returns: | [Symbol](Symbol.html) |
 | Help: | New Symbol |
 

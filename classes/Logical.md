@@ -23,40 +23,40 @@
 
 ### Logical-AND
 
-| Keys | Types |
-| --------- | --------- |
-| A | [SZOBBase](SZOBBase.html) |
-| B | [SZOBBase](SZOBBase.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| A | [SZOBBase](SZOBBase.html) |  |
+| B | [SZOBBase](SZOBBase.html) |  |
+| --- | --- | --- |
 | Returns: | [Logical](Logical.html) |
 | Help: | And Function |
 
 ### Logical-NOT
 
-| Keys | Types |
-| --------- | --------- |
-| A | [SZOBBase](SZOBBase.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| A | [SZOBBase](SZOBBase.html) |  |
+| --- | --- | --- |
 | Returns: | [Logical](Logical.html) |
 | Help: | Not Function |
 
 ### Logical-OR
 
-| Keys | Types |
-| --------- | --------- |
-| A | [SZOBBase](SZOBBase.html) |
-| B | [SZOBBase](SZOBBase.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| A | [SZOBBase](SZOBBase.html) |  |
+| B | [SZOBBase](SZOBBase.html) |  |
+| --- | --- | --- |
 | Returns: | [Logical](Logical.html) |
 | Help: | Or Function |
 
 ### Logical-XOR
 
-| Keys | Types |
-| --------- | --------- |
-| A | [SZOBBase](SZOBBase.html) |
-| B | [SZOBBase](SZOBBase.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| A | [SZOBBase](SZOBBase.html) |  |
+| B | [SZOBBase](SZOBBase.html) |  |
+| --- | --- | --- |
 | Returns: | [Logical](Logical.html) |
 | Help: | XOR Function |
 

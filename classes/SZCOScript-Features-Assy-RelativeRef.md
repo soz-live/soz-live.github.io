@@ -14,11 +14,11 @@
 
 ### SZCOScript-Features-Assy-RelativeRef-Make
 
-| Keys | Types |
-| --------- | --------- |
-| ASSY | [SZCEAssy](SZCEAssy.html) |
-| MREFS | [Set:SZCEModelRef](SZCEModelRef.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| ASSY | [SZCEAssy](SZCEAssy.html) |  |
+| MREFS | [Set:SZCEModelRef](SZCEModelRef.html) |  |
+| --- | --- | --- |
 | Returns: | [SZCOScript-Features-Assy-RelativeRef](SZCOScript-Features-Assy-RelativeRef.html) |
 | Help: | Multiple InModel add |
 

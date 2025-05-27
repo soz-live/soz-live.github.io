@@ -14,10 +14,10 @@
 
 ### AcDbLineType-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [AcDbLineType](AcDbLineType.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [AcDbLineType](AcDbLineType.html) |  |
+| --- | --- | --- |
 | Returns: | [AcDbLineType](AcDbLineType.html) |
 | Help: | AcDbLineType |
 

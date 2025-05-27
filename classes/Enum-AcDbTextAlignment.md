@@ -14,10 +14,10 @@
 
 ### Enum-AcDbTextAlignment-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Enum-AcDbTextAlignment](Enum-AcDbTextAlignment.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Enum-AcDbTextAlignment](Enum-AcDbTextAlignment.html) |  |
+| --- | --- | --- |
 | Returns: | [Enum-AcDbTextAlignment](Enum-AcDbTextAlignment.html) |
 | Help: | Enum-AcDbTextAlignment |
 

@@ -14,10 +14,10 @@
 
 ### FileName-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [FileName](FileName.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [FileName](FileName.html) |  |
+| --- | --- | --- |
 | Returns: | [FileName](FileName.html) |
 | Help: | New FileName |
 
@@ -32,38 +32,38 @@
 
 ### FileName-Extension
 
-| Keys | Types |
-| --------- | --------- |
-| F | [FileName](FileName.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| F | [FileName](FileName.html) |  |
+| --- | --- | --- |
 | Returns: | [String](String.html) |
 | Help: | File Extension |
 
 ### Filename-BaseName
 
-| Keys | Types |
-| --------- | --------- |
-| F | [FileName](FileName.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| F | [FileName](FileName.html) |  |
+| --- | --- | --- |
 | Returns: | [String](String.html) |
 | Help: | File BaseName |
 
 ### Filename-Directory
 
-| Keys | Types |
-| --------- | --------- |
-| F | [FileName](FileName.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| F | [FileName](FileName.html) |  |
+| --- | --- | --- |
 | Returns: | [String](String.html) |
 | Help: | File Directory |
 
 ### Filename-Rename
 
-| Keys | Types |
-| --------- | --------- |
-| OFN | [FileName](FileName.html) |
-| NFN | [FileName](FileName.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| OFN | [FileName](FileName.html) |  |
+| NFN | [FileName](FileName.html) |  |
+| --- | --- | --- |
 | Returns: | [String](String.html) |
 | Help: | File Rename from Old to New |
 

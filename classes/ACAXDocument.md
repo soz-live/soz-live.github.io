@@ -23,9 +23,9 @@
 
 ### ACAXDocument-Active
 
-| Keys | Types |
-| --------- | --------- |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| --- | --- | --- |
 | Returns: | [ACAXDocument](ACAXDocument.html) |
 | Help: | Gets the Active ACAXDocument |
 

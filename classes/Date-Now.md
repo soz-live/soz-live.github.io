@@ -14,9 +14,9 @@
 
 ### Date-Now-Make
 
-| Keys | Types |
-| --------- | --------- |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| --- | --- | --- |
 | Returns: | [Date](Date.html) |
 | Help: |  |
 

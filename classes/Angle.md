@@ -14,10 +14,10 @@
 
 ### Angle-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Angle](Angle.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Angle](Angle.html) |  |
+| --- | --- | --- |
 | Returns: | [Angle](Angle.html) |
 | Help: | New Angle Number |
 

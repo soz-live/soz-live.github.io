@@ -14,10 +14,10 @@
 
 ### SZGELoop-AcDbPolyline-OnStart-Make
 
-| Keys | Types |
-| --------- | --------- |
-| ENTITY | [AcDbPolyline](AcDbPolyline.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| ENTITY | [AcDbPolyline](AcDbPolyline.html) |  |
+| --- | --- | --- |
 | Returns: | [SZGELoop-AcDbPolyline-OnStart](SZGELoop-AcDbPolyline-OnStart.html) |
 | Help: | Polyline Shape |
 
@@ -27,6 +27,6 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZGELoop-AcDbPolyline-Make](SZGELoop-AcDbPolyline.html) <br> [SZGELoop-Make](SZGELoop.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SZIX](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZGELoop-AcDbPolyline-Make](SZGELoop-AcDbPolyline.html) <br> [SZGELoop-Make](SZGELoop.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

@@ -14,10 +14,10 @@
 
 ### Boolean-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Boolean](Boolean.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Boolean](Boolean.html) |  |
+| --- | --- | --- |
 | Returns: | [Boolean](Boolean.html) |
 | Help: | Boolean |
 

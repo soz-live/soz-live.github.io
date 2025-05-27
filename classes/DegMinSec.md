@@ -14,12 +14,12 @@
 
 ### DegMinSec-Make
 
-| Keys | Types |
-| --------- | --------- |
-| DEG | [Integer](Integer.html) |
-| MIN | [Integer](Integer.html) |
-| SEC | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| DEG | [Integer](Integer.html) |  |
+| MIN | [Integer](Integer.html) |  |
+| SEC | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [DegMinSec](DegMinSec.html) |
 | Help: | New DegMinSec Angle |
 

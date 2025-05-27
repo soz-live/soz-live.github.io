@@ -47,6 +47,6 @@ With this repo it is possible to create editable:
                       - [SZCERigging-TwistedSling](/classes/SZCERigging-TwistedSling.html)
               - [SZCEModelDef-ChainLink](/classes/SZCEModelDef-ChainLink.html)
 
-Version:  1.23.0
+Version:  1.23.4
 <br>
-Date: 20250502.1752
+Date: 20250527.1922

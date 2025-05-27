@@ -14,11 +14,11 @@
 
 ### SZCEScript-NestedHypocycloid-Make
 
-| Keys | Types |
-| --------- | --------- |
-| SIZE | [Real](Real.html) |
-| NO | [Integer](Integer.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| SIZE | [Real](Real.html) |  |
+| NO | [Integer](Integer.html) |  |
+| --- | --- | --- |
 | Returns: | [SZCEScript-NestedHypocycloid](SZCEScript-NestedHypocycloid.html) |
 | Help: | Nested Hypocycloid |
 

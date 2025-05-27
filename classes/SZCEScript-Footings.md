@@ -14,13 +14,13 @@
 
 ### SZCEScript-Footings-Make
 
-| Keys | Types |
-| --------- | --------- |
-| FTG | [SZCEStruct-FootingDef](SZCEStruct-FootingDef.html) |
-| XPLANES | [Set:SZCEPlane](SZCEPlane.html) |
-| YPLANES | [Set:SZCEPlane](SZCEPlane.html) |
-| ZPLANE | [SZCEPlane](SZCEPlane.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| FTG | [SZCEStruct-FootingDef](SZCEStruct-FootingDef.html) |  |
+| XPLANES | [Set:SZCEPlane](SZCEPlane.html) |  |
+| YPLANES | [Set:SZCEPlane](SZCEPlane.html) |  |
+| ZPLANE | [SZCEPlane](SZCEPlane.html) |  |
+| --- | --- | --- |
 | Returns: | [Set:SZCEStruct-Footing](SZCEStruct-Footing.html) |
 | Help: | Footings |
 

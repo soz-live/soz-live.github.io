@@ -14,10 +14,10 @@
 
 ### Real-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [Real](Real.html) |
 | Help: | New Real Number |
 
@@ -32,19 +32,19 @@
 
 ### Real->Integer
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [Integer](Integer.html) |
 | Help: | >Integer |
 
 ### Real->String
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Real](Real.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Real](Real.html) |  |
+| --- | --- | --- |
 | Returns: | [String](String.html) |
 | Help: | >String |
 

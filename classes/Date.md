@@ -14,15 +14,15 @@
 
 ### Date-Make
 
-| Keys | Types |
-| --------- | --------- |
-| YEAR | [Year](Year.html) |
-| MONTH | [Month](Month.html) |
-| DAY | [Day](Day.html) |
-| HOUR | [Hour](Hour.html) |
-| MINUTE | [Minute](Minute.html) |
-| SECOND | [Second](Second.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| YEAR | [Year](Year.html) |  |
+| MONTH | [Month](Month.html) |  |
+| DAY | [Day](Day.html) |  |
+| HOUR | [Hour](Hour.html) |  |
+| MINUTE | [Minute](Minute.html) |  |
+| SECOND | [Second](Second.html) |  |
+| --- | --- | --- |
 | Returns: | [Date](Date.html) |
 | Help: | YYYYMMDD.HHMMSS |
 

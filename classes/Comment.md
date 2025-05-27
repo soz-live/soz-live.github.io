@@ -14,10 +14,10 @@
 
 ### Comment-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Comment](Comment.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Comment](Comment.html) |  |
+| --- | --- | --- |
 | Returns: | [Comment](Comment.html) |
 | Help: | New Comment |
 

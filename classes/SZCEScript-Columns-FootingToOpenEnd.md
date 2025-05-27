@@ -14,14 +14,14 @@
 
 ### SZCEScript-Columns-FootingToOpenEnd-Make
 
-| Keys | Types |
-| --------- | --------- |
-| PROFILE | [SZCOProfile](SZCOProfile.html) |
-| FOOTINGS | [Set:SZCEStruct-Footing](SZCEStruct-Footing.html) |
-| TOP | [SZCEPlane](SZCEPlane.html) |
-| CONN0 | [SZCEStruct-Connection-OpenEnd](SZCEStruct-Connection-OpenEnd.html) |
-| CONN1 | [SZCEStruct-Connection-OpenEnd](SZCEStruct-Connection-OpenEnd.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| PROFILE | [SZCOProfile](SZCOProfile.html) |  |
+| FOOTINGS | [Set:SZCEStruct-Footing](SZCEStruct-Footing.html) |  |
+| TOP | [SZCEPlane](SZCEPlane.html) |  |
+| CONN0 | [SZCEStruct-Connection-OpenEnd](SZCEStruct-Connection-OpenEnd.html) |  |
+| CONN1 | [SZCEStruct-Connection-OpenEnd](SZCEStruct-Connection-OpenEnd.html) |  |
+| --- | --- | --- |
 | Returns: | [SZCEScript-Columns-FootingToOpenEnd](SZCEScript-Columns-FootingToOpenEnd.html) |
 | Help: | FootingToOpenEnd Structural Columns |
 

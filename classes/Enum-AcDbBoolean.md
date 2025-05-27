@@ -14,10 +14,10 @@
 
 ### Enum-AcDbBoolean-Make
 
-| Keys | Types |
-| --------- | --------- |
-| VALUE | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| VALUE | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |  |
+| --- | --- | --- |
 | Returns: | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |
 | Help: | Enum-AcDbBoolean |
 

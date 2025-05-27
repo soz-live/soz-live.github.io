@@ -18,101 +18,101 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: | [TMatrix-Origin](#TMatrix-Origin) <br> [TMatrix-Product](#TMatrix-Product) <br> [TMatrix-Relative](#TMatrix-Relative) <br> [TMatrix-Translate](#TMatrix-Translate) <br> [TMatrix-Transpose](#TMatrix-Transpose) <br> [TMatrix-TransposeLT](#TMatrix-TransposeLT) <br> [TMatrix-VectorProduct](#TMatrix-VectorProduct) <br> [TMatrix-XAxis](#TMatrix-XAxis) <br> [TMatrix-YAxis](#TMatrix-YAxis) <br> [TMatrix-ZAxis](#TMatrix-ZAxis) |
-| Super: | [Matrix-Determinant](Matrix.html) <br> [Matrix-Orthogonal?](Matrix.html) <br> [List-Make](List.html) <br> [List-Length](List.html) <br> [List->Alist](List.html) <br> [List-IndexSubst](List.html) <br> [List-EndCons](List.html) <br> [List-Addto](List.html) <br> [List-AddtoEnd](List.html) <br> [List-SubLength](List.html) <br> [List-Index](List.html) <br> [List-ItemFill](List.html) <br> [List-IndexFill](List.html) <br> [List-Nth](List.html) <br> [List-Replace](List.html) <br> [List-RemoveItemsAtIndex](List.html) <br> [List-InsertItemsAtIndex](List.html) <br> [List-ItemsAtStart](List.html) <br> [List-ItemsAtEnd](List.html) <br> [List-RemoveLast](List.html) <br> [List-RemoveAtEnd](List.html) <br> [List-RemoveAtStart](List.html) <br> [List-RemoveItem](List.html) <br> [List-RemoveItems](List.html) <br> [List-RemoveNils](List.html) <br> [List-Filter](List.html) <br> [List->Set](List.html) <br> [List-Flatten](List.html) <br> [List-isSubTree?](List.html) <br> [List-Randomise](List.html) <br> [T-Make](T.html) <br> [Logical-AND](Logical.html) <br> [Logical-OR](Logical.html) <br> [Logical-NOT](Logical.html) <br> [Logical-XOR](Logical.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [Matrix-Determinant](Matrix.html) <br> [Matrix-Orthogonal?](Matrix.html) <br> [List-Make](List.html) <br> [List-Length](List.html) <br> [List->Alist](List.html) <br> [List-IndexSubst](List.html) <br> [List-EndCons](List.html) <br> [List-Addto](List.html) <br> [List-AddtoEnd](List.html) <br> [List-MovetoEnd](List.html) <br> [List-SubLength](List.html) <br> [List-Index](List.html) <br> [List-ItemFill](List.html) <br> [List-IndexFill](List.html) <br> [List-Nth](List.html) <br> [List-Replace](List.html) <br> [List-RemoveItemsAtIndex](List.html) <br> [List-InsertItemsAtIndex](List.html) <br> [List-ItemsAtStart](List.html) <br> [List-ItemsAtEnd](List.html) <br> [List-RemoveLast](List.html) <br> [List-RemoveAtEnd](List.html) <br> [List-RemoveAtStart](List.html) <br> [List-RemoveItem](List.html) <br> [List-RemoveItems](List.html) <br> [List-RemoveNils](List.html) <br> [List-Filter](List.html) <br> [List->Set](List.html) <br> [List-Flatten](List.html) <br> [List-isSubTree?](List.html) <br> [List-Randomise](List.html) <br> [T-Make](T.html) <br> [Logical-AND](Logical.html) <br> [Logical-OR](Logical.html) <br> [Logical-NOT](Logical.html) <br> [Logical-XOR](Logical.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### TMatrix-Origin
 
-| Keys | Types |
-| --------- | --------- |
-| TM | [TMatrix](TMatrix.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| TM | [TMatrix](TMatrix.html) |  |
+| --- | --- | --- |
 | Returns: | [Point](Point.html) |
 | Help: | Origin of TMatrix |
 
 ### TMatrix-Product
 
-| Keys | Types |
-| --------- | --------- |
-| M1 | [TMatrix](TMatrix.html) |
-| M2 | [TMatrix](TMatrix.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| M1 | [TMatrix](TMatrix.html) |  |
+| M2 | [TMatrix](TMatrix.html) |  |
+| --- | --- | --- |
 | Returns: | [TMatrix](TMatrix.html) |
 | Help: | TMatrix Product |
 
 ### TMatrix-Relative
 
-| Keys | Types |
-| --------- | --------- |
-| P | [TMatrix](TMatrix.html) |
-| C | [TMatrix](TMatrix.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| P | [TMatrix](TMatrix.html) |  |
+| C | [TMatrix](TMatrix.html) |  |
+| --- | --- | --- |
 | Returns: | [TMatrix](TMatrix.html) |
 | Help: | TMatrix Relative |
 
 ### TMatrix-Translate
 
-| Keys | Types |
-| --------- | --------- |
-| M | [TMatrix](TMatrix.html) |
-| V | [Vector](Vector.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| M | [TMatrix](TMatrix.html) |  |
+| V | [Vector](Vector.html) |  |
+| --- | --- | --- |
 | Returns: | [TMatrix](TMatrix.html) |
 | Help: | TMatrix Translate |
 
 ### TMatrix-Transpose
 
-| Keys | Types |
-| --------- | --------- |
-| M | [TMatrix](TMatrix.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| M | [TMatrix](TMatrix.html) |  |
+| --- | --- | --- |
 | Returns: | [TMatrix](TMatrix.html) |
 | Help: | Transpose of TMatrix |
 
 ### TMatrix-TransposeLT
 
-| Keys | Types |
-| --------- | --------- |
-| M | [TMatrix](TMatrix.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| M | [TMatrix](TMatrix.html) |  |
+| --- | --- | --- |
 | Returns: | [TMatrix](TMatrix.html) |
 | Help: | TransposeLT of TMatrix |
 
 ### TMatrix-VectorProduct
 
-| Keys | Types |
-| --------- | --------- |
-| M | [TMatrix](TMatrix.html) |
-| POINT | [Vector](Vector.html) |
-| DSP | [Logical](Logical.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| M | [TMatrix](TMatrix.html) |  |
+| POINT | [Vector](Vector.html) |  |
+| DSP | [Logical](Logical.html) |  |
+| --- | --- | --- |
 | Returns: | [Vector](Vector.html) |
 | Help: | TMatrix VectorProduct |
 
 ### TMatrix-XAxis
 
-| Keys | Types |
-| --------- | --------- |
-| TM | [TMatrix](TMatrix.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| TM | [TMatrix](TMatrix.html) |  |
+| --- | --- | --- |
 | Returns: | [Vector](Vector.html) |
 | Help: | XAxis of TMatrix |
 
 ### TMatrix-YAxis
 
-| Keys | Types |
-| --------- | --------- |
-| TM | [TMatrix](TMatrix.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| TM | [TMatrix](TMatrix.html) |  |
+| --- | --- | --- |
 | Returns: | [Vector](Vector.html) |
 | Help: | YAxis of TMatrix |
 
 ### TMatrix-ZAxis
 
-| Keys | Types |
-| --------- | --------- |
-| TM | [TMatrix](TMatrix.html) |
-| **---** | **---** |
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| TM | [TMatrix](TMatrix.html) |  |
+| --- | --- | --- |
 | Returns: | [Vector](Vector.html) |
 | Help: | ZAxis of TMatrix |
 
