@@ -19,7 +19,7 @@ layout: default
 
 ## Introduction
 
-To use **SOZ-LIVE** follow the next few sections...
+To use **SOZ-LIVE** follow the sections in this Guide...
 
 
 ### Downloading SOZ
@@ -33,22 +33,23 @@ Download the complete project file **SOZ-LIVE.lsp** from the **code** directory 
 
 ### Loading SOZ
 
-Load the file in the usual manner into CAD for Lisp routines.
+Load the file `soz-live.lsp` into CAD using the standard "Appload" command.  
+It will load the other repo files as required in the sequence specified within the file.  
 
 > **Notes:**<br>
-> - You can then set it to auto-load in the usual manner.
+> - You can set it to auto-load for each drawing, if you plan to use it regularly.
 
 
 ### SOZ Commands
 
 You can interact with the program in a number of ways.
 
-The easiest way to interact with **SOZ** is to type **Y** on the command line - a dialog box appears with a tree-view of options available to select. <br>
+The easiest way to interact with **SOZ** is to type **Y** on the command line - a dialog box appears with a tree-view of options available to select.<br>
 
 > **Notes:**<br>
 > - All **SOZ** commands are in the same format, eg `M-...`, so as not to interfere with conventional CAD shortcuts.  
 > - Once you know the name of a command, eg. `M-Circle` to create a Circle or `M-Part` to create a Part, you can just type that command instead.  
-> - **Y** is the only key not used as a standard CAD command short-cut.  
+> - **Y** was chosen as the shortcut as it is the only key not used as a standard CAD command shortcut.  
 
 
 ## SOZ Dialogs
@@ -131,16 +132,16 @@ And Edit Options include:
 
 ## Process
 
-The basic **SOZ-LIVE** process for drawing develoment follows the four phases:
+The basic **SOZ-LIVE** process for drawing develoment follows four phases:
 
-1. Specify non-graphical Objects and Values.
-2. Draft graphical Entities using Objects and Values.
-3. Model Parts and Assemblies using Entities, Objects and Values.
-4. Present
+1. Specify - non-graphical Objects and Values.
+2. Draft - graphical Entities using Objects and Values.
+3. Model - Parts and Assemblies using Entities, Objects and Values.
+4. Present - Entities into a final layout.
 
 During each phase the basic approach to using **SOZ** is followed:
 
 - **Make** objects & entities - using the **Y** or **M-** commands
 - **Edit** objects & entities - using the **E-** commands, within a dialog box.
-- **Update** the objects & entities - this is part of the Edit command.
+- **Update** the objects & entities - this is done during the **Edit** commands.
 

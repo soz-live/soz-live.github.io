@@ -7,7 +7,7 @@ layout: default
 ## Introduction
 
 Below is a list of commands used within the project.  
-Each entry can be called from the command line.
+Each entry can be called from the command line.  
 To view all of the Commands in a dialog box - use the **Y** command.
 
 

@@ -7,7 +7,8 @@ layout: default
 ## Introduction
 
 Below is a list of the current repos / modules for the project.<br>
-Each link refers to a file for the repo which contains a hierarchial list of Classes in each repo, with links to documentation for each Class.<br>
+Each link refers to a file for the repo.<br>
+Each file contains a hierarchial list of Classes in each repo, with links to documentation for each Class.<br>
 
 - [soz-live](/repos/soz-live.html)<br>  - Main project Repo, with core functionality included.
 - [soz-macro](/repos/soz-macro.html)<br>  - Sub Repo, with Macro functionality included.

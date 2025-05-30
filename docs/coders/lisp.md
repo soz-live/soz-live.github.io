@@ -137,5 +137,5 @@ The Base hierarchy of Types for the Project is:
   - [SZOBObject](/classes/SZOBObject.html) - Abstract Object Class
   - [SZOBScript](/classes/SZOBScript.html) - Abstract Script Class
 
-With the full hierarchy of [soz-live](/repos/soz-live.html) listed here.
+The full hierarchy of [soz-live](/repos/soz-live.html) is listed here.
 

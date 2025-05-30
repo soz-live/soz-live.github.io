@@ -9,8 +9,6 @@ columns:
         link: /docs/docs.html
       - name: Videos
         link: /videos/videos.html
-      - name: Repos
-        link: /docs/repos.html        
   - title: References
     subitems:
       - name: Glossary
@@ -21,6 +19,8 @@ columns:
         link: /docs/categories.html
       - name: Commands
         link: /docs/commands.html
+      - name: Repos
+        link: /docs/repos.html
   - title: Community
     subitems:        
       - name: Blog

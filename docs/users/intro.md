@@ -30,7 +30,7 @@ For users, **SOZ-LIVE** provides additional CAD functionality in the areas of:
   - Parts &
   - Assemblies
   
-As well as for the following disciplines:
+For the following disciplines:
   
 - Architecture
 - Engineering
