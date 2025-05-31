@@ -10,7 +10,7 @@ Below is a list of the current repos / modules for the project.<br>
 Each link refers to a file for the repo.<br>
 Each file contains a hierarchial list of Classes in each repo, with links to documentation for each Class.<br>
 
-- [soz-live](/repos/soz-live.html)<br>  - Main project Repo, with core functionality included.
+- [soz-live](/repos/soz-live.html)<br>  - Main Repo, with core functionality included.
 - [soz-macro](/repos/soz-macro.html)<br>  - Sub Repo, with Macro functionality included.
 - [soz-files](/repos/soz-files.html)<br>  - Sub Repo, with Data Import / Export functionality included.
 - [soz-odbx](/repos/soz-odbx.html)<br>  - Sub Repo, with ODBX specific functionality included.
