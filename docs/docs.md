@@ -36,7 +36,7 @@ This documentation is focussed on providing a Coder of the project to learn how 
 - [Basic Information for Coders](/docs/coders/basics.html).
 
 
-## Resources
+## References
 
 These documents provide additional information about the project that don't fit into the previous two categories or that span both.
 
