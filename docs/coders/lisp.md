@@ -90,7 +90,7 @@ Taking cues from Scheme, a Lisp dialect known for its structured approach to fun
 
 If applied rigorously, as within **SOZ**, reading Lisp code can become easier to understand and also to program. 
 
-Not only that, it also leads to an understanding that Lisp code can be considered to be Object-Oriented code in disguise as Lisp code can easily be turned into a more readily recognisable format for Object-Oriented message passing:
+Not only that, it also leads to an understanding that Lisp code can be considered to be Object-Oriented code in disguise as Lisp code can easily be turned into a more readily recognisable format for Object-Oriented method application:
 
 `(SZOB-Apply object method args)`
 
@@ -101,21 +101,6 @@ In SOZ, it doesn't matter which format you use for method invocation, however to
 Which then enables the function to be used normally within lisp to do things such as find the sum of all lengths of lines within a list, in just one line of code:
 
 `(apply '+ (mapcar 'SZOB-length line-lst))`
-
-Or in generic terms:
-
-`(class-method (cons object args))`
-
-Where:
-
-| Item | Description |
-| --------- | --------- |
-| class-method | is the function name called by Lisp  |
-| class | is the class or type of object being processed |
-| method | is the method name being invoked |
-| (cons object args) | is a list created (using the cons function) of the arguments for the method. |
-| object | is the object the method is being invoked on |
-| args | is a list of the remaining arguments required for the method |
 
 
 ## Types

@@ -143,10 +143,28 @@ One routine dispatches the methods for all classes:
 And even the generic Object method dispatch routine, below is just a wrapper for class apply function above.
 
 ```common-lisp
-(defun SZOB-Apply (*o *mn *args / *cl) 
-  (if (and (setq *cl (SZOB-getClass *o)) (string? *cl)) 
-    (SZMAClass-Apply *cl *mn (cons *o *args))))
+(defun SZOB-Apply (object MethodName Args / ClassName) 
+  (if (and (setq ClassName (SZOB-getClass object)) (string? ClassName)) 
+    (SZMAClass-Apply ClassName MethodName (cons object Args))))
 ```
+
+That then translates into Lisp code as:
+
+`(ClassName-MethodName (cons object Args))`
+
+Where:
+
+| Item | Description |
+| --------- | --------- |
+| class-method | is the function name called by Lisp  |
+| class | is the class or type of object being processed |
+| method | is the method name being invoked |
+| (cons object args) | is a list created (using the cons function) of the arguments for the method. |
+| object | is the object the method is being invoked on |
+| args | is a list of the remaining arguments required for the method |
+
+
+
 This approach enables class hierarchies to be traversed and method selection to be made easily.
 
 Thereby reducing the number of functions to be written to a minimum.
@@ -167,7 +185,10 @@ An Interface enables a class A to be used where class B would be required, as it
 (SZMAInterface-make "AcDbPoint" (list "SZGEPoint" "Point"))
 ```
 
-where `SZMAInterface-make` has the following signature:
+This then enables an AcDbPoint entity to be used interchangeably with either a SZGEPoint object or a Point value.  
+
+
+Where `SZMAInterface-make` has the following signature:
 
 `(SZMAInterface-make ClassName Classes)`
 
@@ -176,7 +197,7 @@ And:
 | Item | Type | Description |
 | --------- | --------- | --------- |
 | ClassName | String | Name of the Class |
-| Classes | List:ClassName | a list of Classes to Interface to |
+| Classes | List:ClassName | a list of Classes to Interface with |
 
 
 
