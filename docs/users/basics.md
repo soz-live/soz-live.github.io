@@ -68,8 +68,7 @@ through to complex geometric objects that utilise other objects and entities in 
 
 Within **SOZ-LIVE** an Entity is derived from Object and describes Objects that are graphical in nature.
 
-Base classes predominantly begin with the prefix `AcDb`, and derived classes are typically prefixed with `SZCE`.
-
+Base entity classes predominantly begin with the prefix `AcDb`, and derived classes are typically prefixed with `SZCE`.
 
 
 ### Identifiers

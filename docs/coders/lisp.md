@@ -113,7 +113,7 @@ There are three main distinctions between types:
 - Objects - which return an **ID** of an object as their result.
 - Scripts - which just are run for their internal results.
 
-<br>**SZOBBase** is the base type for all of **soz-live**.  
+<br>**SZOBBase** is the base type for all of **SOZ-LIVE**.  
 
 The Base hierarchy of Types for the Project is:
 
@@ -122,5 +122,5 @@ The Base hierarchy of Types for the Project is:
   - [SZOBObject](/classes/SZOBObject.html) - Abstract Object Class
   - [SZOBScript](/classes/SZOBScript.html) - Abstract Script Class
 
-The full hierarchy of [soz-live](/repos/soz-live.html) is listed here.
+The full hierarchy of **SOZ-LIVE** is listed [here](/repos/soz-live.html).
 

@@ -13,8 +13,10 @@ This page lists videos for **SOZ-LIVE**.
   
 ## Users
 
-- [Part 1](/videos/users/part-1.html) - an example of a Boolean Feature Solid.
+- [Part 1](/videos/users/part-1.html) - an example of a Boolean Feature Solid.  
+
+{% include note.html content="More that needs to be done here!" %}  
 
 ## Coders
 
-No Coder videos yet...
+{% include note.html content="More that needs to be done here too!" %}  
