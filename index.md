@@ -9,13 +9,13 @@ layout: default
 - Home
   - [Introduction](#introduction)
   - [Status](#status)
+  - [Platforms](#platforms)  
   - [SOZ](#soz)
     - [The What of SOZ](#the-what-of-soz)  
     - [The Why of SOZ](#the-why-of-soz)  
   - [LIVE](#live)
     - [The What of LIVE](#the-what-of-live)  
     - [The How of LIVE](#the-how-of-live)
-  - [Platforms](#platforms)
 
 
 ## Introduction
@@ -27,6 +27,14 @@ layout: default
 ## Status
 
 The current status of the project is **Private Beta**.
+
+## Platforms
+
+**SOZ-LIVE** can be run within both BricsCAD and AutoCAD.
+
+- 3D Modelling functionality requires BricsCAD Pro or above, or full AutoCAD.
+- Some Civil functionality is limited to BricsCAD Pro or above only.
+
 
 ## SOZ
 
@@ -70,10 +78,3 @@ The routines are built into the Core of **SOZ**, and consist of under 1000 lines
 
 **LIVE** objects, such as Nodes and Links, are created in PaperSpace while the modelling entities are created in ModelSpace.
 
-
-## Platforms
-
-**SOZ-LIVE** can be run within both BricsCAD and AutoCAD.
-
-- 3D Modelling functionality requires BricsCAD Pro or above, or full AutoCAD.<br>
-- Some Civil functionality is limited to BricsCAD Pro or above only.
