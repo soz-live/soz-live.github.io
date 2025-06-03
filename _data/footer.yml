@@ -9,6 +9,8 @@ columns:
         link: /docs/docs.html
       - name: Videos
         link: /videos/videos.html
+      - name: Download
+        link: /download.html   
   - title: References
     subitems:
       - name: Glossary

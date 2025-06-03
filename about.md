@@ -4,6 +4,55 @@ layout: default
 
 # About
 
+
+## Introduction
+
+**SOZ-LIVE** is a collection of over 2600 Lisp routines, that enables the creation of complex CAD entities, from a series of inputs of simpler objects. It builds upon basic types such numbers and vectors to Lines, Plane entities to enable the modelling of complex Parts and Assemblies.
+
+
+## SOZ
+
+### The What of SOZ
+
+**SOZ** = Scripted ObjectZ  
+
+**SOZ** is a means to combine:
+
+- Functional Programming (FP)
+- Object Oriented Programming (OOP) 
+- Scripting
+
+all programmed in Lisp.
+ 
+
+### The Why of SOZ
+
+**SOZ** was created to enable:
+
+- powerful but simple access to CAD objects through Lisp.
+- parametric modelling of complex 3D Solid entities.
+
+Along the way, benefits of using the **SOZ** approach became apparent, including:
+
+- Reduced code duplication.
+- Ease of extending classes.
+- Adding to the functionality of CAD.  
+
+## LIVE 
+
+### The What of LIVE
+
+**LIVE** = Lisp Interactive Visual Environment
+
+**LIVE** is a Node-based visual User Interface (UI) written in **SOZ** that enables the user to create visual scripts for iterative design.
+
+### The How of LIVE
+
+The routines are built into the Core of **SOZ**, and consist of under 1000 lines of code.
+
+**LIVE** objects, such as Nodes and Links, are created in PaperSpace while the modelling entities are created in ModelSpace.
+
+
 ## The Vision
 
 The vision is to provide a better way of programming Lisp in CAD with immediate benefits to the coder, the user and the community.  
@@ -33,7 +82,7 @@ The expansion of the community will also enable further growth and development o
 
 ## The Team
 
-### Tim Marchbank - Project Lead
+### Tim Marchbank - Creator
 
 Developed an interest in programming Lisp and CAD customisation during university 30 years ago.  
 This interest was developed further during his career and led to previous iterations of what would become SOZ-LIVE.  

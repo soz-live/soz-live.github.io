@@ -1,9 +1,11 @@
-- name: Home
+- name: SOZ-LIVE
   link: /
 - name: Docs
   link: /docs/docs.html
 - name: Videos
   link: /videos/videos.html
+- name: Download
+  link: /download.html
 - name: Blog
   link: /blog.html  
 - name: About

@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Community
 
 ## Introduction
@@ -31,8 +35,7 @@ All members actions will be governed by the **Code of Conduct** in the GitHub re
 
 ## Joining
 
-Currently, joining the **SOZ-LIVE** community involves emailing your request to:  
-**tim AT soz-live DOT com**
+Currently, joining the **SOZ-LIVE** community involves emailing your request to: **tim AT soz-live DOT com**
 
 ### GitHub
 
