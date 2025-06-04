@@ -35,11 +35,10 @@ All members actions will be governed by the **Code of Conduct** in the GitHub re
 
 ## Joining
 
-Currently, joining the **SOZ-LIVE** community involves emailing your request to: **tim AT soz-live DOT com**
+To join the **SOZ-LIVE** community, email your request to: **tim AT soz-live DOT com**
 
 ### GitHub
 
-You can join the GitHub repository by adding your email into the form above.  
 You will need to set-up a GitHub account.
 
 ### Discord
