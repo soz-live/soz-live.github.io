@@ -7,7 +7,7 @@ layout: default
 
 ## Introduction
 
-**SOZ-LIVE** is a collection of over 2600 Lisp routines, that enables the creation of complex CAD entities, from a series of inputs of simpler objects. It builds upon basic types such numbers and vectors to Lines, Plane entities to enable the modelling of complex Parts and Assemblies.
+**SOZ-LIVE** is a collection of over 2600 Lisp routines, that enables the creation of complex CAD entities, from a series of inputs of simpler objects. It builds upon basic types such numbers and vectors to entities such as Lines and Planes to enable the modelling of complex Parts and Assemblies.
 
 
 ## SOZ
@@ -16,7 +16,7 @@ layout: default
 
 **SOZ** = Scripted ObjectZ  
 
-**SOZ** is a means to combine:
+**SOZ** is a means of combining:
 
 - Functional Programming (FP)
 - Object Oriented Programming (OOP) 
@@ -48,16 +48,16 @@ Along the way, benefits of using the **SOZ** approach became apparent, including
 
 ### The How of LIVE
 
-The routines are built into the Core of **SOZ**, and consist of under 1000 lines of code.
+The routines are built into the Core of **SOZ**, and consist of around 1000 lines of code.
 
-**LIVE** objects, such as Nodes and Links, are created in PaperSpace while the modelling entities are created in ModelSpace.
+**LIVE** objects, such as Nodes and Links, are created in PaperSpace while the modelling entities are created in ModelSpace.  This enables complex models and arrangements to be created, enabling iterative design of the models.
 
 
 ## The Vision
 
 The vision is to provide a better way of programming Lisp in CAD with immediate benefits to the coder, the user and the community.  
 By combining the functionality that **SOZ** provides, with the visual experience of **LIVE**, the project creates a niche product not seen before.  
-All written in the one language, Lisp.  
+
 
 ## Timeline
 
@@ -76,15 +76,15 @@ The current aim is to develop a community of developers and testers to progress 
 
 The aim is to move to Open Source when a mature v2.0 product is released.<br>
 This is expected to be in 2025.  
-The future includes a long list of potential areas, features and functionality on the Roadmap for further development.  
+The future includes a list of potential areas, features and functionality for further development.  
 The expansion of the community will also enable further growth and development of the project.
 
 
 ## The Team
 
-### Tim Marchbank - Creator
+### Tim Marchbank - Project Lead
 
-Developed an interest in programming Lisp and CAD customisation during university 30 years ago.  
+Tim developed an interest in programming Lisp and CAD customisation during university days.  
 This interest was developed further during his career and led to previous iterations of what would become SOZ-LIVE.  
 He has been developing the project since 2013 after wanting entities in CAD that weren't available in base products.  
 It was soon after that he realised the potential depth and breadth of the project for the wider community.  

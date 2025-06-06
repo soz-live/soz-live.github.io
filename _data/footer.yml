@@ -1,6 +1,8 @@
 columns:
-  - title: Support
+  - title: Pages
     subitems:
+      - name: Home
+        link: /
       - name: Users
         link: /docs/users/intro.html    
       - name: Coders
@@ -9,8 +11,6 @@ columns:
         link: /docs/docs.html
       - name: Videos
         link: /videos/videos.html
-      - name: Download
-        link: /download.html   
   - title: References
     subitems:
       - name: Glossary
@@ -24,7 +24,9 @@ columns:
       - name: Repos
         link: /docs/repos.html
   - title: Community
-    subitems:        
+    subitems:
+      - name: Download
+        link: /download.html    
       - name: Blog
         link: /blog.html
       - name: About
