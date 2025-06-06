@@ -47,6 +47,6 @@ With this repo it is possible to:
             - [SZCE3dSolids-BetweenTINs-OnCorridor](/classes/SZCE3dSolids-BetweenTINs-OnCorridor.html)
             - [SZCE3dSolids-OnCorridor](/classes/SZCE3dSolids-OnCorridor.html)
 
-Version:  1.23.4
+Version:  1.24.0
 <br>
-Date: 20250527.1922
+Date: 20250606.1722

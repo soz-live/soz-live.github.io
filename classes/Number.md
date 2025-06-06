@@ -7,7 +7,7 @@
 | Superclass: | [Atom](Atom.html) |
 | Subclasses: | [Real](Real.html) |
 | Interfaces: |  |
-| Interfaced: | [SZLPNumber](SZLPNumber.html), [SZLP-IF-Number](SZLP-IF-Number.html) |
+| Interfaced: | [Real](Real.html), [Integer](Integer.html), [SZLPNumber](SZLPNumber.html), [SZLP-IF-Number](SZLP-IF-Number.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
 | Help: | Basic Number Class |

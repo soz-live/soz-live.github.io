@@ -19,7 +19,7 @@
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | PROFILE | [SZCOProfile](SZCOProfile.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| HEIGHT | [Number](Number.html) |  |
+| HEIGHT | [Real](Real.html) |  |
 | EXTRUDE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
 | TAPER | [Deg](Deg.html) |  |
 | --- | --- | --- |

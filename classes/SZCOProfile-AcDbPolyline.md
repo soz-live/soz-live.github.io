@@ -5,7 +5,7 @@
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOProfile](SZCOProfile.html) |
-| Subclasses: |  |
+| Subclasses: | [SZCOProfile-AcDbPolyline-OnStart](SZCOProfile-AcDbPolyline-OnStart.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
@@ -16,7 +16,7 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| ENTITY | [AcDbPolyline](AcDbPolyline.html) |  |
+| LOOP | [SZGELoop-AcDbPolyline](SZGELoop-AcDbPolyline.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCOProfile-AcDbPolyline](SZCOProfile-AcDbPolyline.html) |
 | Help: | Make a SZCOProfile-AcDbPolyline |

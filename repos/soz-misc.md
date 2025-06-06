@@ -58,6 +58,6 @@ This repo includes additional misc. functionality for **soz-live**.
       - [SZCEScript](/classes/SZCEScript.html)
         - [SZCEScript-NestedHypocycloid](/classes/SZCEScript-NestedHypocycloid.html)
 
-Version:  1.23.4
+Version:  1.24.0
 <br>
-Date: 20250527.1922
+Date: 20250606.1722

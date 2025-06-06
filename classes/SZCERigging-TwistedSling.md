@@ -20,8 +20,8 @@
 | DIA | [Real](Real.html) |  |
 | STARTANG | [Deg](Deg.html) |  |
 | TWIST | [Deg](Deg.html) |  |
-| STARTRAD | [Number](Number.html) |  |
-| ENDRAD | [Number](Number.html) |  |
+| STARTRAD | [Real](Real.html) |  |
+| ENDRAD | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCERigging-TwistedSling](SZCERigging-TwistedSling.html) |
 | Help: | Make Twisted Sling |

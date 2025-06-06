@@ -16,9 +16,9 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| RA | [Number](Number.html) |  |
-| RB | [Number](Number.html) |  |
-| H | [Number](Number.html) |  |
+| RA | [Real](Real.html) |  |
+| RB | [Real](Real.html) |  |
+| H | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZGEPolarCurve-Epitrochoid](SZGEPolarCurve-Epitrochoid.html) |
 | Help: | Outside rolling curve |

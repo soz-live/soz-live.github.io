@@ -17,8 +17,8 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
-| MAJOR | [Number](Number.html) |  |
-| MINOR | [Number](Number.html) |  |
+| MAJOR | [Real](Real.html) |  |
+| MINOR | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCOSolid-EllipticalCone-OnLine](SZCOSolid-EllipticalCone-OnLine.html) |
 | Help: | Make a SZCOSolid-EllipticalCone-OnLine |

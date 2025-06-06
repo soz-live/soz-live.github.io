@@ -16,8 +16,8 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| OD | [Number](Number.html) |  |
-| THICK | [Number](Number.html) |  |
+| OD | [Real](Real.html) |  |
+| THICK | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCOSection-Pipe](SZCOSection-Pipe.html) |
 | Help: | CHS Centred on the Curve |

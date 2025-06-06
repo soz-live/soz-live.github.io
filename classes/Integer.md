@@ -6,7 +6,7 @@
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Real](Real.html) |
 | Subclasses: | [Byte](Byte.html) |
-| Interfaces: |  |
+| Interfaces: | [Number](Number.html) |
 | Interfaced: | [SZLPInteger](SZLPInteger.html) |
 | Abstract?: | No |
 | isValue?: | Yes |

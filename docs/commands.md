@@ -9,13 +9,9 @@ layout: default
 Below is a list of commands used within the project.  
 Each entry can be called from the command line.  
 To view all of the Commands in a dialog box - type **Y** at the command line.  
-
-
 ## Command Hierarchy
 
 - Y
-  - Add
-    - A-Meta
   - Clone
     - C-Entity
     - C-Node
@@ -59,13 +55,11 @@ To view all of the Commands in a dialog box - type **Y** at the command line.
     - I-CSV
     - I-SOZ
   - Live
-    - A-Links
-    - A-Nodes
-    - L-Entity
-    - L-Link
-    - L-Method
+    - L-Add
+    - L-Links
+    - L-Model
+    - L-Nodes
     - L-Object
-    - L-Point
   - Make
     - M-Base
       - M-Code
@@ -164,8 +158,6 @@ To view all of the Commands in a dialog box - type **Y** at the command line.
     - O-Convert
     - O-Delete
     - O-Reconvert
-  - SOZ
-    - S-Add
   - Update
     - U-All
     - U-Select
@@ -174,6 +166,6 @@ To view all of the Commands in a dialog box - type **Y** at the command line.
     - V-ResetEntities
     - V-SetEntities
 
-Version:  1.23.4
+Version:  1.24.0
 <br>
-Date: 20250527.1922
+Date: 20250606.1722

@@ -36,7 +36,7 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| O | [SZCOSolid-Extrusion-AcDbPolyline](SZCOSolid-Extrusion-AcDbPolyline.html) |  |
+| O | [SZCOSolid-Extrusion-AcDbCircle](SZCOSolid-Extrusion-AcDbCircle.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
 | --- | --- | --- |
 | Returns: | [AcDb3dSolid](AcDb3dSolid.html) |

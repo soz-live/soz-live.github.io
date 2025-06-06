@@ -18,7 +18,7 @@
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | ENTITY | [AcDbCircle](AcDbCircle.html) |  |
-| HEIGHT | [Number](Number.html) |  |
+| HEIGHT | [Real](Real.html) |  |
 | EXTRUDE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
 | --- | --- | --- |
 | Returns: | [](.html) |

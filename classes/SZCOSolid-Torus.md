@@ -17,8 +17,8 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| TORUS | [Number](Number.html) |  |
-| TUBE | [Number](Number.html) |  |
+| TORUS | [Real](Real.html) |  |
+| TUBE | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCOSolid-Torus](SZCOSolid-Torus.html) |
 | Help: | Torus |

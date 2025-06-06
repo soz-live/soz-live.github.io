@@ -17,8 +17,8 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| RADIUS | [Number](Number.html) |  |
-| HEIGHT | [Number](Number.html) |  |
+| RADIUS | [Real](Real.html) |  |
+| HEIGHT | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCOSolid-Cylinder](SZCOSolid-Cylinder.html) |
 | Help: | Make a SZCOSolid-Cylinder |

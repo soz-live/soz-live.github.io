@@ -16,7 +16,7 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| NAME | [Comment](Comment.html) |  |
+| LABEL | [Comment](Comment.html) |  |
 | LOOP | [SZGELoop](SZGELoop.html) |  |
 | ALIGN | [Enum-AcDbAlignment](Enum-AcDbAlignment.html) |  |
 | ZAROT | [Deg](Deg.html) |  |

@@ -16,11 +16,11 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| PITCH | [Number](Number.html) |  |
-| DIA | [Number](Number.html) |  |
+| PITCH | [Real](Real.html) |  |
+| DIA | [Real](Real.html) |  |
 | TWIST | [Deg](Deg.html) |  |
-| STARTRAD | [Number](Number.html) |  |
-| ENDRAD | [Number](Number.html) |  |
+| STARTRAD | [Real](Real.html) |  |
+| ENDRAD | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZGE3dCurve-TwistedSling](SZGE3dCurve-TwistedSling.html) |
 | Help: | Make Twisted Sling Curve |

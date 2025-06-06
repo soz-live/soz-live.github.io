@@ -17,7 +17,7 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
-| RADIUS | [Number](Number.html) |  |
+| RADIUS | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCOSolid-Cylinder-OnLine](SZCOSolid-Cylinder-OnLine.html) |
 | Help: | Make a SZCOSolid-Cylinder-OnLine |

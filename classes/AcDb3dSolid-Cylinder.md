@@ -18,8 +18,8 @@
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| RADIUS | [Number](Number.html) |  |
-| HEIGHT | [Number](Number.html) |  |
+| RADIUS | [Real](Real.html) |  |
+| HEIGHT | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [AcDb3dSolid-Cylinder](AcDb3dSolid-Cylinder.html) |
 | Help: | Make an AcDb3dSolid-Cylinder |

@@ -18,9 +18,9 @@
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| MAJOR | [Number](Number.html) |  |
-| MINOR | [Number](Number.html) |  |
-| HEIGHT | [Number](Number.html) |  |
+| MAJOR | [Real](Real.html) |  |
+| MINOR | [Real](Real.html) |  |
+| HEIGHT | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [AcDb3dSolid-EllipticalCone](AcDb3dSolid-EllipticalCone.html) |
 | Help: | Elliptical Cone |

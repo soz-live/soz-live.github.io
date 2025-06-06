@@ -17,9 +17,9 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| MAJOR | [Number](Number.html) |  |
-| MINOR | [Number](Number.html) |  |
-| HEIGHT | [Number](Number.html) |  |
+| MAJOR | [Real](Real.html) |  |
+| MINOR | [Real](Real.html) |  |
+| HEIGHT | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCOSolid-EllipticalCylinder](SZCOSolid-EllipticalCylinder.html) |
 | Help: | Make a SZCOSolid-EllipticalCylinder |

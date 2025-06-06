@@ -16,7 +16,7 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| NAME | [Comment](Comment.html) |  |
+| LABEL | [Comment](Comment.html) |  |
 | LEG | [SZCORigging-Leg](SZCORigging-Leg.html) |  |
 | BASE0 | [SZGEPoint](SZGEPoint.html) |  |
 | BASE1 | [SZGEPoint](SZGEPoint.html) |  |

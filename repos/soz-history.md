@@ -28,6 +28,6 @@ To recall a state, use the H-Select command.
       - [SZOBHistory-TimeStamp](/classes/SZOBHistory-TimeStamp.html)
         - [SZOBHistory-TimeStamp-Now](/classes/SZOBHistory-TimeStamp-Now.html)
 
-Version:  1.23.4
+Version:  1.24.0
 <br>
-Date: 20250527.1922
+Date: 20250606.1722

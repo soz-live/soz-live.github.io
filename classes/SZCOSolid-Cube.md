@@ -17,7 +17,7 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| SIDE | [Number](Number.html) |  |
+| SIDE | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCOSolid-Cube](SZCOSolid-Cube.html) |
 | Help: | Make a SZCOSolid-Cube |

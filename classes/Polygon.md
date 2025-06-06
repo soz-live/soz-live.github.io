@@ -16,8 +16,8 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| R | [Number](Number.html) |  |
-| NO | [Number](Number.html) |  |
+| R | [Real](Real.html) |  |
+| NO | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [2dCurve](2dCurve.html) |
 | Help: | Make a Polygon |

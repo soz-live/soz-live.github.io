@@ -17,7 +17,7 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| DIST | [Number](Number.html) |  |
+| DIST | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZGETMatrix-Curve-AtDist](SZGETMatrix-Curve-AtDist.html) |
 | Help: | Make a SZGETMatrix-Curve-AtDist |

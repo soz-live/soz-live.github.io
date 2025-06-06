@@ -1,15 +1,74 @@
 ---
 layout: default
-description: Main project Repo, with core functionality included.
+description: Main Repo, with core functionality included.
 ---
 
-# soz-live
+# SOZ-LIVE
 
 ## Introduction
 
-The main project repo, with core functionality included.  
-All classes are derived from the Base Class - **SZOBBase**.<br>
+This is the Main project repo, with core functionality included. 
 
+## Functionality
+
+Functionality provided by this repo includes Making, Editing & Updating of:
+
+- Basic Lisp Values
+- Lisp Objects
+- Geomeric Objects, including:
+  - Point
+  - Plane
+  - Curve
+  - etc.
+- Basic CAD Entities, including:
+  - Point
+  - Curves
+    - Arc
+    - Circle
+    - Line  
+    - Polylines
+    - 3dPolylines
+  - etc.
+- Extended CAD Entities, including:
+  - Planes
+  - Curves
+  - Grids
+  - etc.
+- Features  
+- Parts  
+- Assemblies
+
+And the Running of Scripts.
+
+All using an integrated Graphical User Interface (GUI) built on-the-fly for each class of Object.  
+As well as **LIVE**, the Node based UI, where the model can be shown graphically using Nodes and Links.  
+
+
+## Classes
+ 
+All classes are derived from the Base Class - **SZOBBase**.
+
+The first level of sub-classes:
+
+- [SZOBBase](/classes/SZOBBase.html)
+  - [Lisp](/classes/Lisp.html)
+  - [SZOBObject](/classes/SZOBObject.html)
+  - [SZOBScript](/classes/SZOBScript.html)
+
+Describe the main Abstract classes for the project
+
+### Lisp
+
+All basic Lisp values, such as Real, Integer, String, Boolean and geometric types such as Vector, Point, Line, Plane etc. are sub-classes of this class.
+
+### SZOBObject
+
+This is the basic Object class. All classes, that create Objects and Entities are sub-classes of this class.  
+Instead of being passed by Value, these classes are passed by ID, a String of in a particular format, eg `#O#5A48`.
+
+### SZOBScript
+
+This is the basic Script class. All scripts, functions that are run for their internal effects only, are sub-classes of this type.
 
 ## Class Hierarchy
 
@@ -746,6 +805,7 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
         - [SZCOProfile](/classes/SZCOProfile.html)
           - [SZCOProfile-AcDbCircle](/classes/SZCOProfile-AcDbCircle.html)
           - [SZCOProfile-AcDbPolyline](/classes/SZCOProfile-AcDbPolyline.html)
+            - [SZCOProfile-AcDbPolyline-OnStart](/classes/SZCOProfile-AcDbPolyline-OnStart.html)
           - [SZCOProfile-Circle](/classes/SZCOProfile-Circle.html)
           - [SZCOProfile-Loop](/classes/SZCOProfile-Loop.html)
             - [SZCOProfile-Loop-Aligned](/classes/SZCOProfile-Loop-Aligned.html)
@@ -775,7 +835,7 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
           - [SZCOSolid-Extrusion-Tapered](/classes/SZCOSolid-Extrusion-Tapered.html)
             - [SZCOSolid-Extrusion](/classes/SZCOSolid-Extrusion.html)
             - [SZCOSolid-Extrusion-AcDbCircle](/classes/SZCOSolid-Extrusion-AcDbCircle.html)
-            - [SZCOSolid-Extrusion-AcDbPolyline](/classes/SZCOSolid-Extrusion-AcDbPolyline.html)
+            - [SZCOSolid-Extrusion-AcDbPolyline-OnStart](/classes/SZCOSolid-Extrusion-AcDbPolyline-OnStart.html)
           - [SZCOSolid-Loft](/classes/SZCOSolid-Loft.html)
             - [SZCOSolid-Loft-CrossSections](/classes/SZCOSolid-Loft-CrossSections.html)
               - [SZCOSolid-Loft-OnLine-Profiles](/classes/SZCOSolid-Loft-OnLine-Profiles.html)
@@ -859,6 +919,6 @@ All classes are derived from the Base Class - **SZOBBase**.<br>
           - [SZCOScript-Features-ProfileCut](/classes/SZCOScript-Features-ProfileCut.html)
       - [SZCOScript-ModelGroups](/classes/SZCOScript-ModelGroups.html)
 
-Version:  1.23.4
+Version:  1.24.0
 <br>
-Date: 20250527.1922
+Date: 20250606.1722

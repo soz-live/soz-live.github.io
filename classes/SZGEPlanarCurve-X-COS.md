@@ -16,7 +16,7 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| VALUE | [Number](Number.html) |  |
+| VALUE | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZGEPlanarCurve](SZGEPlanarCurve.html) |
 | Help: | curve using x and cos |

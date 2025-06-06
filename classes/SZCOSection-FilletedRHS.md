@@ -16,10 +16,10 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| WIDTH | [Number](Number.html) |  |
-| DEPTH | [Number](Number.html) |  |
-| THICK | [Number](Number.html) |  |
-| OUTRAD | [Number](Number.html) |  |
+| WIDTH | [Real](Real.html) |  |
+| DEPTH | [Real](Real.html) |  |
+| THICK | [Real](Real.html) |  |
+| OUTRAD | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCOSection-FilletedRHS](SZCOSection-FilletedRHS.html) |
 | Help: | Make a SZCOSection-FilletedRHS |

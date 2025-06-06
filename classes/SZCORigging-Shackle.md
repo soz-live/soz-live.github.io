@@ -16,7 +16,7 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| NAME | [Comment](Comment.html) |  |
+| LABEL | [Comment](Comment.html) |  |
 | MODEL | [SZCERigging-Shackle](SZCERigging-Shackle.html) |  |
 | ENDFLIP | [Boolean](Boolean.html) |  |
 | SIDEFLIP | [Boolean](Boolean.html) |  |

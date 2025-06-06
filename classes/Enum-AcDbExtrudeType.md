@@ -28,7 +28,7 @@
 | --------- | --------- |
 | Positive | 0 |
 | Negative | 1 |
-| Midplane | 2 |
+| MidPlane | 2 |
 
 ## Functions:
 

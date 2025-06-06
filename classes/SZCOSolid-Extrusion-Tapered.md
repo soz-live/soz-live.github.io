@@ -5,7 +5,7 @@
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOSolid](SZCOSolid.html) |
-| Subclasses: | [SZCOSolid-Extrusion-AcDbCircle](SZCOSolid-Extrusion-AcDbCircle.html) <br> [SZCOSolid-Extrusion-AcDbPolyline](SZCOSolid-Extrusion-AcDbPolyline.html) <br> [SZCOSolid-Extrusion](SZCOSolid-Extrusion.html) |
+| Subclasses: | [SZCOSolid-Extrusion-AcDbCircle](SZCOSolid-Extrusion-AcDbCircle.html) <br> [SZCOSolid-Extrusion-AcDbPolyline-OnStart](SZCOSolid-Extrusion-AcDbPolyline-OnStart.html) <br> [SZCOSolid-Extrusion](SZCOSolid-Extrusion.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

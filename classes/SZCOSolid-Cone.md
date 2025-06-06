@@ -17,8 +17,8 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| RADIUS | [Number](Number.html) |  |
-| HEIGHT | [Number](Number.html) |  |
+| RADIUS | [Real](Real.html) |  |
+| HEIGHT | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCOSolid-Cone](SZCOSolid-Cone.html) |
 | Help: | Make a SZCOSolid-Cone |

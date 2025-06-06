@@ -18,7 +18,7 @@
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| SIDE | [Number](Number.html) |  |
+| SIDE | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [AcDb3dSolid-Cube](AcDb3dSolid-Cube.html) |
 | Help: | Make an AcDb3dSolid-Cube |

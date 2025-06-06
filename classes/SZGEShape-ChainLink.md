@@ -16,9 +16,9 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| DIA | [Number](Number.html) |  |
-| PITCH | [Number](Number.html) |  |
-| INWIDTH | [Number](Number.html) |  |
+| DIA | [Real](Real.html) |  |
+| PITCH | [Real](Real.html) |  |
+| INWIDTH | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZGEShape-ChainLink](SZGEShape-ChainLink.html) |
 | Help: | Chainlink |

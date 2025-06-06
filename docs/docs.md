@@ -48,5 +48,5 @@ These documents provide additional information about the project that don't fit 
 
 ## Repos
 
-A list of Repos / Modules for the project, with help documentation, is [here](/docs/repos.html)
+A list of Repos / Modules for the project, with help documentation, is [here](/docs/repos.html).
 

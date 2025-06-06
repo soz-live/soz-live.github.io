@@ -18,8 +18,8 @@
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| MAJOR | [Number](Number.html) |  |
-| MINOR | [Number](Number.html) |  |
+| MAJOR | [Real](Real.html) |  |
+| MINOR | [Real](Real.html) |  |
 | STARTANG | [Deg](Deg.html) | Start Angle |
 | ENDANG | [Deg](Deg.html) | End Angle |
 | --- | --- | --- |

@@ -6,7 +6,7 @@
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Number](Number.html) |
 | Subclasses: | [Real-Random-Range](Real-Random-Range.html) <br> [Real-Random](Real-Random.html) <br> [Integer](Integer.html) <br> [Bulge](Bulge.html) <br> [Angle](Angle.html) |
-| Interfaces: |  |
+| Interfaces: | [Number](Number.html) |
 | Interfaced: | [SZLPNumber](SZLPNumber.html), [SZLPReal](SZLPReal.html) |
 | Abstract?: | No |
 | isValue?: | Yes |

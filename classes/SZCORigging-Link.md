@@ -16,7 +16,7 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| NAME | [Comment](Comment.html) |  |
+| LABEL | [Comment](Comment.html) |  |
 | MODEL | [SZCERigging-Link](SZCERigging-Link.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCORigging-Link](SZCORigging-Link.html) |

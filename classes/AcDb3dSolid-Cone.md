@@ -18,8 +18,8 @@
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| RADIUS | [Number](Number.html) |  |
-| HEIGHT | [Number](Number.html) |  |
+| RADIUS | [Real](Real.html) |  |
+| HEIGHT | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [AcDb3dSolid-Cone](AcDb3dSolid-Cone.html) |
 | Help: | Make an AcDb3dSolid-Cone |

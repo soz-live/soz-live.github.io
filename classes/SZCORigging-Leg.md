@@ -16,7 +16,7 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| NAME | [Comment](Comment.html) |  |
+| LABEL | [Comment](Comment.html) |  |
 | ITEMS | [List:SZCORigging-Item](SZCORigging-Item.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCORigging-Leg](SZCORigging-Leg.html) |

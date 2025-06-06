@@ -16,8 +16,8 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| LOW | [Number](Number.html) |  |
-| HIGH | [Number](Number.html) |  |
+| LOW | [Real](Real.html) |  |
+| HIGH | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZLPRange](SZLPRange.html) |
 | Help: | Make a SZLPRange |

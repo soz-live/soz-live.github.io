@@ -17,7 +17,7 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
-| RADIUS | [Number](Number.html) |  |
+| RADIUS | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCOSolid-Cone-OnLine](SZCOSolid-Cone-OnLine.html) |
 | Help: | Make a SZCOSolid-Cone-OnLine |

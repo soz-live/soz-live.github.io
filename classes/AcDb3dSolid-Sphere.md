@@ -18,7 +18,7 @@
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | CENTER | [SZGEPoint](SZGEPoint.html) |  |
-| RADIUS | [Number](Number.html) |  |
+| RADIUS | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [AcDb3dSolid-Sphere](AcDb3dSolid-Sphere.html) |
 | Help: | Make an AcDb3dSolid-Sphere |

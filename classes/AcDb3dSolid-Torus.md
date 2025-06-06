@@ -18,8 +18,8 @@
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| TORUS | [Number](Number.html) |  |
-| TUBE | [Number](Number.html) |  |
+| TORUS | [Real](Real.html) |  |
+| TUBE | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [AcDb3dSolid-Torus](AcDb3dSolid-Torus.html) |
 | Help: | Torus |

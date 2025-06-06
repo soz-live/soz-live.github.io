@@ -17,8 +17,8 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
-| MAJOR | [Number](Number.html) |  |
-| MINOR | [Number](Number.html) |  |
+| MAJOR | [Real](Real.html) |  |
+| MINOR | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCOSolid-EllipticalCylinder-OnLine](SZCOSolid-EllipticalCylinder-OnLine.html) |
 | Help: | Make a SZCOSolid-EllipticalCylinder-OnLine |

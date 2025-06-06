@@ -24,6 +24,6 @@ Each file contains a hierarchial list of Classes in each repo, with links to doc
 - [soz-structural](/repos/soz-structural.html)<br>  - Sub Repo, with structural functionality included.
 - [soz-devs](/repos/soz-devs.html)<br>  - Sub Repo, with Developer specific functionality included.
 
-Version:  1.23.4
+Version:  1.24.0
 <br>
-Date: 20250527.1922
+Date: 20250606.1722

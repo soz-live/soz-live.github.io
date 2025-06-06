@@ -16,8 +16,8 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| MAJOR | [Number](Number.html) |  |
-| MINOR | [Number](Number.html) |  |
+| MAJOR | [Real](Real.html) |  |
+| MINOR | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZGEPolarCurve-Ellipse](SZGEPolarCurve-Ellipse.html) |
 | Help: | Ellipse |

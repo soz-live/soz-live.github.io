@@ -17,7 +17,7 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | PLANE | [SZGEPlane](SZGEPlane.html) |  |
-| OFFSET | [Number](Number.html) |  |
+| OFFSET | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZGEPlane-PlaneOffset](SZGEPlane-PlaneOffset.html) |
 | Help: | Make a SZGEPlane-PlaneOffset |

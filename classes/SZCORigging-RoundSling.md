@@ -16,7 +16,7 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| NAME | [Comment](Comment.html) |  |
+| LABEL | [Comment](Comment.html) |  |
 | LOR | [Real](Real.html) |  |
 | WOR | [Real](Real.html) |  |
 | WLL | [Real](Real.html) |  |

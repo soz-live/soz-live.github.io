@@ -16,7 +16,7 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| NAME | [Comment](Comment.html) |  |
+| LABEL | [Comment](Comment.html) |  |
 | ULEG | [SZCORigging-Leg](SZCORigging-Leg.html) |  |
 | SB0 | [SZCORigging-SpreaderBar](SZCORigging-SpreaderBar.html) |  |
 | LLEG | [SZCORigging-Leg](SZCORigging-Leg.html) |  |

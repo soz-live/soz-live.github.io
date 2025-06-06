@@ -17,9 +17,9 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| LEN | [Number](Number.html) |  |
-| WIDTH | [Number](Number.html) |  |
-| HEIGHT | [Number](Number.html) |  |
+| LEN | [Real](Real.html) |  |
+| WIDTH | [Real](Real.html) |  |
+| HEIGHT | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCOSolid-Wedge](SZCOSolid-Wedge.html) |
 | Help: | Wedge |

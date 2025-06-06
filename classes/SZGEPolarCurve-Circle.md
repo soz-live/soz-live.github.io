@@ -16,7 +16,7 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| RADIUS | [Number](Number.html) |  |
+| RADIUS | [Real](Real.html) |  |
 | --- | --- | --- |
 | Returns: | [SZGEPolarCurve-Circle](SZGEPolarCurve-Circle.html) |
 | Help: | Circle |
