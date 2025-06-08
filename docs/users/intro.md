@@ -22,7 +22,7 @@ For users, **SOZ-LIVE** provides additional CAD functionality in the areas of:
     - Lines
     - Arcs
     - Circles
-    - LWPolylines
+    - Polylines
     - 3dPolylines
   - Grids
   - Levels

@@ -6,8 +6,7 @@ layout: default
 
 ## Introduction
 
-This page lists documentation for **SOZ-LIVE**.  
-It is in the following sections:
+This page lists documentation for **SOZ-LIVE** in the following sections:
 
 - [Users](#users)
 - [Coders](#coders)

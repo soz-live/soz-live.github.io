@@ -30,7 +30,6 @@ You can create Values using the **M-Value** command, or as required, from within
 There are a variety of Value types that are explored more below.  
 
 
-
 ### Real
 
 A Real value represents a real number to represent length arguments.  
@@ -46,7 +45,7 @@ Alternatively there are options on the RHS for additional ways to enter a value.
 
 ### Option
 
-An Option is a value limited to a range of values, options, available to that type.  
+An Option is a value limited to a range of values, available to that type.  
 An example are the Boolean values of True and False. The only possible values for that type.  
 Within a dialog box, an Option is specified by selecting one of the options from the drop-down list for the value.  
 The visible value is the current value.  
@@ -56,4 +55,4 @@ The visible value is the current value.
 
 {% include examples.html id=site.data.examples.option %}
 
-Date: 20250527.1922
+
