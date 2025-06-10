@@ -5,6 +5,11 @@ description: Main Repo, with core functionality included.
 
 # SOZ-LIVE
 
+## Status
+
+The **SOZ-LIVE** repo is: ???
+
+
 ## Introduction
 
 This is the Main project repo, with core functionality included. 
@@ -13,13 +18,13 @@ This is the Main project repo, with core functionality included.
 
 Functionality provided by this repo includes Making, Editing & Updating of:
 
-- Basic Lisp Values
-- Lisp Objects
+- Basic Lisp types:
+  - as Values
+  - as Objects
 - Geomeric Objects, including:
   - Point
   - Plane
   - Curve
-  - etc.
 - Basic CAD Entities, including:
   - Point
   - Curves
@@ -28,20 +33,28 @@ Functionality provided by this repo includes Making, Editing & Updating of:
     - Line  
     - Polylines
     - 3dPolylines
-  - etc.
+  - Text
+  - Blocks
 - Extended CAD Entities, including:
   - Planes
   - Curves
   - Grids
-  - etc.
-- Features  
-- Parts  
-- Assemblies
+- Modelling Objects and Entities including:
+  - Features  
+  - Parts  
+  - Groups
+  - Elements
+  - Assemblies
 
 And the Running of Scripts.
 
-All using an integrated Graphical User Interface (GUI) built on-the-fly for each class of Object.  
-As well as **LIVE**, the Node based UI, where the model can be shown graphically using Nodes and Links.  
+## User Interfaces
+
+The project utilises three User Interfaces (UIs):
+
+- An integrated Graphical User Interface (GUI) built for each class of Object and function as required.  
+- A Command-line UI (CLI) for interaction with the program similar to CAD commands.  
+- And also **LIVE**, a Node based UI, where the model can be created and edited graphically.  
 
 
 ## Classes
@@ -60,15 +73,18 @@ Describe the main Abstract classes for the project
 ### Lisp
 
 All basic Lisp values, such as Real, Integer, String, Boolean and geometric types such as Vector, Point, Line, Plane etc. are sub-classes of this class.
+These types are passed by Value to routines and stored within objects by Value.  
 
 ### SZOBObject
 
 This is the basic Object class. All classes, that create Objects and Entities are sub-classes of this class.  
-Instead of being passed by Value, these classes are passed by ID, a String of in a particular format, eg `#O#5A48`.
+Instead of being passed by Value, they are passed and stored by ID, a String in a particular format, eg `#O#5A48`.  
+Many classes are converted to simpler types as required by the program, eg a SZGELine Object to a Line value.  
 
 ### SZOBScript
 
-This is the basic Script class. All scripts, functions that are run for their internal effects only, are sub-classes of this type.
+This is the basic Script class.  
+All scripts, functions that are run for their internal effects only, are sub-classes of this type.
 
 ## Class Hierarchy
 
@@ -453,7 +469,8 @@ This is the basic Script class. All scripts, functions that are run for their in
       - [SZGECurves](/classes/SZGECurves.html)
         - [SZGECurves-HelicalCurves](/classes/SZGECurves-HelicalCurves.html)
         - [SZGEFaces](/classes/SZGEFaces.html)
-          - [SZGEFaces-BetweenPoints](/classes/SZGEFaces-BetweenPoints.html)
+          - [SZGEFaces-PointToPoints](/classes/SZGEFaces-PointToPoints.html)
+          - [SZGEFaces-PointsToPoints](/classes/SZGEFaces-PointsToPoints.html)
         - [SZGELines](/classes/SZGELines.html)
       - [SZGEMatrices](/classes/SZGEMatrices.html)
         - [SZGETMatrices](/classes/SZGETMatrices.html)
@@ -859,6 +876,8 @@ This is the basic Script class. All scripts, functions that are run for their in
             - [SZCEFaces](/classes/SZCEFaces.html)
               - [SZCEFaces-BetweenPoints](/classes/SZCEFaces-BetweenPoints.html)
                 - [SZCEFaces-BetweenCurves](/classes/SZCEFaces-BetweenCurves.html)
+              - [SZCEFaces-PointToPoints](/classes/SZCEFaces-PointToPoints.html)
+                - [SZCEFaces-PointToCurve](/classes/SZCEFaces-PointToCurve.html)
             - [SZCELines](/classes/SZCELines.html)
               - [SZCELines-AcDbLines](/classes/SZCELines-AcDbLines.html)
               - [SZCELines-BetweenCurves-DivideInto](/classes/SZCELines-BetweenCurves-DivideInto.html)
@@ -919,6 +938,6 @@ This is the basic Script class. All scripts, functions that are run for their in
           - [SZCOScript-Features-ProfileCut](/classes/SZCOScript-Features-ProfileCut.html)
       - [SZCOScript-ModelGroups](/classes/SZCOScript-ModelGroups.html)
 
-Version:  1.24.0
+Version:  1.24.2
 <br>
-Date: 20250606.1722
+Date: 20250610.2003

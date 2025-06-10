@@ -1,16 +1,26 @@
 
-# Class:	SZGEFaces
+# Class:	SZGEFaces-PointsToPoints
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZGECurves](SZGECurves.html) |
-| Subclasses: | [SZGEFaces-PointsToPoints](SZGEFaces-PointsToPoints.html) <br> [SZGEFaces-PointToPoints](SZGEFaces-PointToPoints.html) |
+| Superclass: | [SZGEFaces](SZGEFaces.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | Yes |
+| Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEFaces Class |
+| Help: | SZGEFaces-PointsToPoints Class |
+
+### SZGEFaces-PointsToPoints-Make
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| POINTS0 | [List:AcDbPoint](AcDbPoint.html) |  |
+| POINTS1 | [List:AcDbPoint](AcDbPoint.html) |  |
+| --- | --- | --- |
+| Returns: | [SZGEFaces-PointsToPoints](SZGEFaces-PointsToPoints.html) |
+| Help: | Make a SZGEFaces-PointsToPoints |
 
 
 ## Functions:

@@ -25,11 +25,11 @@ columns:
         link: /docs/repos.html
   - title: Community
     subitems:
-      - name: Download
-        link: /download.html    
       - name: Blog
         link: /blog.html
       - name: About
         link: /about.html
       - name: Community
         link: /community.html
+      - name: GitHub
+        link: /github.html  

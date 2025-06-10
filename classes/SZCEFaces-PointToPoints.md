@@ -1,26 +1,26 @@
 
-# Class:	SZCEFaces-BetweenPoints
+# Class:	SZCEFaces-PointToPoints
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEFaces](SZCEFaces.html) |
-| Subclasses: | [SZCEFaces-BetweenCurves](SZCEFaces-BetweenCurves.html) |
+| Subclasses: | [SZCEFaces-PointToCurve](SZCEFaces-PointToCurve.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEFaces-BetweenPoints Class |
+| Help: | SZCEFaces-PointToPoints Class |
 
-### SZCEFaces-BetweenPoints-Make
+### SZCEFaces-PointToPoints-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| POINTS0 | [List:AcDbPoint](AcDbPoint.html) |  |
-| POINTS1 | [List:AcDbPoint](AcDbPoint.html) |  |
+| POINT | [AcDbPoint](AcDbPoint.html) |  |
+| POINTS | [List:AcDbPoint](AcDbPoint.html) |  |
 | --- | --- | --- |
-| Returns: | [SZCEFaces-BetweenPoints](SZCEFaces-BetweenPoints.html) |
-| Help: | Make a SZCEFaces-BetweenPoints |
+| Returns: | [SZCEFaces-PointToPoints](SZCEFaces-PointToPoints.html) |
+| Help: | Make a SZCEFaces-PointToPoints |
 
 
 ## Functions:

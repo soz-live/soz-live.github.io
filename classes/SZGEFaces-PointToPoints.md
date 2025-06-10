@@ -1,5 +1,5 @@
 
-# Class:	SZGEFaces-BetweenPoints
+# Class:	SZGEFaces-PointToPoints
 
 | Fields | Values |
 | --------- | --------- |
@@ -10,17 +10,17 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEFaces-BetweenPoints Class |
+| Help: | SZGEFaces-PointToPoints Class |
 
-### SZGEFaces-BetweenPoints-Make
+### SZGEFaces-PointToPoints-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| POINTS0 | [List:AcDbPoint](AcDbPoint.html) |  |
-| POINTS1 | [List:AcDbPoint](AcDbPoint.html) |  |
+| POINT | [AcDbPoint](AcDbPoint.html) |  |
+| POINTS | [List:AcDbPoint](AcDbPoint.html) |  |
 | --- | --- | --- |
-| Returns: | [SZGEFaces-BetweenPoints](SZGEFaces-BetweenPoints.html) |
-| Help: | Make a SZGEFaces-BetweenPoints |
+| Returns: | [SZGEFaces-PointToPoints](SZGEFaces-PointToPoints.html) |
+| Help: | Make a SZGEFaces-PointToPoints |
 
 
 ## Functions:

@@ -19,9 +19,6 @@ To view all of the Commands in a dialog box - type **Y** at the command line.
     - C-Part
     - C-Reference
   - Development
-    - Dev-GitHub
-      - D-GitHub-ReleaseCode
-      - D-GitHub-ReleaseVersion
     - Dev-Map
       - D-Map-Class
       - D-Map-ClassFunc
@@ -57,9 +54,9 @@ To view all of the Commands in a dialog box - type **Y** at the command line.
   - Live
     - L-Add
     - L-Links
-    - L-Model
     - L-Nodes
-    - L-Object
+    - L-Pick
+    - L-Select
   - Make
     - M-Base
       - M-Code
@@ -166,6 +163,6 @@ To view all of the Commands in a dialog box - type **Y** at the command line.
     - V-ResetEntities
     - V-SetEntities
 
-Version:  1.24.0
+Version:  1.24.2
 <br>
-Date: 20250606.1722
+Date: 20250610.2003
