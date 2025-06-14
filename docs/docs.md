@@ -15,25 +15,25 @@ This page lists documentation for **SOZ-LIVE** in the following sections:
 
 ## Users
 
-This documentation is focussed on providing a User of the project to learn how to run the software.  
+This documentation is focussed on providing a User to learn how to model using the project.  
 
 
 - [Introduction for Users](/docs/users/intro.html). 
 - [Quickstart Guide for Users](/docs/users/quickstart.html).
 - [Basic Information for Users](/docs/users/basics.html).
 
-{% include note.html content="<br>There is more that needs to be done here!<br>Especially with multiline Notes!" %}
+{% include note.html content="<br>- There is more that needs to be done here!<br>- Especially with multiline Notes!" %}
 
 ## Coders
 
-This documentation is focussed on providing a Coder of the project to learn how to read and write using the software.  
+This documentation is focussed on providing a Coder to learn how to read and write code using the project.  
 
 
 - [Introduction for Coders](/docs/coders/intro.html). 
 - [Lisp Introduction](/docs/coders/lisp.html).
 - [Basic Information for Coders](/docs/coders/basics.html).
 
-{% include note.html content="And there is more that needs to be done here too!" %}
+{% include note.html content="<br>- And there is more that needs to be done here too!" %}
 
 ## References
 
