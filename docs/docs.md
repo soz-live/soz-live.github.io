@@ -22,7 +22,7 @@ This documentation is focussed on providing a User of the project to learn how t
 - [Quickstart Guide for Users](/docs/users/quickstart.html).
 - [Basic Information for Users](/docs/users/basics.html).
 
-{% include note.html content="There is more that needs to be done here!" %}
+{% include note.html content="<br>There is more that needs to be done here!<br>Especially with multiline Notes!" %}
 
 ## Coders
 

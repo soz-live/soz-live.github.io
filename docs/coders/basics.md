@@ -56,9 +56,8 @@ And:
 | Description | Comment | a Description of the Class being created |
 
 > **Notes:**<br>
-> Many of the specified classes are Abstract classes - meaning that they can't be instanced - or objects created from them.  
-> They are used to set out the hierarchy in a logical fashion so that LSP works for each type / class specified.  
-> Sometimes the depth of abstraction can reach 8 levels.
+> - Many of the specified classes are Abstract classes - meaning that they can't be instanced - or objects created from them.  
+> - They are used to set out the hierarchy in a logical fashion so that LSP works for each type / class specified.
 
 
 ## Objects
@@ -72,8 +71,8 @@ All Objects are made using the Make method of the Class, as shown below:
 
 This differs to other Lisp OO implementations where a make routine for a **Line** class would be named **make-line**.
 
-The Make arguments are stored onto the Object or Entity in an Alist, together with the Class of the Object.
-They contain all the information required to Edit and Update the object as and if required.
+The Make arguments are stored on the Object or Entity in an Alist, together with the Class of the Object.
+They contain all the information required to Make, Edit and Update the object as and if required.
 
 
 ## Methods
@@ -89,10 +88,10 @@ Examples of method calls and definitions are:
 
 ```common-lisp
 (SZMAMethod-make "SZGELine" "StartPoint" (list "O") (list "SZGELine") "Point" "StartPoint of a SZGELine")
-(defun SZGELine-StartPoint (o) (car (SZOB->line o)))
+(defun SZGELine-StartPoint (o) (Line-StartPoint (SZOB->line o)))
 
 (SZMAMethod-make "SZGELine" "EndPoint" (list "O") (list "SZGELine") "Point" "EndPoint of a SZGELine")
-(defun SZGELine-EndPoint (o) (cadr (SZOB->line o)))
+(defun SZGELine-EndPoint (o) (Line-EndPoint (SZOB->line o)))
 
 (SZMAMethod-make "SZGELine" "MidPoint" (list "O") (list "SZGELine") "Point" "MidPoint of a SZGELine")
 (defun SZGELine-MidPoint (o) (SZGELine-BaryComb o 0.5))
@@ -140,7 +139,7 @@ One routine dispatches the methods for all classes:
 ```common-lisp
 (SZMAClass-Apply ClassName MethodName Args)
 ```
-And even the generic Object method dispatch routine, below is just a wrapper for class apply function above.
+And even the generic Object method dispatch routine, below is just a wrapper for the class apply function above.
 
 ```common-lisp
 (defun SZOB-Apply (object MethodName Args / ClassName) 
@@ -228,14 +227,13 @@ For the full list - refer to the [Categories](/docs/categories.html) document.
 
 
 > **Notes:**<br>
-> Each Category has a corresponding **M-** (Make) command that can be entered at the command line<br>
-> This can resolve issues when it comes to class naming.<br>
-> As the class name can now can now focus more on the classes functionality rather than how to access the class.
+> - Each Category has a corresponding **M-** (Make) command that can be entered at the command line.
+> - This resolves class naming issues as the class name is now about functionality rather than class access.
 
 
 ## Strings vs Symbols
 
-**SOZ** uses Strings within the code for Class, Method and Function names and documentation strings, because:
+**SOZ** uses Strings within the code for Arguments, Class, Method and Function names and documentation strings, because:
 
 - converting strings to symbols is easy.
 - Users have to be able to read the strings.
@@ -255,5 +253,5 @@ The **Meta** Environment exists as a single entity in memory at run-time and sto
 The **Meta** information is accessed to determine things such as:
 
 - Superclass and Subclass information
-- Function / Method signatures and required Types
+- Function / Method signatures and their required Types / Classes.
 

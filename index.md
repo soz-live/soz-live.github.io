@@ -29,6 +29,6 @@ The current status of the project is **Private Beta**.
 **SOZ-LIVE** can be run from within both BricsCAD and AutoCAD.
 
 > **Notes**
-> - 3D Modelling functionality requires BricsCAD Pro or above, or full AutoCAD.
-> - Some functionality is limited to BricsCAD Pro or above only.
-
+> - 3D Modelling functionality requires BricsCAD Pro or above, or full AutoCAD.  
+> - TIN Surfaces and Civil functionality require BricsCAD Pro or above.  
+> - **SOZ-LIVE** is not affiliated with BricsCAD or AutoCAD.  

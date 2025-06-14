@@ -36,12 +36,19 @@ A Class is a template for the creation of an Object.
 Everything that is created in CAD, and in SOZ, is an Object of a particular Class.  
 This includes graphical entities such as:
 
-- a [Line](/classes/AcDbLine.html) - a 3d Line entity - between two points.
-- a [Part](/classes/SZCEPart.html) - a complex derived entity containing Features, to define a parametric 3d Enitity.
+- [AcDbLine](/classes/AcDbLine.html) - a 3d Line entity - between two points.
+- [SZCEPart](/classes/SZCEPart.html) - a complex derived entity containing Features, to define a parametric 3d Enitity.  
 
-through to non-graphical objects such as:
+<br>
+Through to non-graphical objects such as:
 
-- a [SZLPReal](/classes/SZLPReal.html) value object for a real number.
+- [SZLPReal](/classes/SZLPReal.html) a value object for a real number.
+- [SZLPReals](/classes/SZLPReals.html) avalue object for a list of Real Numbers.
+
+
+> **Notes:**<br>
+> - Except for Lisp values, each class has a 4 letter prefix that identifies it as belonging to a particular part of the class hierarchy.  
+> - Refer to the [Prefixes](/docs/prefixes.html) document for details.
 
 
 ### Object
@@ -50,13 +57,13 @@ Within **SOZ-LIVE** an Object is the base level of things created.
 
 They are non-graphical in nature and range from simple values such as:
 
-- a [Real](/classes/Real.html) value - a real number
-- a [Boolean](/classes/Boolean.html) value - ie either True or False.
+- [Real](/classes/Real.html) - a real number
+- [Boolean](/classes/Boolean.html) value - either True or False.
 
-through to complex geometric objects that utilise other objects and entities in their calculated value(s):
+Through to complex geometric objects that utilise other objects and entities in their calculated value(s):
 
-- a [SZGEPoint-AcDbCircle-Center](/classes/SZGEPoint-AcDbCircle-Center.html) object - that returns the center [Point](/classes/Point.html) of a [AcDbCircle](/classes/AcDbCircle.html) Entity.
-- a [SZGEPattern2D-Rectangular](/classes/SZGEPattern2D-Rectangular.html) object - that creates and returns a list of [TMatrix](/classes/TMatrix.html) values for the insertion of Entities into the Model.  
+- [SZGEPoint-AcDbCircle-Center](/classes/SZGEPoint-AcDbCircle-Center.html) object - that returns the center [Point](/classes/Point.html) of a [AcDbCircle](/classes/AcDbCircle.html) Entity.
+- [SZGEPattern2D-Rectangular](/classes/SZGEPattern2D-Rectangular.html) object - that creates and returns a list of [TMatrix](/classes/TMatrix.html) values for the insertion of Entities into the Model in a Rectangular 2D Pattern.  
 
 
 > **Notes:**<br>

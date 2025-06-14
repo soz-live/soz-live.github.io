@@ -23,7 +23,7 @@ For coders, **SOZ-LIVE** is a platform for developing additional functionality f
 - Readability
 - Documentation
 
-It enables coders to use OOP techniques from within a functional / scripting language.
+It enables coders to use Object Oriented (OO) techniques from within a functional / scripting language.
 
 ## Documents
 
