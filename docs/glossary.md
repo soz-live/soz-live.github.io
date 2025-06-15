@@ -69,7 +69,7 @@ Also known as a Type.
 
 ## CLI
 
-Command-Line user Interface		
+Command-Line User Interface (UI) - where the user interacts with the program using command prompts and keyboard entry.
 
 
 ## DIP
@@ -91,12 +91,12 @@ Functional Programming. <br> A programming paradigm based upon processing functi
 
 ## Function
 
-A function is a list of instructions or other functions for the computer to process using a programming language.
+A function is a list of instructions or other functions for the computer to process in a programming language.
 
 
 ## GUI
 
-Graphical User Interface - generally using dialog boxes.
+Graphical User Interface - where the user interacts with the program using dialog boxes. 
 
 
 ## ID
@@ -133,7 +133,7 @@ Stands for Liskov Substitution Principle and is the L in [SOLID](#solid). <br> I
 
 ## Method
 
-A function defined for a particular Class.
+A [Function](#function) defined for a particular [Class](#class).
 
 
 ## Object
@@ -160,7 +160,12 @@ The time during which the program is being executed.
 
 A set of five governing principles used to define proper programming.  
 Each of the letters stand for a different principle.  
-Refer to the below glossary entries for the five principles.  
+
+- [SRP](#srp) - Single Responsibility Principle
+- [OCP](#ocp) - Open Closed Principle
+- [LSP](#lsp) - Liskov Substitution Principle
+- [ISP](#isp) - Interface Segregation Principle
+- [DIP](#dip) - Dependency Inversion Priciple
 
 
 ## SOZ
@@ -181,12 +186,12 @@ A human readable series of characters making words etc..
 
 ## Structure
 
-Inside SOZ, a String-Keyed Alist.
+Inside SOZ, an Alist that uses a String as a Key.
 
 
 ## Symbol
 
-A computer readable series of characters used during processing.
+A computer readable series of characters used during processing programming code.
 
 
 ## Type
@@ -199,4 +204,4 @@ Also know as a Class.
 
 User Interface - for users to interact with the program. <br> In SOZ there are three UIs - a CLI, a GUI and LIVE.
 
-Date: 20250610.2003
+Date: 20250615.1619
