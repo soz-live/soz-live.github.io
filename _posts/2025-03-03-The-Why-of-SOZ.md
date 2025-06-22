@@ -11,7 +11,7 @@ Recently I was questioning why I continue to use and code using **SOZ-LIVE**. Th
 ## For Users
 
 **SOZ-LIVE** provides users with additional functionality over Standard CAD functions / routines in the areas of 3D modelling and drafting of complex shapes and curves. All this is achieved with the added benefit of being able to edit and update functionality.<br>
-It offers the user a variety user interfaces (UIs) including graphical (GUI) and a Node UI (LIVE) to visualise and work with the objects and entities created. <br>
+It offers the user a variety of user interfaces (UIs) including a graphical (GUI) and a Node UI (LIVE) to visualise and work with the objects and entities created. <br>
 Already it has been extended into the areas of Architectural Engineering & Construction (AEC), Rigging design and 3D Modelling.
 
 ## For Coders
