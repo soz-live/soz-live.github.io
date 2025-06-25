@@ -62,6 +62,6 @@ With this repo it is possible to create:
                 - [SZCOFeatures-Random-Spheres](/classes/SZCOFeatures-Random-Spheres.html)
     - [SZOBDevOps](/classes/SZOBDevOps.html)
 
-Version:  1.24.2
+Version:  1.25.0
 <br>
-Date: 20250610.2003
+Date: 20250625.1917

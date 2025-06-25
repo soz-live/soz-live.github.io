@@ -5,7 +5,7 @@
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOFeature-Part](SZCOFeature-Part.html) |
-| Subclasses: | [SZCOFeature-Extrusion-CutOut](SZCOFeature-Extrusion-CutOut.html) <br> [SZCOFeature-3dSolid-Intersection](SZCOFeature-3dSolid-Intersection.html) <br> [SZCOFeature-3dSolid-Union](SZCOFeature-3dSolid-Union.html) <br> [SZCOFeature-3dSolid-Subtraction](SZCOFeature-3dSolid-Subtraction.html) |
+| Subclasses: | [SZCOFeature-Extrusion-CutOut](SZCOFeature-Extrusion-CutOut.html) <br> [SZCOFeature-3dSolid-Corner](SZCOFeature-3dSolid-Corner.html) <br> [SZCOFeature-3dSolid-Intersection](SZCOFeature-3dSolid-Intersection.html) <br> [SZCOFeature-3dSolid-Union](SZCOFeature-3dSolid-Union.html) <br> [SZCOFeature-3dSolid-Subtraction](SZCOFeature-3dSolid-Subtraction.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
@@ -29,6 +29,6 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

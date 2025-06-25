@@ -18,7 +18,7 @@
 | Types | Functions |
 | --------- | --------- |
 | Class: | [SZCEModelDef-AddFeature](#SZCEModelDef-AddFeature) <br> [SZCEModelDef-AddFeatures](#SZCEModelDef-AddFeatures) <br> [SZCEModelDef-User_Pick](#SZCEModelDef-User_Pick) <br> [SZCEModelDef-Volume](#SZCEModelDef-Volume) |
-| Super: | [AcDbBlock-Make](AcDbBlock.html) <br> [AcDbBlock-User_ModelSpace](AcDbBlock.html) <br> [AcDbBlock-User_PaperSpace](AcDbBlock.html) <br> [SZOBObject-AddMetaData](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [AcDbBlock-Make](AcDbBlock.html) <br> [AcDbBlock-User_ModelSpace](AcDbBlock.html) <br> [AcDbBlock-User_PaperSpace](AcDbBlock.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### SZCEModelDef-AddFeature

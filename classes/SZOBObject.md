@@ -17,7 +17,7 @@
 
 | Types | Functions |
 | --------- | --------- |
-| Class: | [SZOBObject->SOZFile](#SZOBObject->SOZFile) <br> [SZOBObject-AddMetaData](#SZOBObject-AddMetaData) |
+| Class: | [SZOBObject->SOZFile](#SZOBObject->SOZFile) |
 | Super: | [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
@@ -29,14 +29,4 @@
 | --- | --- | --- |
 | Returns: | [SOZFile](SOZFile.html) |
 | Help: | Converts Object to SOZFile Format |
-
-### SZOBObject-AddMetaData
-
-| Keys | Types | Help |
-| --------- | --------- | --------- |
-| PARENT | [SZOBObject](SZOBObject.html) |  |
-| META | [SZOBMeta](SZOBMeta.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject](SZOBObject.html) |
-| Help: | Add MetaData |
 

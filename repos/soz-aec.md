@@ -29,9 +29,8 @@ workflows.
             - [SZCEModelDef](/classes/SZCEModelDef.html)
               - [SZCEModel](/classes/SZCEModel.html)
                 - [SZCEPart](/classes/SZCEPart.html)
-                  - [SZCEPart-MultiFeature](/classes/SZCEPart-MultiFeature.html)
-                    - [SZCEPart-Ditch](/classes/SZCEPart-Ditch.html)
-                      - [SZCEPart-Ditch-Constant](/classes/SZCEPart-Ditch-Constant.html)
+                  - [SZCEPart-Ditch](/classes/SZCEPart-Ditch.html)
+                    - [SZCEPart-Ditch-Constant](/classes/SZCEPart-Ditch-Constant.html)
                   - [SZCEPart-Planar](/classes/SZCEPart-Planar.html)
                     - [SZCEPart-Extrusion-AcDbPolyline](/classes/SZCEPart-Extrusion-AcDbPolyline.html)
                       - [SZCEPart-Extrusion-Face](/classes/SZCEPart-Extrusion-Face.html)
@@ -48,6 +47,6 @@ workflows.
           - [SZCESections](/classes/SZCESections.html)
             - [SZCESections-OnCurve-Chainage-Exported](/classes/SZCESections-OnCurve-Chainage-Exported.html)
 
-Version:  1.24.2
+Version:  1.25.0
 <br>
-Date: 20250610.2003
+Date: 20250625.1917

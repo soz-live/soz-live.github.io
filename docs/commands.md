@@ -8,7 +8,7 @@ layout: default
 
 Below is a list of commands used within the project.  
 Each entry can be called from the command line.  
-To view all of the Commands in a dialog box - type **Y** at the command line.  
+To access all of the Commands in a dialog box - type **Y** at the command line.  
 ## Command Hierarchy
 
 - Y
@@ -53,8 +53,8 @@ To view all of the Commands in a dialog box - type **Y** at the command line.
     - I-SOZ
   - Live
     - L-Add
+    - L-Auto
     - L-Links
-    - L-Nodes
     - L-Pick
     - L-Select
   - Make
@@ -152,9 +152,10 @@ To view all of the Commands in a dialog box - type **Y** at the command line.
     - T-Length
     - T-Poly3D
   - Object
-    - O-Convert
+    - O-Clear
     - O-Delete
-    - O-Reconvert
+    - O-Reset
+    - O-Set
   - Update
     - U-All
     - U-Select
@@ -163,6 +164,6 @@ To view all of the Commands in a dialog box - type **Y** at the command line.
     - V-ResetEntities
     - V-SetEntities
 
-Version:  1.24.2
+Version:  1.25.0
 <br>
-Date: 20250610.2003
+Date: 20250625.1917

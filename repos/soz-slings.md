@@ -42,11 +42,10 @@ With this repo it is possible to create editable:
               - [SZCEModel](/classes/SZCEModel.html)
                 - [SZCEModel-TwistedLink](/classes/SZCEModel-TwistedLink.html)
                 - [SZCEPart](/classes/SZCEPart.html)
-                  - [SZCEPart-MultiFeature](/classes/SZCEPart-MultiFeature.html)
-                    - [SZCEPart-FilletedSweep-MultiRadii](/classes/SZCEPart-FilletedSweep-MultiRadii.html)
-                      - [SZCERigging-TwistedSling](/classes/SZCERigging-TwistedSling.html)
+                  - [SZCEPart-FilletedSweep-MultiRadii](/classes/SZCEPart-FilletedSweep-MultiRadii.html)
+                    - [SZCERigging-TwistedSling](/classes/SZCERigging-TwistedSling.html)
               - [SZCEModelDef-ChainLink](/classes/SZCEModelDef-ChainLink.html)
 
-Version:  1.24.2
+Version:  1.25.0
 <br>
-Date: 20250610.2003
+Date: 20250625.1917

@@ -21,6 +21,6 @@ With this repo it is possible to load and script external drawings without havin
         - [ODBXScript](/classes/ODBXScript.html)
           - [ODBXScript-Section-PaperSpace-Setup](/classes/ODBXScript-Section-PaperSpace-Setup.html)
 
-Version:  1.24.2
+Version:  1.25.0
 <br>
-Date: 20250610.2003
+Date: 20250625.1917

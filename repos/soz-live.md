@@ -7,7 +7,7 @@ description: Main Repo, with core functionality included.
 
 ## Status
 
-The **SOZ-LIVE** repo is: ???
+The Repo status is: **Private Beta**
 
 
 ## Introduction
@@ -68,12 +68,10 @@ The first level of sub-classes:
   - [SZOBObject](/classes/SZOBObject.html)
   - [SZOBScript](/classes/SZOBScript.html)
 
-Describe the main Abstract classes for the project
 
 ### Lisp
 
-All basic Lisp values, such as Real, Integer, String, Boolean and geometric types such as Vector, Point, Line, Plane etc. are sub-classes of this class.
-These types are passed by Value to routines and stored within objects by Value.  
+All basic Lisp values, such as Real, Integer, String, Boolean including geometric types such as Vector, Point, Line, Plane etc. are sub-classes of this class. These types are passed by Value to routines and stored within objects by Value.
 
 ### SZOBObject
 
@@ -323,6 +321,9 @@ All scripts, functions that are run for their internal effects only, are sub-cla
                 - [SZGEShape-ColdChannel](/classes/SZGEShape-ColdChannel.html)
                 - [SZGEShape-ParallelChannel](/classes/SZGEShape-ParallelChannel.html)
               - [SZGEShape-Circle](/classes/SZGEShape-Circle.html)
+              - [SZGEShape-Corner](/classes/SZGEShape-Corner.html)
+                - [SZGEShape-Chamfer](/classes/SZGEShape-Chamfer.html)
+                - [SZGEShape-Fillet](/classes/SZGEShape-Fillet.html)
               - [SZGEShape-Hat](/classes/SZGEShape-Hat.html)
               - [SZGEShape-IShape](/classes/SZGEShape-IShape.html)
                 - [SZGEShape-UniversalI](/classes/SZGEShape-UniversalI.html)
@@ -582,7 +583,6 @@ All scripts, functions that are run for their internal effects only, are sub-cla
               - [SZLPString-Concat](/classes/SZLPString-Concat.html)
               - [SZLPString-Concats](/classes/SZLPString-Concats.html)
               - [SZLPString-Concats-Delim](/classes/SZLPString-Concats-Delim.html)
-            - [SZOBMeta](/classes/SZOBMeta.html)
           - [SZLPCode](/classes/SZLPCode.html)
             - [SZLPFunction](/classes/SZLPFunction.html)
               - [SZLPAssignment](/classes/SZLPAssignment.html)
@@ -771,11 +771,11 @@ All scripts, functions that are run for their internal effects only, are sub-cla
               - [SZCEModel](/classes/SZCEModel.html)
                 - [SZCEAssy](/classes/SZCEAssy.html)
                 - [SZCEPart](/classes/SZCEPart.html)
-                  - [SZCEPart-MultiFeature](/classes/SZCEPart-MultiFeature.html)
-                    - [SZCEPart-FilletedSweep-MultiRadii](/classes/SZCEPart-FilletedSweep-MultiRadii.html)
-                    - [SZCEPart-FilletedSweep-SingleRadius](/classes/SZCEPart-FilletedSweep-SingleRadius.html)
-                      - [SZCEPart-FilletedSweep-Pipe](/classes/SZCEPart-FilletedSweep-Pipe.html)
-                      - [SZCEPart-FilletedSweep-Round](/classes/SZCEPart-FilletedSweep-Round.html)
+                  - [SZCEPart-Faces](/classes/SZCEPart-Faces.html)
+                  - [SZCEPart-FilletedSweep-MultiRadii](/classes/SZCEPart-FilletedSweep-MultiRadii.html)
+                  - [SZCEPart-FilletedSweep-SingleRadius](/classes/SZCEPart-FilletedSweep-SingleRadius.html)
+                    - [SZCEPart-FilletedSweep-Pipe](/classes/SZCEPart-FilletedSweep-Pipe.html)
+                    - [SZCEPart-FilletedSweep-Round](/classes/SZCEPart-FilletedSweep-Round.html)
                   - [SZCEPart-Planar](/classes/SZCEPart-Planar.html)
                     - [SZCEPart-Extrusion](/classes/SZCEPart-Extrusion.html)
                     - [SZCEPart-Extrusion-AcDbCircle](/classes/SZCEPart-Extrusion-AcDbCircle.html)
@@ -809,6 +809,7 @@ All scripts, functions that are run for their internal effects only, are sub-cla
             - [SZCOFeature-Assy-WorldRef](/classes/SZCOFeature-Assy-WorldRef.html)
           - [SZCOFeature-Part](/classes/SZCOFeature-Part.html)
             - [SZCOFeature-3dSolid](/classes/SZCOFeature-3dSolid.html)
+              - [SZCOFeature-3dSolid-Corner](/classes/SZCOFeature-3dSolid-Corner.html)
               - [SZCOFeature-3dSolid-Intersection](/classes/SZCOFeature-3dSolid-Intersection.html)
               - [SZCOFeature-3dSolid-Subtraction](/classes/SZCOFeature-3dSolid-Subtraction.html)
               - [SZCOFeature-3dSolid-Union](/classes/SZCOFeature-3dSolid-Union.html)
@@ -938,6 +939,6 @@ All scripts, functions that are run for their internal effects only, are sub-cla
           - [SZCOScript-Features-ProfileCut](/classes/SZCOScript-Features-ProfileCut.html)
       - [SZCOScript-ModelGroups](/classes/SZCOScript-ModelGroups.html)
 
-Version:  1.24.2
+Version:  1.25.0
 <br>
-Date: 20250610.2003
+Date: 20250625.1917

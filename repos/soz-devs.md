@@ -54,6 +54,6 @@ This repo includes functionality for Developers of **soz-live**, including:
         - [SZOBDocs](/classes/SZOBDocs.html)
           - [SZOBDocs-CSV](/classes/SZOBDocs-CSV.html)
 
-Version:  1.24.2
+Version:  1.25.0
 <br>
-Date: 20250610.2003
+Date: 20250625.1917
