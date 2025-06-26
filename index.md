@@ -4,6 +4,8 @@ layout: default
 
 # SOZ-LIVE
 
+A CAD Extension, written in Lisp.
+
 **SOZ** = Scripted ObjectZ  
 **LIVE** = Lisp Interactive Visual Environment  
 
