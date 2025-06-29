@@ -60,6 +60,11 @@ All with the ability to Edit and Update previously created Objects and Entities.
 
 ## Documents
 
-- [Quickstart Guide](/docs/users/quickstart.html)
-- [Basic Information](/docs/users/basics.html)
-- [soz-live Guide](/docs/users/soz-live.html)
+- [Basic Concepts](/docs/users/basics.html).
+- [Quickstart Guide for Users](/docs/users/quickstart.html).
+- [User Interface Basics](/docs/users/uibasics.html).
+- [Specify](/docs/users/specify.html).
+- [Draft](/docs/users/draft.html).
+- [Model](/docs/users/model.html).
+- [Present](/docs/users/present.html).
+

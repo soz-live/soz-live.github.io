@@ -10,8 +10,7 @@ layout: default
   - [Introduction](#introduction)
   - [Downloading SOZ](#downloading-soz)
   - [Loading SOZ](#loading-soz)
-  - [SOZ Commands](#soz-commands)
-  - [Process](#process)
+  - [Begin Drawing](#begin-drawing)
   
 
 ## Introduction
@@ -36,20 +35,7 @@ It will load the other repo files as required in the sequence specified within t
 > **Notes:**<br>
 > - You can set it to auto-load for each drawing, if you plan to use it regularly.
 
-
-## SOZ Commands
-
-You can interact with the program in a number of ways.
-
-The easiest way to interact with **SOZ** is to type **Y** on the command line - a dialog box appears with a tree-view of options available to select.<br>
-
-> **Notes:**<br>
-> - All **SOZ** commands are in the same format, eg `M-...`, so as not to interfere with conventional CAD shortcuts.  
-> - Once you know the name of a command, eg. `M-Circle` to create a Circle or `M-Part` to create a Part, you can just type that command instead.  
-> - **Y** was chosen as the shortcut as it is the only key not used as a standard CAD command shortcut.  
-
-
-## Process
+## Begin Drawing
 
 The basic **SOZ-LIVE** process for drawing develoment follows four phases:
 
@@ -60,7 +46,18 @@ The basic **SOZ-LIVE** process for drawing develoment follows four phases:
 
 During each phase the basic approach to using **SOZ** is followed:
 
-- **Make** objects & entities - using the **Y** or **M-** commands
-- **Edit** objects & entities - using the **E-** commands, within a dialog box.
-- **Update** the objects & entities - this is done during the **Edit** commands.
+- **Make** objects & entities 
+  - using the **Y** command or 
+  - **M-** commands listed [here](/docs/commands.html).
+- **Edit** objects & entities 
+  - using the **E-** commands.
+- **Update** the model 
+  - this is done from within the **Edit** commands.
+
+
+> **Notes:**<br>
+> - All **SOZ** commands are in the same format, eg `M-...`, so as not to interfere with conventional CAD shortcuts.  
+> - Once you know the name of a command, eg. `M-Circle` to create a Circle or `M-Part` to create a Part, you can just type that command instead.  
+> - **Y** was chosen as the shortcut as it is the only key not used as a standard CAD command shortcut.  
+
 

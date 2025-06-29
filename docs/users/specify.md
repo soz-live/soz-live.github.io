@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-# SOZ-LIVE - Users
+# Specify
 
 ## Contents
 
-- SOZ-LIVE - Users
+- Specify
   - [Introduction](#introduction)
   - [Values](#values)
     - [Real](#real)
@@ -16,11 +16,7 @@ layout: default
 
 ## Introduction
 
-**SOZ-LIVE** is a collection of over 2500 Lisp routines, that enables the creation of complex CAD entities, from a series of inputs of simpler objects.
-
-**SOZ** interactions can be through a dialog box driven Graphical User Interface (GUI), on the command-line (CLI) or though **LIVE** a node-based UI written in **SOZ**, that enables users to create visual scripts for iterative design.
-
-In this document we will go into details of the various types of classes and how to create them within **SOZ-LIVE**.
+In this document we will go into details of the various types used during the Specify stage of Model creation.
 
 
 ## Values
