@@ -19,12 +19,13 @@ This documentation is focussed on a User of the project:
 
 - [Introduction for Users](/docs/users/intro.html). 
 - [Basic Concepts](/docs/users/basics.html).
-- [Quickstart Guide for Users](/docs/users/quickstart.html).
+- [Quickstart Guide](/docs/users/quickstart.html).
 - [User Interface Basics](/docs/users/uibasics.html).
-- [Specify](/docs/users/specify.html).
-- [Draft](/docs/users/draft.html).
-- [Model](/docs/users/model.html).
-- [Present](/docs/users/present.html).
+- SOZ Process
+  - [Specify](/docs/users/specify.html).
+  - [Draft](/docs/users/draft.html).
+  - [Model](/docs/users/model.html).
+  - [Present](/docs/users/present.html).
 
 {% include note.html content="<br>- There is more that needs to be done here!<br>- Especially with multiline Notes!" %}
 
