@@ -37,6 +37,8 @@ This documentation is focussed on a Coder of the project:
 - [Introduction for Coders](/docs/coders/intro.html). 
 - [Lisp Introduction](/docs/coders/lisp.html).
 - [Basic Information for Coders](/docs/coders/basics.html).
+- [SOZ Class Information](/docs/coders/classes.html).
+- [SOZ Method Information](/docs/coders/methods.html).
 
 {% include note.html content="<br>- And there is more that needs to be done here too!" %}
 

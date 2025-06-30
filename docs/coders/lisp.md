@@ -16,8 +16,6 @@ layout: default
   - [Lisp Basics](#lisp-basics)
     - [Lisp Functions](#lisp-functions)
     - [Function Renaming](#function-renaming)
-  - [Types](#types)
-
 
 
 ## Lisp Introduction
@@ -90,11 +88,12 @@ Taking cues from Scheme, a Lisp dialect known for its structured approach to fun
 
 If applied rigorously, as within **SOZ**, reading Lisp code can become easier to understand and also to program. 
 
-Not only that, it also leads to an understanding that Lisp code can be considered to be Object-Oriented code in disguise as Lisp code can easily be turned into a more readily recognisable format for Object-Oriented method application:
+Not only that, it also leads to an understanding that Lisp code can be considered to be Object-Oriented code in disguise.  
+Code can easily be turned into a more readily recognisable format for Object-Oriented method application:
 
 `(SZOB-Apply object method args)`
 
-In SOZ, it doesn't matter which format you use for method invocation, however to remain in the spirit of Lisp many Apply calls have been rewritten to the purely functional format:
+In **SOZ**, it doesn't matter which format you use for method invocation, however to remain in the spirit of Lisp, many Apply calls have been rewritten to the purely functional format:
 
 `(defun SZOB-length (o) (SZOB-Apply o "length" nil))`
 
@@ -102,25 +101,4 @@ Which then enables the function to be used normally within lisp to do things suc
 
 `(apply '+ (mapcar 'SZOB-length line-lst))`
 
-
-## Types
-
-In **SOZ**, a Type is just another name for a Class.  
-
-There are three main distinctions between types:
-
-- Values - which return a Value as their result
-- Objects - which return an **ID** of an object as their result.
-- Scripts - which just are run for their internal results.
-
-<br>**SZOBBase** is the base type for all of **SOZ-LIVE**.  
-
-The Base hierarchy of Types for the Project is:
-
-- [SZOBBase](/classes/SZOBBase.html) - Abstract Base class.
-  - [Lisp](/classes/Lisp.html) - Abstract Lisp Value Class
-  - [SZOBObject](/classes/SZOBObject.html) - Abstract Object Class
-  - [SZOBScript](/classes/SZOBScript.html) - Abstract Script Class
-
-The full hierarchy of **SOZ-LIVE** is listed [here](/repos/soz-live.html).
 

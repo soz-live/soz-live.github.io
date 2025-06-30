@@ -28,4 +28,7 @@ It enables coders to use Object Oriented (OO) techniques from within a functiona
 ## Documents
 
 - [Lisp Introduction](/docs/coders/lisp.html).
-- [Basic Information](/docs/coders/basics.html)
+- [Basic Information for Coders](/docs/coders/basics.html).
+- [SOZ Class Information](/docs/coders/classes.html).
+- [SOZ Method Information](/docs/coders/methods.html).
+
