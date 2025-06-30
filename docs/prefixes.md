@@ -20,3 +20,4 @@ The Class Prefixes used within **SOZ-LIVE** are:
 | SZCO | SoZ Cad Object | Extended CAD Objects prefix |
 | SZCE | SoZ Cad Entity | Extended CAD Entities prefix |
 | DCLS | DCL Structure | A prefix for dialog box structures |
+| SZDO | SoZ DevOps Object | DevOps Objects prefix |
