@@ -53,7 +53,6 @@ While **SOZ** only uses single inheritance:
 - Classes can be contained in multiple Categories.
 
 
-
 A class is defined with a call to register it in the [Meta Environment](#the-meta-environment) using the Class Make function:
 
 ```common-lisp
@@ -127,24 +126,25 @@ Both have a hierarchy, and both only allow single inheritance within.
 However, a Class may be a member of multiple Categories, eg:
 
 ```common-lisp
-(SZMAClass-addCategories "SZCEPart-PipeRun" (list "Mechanical" "Piping"))
+(SZMAClass-addCategories "Name" "SZCEPart-PipeRun" (list "Mechanical" "Piping"))
 ```
 
 where `SZMAClass-addCategories` has the following signature:
 
-`(SZMAClass-addCategories ClassName Categories)`
+`(SZMAClass-addCategories Type ClassName Categories)`
 
 And:
 
 | Item | Type | Description |
 | --------- | --------- | --------- |
+| Type | String | The type of the category |
 | ClassName | String | Name of the Class |
-| Categories | List:Category | a list of Categories for the Class |
+| Categories | List:Category | a list of Category Names for the Class |
 
-For the full list - refer to the [Categories](/docs/categories.html) document.
+For the full list - refer to the [Categories document](/docs/categories.html).
 
 
 > **Notes:**<br>
 > - Each Category has a corresponding **M-** (Make) command that can be entered at the command line.
-> - This resolves class naming issues as the class name is now about functionality rather than class access.
+> - This resolves class naming issues as the class name can be all about functionality.
 
