@@ -81,12 +81,6 @@ nav a {
   }
 }
 
-.header-link {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .header-image {
   display: block;
   margin-left: auto;
@@ -97,6 +91,7 @@ nav a {
   margin: 0 0 0 0;
   border: none;
   box-shadow: none;
+  align: center;
 }
 
 .example-flex-container {
