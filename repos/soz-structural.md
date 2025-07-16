@@ -85,7 +85,8 @@ With this repo it is possible to:
               - [SZCEStruct-KneeBrace](/classes/SZCEStruct-KneeBrace.html)
               - [SZCEStruct-PortalFrame](/classes/SZCEStruct-PortalFrame.html)
         - [SZCOProfile](/classes/SZCOProfile.html)
-          - [SZCOProfile-Structural](/classes/SZCOProfile-Structural.html)
+          - [SZCOProfile-Loop](/classes/SZCOProfile-Loop.html)
+            - [SZCOProfile-Structural](/classes/SZCOProfile-Structural.html)
   - [SZOBScript](/classes/SZOBScript.html)
     - [SZCOScript](/classes/SZCOScript.html)
       - [SZCEScript](/classes/SZCEScript.html)
@@ -98,6 +99,6 @@ With this repo it is possible to:
             - [SZCEScript-Columns-FootingToOpenEnd](/classes/SZCEScript-Columns-FootingToOpenEnd.html)
           - [SZCEScript-Members-MemberToMember-OnPlanes](/classes/SZCEScript-Members-MemberToMember-OnPlanes.html)
 
-Version:  1.25.0
+Version:  1.25.2
 <br>
-Date: 20250625.1917
+Date: 20250715.1648

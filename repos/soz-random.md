@@ -26,6 +26,7 @@ With this repo it is possible to create:
               - [Real-Random](/classes/Real-Random.html)
               - [Real-Random-Range](/classes/Real-Random-Range.html)
   - [SZOBObject](/classes/SZOBObject.html)
+    - [SZDOObject](/classes/SZDOObject.html)
     - [SZGEObjects](/classes/SZGEObjects.html)
       - [SZGEMatrices](/classes/SZGEMatrices.html)
         - [SZGETMatrices](/classes/SZGETMatrices.html)
@@ -60,8 +61,7 @@ With this repo it is possible to create:
             - [SZCOFeatures-Part](/classes/SZCOFeatures-Part.html)
               - [SZCOFeatures-3dSolid](/classes/SZCOFeatures-3dSolid.html)
                 - [SZCOFeatures-Random-Spheres](/classes/SZCOFeatures-Random-Spheres.html)
-    - [SZOBDevOps](/classes/SZOBDevOps.html)
 
-Version:  1.25.0
+Version:  1.25.2
 <br>
-Date: 20250625.1917
+Date: 20250715.1648

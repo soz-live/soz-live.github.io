@@ -1,5 +1,5 @@
 
-# Class:	DEVOPoint
+# Class:	SZDOPoint
 
 | Fields | Values |
 | --------- | --------- |
@@ -10,16 +10,16 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: |  |
+| Help: | DevOps Point |
 
-### DEVOPoint-Make
+### SZDOPoint-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| NODE | [DEVONode](DEVONode.html) |  |
+| NODE | [SZDONode](SZDONode.html) |  |
 | KEY | [Key](Key.html) |  |
 | --- | --- | --- |
-| Returns: | [DEVOPoint](DEVOPoint.html) |
+| Returns: | [SZDOPoint](SZDOPoint.html) |
 | Help: |  |
 
 

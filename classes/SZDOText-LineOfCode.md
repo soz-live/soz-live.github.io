@@ -1,26 +1,16 @@
 
-# Class:	DEVOText-ClassName
+# Class:	SZDOText-LineOfCode
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
-| Superclass: | [DEVOText](DEVOText.html) |
+| Superclass: | [SZDOText](SZDOText.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | No |
+| Abstract?: | Yes |
 | isValue?: | No |
-| Help: | CN Text |
-
-### DEVOText-ClassName-Make
-
-| Keys | Types | Help |
-| --------- | --------- | --------- |
-| TEXT | [SZMAClassName](SZMAClassName.html) |  |
-| POINT | [Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [DEVOText-ClassName](DEVOText-ClassName.html) |
-| Help: | Make a ClassName |
+| Help: | LOC Text |
 
 
 ## Functions:

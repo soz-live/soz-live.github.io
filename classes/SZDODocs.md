@@ -1,16 +1,16 @@
 
-# Class:	SZOBDevOps-Map
+# Class:	SZDODocs
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
-| Superclass: | [SZOBDevOps](SZOBDevOps.html) |
-| Subclasses: | [SZOBDevOps-Map-ClassFuncLine](SZOBDevOps-Map-ClassFuncLine.html) <br> [SZOBDevOps-Map-ClassFunc](SZOBDevOps-Map-ClassFunc.html) <br> [SZOBDevOps-Map-Class](SZOBDevOps-Map-Class.html) |
+| Superclass: | [SZDODoc](SZDODoc.html) |
+| Subclasses: | [SZDODocs-CSV](SZDODocs-CSV.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: |  |
+| Help: | Documentation of Lisp Files |
 
 
 ## Functions:

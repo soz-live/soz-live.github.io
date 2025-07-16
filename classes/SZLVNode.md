@@ -5,7 +5,7 @@
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbBlockReference](AcDbBlockReference.html) |
-| Subclasses: | [SZLVNode-SZOBObject-Method](SZLVNode-SZOBObject-Method.html) <br> [SZLVNode-Value](SZLVNode-Value.html) <br> [SZLVNode-Method](SZLVNode-Method.html) |
+| Subclasses: | [SZLVNode-SZOBObject-Method](SZLVNode-SZOBObject-Method.html) <br> [SZLVNode-Method](SZLVNode-Method.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

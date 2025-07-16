@@ -5,7 +5,7 @@
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbTableRecord](AcDbTableRecord.html) |
-| Subclasses: | [DEVODef](DEVODef.html) <br> [SZLVDef](SZLVDef.html) <br> [SZCEModelDef](SZCEModelDef.html) <br> [SZCEBlock](SZCEBlock.html) |
+| Subclasses: | [SZDODef](SZDODef.html) <br> [SZLVDef](SZLVDef.html) <br> [SZCEModelDef](SZCEModelDef.html) <br> [SZCEBlock](SZCEBlock.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

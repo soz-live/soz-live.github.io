@@ -5,7 +5,7 @@
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLVNode](SZLVNode.html) |
-| Subclasses: | [SZLVNode-ClassMake](SZLVNode-ClassMake.html) |
+| Subclasses: | [SZLVNode-ClassMake](SZLVNode-ClassMake.html) <br> [SZLVNode-Value](SZLVNode-Value.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

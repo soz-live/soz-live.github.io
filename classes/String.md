@@ -5,7 +5,7 @@
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Atom](Atom.html) |
-| Subclasses: | [Date](Date.html) <br> [Second](Second.html) <br> [Minute](Minute.html) <br> [Hour](Hour.html) <br> [Day](Day.html) <br> [Month](Month.html) <br> [Year](Year.html) <br> [PathName](PathName.html) <br> [SZMAClassName](SZMAClassName.html) <br> [SOZID](SOZID.html) <br> [AcDbHandle](AcDbHandle.html) <br> [String-Delim](String-Delim.html) <br> [Code](Code.html) <br> [Comment](Comment.html) <br> [Key](Key.html) <br> [Label](Label.html) |
+| Subclasses: | [Date](Date.html) <br> [Second](Second.html) <br> [Minute](Minute.html) <br> [Hour](Hour.html) <br> [Day](Day.html) <br> [Month](Month.html) <br> [Year](Year.html) <br> [PathName](PathName.html) <br> [SZMAClassName](SZMAClassName.html) <br> [SOZID](SOZID.html) <br> [AcDbHandle](AcDbHandle.html) <br> [String-Delim](String-Delim.html) <br> [Code](Code.html) <br> [Documentation](Documentation.html) <br> [Comment](Comment.html) <br> [Key](Key.html) <br> [Label](Label.html) |
 | Interfaces: |  |
 | Interfaced: | [SZLPString](SZLPString.html) |
 | Abstract?: | No |

@@ -5,7 +5,7 @@
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbEntity](AcDbEntity.html) |
-| Subclasses: | [DEVONode](DEVONode.html) <br> [SZLVNode](SZLVNode.html) <br> [SZCEModelRef](SZCEModelRef.html) <br> [AcDbExternalReference](AcDbExternalReference.html) |
+| Subclasses: | [SZDONode](SZDONode.html) <br> [SZLVNode](SZLVNode.html) <br> [SZCEModelRef](SZCEModelRef.html) <br> [AcDbExternalReference](AcDbExternalReference.html) |
 | Interfaces: |  |
 | Interfaced: | [AcDb3dSolid-AnySolids](AcDb3dSolid-AnySolids.html) |
 | Abstract?: | No |

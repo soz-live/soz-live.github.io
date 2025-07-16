@@ -5,7 +5,7 @@
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbCurve](AcDbCurve.html) |
-| Subclasses: | [DEVOLink](DEVOLink.html) <br> [SZLVLink](SZLVLink.html) <br> [SZCE3dCurve](SZCE3dCurve.html) <br> [AcDb3dPolyline-Flatten](AcDb3dPolyline-Flatten.html) |
+| Subclasses: | [SZDOLink](SZDOLink.html) <br> [SZLVLink](SZLVLink.html) <br> [SZCE3dCurve](SZCE3dCurve.html) <br> [AcDb3dPolyline-Flatten](AcDb3dPolyline-Flatten.html) |
 | Interfaces: | [SZGEPoints](SZGEPoints.html), [Points](Points.html) |
 | Interfaced: | [AcDbCurve-PlanarClosed](AcDbCurve-PlanarClosed.html) |
 | Abstract?: | No |

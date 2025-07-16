@@ -1,5 +1,5 @@
 
-# Class:	AcDb3dSolid-SZCOSolid
+# Class:	SZCE3dSolid
 
 | Fields | Values |
 | --------- | --------- |
@@ -12,14 +12,14 @@
 | isValue?: | No |
 | Help: | 3dSolid using a SZCOSolid |
 
-### AcDb3dSolid-SZCOSolid-Make
+### SZCE3dSolid-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | SOLID | [SZCOSolid](SZCOSolid.html) |  |
 | --- | --- | --- |
-| Returns: | [AcDb3dSolid-SZCOSolid](AcDb3dSolid-SZCOSolid.html) |
+| Returns: | [SZCE3dSolid](SZCE3dSolid.html) |
 | Help: | Make a 3dSolid using a SZCOSolid |
 
 

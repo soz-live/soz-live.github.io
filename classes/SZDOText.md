@@ -1,11 +1,11 @@
 
-# Class:	DEVOText
+# Class:	SZDOText
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
 | Superclass: | [AcDbText](AcDbText.html) |
-| Subclasses: | [DEVOText-LineOfCode](DEVOText-LineOfCode.html) <br> [DEVOText-FunctionName](DEVOText-FunctionName.html) <br> [DEVOText-ClassName](DEVOText-ClassName.html) |
+| Subclasses: | [SZDOText-LineOfCode](SZDOText-LineOfCode.html) <br> [SZDOText-FunctionName](SZDOText-FunctionName.html) <br> [SZDOText-ClassName](SZDOText-ClassName.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

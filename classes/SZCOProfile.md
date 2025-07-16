@@ -5,7 +5,7 @@
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOObject](SZCOObject.html) |
-| Subclasses: | [SZCOProfile-Structural](SZCOProfile-Structural.html) <br> [SZCOProfile-PlanarCurve](SZCOProfile-PlanarCurve.html) <br> [SZCOProfile-AcDbCircle](SZCOProfile-AcDbCircle.html) <br> [SZCOProfile-Circle](SZCOProfile-Circle.html) <br> [SZCOProfile-RHS](SZCOProfile-RHS.html) <br> [SZCOProfile-Pipe](SZCOProfile-Pipe.html) <br> [SZCOProfile-Loop](SZCOProfile-Loop.html) <br> [SZCOProfile-AcDbPolyline](SZCOProfile-AcDbPolyline.html) |
+| Subclasses: | [SZCOProfile-PlanarCurve](SZCOProfile-PlanarCurve.html) <br> [SZCOProfile-AcDbCircle](SZCOProfile-AcDbCircle.html) <br> [SZCOProfile-Circle](SZCOProfile-Circle.html) <br> [SZCOProfile-RHS](SZCOProfile-RHS.html) <br> [SZCOProfile-Pipe](SZCOProfile-Pipe.html) <br> [SZCOProfile-Loop](SZCOProfile-Loop.html) <br> [SZCOProfile-AcDbPolyline](SZCOProfile-AcDbPolyline.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

@@ -8,17 +8,9 @@
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | No |
+| Abstract?: | Yes |
 | isValue?: | No |
 | Help: | AcDbPolygonMesh Class |
-
-### AcDbPolygonMesh-Make
-
-| Keys | Types | Help |
-| --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: |  |
-| Help: |  |
 
 
 ## Functions:

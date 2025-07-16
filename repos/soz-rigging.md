@@ -52,6 +52,6 @@ This repo provides crane rigging functionality for **soz-live**.
                 - [SZCORigging-Chain](/classes/SZCORigging-Chain.html)
                 - [SZCORigging-RoundSling](/classes/SZCORigging-RoundSling.html)
 
-Version:  1.25.0
+Version:  1.25.2
 <br>
-Date: 20250625.1917
+Date: 20250715.1648

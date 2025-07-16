@@ -12,10 +12,7 @@ The Repo status is: **Private Beta**
 
 ## Introduction
 
-This is the Main project repo, with core functionality included. 
-
-## Functionality
-
+This is the Main project repo, with core functionality included.  
 Functionality provided by this repo includes Making, Editing & Updating of:
 
 - Basic Lisp types:
@@ -48,15 +45,6 @@ Functionality provided by this repo includes Making, Editing & Updating of:
 
 And the Running of Scripts.
 
-## User Interfaces
-
-The project utilises three User Interfaces (UIs):
-
-- An integrated Graphical User Interface (GUI) built for each class of Object and function as required.  
-- A Command-line UI (CLI) for interaction with the program similar to CAD commands.  
-- And also **LIVE**, a Node based UI, where the model can be created and edited graphically.  
-
-
 ## Classes
  
 All classes are derived from the Base Class - **SZOBBase**.
@@ -71,7 +59,23 @@ The first level of sub-classes:
 
 ### Lisp
 
-All basic Lisp values, such as Real, Integer, String, Boolean including geometric types such as Vector, Point, Line, Plane etc. are sub-classes of this class. These types are passed by Value to routines and stored within objects by Value.
+All basic Lisp values, such as:
+
+- Real, 
+- Integer, 
+- String, 
+- Boolean 
+
+including geometric types such as:
+
+- Vector, 
+- Point, 
+- Line, 
+- Plane 
+- TMatrix
+
+are sub-classes of this class.  
+These types are passed by Value to routines and stored within objects by Value.
 
 ### SZOBObject
 
@@ -142,6 +146,7 @@ All scripts, functions that are run for their internal effects only, are sub-cla
             - [Date](/classes/Date.html)
               - [Date-Now](/classes/Date-Now.html)
             - [Day](/classes/Day.html)
+            - [Documentation](/classes/Documentation.html)
             - [Hour](/classes/Hour.html)
             - [Key](/classes/Key.html)
             - [Label](/classes/Label.html)
@@ -668,11 +673,11 @@ All scripts, functions that are run for their internal effects only, are sub-cla
               - [AcDb3dSolid-Loft](/classes/AcDb3dSolid-Loft.html)
                 - [AcDb3dSolid-Loft-CrossSections](/classes/AcDb3dSolid-Loft-CrossSections.html)
               - [AcDb3dSolid-Revolve](/classes/AcDb3dSolid-Revolve.html)
-              - [AcDb3dSolid-SZCOSolid](/classes/AcDb3dSolid-SZCOSolid.html)
               - [AcDb3dSolid-Sphere](/classes/AcDb3dSolid-Sphere.html)
               - [AcDb3dSolid-Sweep](/classes/AcDb3dSolid-Sweep.html)
               - [AcDb3dSolid-Torus](/classes/AcDb3dSolid-Torus.html)
               - [AcDb3dSolid-Wedge](/classes/AcDb3dSolid-Wedge.html)
+              - [SZCE3dSolid](/classes/SZCE3dSolid.html)
             - [AcDbRegion](/classes/AcDbRegion.html)
               - [AcDbRegion-Profile](/classes/AcDbRegion-Profile.html)
           - [AcDbAbstractText](/classes/AcDbAbstractText.html)
@@ -690,8 +695,8 @@ All scripts, functions that are run for their internal effects only, are sub-cla
                 - [SZLVNode-ClassMake](/classes/SZLVNode-ClassMake.html)
                   - [SZLVNode-SZOBObject](/classes/SZLVNode-SZOBObject.html)
                     - [SZLVNode-SZLVPoint](/classes/SZLVNode-SZLVPoint.html)
+                - [SZLVNode-Value](/classes/SZLVNode-Value.html)
               - [SZLVNode-SZOBObject-Method](/classes/SZLVNode-SZOBObject-Method.html)
-              - [SZLVNode-Value](/classes/SZLVNode-Value.html)
           - [AcDbCurve](/classes/AcDbCurve.html)
             - [AcDb2dPolyline](/classes/AcDb2dPolyline.html)
             - [AcDb3dPolyline](/classes/AcDb3dPolyline.html)
@@ -939,6 +944,6 @@ All scripts, functions that are run for their internal effects only, are sub-cla
           - [SZCOScript-Features-ProfileCut](/classes/SZCOScript-Features-ProfileCut.html)
       - [SZCOScript-ModelGroups](/classes/SZCOScript-ModelGroups.html)
 
-Version:  1.25.0
+Version:  1.25.2
 <br>
-Date: 20250625.1917
+Date: 20250715.1648

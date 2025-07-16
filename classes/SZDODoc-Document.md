@@ -1,25 +1,28 @@
 
-# Class:	SZOBDevOps-Map-ClassFuncLine
+# Class:	SZDODoc-Document
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
-| Superclass: | [SZOBDevOps-Map](SZOBDevOps-Map.html) |
+| Superclass: | [SZDODoc](SZDODoc.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Class Map |
+| Help: | Document Object |
 
-### SZOBDevOps-Map-ClassFuncLine-Make
+### SZDODoc-Document-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| REPO | [String](String.html) |  |
+| TITLE | [Comment](Comment.html) |  |
+| FNAME | [File-MD](File-MD.html) |  |
+| HEADER | [SZDODoc-Block-Header](SZDODoc-Block-Header.html) | Document Header |
+| BLOCKS | [List:SZDODoc-Block](SZDODoc-Block.html) |  |
 | --- | --- | --- |
-| Returns: | [SZOBDevOps-Map-ClassFuncLine](SZOBDevOps-Map-ClassFuncLine.html) |
-| Help: | Development ClassFuncLine Map |
+| Returns: | [SZDODoc](SZDODoc.html) |
+| Help: | Make a Document Object |
 
 
 ## Functions:

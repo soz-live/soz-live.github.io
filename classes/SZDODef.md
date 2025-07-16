@@ -1,16 +1,16 @@
 
-# Class:	DEVODef-Function
+# Class:	SZDODef
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
-| Superclass: | [DEVODef](DEVODef.html) |
-| Subclasses: |  |
+| Superclass: | [AcDbBlock](AcDbBlock.html) |
+| Subclasses: | [SZDODef-Function](SZDODef-Function.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: |  |
+| Help: | DevOps Definition |
 
 
 ## Functions:

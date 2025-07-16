@@ -5,7 +5,7 @@
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOProfile](SZCOProfile.html) |
-| Subclasses: | [SZCOProfile-Loop-Aligned](SZCOProfile-Loop-Aligned.html) |
+| Subclasses: | [SZCOProfile-Structural](SZCOProfile-Structural.html) <br> [SZCOProfile-Loop-Aligned](SZCOProfile-Loop-Aligned.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

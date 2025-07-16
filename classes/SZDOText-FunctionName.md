@@ -1,10 +1,10 @@
 
-# Class:	DEVOText-FunctionName
+# Class:	SZDOText-FunctionName
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
-| Superclass: | [DEVOText](DEVOText.html) |
+| Superclass: | [SZDOText](SZDOText.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
@@ -12,14 +12,14 @@
 | isValue?: | No |
 | Help: | FN Text |
 
-### DEVOText-FunctionName-Make
+### SZDOText-FunctionName-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | TEXT | [SZMAFunctionName](SZMAFunctionName.html) |  |
 | POINT | [Point](Point.html) |  |
 | --- | --- | --- |
-| Returns: | [DEVOText-FunctionName](DEVOText-FunctionName.html) |
+| Returns: | [SZDOText-FunctionName](SZDOText-FunctionName.html) |
 | Help: | Make a FunctionName |
 
 

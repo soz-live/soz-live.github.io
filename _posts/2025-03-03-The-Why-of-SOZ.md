@@ -3,7 +3,7 @@ layout: post
 author: Tim_M
 ---
 
-Recently I was questioning why I continue to use and code using **SOZ-LIVE**. The answer that came to me was two-fold:
+Recently I questioned why I continue to use and code using **SOZ-LIVE**. The answer that came to me was two-fold:
 
 - For Users
 - For Coders

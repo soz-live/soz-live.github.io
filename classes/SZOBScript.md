@@ -10,7 +10,7 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | SZOBScript Class |
+| Help: | Base Script Class |
 
 
 ## Functions:

@@ -1,28 +1,25 @@
 
-# Class:	SZOBDoc-Document
+# Class:	SZDOObject-IDE
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
-| Superclass: | [SZOBDoc](SZOBDoc.html) |
+| Superclass: | [SZDOObject](SZDOObject.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Document Object |
+| Help: | IDE for DevOps |
 
-### SZOBDoc-Document-Make
+### SZDOObject-IDE-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| TITLE | [Comment](Comment.html) |  |
-| FNAME | [File-MD](File-MD.html) |  |
-| HEADER | [SZOBDoc-Block-Header](SZOBDoc-Block-Header.html) | Document Header |
-| BLOCKS | [List:SZOBDoc-Block](SZOBDoc-Block.html) |  |
+| FILE | [File-LSP](File-LSP.html) |  |
 | --- | --- | --- |
-| Returns: | [SZOBDoc](SZOBDoc.html) |
-| Help: | Make a Document Object |
+| Returns: | [SZDOObject-IDE](SZDOObject-IDE.html) |
+| Help: | Display a File |
 
 
 ## Functions:

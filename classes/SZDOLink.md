@@ -1,5 +1,5 @@
 
-# Class:	DEVOLink
+# Class:	SZDOLink
 
 | Fields | Values |
 | --------- | --------- |
@@ -10,16 +10,16 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: |  |
+| Help: | DevOps Link |
 
-### DEVOLink-Make
+### SZDOLink-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| START | [DEVOPoint](DEVOPoint.html) |  |
-| END | [DEVOPoint](DEVOPoint.html) |  |
+| START | [SZDOPoint](SZDOPoint.html) |  |
+| END | [SZDOPoint](SZDOPoint.html) |  |
 | --- | --- | --- |
-| Returns: | [DEVOLink](DEVOLink.html) |
+| Returns: | [SZDOLink](SZDOLink.html) |
 | Help: |  |
 
 

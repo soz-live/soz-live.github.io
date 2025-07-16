@@ -1,16 +1,16 @@
 
-# Class:	SZOBDoc
+# Class:	SZDOObject
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-devs](/repos/soz-devs.html) |
-| Superclass: | [SZOBDevOps](SZOBDevOps.html) |
-| Subclasses: | [SZOBDocs](SZOBDocs.html) <br> [SZOBDoc-Block](SZOBDoc-Block.html) <br> [SZOBDoc-Document](SZOBDoc-Document.html) |
+| Repo: | [soz-random](/repos/soz-random.html) |
+| Superclass: | [SZOBObject](SZOBObject.html) |
+| Subclasses: | [SZDOMap](SZDOMap.html) <br> [SZDOObject-IDE](SZDOObject-IDE.html) <br> [SZDODoc](SZDODoc.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Doc Object |
+| Help: | DevOps |
 
 
 ## Functions:

@@ -1,25 +1,25 @@
 
-# Class:	SZOBDoc-Block
+# Class:	SZDODoc-Block
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
-| Superclass: | [SZOBDoc](SZOBDoc.html) |
-| Subclasses: | [SZOBDoc-Block-Header](SZOBDoc-Block-Header.html) <br> [SZOBDoc-Block-Single](SZOBDoc-Block-Single.html) |
+| Superclass: | [SZDODoc](SZDODoc.html) |
+| Subclasses: | [SZDODoc-Block-Header](SZDODoc-Block-Header.html) <br> [SZDODoc-Block-Single](SZDODoc-Block-Single.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
 | Help: | Doc Block Object |
 
-### SZOBDoc-Block-Make
+### SZDODoc-Block-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | BLOCK | [File-MD](File-MD.html) |  |
-| SUBS | [List:SZOBDoc-Block](SZOBDoc-Block.html) |  |
+| SUBS | [List:SZDODoc-Block](SZDODoc-Block.html) |  |
 | --- | --- | --- |
-| Returns: | [SZOBDoc-Block](SZOBDoc-Block.html) |
+| Returns: | [SZDODoc-Block](SZDODoc-Block.html) |
 | Help: | Make a Document Block Object |
 
 

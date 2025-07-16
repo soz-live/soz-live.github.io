@@ -1,25 +1,26 @@
 
-# Class:	SZOBDevOps-IDE
+# Class:	SZDOMap-Class
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
-| Superclass: | [SZOBDevOps](SZOBDevOps.html) |
+| Superclass: | [SZDOMap](SZDOMap.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | IDE for DevOps |
+| Help: | Class Map |
 
-### SZOBDevOps-IDE-Make
+### SZDOMap-Class-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| FILE | [File-LSP](File-LSP.html) |  |
+| BC | [SZMAClassName](SZMAClassName.html) |  |
+| BPT | [Point](Point.html) |  |
 | --- | --- | --- |
-| Returns: | [SZOBDevOps-IDE](SZOBDevOps-IDE.html) |
-| Help: | Display a File |
+| Returns: | [SZDOMap-Class](SZDOMap-Class.html) |
+| Help: | Development ClassName Map |
 
 
 ## Functions:

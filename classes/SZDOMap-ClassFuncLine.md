@@ -1,10 +1,10 @@
 
-# Class:	SZOBDevOps-Map-ClassFunc
+# Class:	SZDOMap-ClassFuncLine
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
-| Superclass: | [SZOBDevOps-Map](SZOBDevOps-Map.html) |
+| Superclass: | [SZDOMap](SZDOMap.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
@@ -12,15 +12,14 @@
 | isValue?: | No |
 | Help: | Class Map |
 
-### SZOBDevOps-Map-ClassFunc-Make
+### SZDOMap-ClassFuncLine-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| BC | [SZMAClassName](SZMAClassName.html) |  |
-| BPT | [Point](Point.html) |  |
+| REPO | [String](String.html) |  |
 | --- | --- | --- |
-| Returns: | [SZOBDevOps-Map-ClassFunc](SZOBDevOps-Map-ClassFunc.html) |
-| Help: | Development ClassFunc Map |
+| Returns: | [SZDOMap-ClassFuncLine](SZDOMap-ClassFuncLine.html) |
+| Help: | Development ClassFuncLine Map |
 
 
 ## Functions:

@@ -40,12 +40,12 @@ A hierarchial list of of commands is [here](/docs/commands.html).
 
 ## Dialog Boxes
 
-Each **SOZ-LIVE** Class has a dialog box developed on-the-fly, depending on the arguments for the Class.
+Each **SOZ-LIVE** Class and Function has a dialog box developed on-the-fly, depending on the arguments for the Class or Function.
 
 Each argument to be specified creates another entry in the dialog box to be filled in by the user.
 
 > **Notes:**<br>
-> Only fully completed dialogs - one with valid entries for each field, will be parsed by the Make routine properly and return a valid Object.
+> - Only fully completed dialogs - one with valid entries for each field, will be parsed by the Make routine properly and return a valid Object.
 
 The entry is either an **atom** field or a **list** field - depending upon the type of each of the arguments for the Class...
 
@@ -55,7 +55,8 @@ For example, the dialog for the class [SZGELine](/classes/SZGELine.html) has two
 - POINT1 - an atom field which is required to be of type [SZGEPoint](/classes/SZGEPoint.html)
 
 > **Notes:**<br>
-> - Any class that is derived or one that interfaces with the type is also valid. The alternative classes available for each dialog are available from the `...` button at the top of the dialog next to the Class Name.
+> - Any class that is derived or one that interfaces with the type is also valid.  
+> - The alternative classes available for each dialog are available from the `...` button at the top of the dialog next to the Class Name.
 
 > **Tips:**<br>
 > - You can Cut and Paste values from one field to another - as long as the Type of the Value / Object / Entity is compatible.
@@ -113,8 +114,8 @@ And Edit Options include:
 - Edit an item
 <br>
 
- > **Tips:**<br>
- > - Double clicking on an Item Edits the Item.
+> **Tips:**<br>
+> - Double clicking on an Item Edits the Item.
  
 ## LIVE
 

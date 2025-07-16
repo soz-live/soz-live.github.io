@@ -204,4 +204,4 @@ Also know as a Class.
 
 User Interface - for users to interact with the program. <br> In SOZ there are three UIs - a CLI, a GUI and LIVE.
 
-Date: 20250625.1917
+Date: 20250715.1648

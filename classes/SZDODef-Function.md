@@ -1,11 +1,11 @@
 
-# Class:	DEVODef
+# Class:	SZDODef-Function
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
-| Superclass: | [AcDbBlock](AcDbBlock.html) |
-| Subclasses: | [DEVODef-Function](DEVODef-Function.html) |
+| Superclass: | [SZDODef](SZDODef.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

@@ -1,26 +1,16 @@
 
-# Class:	DEVONode-Function
+# Class:	SZDONode
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
-| Superclass: | [DEVONode](DEVONode.html) |
-| Subclasses: |  |
+| Superclass: | [AcDbBlockReference](AcDbBlockReference.html) |
+| Subclasses: | [SZDONode-Function](SZDONode-Function.html) |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | No |
+| Abstract?: | Yes |
 | isValue?: | No |
-| Help: |  |
-
-### DEVONode-Function-Make
-
-| Keys | Types | Help |
-| --------- | --------- | --------- |
-| POINT | [SZGEPoint](SZGEPoint.html) |  |
-| FUNC | [SZMAFunctionName](SZMAFunctionName.html) |  |
-| --- | --- | --- |
-| Returns: | [DEVONode-Function](DEVONode-Function.html) |
-| Help: | Make a Function Node |
+| Help: | DevOps Node |
 
 
 ## Functions:

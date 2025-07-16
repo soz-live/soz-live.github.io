@@ -1,26 +1,16 @@
 
-# Class:	SZOBDevOps-Map-Class
+# Class:	SZDOMap
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
-| Superclass: | [SZOBDevOps-Map](SZOBDevOps-Map.html) |
-| Subclasses: |  |
+| Superclass: | [SZDOObject](SZDOObject.html) |
+| Subclasses: | [SZDOMap-ClassFuncLine](SZDOMap-ClassFuncLine.html) <br> [SZDOMap-ClassFunc](SZDOMap-ClassFunc.html) <br> [SZDOMap-Class](SZDOMap-Class.html) |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | No |
+| Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Class Map |
-
-### SZOBDevOps-Map-Class-Make
-
-| Keys | Types | Help |
-| --------- | --------- | --------- |
-| BC | [SZMAClassName](SZMAClassName.html) |  |
-| BPT | [Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBDevOps-Map-Class](SZOBDevOps-Map-Class.html) |
-| Help: | Development ClassName Map |
+| Help: |  |
 
 
 ## Functions:

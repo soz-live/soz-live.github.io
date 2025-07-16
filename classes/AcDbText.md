@@ -5,7 +5,7 @@
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbAbstractText](AcDbAbstractText.html) |
-| Subclasses: | [DEVOText](DEVOText.html) |
+| Subclasses: | [SZDOText](SZDOText.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
