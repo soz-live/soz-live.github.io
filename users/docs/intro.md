@@ -60,12 +60,17 @@ All with the ability to Edit and Update previously created Objects and Entities.
 
 ## Documents
 
-- [Basic Concepts](/docs/users/basics.html).
-- [Quickstart Guide](/docs/users/quickstart.html).
-- [User Interface Basics](/docs/users/uibasics.html).
+- [Basic Concepts](/users/docs/basics.html).
+- [Quickstart Guide](/users/docs/quickstart.html).
+- [User Interface Basics](/users/docs/uibasics.html).
 - SOZ Process
-  - [Specify](/docs/users/specify.html).
-  - [Draft](/docs/users/draft.html).
-  - [Model](/docs/users/model.html).
-  - [Present](/docs/users/present.html).
+  - [Specify](/users/docs/specify.html).
+  - [Draft](/users/docs/draft.html).
+  - [Model](/users/docs/model.html).
+  - [Present](/users/docs/present.html).
 
+## Videos
+
+- [Part 1](/users/videos/part-1.html) - an example of a Boolean Feature Solid.  
+
+{% include note.html content="More that needs to be done here!" %} 

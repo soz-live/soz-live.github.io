@@ -3,14 +3,12 @@ columns:
     subitems:
       - name: Home
         link: /
-      - name: Docs
-        link: /docs/docs.html
       - name: Users
-        link: /docs/users/intro.html    
+        link: /users/docs/intro.html    
       - name: Coders
-        link: /docs/coders/intro.html    
-      - name: Videos
-        link: /videos/videos.html
+        link: /coders/docs/intro.html    
+      - name: Docs
+        link: /docs/docs.html    
   - title: References
     subitems:
       - name: Glossary

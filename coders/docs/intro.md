@@ -10,7 +10,6 @@ layout: default
   - [Introduction](#introduction)
   - [Documents](#documents)
 
-
 ## Introduction
 
 For coders, **SOZ-LIVE** is a platform for developing additional functionality for CAD, focussing on:
@@ -27,8 +26,11 @@ It enables coders to use Object Oriented (OO) techniques from within a functiona
 
 ## Documents
 
-- [Lisp Introduction](/docs/coders/lisp.html).
-- [Basic Information for Coders](/docs/coders/basics.html).
-- [SOZ Class Information](/docs/coders/classes.html).
-- [SOZ Method Information](/docs/coders/methods.html).
+- [Lisp Introduction](/coders/docs/lisp.html).
+- [Basic Information for Coders](/coders/docs/basics.html).
+- [SOZ Class Information](/coders/docs/classes.html).
+- [SOZ Method Information](/coders/docs/methods.html).
 
+## Videos
+
+{% include note.html content="More that needs to be done here!" %} 

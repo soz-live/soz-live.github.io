@@ -17,15 +17,15 @@ This page lists documentation for **SOZ-LIVE** in the following sections:
 
 This documentation is focussed on a User of the project:  
 
-- [Introduction for Users](/docs/users/intro.html). 
-- [Basic Concepts](/docs/users/basics.html).
-- [Quickstart Guide](/docs/users/quickstart.html).
-- [User Interface Basics](/docs/users/uibasics.html).
+- [Introduction for Users](/users/docs/intro.html). 
+- [Basic Concepts](/users/docs/basics.html).
+- [Quickstart Guide](/users/docs/quickstart.html).
+- [User Interface Basics](/users/docs/uibasics.html).
 - SOZ Process
-  - [Specify](/docs/users/specify.html).
-  - [Draft](/docs/users/draft.html).
-  - [Model](/docs/users/model.html).
-  - [Present](/docs/users/present.html).
+  - [Specify](/users/docs/specify.html).
+  - [Draft](/users/docs/draft.html).
+  - [Model](/users/docs/model.html).
+  - [Present](/users/docs/present.html).
 
 {% include note.html content="<br>- There is more that needs to be done here!<br>- Especially with multiline Notes!" %}
 
@@ -34,13 +34,14 @@ This documentation is focussed on a User of the project:
 This documentation is focussed on a Coder of the project:  
 
 
-- [Introduction for Coders](/docs/coders/intro.html). 
-- [Lisp Introduction](/docs/coders/lisp.html).
-- [Basic Information for Coders](/docs/coders/basics.html).
-- [SOZ Class Information](/docs/coders/classes.html).
-- [SOZ Method Information](/docs/coders/methods.html).
+- [Introduction for Coders](/coders/docs/intro.html). 
+- [Lisp Introduction](/coders/docs/lisp.html).
+- [Basic Information for Coders](/coders/docs/basics.html).
+- [SOZ Class Information](/coders/docs/classes.html).
+- [SOZ Method Information](/coders/docs/methods.html).
 
 {% include note.html content="<br>- And there is more that needs to be done here too!" %}
+
 
 ## References
 
@@ -55,4 +56,3 @@ These documents provide additional information about the project that don't fit 
 ## Repos
 
 A list of Repos / Modules for the project, with help documentation, is [here](/docs/repos.html).
-

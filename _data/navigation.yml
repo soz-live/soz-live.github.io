@@ -1,14 +1,14 @@
 - name: Home
   link: /
-- name: Docs
-  link: /docs/docs.html
-- name: Videos
-  link: /videos/videos.html
+- name: Users
+  link: /users/docs/intro.html
+- name: Coders
+  link: /coders/docs/intro.html
 - name: Blog
-  link: /blog.html  
+  link: /blog.html
 - name: About
   link: /about.html
 - name: Community
   link: /community.html
 - name: GitHub
-  link: /github.html  
+  link: /github.html

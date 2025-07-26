@@ -12,13 +12,13 @@ A CAD Extension, written in Lisp.
 ## For Users
 
 **SOZ-LIVE** combines a modeller capable of creating complex Entities, including Features and Parts, with a Node-based user interface (UI), to enable iterative modelling.  
-Refer to the [Users Introduction](/docs/users/intro.html) for more details.
+Refer to the [Users Introduction](/users/docs/intro.html) for more details.
 
 
 ## For Coders
 
 Written entirely in Lisp, **SOZ-LIVE** combines the best of Functional, Object-Oriented & Scripting languages, giving creative power to Coders to extend and develop the project.  
-Refer to the [Coders Introduction](/docs/coders/intro.html) for more details.
+Refer to the [Coders Introduction](/coders/docs/intro.html) for more details.
 
 
 ## Status

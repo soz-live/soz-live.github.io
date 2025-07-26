@@ -12,7 +12,7 @@ To obtain a copy, refer to the [Community](/community.html) page for details.
 
 ## Download
 
-For information on downloading and using the project, refer to the [Quickstart Guide](/docs/users/quickstart.html).
+For information on downloading and using the project, refer to the [Quickstart Guide](/users/docs/quickstart.html).
 
 ## Sponsor
 
