@@ -9,7 +9,8 @@ layout: default
 - Users
   - [Introduction](#introduction)
   - [Potential Users](#potential-users)
-  - [Documents](#documents) 
+  - [Documents](#documents)
+  - [Videos](#videos)
 
 ## Introduction
 

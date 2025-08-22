@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Docs
+# Documentation
 
 ## Introduction
 
@@ -17,7 +17,7 @@ This page lists documentation for **SOZ-LIVE** in the following sections:
 
 This documentation is focussed on a User of the project:  
 
-- [Introduction for Users](/users/docs/intro.html). 
+- [Users Introduction](/users/docs/intro.html). 
 - [Basic Concepts](/users/docs/basics.html).
 - [Quickstart Guide](/users/docs/quickstart.html).
 - [User Interface Basics](/users/docs/uibasics.html).
@@ -29,14 +29,14 @@ This documentation is focussed on a User of the project:
 
 {% include note.html content="<br>- There is more that needs to be done here!<br>- Especially with multiline Notes!" %}
 
+
 ## Coders
 
 This documentation is focussed on a Coder of the project:  
 
-
-- [Introduction for Coders](/coders/docs/intro.html). 
+- [Coders Introduction](/coders/docs/intro.html). 
 - [Lisp Introduction](/coders/docs/lisp.html).
-- [Basic Information for Coders](/coders/docs/basics.html).
+- [Basic Information](/coders/docs/basics.html).
 - [SOZ Class Information](/coders/docs/classes.html).
 - [SOZ Method Information](/coders/docs/methods.html).
 

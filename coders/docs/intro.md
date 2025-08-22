@@ -9,6 +9,7 @@ layout: default
 - Coders
   - [Introduction](#introduction)
   - [Documents](#documents)
+  - [Videos](#videos)  
 
 ## Introduction
 
@@ -27,7 +28,7 @@ It enables coders to use Object Oriented (OO) techniques from within a functiona
 ## Documents
 
 - [Lisp Introduction](/coders/docs/lisp.html).
-- [Basic Information for Coders](/coders/docs/basics.html).
+- [Basic Information](/coders/docs/basics.html).
 - [SOZ Class Information](/coders/docs/classes.html).
 - [SOZ Method Information](/coders/docs/methods.html).
 
