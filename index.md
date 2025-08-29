@@ -11,13 +11,35 @@ A CAD Extension, written in Lisp.
 
 ## For Users
 
-**SOZ-LIVE** combines a modeller capable of creating complex Entities, including Features and Parts, with a Node-based user interface (UI), to enable iterative modelling.  
+**SOZ-LIVE** combines parametric creation and editing of:
+
+- Drafting Entities such as:
+  - Points
+  - Lines
+  - Arcs
+  - Circles
+  - Polylines etc, 
+  
+and a modeller capable of creating:
+
+- Parts &
+- Features 
+
+with a Node-based user interface (UI), **LIVE**, to enable iterative modelling.  
+
 Refer to the [Users Introduction](/users/docs/intro.html) for more details.
 
 
 ## For Coders
 
-Written entirely in Lisp, **SOZ-LIVE** combines the best of Functional, Object-Oriented & Scripting languages, giving creative power to Coders to extend and develop the project.  
+Written entirely in Lisp, **SOZ-LIVE** combines the best of:
+
+- Functional, 
+- Object-Oriented & 
+- Scripting languages, 
+
+giving creative power to Coders to extend and develop the project in the directions they require.  
+
 Refer to the [Coders Introduction](/coders/docs/intro.html) for more details.
 
 
@@ -28,7 +50,7 @@ The current status of the project is **Private Beta**.
 
 ## Platforms
 
-**SOZ-LIVE** can be run from within both BricsCAD and AutoCAD.
+**SOZ-LIVE** is written to be run from within both BricsCAD and AutoCAD.
 
 > **Notes**
 > - 3D Modelling functionality requires BricsCAD Pro or above, or full AutoCAD.  
