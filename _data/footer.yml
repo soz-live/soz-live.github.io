@@ -7,10 +7,10 @@ columns:
         link: /users/docs/intro.html    
       - name: Coders
         link: /coders/docs/intro.html    
-      - name: Docs
-        link: /docs/docs.html    
   - title: References
     subitems:
+      - name: Documents
+        link: /docs/docs.html   
       - name: Glossary
         link: /docs/glossary.html
       - name: Prefixes
@@ -21,7 +21,7 @@ columns:
         link: /docs/commands.html
       - name: Repos
         link: /docs/repos.html
-  - title: Community
+  - title: Information
     subitems:
       - name: Blog
         link: /blog.html
