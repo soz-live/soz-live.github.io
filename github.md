@@ -8,7 +8,8 @@ layout: default
 ## Status
 
 The current status of the project is **Private Beta**.  
-To obtain a copy, refer to the [Community](/community.html) page for details.
+
+To obtain a pre-release copy, and become part of the community, refer to the [Community](/community.html) page for details.
 
 ## Download
 
@@ -16,7 +17,8 @@ For information on downloading and using the project, refer to the [Quickstart G
 
 ## Sponsor
 
-To assist the team to continue developing the project, please consider sponsoring it.
+To assist the team to continue developing the project, please consider sponsoring it.  
+
 
 {% include sponsor.html %}
 

@@ -6,18 +6,18 @@ layout: default
 
 ## Introduction
 
-The **SOZ-LIVE** community currently uses the following tools:
+The **SOZ-LIVE** community currently uses the following apps:
 
 - **GitHub** for code, docs, issues, projects, development and discussions.
 - **Discord** as the primary resource for community discussions.
-- **YouTube** for pics and videos.
+- **YouTube** for images and videos.
 
 ## Aims & Objectives
 
 The objectives of the **SOZ-LIVE** community are to:
 
 - further the development of the project.
-- introducing the project to a wider audience.
+- introduce the project to a wider audience.
 
 While aiming to be:
 
@@ -48,4 +48,4 @@ You will need to set-up a Discord account.
 
 ### YouTube
 
-Follow on YouTube at **soz-live**.
+Follow on [YouTube](https://www.youtube.com/@soz-live)

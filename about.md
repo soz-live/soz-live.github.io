@@ -4,11 +4,9 @@ layout: default
 
 # About
 
-
 ## Introduction
 
-**SOZ-LIVE** is a collection of over 2600 Lisp routines, that enables the creation of complex CAD entities, from a series of inputs of simpler objects. It builds upon basic types such numbers and vectors to entities such as Lines and Planes to enable the modelling of complex Parts made of Features.
-
+**SOZ-LIVE** is a collection of over 2600 Lisp routines, that enables the creation of complex CAD entities, from a series of inputs of simpler objects. It builds upon basic types such numbers and vectors to entities such as Lines and Circles to enable the modelling of complex Parts made of Features.
 
 ## SOZ
 
@@ -22,7 +20,6 @@ layout: default
 
 All programmed in Lisp.
  
-
 ### The Why of SOZ
 
 **SOZ** was created to enable:
@@ -52,14 +49,16 @@ The routines are built into the Core of **SOZ**, and consist of around 1000 line
 ## The Vision
 
 The vision is to provide a better way of programming Lisp in CAD with immediate benefits to the coder, the user and the community.  
-By combining the functionality that **SOZ** provides, with the visual experience of **LIVE**, the project aims to create a niche product not seen before.  
+By combining the functionality that **SOZ** provides, with the visual experience of **LIVE**, the project aims to create a niche product capable of providing the user with a means of generating itarative models and the coder with a basis to develop the project's code-base into new directions.  
 
 
 ## Timeline
 
 ### Past (2013 - 2024)
 
-The SOZ-LIVE project has been developed for the last 10 years with a team of one and as a closed source project. Initially developed to draw entities in CAD that were unavailable or took a long time to draw, it has grown to take a more all encompassing approach. The addition of the LIVE User Interface and a dynamic DCL based GUI has increased the functionality of the project.  
+The SOZ-LIVE project has been developed for the last 10 years with a team of one and as a closed source project.  
+Initially developed to draw entities in CAD that were unavailable or took a long time to draw, it has grown to take a more all encompassing approach.  
+The recent additions of the LIVE User Interface and a dynamic DCL based GUI has increased the functionality and useability of the project.  
 
 ### Present
 
