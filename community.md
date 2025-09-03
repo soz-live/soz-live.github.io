@@ -48,4 +48,4 @@ You will need to set-up a Discord account.
 
 ### YouTube
 
-Follow on [YouTube](https://www.youtube.com/channel/UCtWO2o6jLXeY6LgNime_F5A)
+Follow on [YouTube](https://www.youtube.com/@soz-live)
