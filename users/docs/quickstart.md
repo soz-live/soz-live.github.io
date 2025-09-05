@@ -47,10 +47,9 @@ The basic **SOZ-LIVE** process for drawing develoment follows four phases:
 During each phase the basic approach to using **SOZ** is followed:
 
 - **Make** objects & entities 
-  - using the **Y** command or 
-  - **M-** commands listed [here](/docs/commands.html).
+  - using the **Y** command or **M-\*** commands listed [here](/docs/commands.html).
 - **Edit** objects & entities 
-  - using the **E-** commands.
+  - using the **E-\*** commands.
 - **Update** the model 
   - this is done from within the **Edit** commands.
 

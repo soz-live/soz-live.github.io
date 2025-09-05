@@ -15,8 +15,7 @@ layout: default
   - [LIVE](#live)
     - [LIVE Nodes](#live-nodes)
     - [LIVE Links](#live-links)     
-    - [LIVE Points](#live-points) 
-    - [LIVE Commands](#live-commands)
+    - [LIVE Points](#live-points)
     
 
 ## Introduction
@@ -30,7 +29,7 @@ You can interact with the program in a number of ways.
 
 The easiest way to interact with **SOZ** is to type **Y** on the command line - a dialog box appears with a tree-view of options to select from.<br>
 
-A hierarchial list of of commands is [here](/docs/commands.html).
+The full hierarchial list of of commands is [here](/docs/commands.html).
 
 > **Notes:**<br>
 > - All **SOZ** commands are in the same format, eg `M-...`, so as not to interfere with conventional CAD shortcuts.  
@@ -167,20 +166,4 @@ A Point is the graphical object that enables picking of data Values within a Nod
 In **LIVE**, a Point is a Point Entity that is drawn at each of the Values of the Node - both Inputs and Return values.
 
 Each Point will update when the corresponding Node is moved or edited.
-
-
-### LIVE Commands
-
-LIVE functionality and entity creation is accessed through the following commands:
-
-  - L-Add
-    - a command line function used to create the LIVE model through interactions.
-  - L-Auto
-    - a command to automatically generate the LIVE model for a picked LIVE Node.
-  - L-Links
-    - a command to generate all required Links within the LIVE model.
-  - L-Pick
-    - a command to automatically generate the LIVE model for a picked Model Entity.
-  - L-Select
-    - a command to automatically generate the LIVE model for a selected Object from a Dialog.
 

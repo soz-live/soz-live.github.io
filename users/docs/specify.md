@@ -29,7 +29,7 @@ There are a variety of Value types that are explored more below.
 ### Real
 
 A Real value represents a real number to represent length arguments.  
-There are Real Values and there are Real Objects, both of which return a value that can be used within other objects, such as Points and Vectors to represent coordinates.  
+There are Real Values and there are Real Objects, both of which return a value that can be used within other objects, such as Points and Vectors to represent coordinates or distances.  
 Within a dialog box, there is a text field to enter the desired value.  
 Alternatively there are options on the RHS for additional ways to enter a value.  
 

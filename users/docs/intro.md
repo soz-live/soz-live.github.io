@@ -14,9 +14,9 @@ layout: default
 
 ## Introduction
 
-For users, **SOZ-LIVE** provides additional CAD functionality in the areas of:
+For users, **SOZ-LIVE** provides parametric CAD functionality in the areas of:
 
-- 3D Drafting of
+- 3D Drafting
   - Points
   - Planes
   - Curves
@@ -27,8 +27,9 @@ For users, **SOZ-LIVE** provides additional CAD functionality in the areas of:
     - 3dPolylines
   - Grids
   - Levels
-- 3D Modelling of
-  - Parts &
+- 3D Modelling
+  - Parts
+  - Features
   - Assemblies
   
 For the following disciplines:
