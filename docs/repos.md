@@ -11,34 +11,62 @@ Each link refers to a file for the repo.<br>
 Each file contains a hierarchial list of Classes in each repo, with links to documentation for each Class.<br>
 
 - [soz-live](/repos/soz-live.html)
-  - Main Repo, with core functionality included.
+  - Description: Main Repo, with core functionality included.
+  - Repo Type: Private
+  - Repo Status: Beta
 - [soz-macro](/repos/soz-macro.html)
-  - Sub Repo, with Macro functionality included.
+  - Description: Sub Repo, with Macro functionality included.
+  - Repo Type: Private
+  - Repo Status: Beta
 - [soz-files](/repos/soz-files.html)
-  - Sub Repo, with Data Import / Export functionality included.
+  - Description: Sub Repo, with Data Import / Export functionality included.
+  - Repo Type: Private
+  - Repo Status: Beta
 - [soz-odbx](/repos/soz-odbx.html)
-  - Sub Repo, with ODBX specific functionality included.
+  - Description: Sub Repo, with ODBX specific functionality included.
+  - Repo Type: Private
+  - Repo Status: Beta
 - [soz-misc](/repos/soz-misc.html)
-  - Sub Repo, with additional Misc. functionality included.
+  - Description: Sub Repo, with additional Misc. functionality included.
+  - Repo Type: Private
+  - Repo Status: Beta
 - [soz-random](/repos/soz-random.html)
-  - Sub Repo, with Random functionality included.
+  - Description: Sub Repo, with Random functionality for SOZ included.
+  - Repo Type: Private
+  - Repo Status: Beta
 - [soz-history](/repos/soz-history.html)
-  - Sub Repo, with History functionality included.
+  - Description: Sub Repo, with History functionality included.
+  - Repo Type: Private
+  - Repo Status: Beta
 - [soz-rigging](/repos/soz-rigging.html)
-  - Sub Repo, with rigging specific functionality included.
+  - Description: Sub Repo, with rigging specific functionality included.
+  - Repo Type: Private
+  - Repo Status: Beta
 - [soz-slings](/repos/soz-slings.html)
-  - Sub Repo, with Sling specific functionality included.
+  - Description: Sub Repo, with Sling specific functionality included.
+  - Repo Type: Private
+  - Repo Status: Beta
 - [soz-aec](/repos/soz-aec.html)
-  - Sub Repo with AEC functionality included.
+  - Description: Sub Repo with AEC functionality included.
+  - Repo Type: Private
+  - Repo Status: Beta
 - [soz-bsys](/repos/soz-bsys.html)
-  - Sub Repo, with BricsCAD specific functionality included.
+  - Description: Sub Repo, with BricsCAD specific functionality included.
+  - Repo Type: Private
+  - Repo Status: Beta
 - [soz-structural](/repos/soz-structural.html)
-  - Sub Repo, with structural functionality included.
+  - Description: Sub Repo, with structural functionality included.
+  - Repo Type: Private
+  - Repo Status: Beta
 - [soz-animate](/repos/soz-animate.html)
-  - Sub Repo, to add animation functionality.
+  - Description: Sub Repo, to add animation functionality to SOZ.
+  - Repo Type: Private
+  - Repo Status: pre-Alpha
 - [soz-devs](/repos/soz-devs.html)
-  - Sub Repo, with Developer specific functionality included.
+  - Description: Sub Repo, with Developer specific functionality included.
+  - Repo Type: Private
+  - Repo Status: Beta
 
-Version:  1.25.3
+Version:  1.25.7
 <br>
-Date: 20250822.1923
+Date: 20250907.195
