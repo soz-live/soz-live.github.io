@@ -142,4 +142,4 @@ And:
 
 For the full list - refer to the [Categories document](/docs/categories.html).
 
-{% include note.html content="<br>- Each Category has a corresponding **M-** (Make) command that can be entered at the command line.<br>- This resolves class naming issues as the class name can be all about functionality." %}
+{% include note.html content="<br>- Each Category has a corresponding M- (Make) command that can be entered at the command line.<br>- This resolves class naming issues as the class name can be all about functionality." %}

@@ -11,7 +11,6 @@ This page lists documentation for **SOZ-LIVE** in the following sections:
 - [Users](#users)
 - [Coders](#coders)
 - [References](#references)
-- [Repos](#repos)
 
 ## Users
 
@@ -27,7 +26,7 @@ This documentation is focussed on a User of the project:
   - [Model](/users/docs/model.html).
   - [Present](/users/docs/present.html).
 
-{% include note.html content="<br>- There is more that needs to be done here!<br>- Especially with multiline Notes!" %}
+{% include note.html content="<br>- There is more that needs to be done here!" %}
 
 
 ## Coders
@@ -51,8 +50,5 @@ These documents provide additional information about the project that don't fit 
 - [Prefixes](/docs/prefixes.html) - a list of Class prefixes used within the project.
 - [Categories](/docs/categories.html) - a hierarchial list of Categories used within the project.
 - [Commands](/docs/commands.html) - a hierarchial list of Commands for the project.
+- [Repos](/docs/repos.html) - a list of Repos / Modules for the project, with links to help documentation
 
-
-## Repos
-
-A list of Repos / Modules for the project, with links to help documentation, is [here](/docs/repos.html).
