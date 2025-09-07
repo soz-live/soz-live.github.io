@@ -22,18 +22,15 @@ To use **SOZ-LIVE** follow the sections in this Guide...
 
 Download the complete project file **SOZ-LIVE.lsp** from the **code** directory in the repo, and save it into a local directory for loading into CAD.
 
-> **Notes:**<br>
-> - While the source code is split into multiple files, the entire project is contained within the one combined Lisp file.  
-> - For more information on the code files - refer to the README in repo's code directory.
 
+{% include note.html content="<br>- While the source code is split into multiple files, the entire project is contained within the one combined Lisp file.<br>- For more information on the code files - refer to the README in repo's code directory." %}
 
 ## Loading SOZ
 
 Load the file `soz-live.lsp` into CAD using the standard "Appload" command.  
 It will load the other repo files as required in the sequence specified within the file.  
 
-> **Notes:**<br>
-> - You can set it to auto-load for each drawing, if you plan to use it regularly.
+{% include note.html content="<br>- You can set it to auto-load for each drawing, if you plan to use it regularly." %}
 
 ## Begin Drawing
 
@@ -54,9 +51,5 @@ During each phase the basic approach to using **SOZ** is followed:
   - this is done from within the **Edit** commands.
 
 
-> **Notes:**<br>
-> - All **SOZ** commands are in the same format, eg `M-...`, so as not to interfere with conventional CAD shortcuts.  
-> - Once you know the name of a command, eg. `M-Circle` to create a Circle or `M-Part` to create a Part, you can just type that command instead.  
-> - **Y** was chosen as the shortcut as it is the only key not used as a standard CAD command shortcut.  
-
+{% include note.html content="<br>- All SOZ commands are in the same format, eg M-... so as not to interfere with conventional CAD shortcuts.<br>- Once you know the name of a command, you can type that command instead.<br>Y was chosen as it is the only key not used as a standard CAD command shortcut." %}
 

@@ -46,10 +46,7 @@ Through to non-graphical objects such as:
 - [SZLPReal](/classes/SZLPReal.html) a value object for a real number.
 - [SZLPReals](/classes/SZLPReals.html) avalue object for a list of Real Numbers.
 
-
-> **Notes:**<br>
-> - Except for Lisp values, each class has a 4 letter prefix that identifies it as belonging to a particular part of the class hierarchy.  
-> - Refer to the [Prefixes](/docs/prefixes.html) document for details.
+{% include note.html content="<br>- Except for Lisp values, each class has a four letter prefix that identifies it as belonging to a particular part of the class hierarchy.<br>- Refer to the Prefixes document for details." %}
 
 
 ### Object
@@ -67,10 +64,7 @@ Through to complex geometric objects that utilise other objects and entities in 
 - [SZGEPattern2D-Rectangular](/classes/SZGEPattern2D-Rectangular.html) object - that creates and returns a list of [TMatrix](/classes/TMatrix.html) values for the insertion of Entities into the Model in a Rectangular 2D Pattern.  
 
 
-> **Notes:**<br>
-> - A [Real](/classes/Real.html) value entered into a dialog box is stored as a string until required by the program. 
-> - This enables lisp equations such as `(/ 1.0 3.0)` to be entered and calculated to full precision as and when required.
-
+{% include note.html content="<br>- A Real value entered into a dialog box is stored as a string until required by the program.<br>This enables lisp equations such as (/ 1.0 3.0) to be entered and calculated to full precision as and when required." %}
 
 ### Entity
 
@@ -84,9 +78,7 @@ Base entity classes predominantly begin with the prefix `AcDb`, and derived clas
 All objects in **SOZ** are stored and passed by reference to an **ID** - that is a string incorporating the object's Handle.  
 eg: **`"#O#AA5"`** would be the **SOZ** object with the handle **AA5**.
 
-> **Notes:**<br>
-> - All Make routines return the **ID** of the object / entity that was created.
-
+{% include note.html content="<br>- All Make routines return the ID of the object / entity that was created." %}
 
 ### Method
 

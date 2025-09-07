@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Documentation
+# Documents
 
 ## Introduction
 

@@ -31,10 +31,7 @@ The easiest way to interact with **SOZ** is to type **Y** on the command line - 
 
 The full hierarchial list of of commands is [here](/docs/commands.html).
 
-> **Notes:**<br>
-> - All **SOZ** commands are in the same format, eg `M-...`, so as not to interfere with conventional CAD shortcuts.  
-> - Once you know the name of a command, eg. `M-Circle` to create a Circle or `M-Part` to create a Part, you can just type that command instead.  
-> - **Y** was chosen as the shortcut as it is the only key not used as a standard CAD command shortcut.  
+{% include note.html content="<br>- All SOZ commands are in the same format, eg M-... so as not to interfere with conventional CAD shortcuts.<br>- Once you know the name of a command, you can type that command instead.<br>Y was chosen as it is the only key not used as a standard CAD command shortcut." %}
 
 
 ## Dialog Boxes
@@ -43,8 +40,7 @@ Each **SOZ-LIVE** Class and Function has a dialog box developed on-the-fly, depe
 
 Each argument to be specified creates another entry in the dialog box to be filled in by the user.
 
-> **Notes:**<br>
-> - Only fully completed dialogs - one with valid entries for each field, will be parsed by the Make routine properly and return a valid Object.
+{% include note.html content="<br>- Only fully completed dialogs - one with valid entries for each field, will be parsed by the Make routine properly and return a valid Object." %}
 
 The entry is either an **atom** field or a **list** field - depending upon the type of each of the arguments for the Class...
 
@@ -53,13 +49,8 @@ For example, the dialog for the class [SZGELine](/classes/SZGELine.html) has two
 - POINT0 - an atom field which is required to be of type [SZGEPoint](/classes/SZGEPoint.html)
 - POINT1 - an atom field which is required to be of type [SZGEPoint](/classes/SZGEPoint.html)
 
-> **Notes:**<br>
-> - Any class that is derived or one that interfaces with the type is also valid.  
-> - The alternative classes available for each dialog are available from the `...` button at the top of the dialog next to the Class Name.
 
-> **Tips:**<br>
-> - You can Cut and Paste values from one field to another - as long as the Type of the Value / Object / Entity is compatible.
-
+{% include note.html content="<br>- Any class that is derived or one that interfaces with the type is also valid.<br>- The alternative classes available for each dialog are available from the ... button at the top of the dialog next to the Class Name.<br>- You can Cut and Paste values from one field to another - as long as the Type of the Value / Object / Entity is compatible." %}
 
 ### Atom Fields
 
@@ -80,9 +71,8 @@ Where the Options vary depending upon the Class being created, but include:
 - Edit - Edits an existing object in a new dialog box.
 - Prompt - Use the Command Line version for entering the Class.
 <br>
-> **Notes:**<br>
-> - All options are prefixed with "User_" to indicate that they are user methods - selectable by the User.
 
+{% include note.html content="<br>- All options are prefixed with User_ to indicate that they are user methods - selectable by the User." %}
 
 ### List Fields
 
@@ -113,8 +103,8 @@ And Edit Options include:
 - Edit an item
 <br>
 
-> **Tips:**<br>
-> - Double clicking on an Item Edits the Item.
+{% include note.html content="<br>- Double clicking on an Item Edits the Item." %}
+
  
 ## LIVE
 
