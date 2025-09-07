@@ -1,9 +1,7 @@
 - name: Home
   link: /
-- name: Users
-  link: /users/docs/intro.html
-- name: Coders
-  link: /coders/docs/intro.html
+- name: Documents
+  link: /docs/docs.html
 - name: Blog
   link: /blog.html
 - name: About
