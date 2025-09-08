@@ -7,9 +7,9 @@ layout: default
 
 - Specify
   - [Introduction](#introduction)
+  - [Part](#part)
   - [Feature](#feature)
-  - [Part](#real)
-  - [Assembly](#option)
+  - [Assembly](#assembly)
 
 
 
@@ -19,11 +19,11 @@ layout: default
 In this document we will go into details of the various types used during the Modelling stage.
 
 
-## Feature
-
-
-
 ## Part
+
+
+
+## Feature
 
 
 
