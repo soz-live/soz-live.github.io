@@ -34,4 +34,4 @@ It enables coders to use Object Oriented (OO) techniques from within a functiona
 
 ## Videos
 
-{% include note.html content="More that needs to be done here!" %} 
+{% include note.html content="<br>- More that needs to be done here!" %} 
