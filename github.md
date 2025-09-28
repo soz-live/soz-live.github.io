@@ -5,6 +5,11 @@ layout: default
 # GitHub
 
 
+## Introduction
+
+The codebase is stored on GitHub.
+
+
 ## Status
 
 The current status of the project is **Private Beta**.  
