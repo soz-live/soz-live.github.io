@@ -25,27 +25,25 @@ The current status of the project is **Private Beta**.
   - Arcs
   - Circles
   - Polylines 
-- a 3D Solid modeller capable of creating:
+- a 3D Solid modeller for:
   - Parts
   - Features
   - Assemblies
-
-With a Node-based user interface (UI), **LIVE**, to enable iterative modelling.  
-
-All while using a consistent Graphical User Interface (GUI) for the creation and editing of objects and entities.  
+- a Node-based user interface (UI), **LIVE**, for iterative modelling.
+- and a consistent Graphical User Interface (GUI).  
 
 Refer to the [Users Introduction](/users/docs/intro.html) for details.
 
 
 ## For Coders
 
-**SOZ-LIVE** is written entirely in Lisp and combines the best of:
+Written entirely in Lisp, **SOZ** combines the best of:
 
 - Functional, 
 - Object-Oriented & 
 - Scripting languages, 
 
-With a structured and expressive approach to programming in CAD, thereby giving creative power to Coders to extend and develop the project in the directions they require.  
+With a structured and expressive approach to programming in CAD, **SOZ** gives creative power to Coders to extend and develop the project in the direction required.  
 
 Refer to the [Coders Introduction](/coders/docs/intro.html) for details.
 
@@ -55,4 +53,4 @@ Refer to the [Coders Introduction](/coders/docs/intro.html) for details.
 **SOZ-LIVE** is written to be run from within both BricsCAD and AutoCAD.
 
 
-{% include note.html content="<br>- 3D Modelling functionality requires BricsCAD Pro or above, or full AutoCAD.<br>- TIN Surfaces and Civil functionality require BricsCAD Pro or above.<br>- SOZ-LIVE is not affiliated with BricsCAD or AutoCAD." %}
+{% include note.html content="<ul><li>3D Modelling functionality requires BricsCAD Pro or above, or full AutoCAD.</li><li>TIN Surfaces and Civil functionality require BricsCAD Pro or above.</li><li>SOZ-LIVE is not affiliated with BricsCAD or AutoCAD.</li></ul>" %}
