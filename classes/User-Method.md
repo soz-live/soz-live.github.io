@@ -1,6 +1,11 @@
 
 # Class:	User-Method
 
+## Description:
+
+User Method Structure
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | User Method Structure |
 
 ### User-Method-Make
 

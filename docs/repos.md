@@ -26,24 +26,16 @@ Each file contains a hierarchial list of Classes in each repo, with links to doc
   - Description: Sub Repo, with ODBX specific functionality included.
   - Repo Type: Private
   - Repo Status: Beta
+- [soz-history](/repos/soz-history.html)
+  - Description: Sub Repo, with History functionality included.
+  - Repo Type: Private
+  - Repo Status: Beta
 - [soz-misc](/repos/soz-misc.html)
   - Description: Sub Repo, with additional Misc. functionality included.
   - Repo Type: Private
   - Repo Status: Beta
 - [soz-random](/repos/soz-random.html)
   - Description: Sub Repo, with Random functionality for SOZ included.
-  - Repo Type: Private
-  - Repo Status: Beta
-- [soz-history](/repos/soz-history.html)
-  - Description: Sub Repo, with History functionality included.
-  - Repo Type: Private
-  - Repo Status: Beta
-- [soz-rigging](/repos/soz-rigging.html)
-  - Description: Sub Repo, with rigging specific functionality included.
-  - Repo Type: Private
-  - Repo Status: Beta
-- [soz-slings](/repos/soz-slings.html)
-  - Description: Sub Repo, with Sling specific functionality included.
   - Repo Type: Private
   - Repo Status: Beta
 - [soz-aec](/repos/soz-aec.html)
@@ -58,15 +50,19 @@ Each file contains a hierarchial list of Classes in each repo, with links to doc
   - Description: Sub Repo, with structural functionality included.
   - Repo Type: Private
   - Repo Status: Beta
-- [soz-animate](/repos/soz-animate.html)
-  - Description: Sub Repo, to add animation functionality to SOZ.
+- [soz-rigging](/repos/soz-rigging.html)
+  - Description: Sub Repo, with rigging specific functionality included.
   - Repo Type: Private
-  - Repo Status: pre-Alpha
+  - Repo Status: Beta
+- [soz-slings](/repos/soz-slings.html)
+  - Description: Sub Repo, with Sling specific functionality included.
+  - Repo Type: Private
+  - Repo Status: Beta
 - [soz-devs](/repos/soz-devs.html)
   - Description: Sub Repo, with Developer specific functionality included.
   - Repo Type: Private
   - Repo Status: Beta
 
-Version:  1.25.7
+Version:  1.26.3
 <br>
-Date: 20250907.195
+Date: 20251026.1955

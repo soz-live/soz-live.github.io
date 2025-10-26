@@ -1,6 +1,11 @@
 
 # Class:	SZCEAssy
 
+## Description:
+
+A collection of Parts
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | A collection of Parts |
 
 ### SZCEAssy-Make
 

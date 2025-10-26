@@ -1,6 +1,11 @@
 
 # Class:	NIL
 
+## Description:
+
+Base Lisp Class NIL
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLP-NIL](SZLP-NIL.html) |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Base Lisp Class NIL |
 
 
 ## Functions:

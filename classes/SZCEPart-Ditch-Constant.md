@@ -1,6 +1,11 @@
 
 # Class:	SZCEPart-Ditch-Constant
 
+## Description:
+
+Constant Depth Ditch
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-aec](/repos/soz-aec.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Constant Depth Ditch |
 
 ### SZCEPart-Ditch-Constant-Make
 

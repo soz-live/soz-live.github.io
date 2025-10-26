@@ -1,6 +1,8 @@
 ---
 layout: default
 description: Sub Repo, with Developer specific functionality included.
+type: Private
+status: Beta
 ---
 
 # soz-devs
@@ -11,9 +13,8 @@ This repo includes functionality for Developers of **soz-live**, including:
 
 - Source code release creation functions and commands
 - Scripting routines for Github and PowerShell
-- Code Visualisation tools using mapping functions
+- Code Visualisation tools using code mapping functions
 - Code Documentation tools used during the release of code.
-
 
 ## Class Hierarchy
 
@@ -54,6 +55,6 @@ This repo includes functionality for Developers of **soz-live**, including:
             - [SZDODef](/classes/SZDODef.html)
               - [SZDODef-Function](/classes/SZDODef-Function.html)
 
-Version:  1.25.2
+Version:  1.26.3
 <br>
-Date: 20250715.1648
+Date: 20251026.1955

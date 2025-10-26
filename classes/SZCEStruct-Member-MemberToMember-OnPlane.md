@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-Member-MemberToMember-OnPlane
 
+## Description:
+
+MemberToMember-OnPlane Linear Structural Member
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | MemberToMember-OnPlane Linear Structural Member |
 
 ### SZCEStruct-Member-MemberToMember-OnPlane-Make
 

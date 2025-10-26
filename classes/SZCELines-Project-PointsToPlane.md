@@ -1,6 +1,11 @@
 
 # Class:	SZCELines-Project-PointsToPlane
 
+## Description:
+
+Lines from projecting points to plane
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Lines from projecting points to plane |
 
 ### SZCELines-Project-PointsToPlane-Make
 

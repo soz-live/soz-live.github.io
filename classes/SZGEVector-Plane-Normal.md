@@ -1,6 +1,11 @@
 
 # Class:	SZGEVector-Plane-Normal
 
+## Description:
+
+SZGEVector-Plane-Normal Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEVector-Plane-Normal Class |
 
 ### SZGEVector-Plane-Normal-Make
 

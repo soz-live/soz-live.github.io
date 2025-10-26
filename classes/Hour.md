@@ -1,6 +1,11 @@
 
 # Class:	Hour
 
+## Description:
+
+
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: |  |
 
 ### Hour-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-Connection-MemberEndPlate
 
+## Description:
+
+A Structural MemberEndPlate Connection
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | A Structural MemberEndPlate Connection |
 
 ### SZCEStruct-Connection-MemberEndPlate-Make
 

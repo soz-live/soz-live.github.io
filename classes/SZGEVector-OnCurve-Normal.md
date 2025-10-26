@@ -1,6 +1,11 @@
 
 # Class:	SZGEVector-OnCurve-Normal
 
+## Description:
+
+SZGEVector-OnCurve-Normal Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEVector-OnCurve-Normal Class |
 
 ### SZGEVector-OnCurve-Normal-Make
 

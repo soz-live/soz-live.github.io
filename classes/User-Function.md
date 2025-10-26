@@ -1,6 +1,11 @@
 
 # Class:	User-Function
 
+## Description:
+
+User Function Structure
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | User Function Structure |
 
 ### User-Function-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	List
 
+## Description:
+
+List Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [NIL](NIL.html), [SZLPList](SZLPList.html), [SZGEObjects](SZGEObjects.html), [SZCOObjects](SZCOObjects.html) |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | List Class |
 
 
 ## Functions:

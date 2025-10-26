@@ -1,6 +1,11 @@
 
 # Class:	SZCOVisual-ByLayer
 
+## Description:
+
+ByLayer
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | ByLayer |
 
 ### SZCOVisual-ByLayer-Make
 

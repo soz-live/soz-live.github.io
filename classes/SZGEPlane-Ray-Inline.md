@@ -1,6 +1,11 @@
 
 # Class:	SZGEPlane-Ray-Inline
 
+## Description:
+
+SZGEPlane-Ray-Inline Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPlane-Ray-Inline Class |
 
 ### SZGEPlane-Ray-Inline-Make
 

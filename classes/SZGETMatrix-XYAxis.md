@@ -1,6 +1,11 @@
 
 # Class:	SZGETMatrix-XYAxis
 
+## Description:
+
+SZGETMatrix-XYAxis Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGETMatrix-XYAxis Class |
 
 ### SZGETMatrix-XYAxis-Make
 

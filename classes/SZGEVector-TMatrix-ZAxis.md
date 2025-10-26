@@ -1,6 +1,11 @@
 
 # Class:	SZGEVector-TMatrix-ZAxis
 
+## Description:
+
+SZGEVector-TMatrix-ZAxis Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEVector-TMatrix-ZAxis Class |
 
 ### SZGEVector-TMatrix-ZAxis-Make
 

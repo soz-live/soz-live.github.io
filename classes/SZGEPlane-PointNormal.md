@@ -1,6 +1,11 @@
 
 # Class:	SZGEPlane-PointNormal
 
+## Description:
+
+SZGEPlane-PointNormal Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPlane-PointNormal Class |
 
 ### SZGEPlane-PointNormal-Make
 

@@ -1,16 +1,20 @@
 
 # Class:	SZLPReals-Offsets
 
+## Description:
+
+SZLPReals-Offsets Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPReals](SZLPReals.html) |
-| Subclasses: |  |
+| Subclasses: | [SZLPReals-Offsets-CSV](SZLPReals-Offsets-CSV.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPReals-Offsets Class |
 
 ### SZLPReals-Offsets-Make
 

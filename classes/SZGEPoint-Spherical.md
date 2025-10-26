@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoint-Spherical
 
+## Description:
+
+SZGEPoint-Spherical Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPoint-Spherical Class |
 
 ### SZGEPoint-Spherical-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Tile-ObjectKey-Select
 
+## Description:
+
+ObjectKey Array
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | ObjectKey Array |
 
 ### DCLS-Tile-ObjectKey-Select-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	Structure
 
+## Description:
+
+Basic Structure
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [DCLS](DCLS.html) |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Basic Structure |
 
 
 ## Functions:

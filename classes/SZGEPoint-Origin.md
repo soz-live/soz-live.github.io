@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoint-Origin
 
+## Description:
+
+SZGEPoint-Origin Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPoint-Origin Class |
 
 ### SZGEPoint-Origin-Make
 

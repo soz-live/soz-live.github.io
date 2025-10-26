@@ -1,6 +1,11 @@
 
 # Class:	SZGEPattern3D-Spherical
 
+## Description:
+
+SZGEPattern3D-Spherical Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPattern3D-Spherical Class |
 
 ### SZGEPattern3D-Spherical-Make
 

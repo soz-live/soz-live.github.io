@@ -1,6 +1,11 @@
 
 # Class:	SZGEFaces-PointsToPoints
 
+## Description:
+
+SZGEFaces-PointsToPoints Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEFaces-PointsToPoints Class |
 
 ### SZGEFaces-PointsToPoints-Make
 
@@ -19,6 +23,7 @@
 | POINTS0 | [List:AcDbPoint](AcDbPoint.html) |  |
 | POINTS1 | [List:AcDbPoint](AcDbPoint.html) |  |
 | FLIP1 | [Boolean](Boolean.html) |  |
+| REVERSED | [Boolean](Boolean.html) |  |
 | --- | --- | --- |
 | Returns: | [SZGEFaces-PointsToPoints](SZGEFaces-PointsToPoints.html) |
 | Help: | Make a SZGEFaces-PointsToPoints |

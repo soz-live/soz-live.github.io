@@ -1,6 +1,11 @@
 
 # Class:	SZGEPlane-Member-End
 
+## Description:
+
+Member End Plane
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Member End Plane |
 
 ### SZGEPlane-Member-End-Make
 

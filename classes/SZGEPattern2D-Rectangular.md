@@ -1,6 +1,11 @@
 
 # Class:	SZGEPattern2D-Rectangular
 
+## Description:
+
+SZGEPattern2D-Rectangular Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPattern2D-Rectangular Class |
 
 ### SZGEPattern2D-Rectangular-Make
 

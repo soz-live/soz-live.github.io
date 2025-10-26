@@ -1,6 +1,11 @@
 
 # Class:	Enum-AcDbLineWeight
 
+## Description:
+
+AcDbLineWeight
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | AcDbLineWeight |
 
 ### Enum-AcDbLineWeight-Make
 

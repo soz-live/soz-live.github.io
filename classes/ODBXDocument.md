@@ -1,6 +1,11 @@
 
 # Class:	ODBXDocument
 
+## Description:
+
+ODBXDocument Object
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-odbx](/repos/soz-odbx.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | ODBXDocument Object |
 
 ### ODBXDocument-Make
 
@@ -34,7 +38,7 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | --- | --- | --- |
-| Returns: | [ODBXDocument](ODBXDocument.html) |
+| Returns: | [AcDbDocument](AcDbDocument.html) |
 | Help: | Active Document Method |
 
 ### ODBXDocument-Blocks
@@ -42,7 +46,7 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | --- | --- | --- |
-| Returns: | [ODBXBlocks](ODBXBlocks.html) |
+| Returns: | [AcDbBlocks](AcDbBlocks.html) |
 | Help: | Active Blocks Method |
 
 ### ODBXDocument-Close
@@ -58,7 +62,7 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | --- | --- | --- |
-| Returns: | [ODBXGroups](ODBXGroups.html) |
+| Returns: | [AcDbGroups](AcDbGroups.html) |
 | Help: | Active Groups Method |
 
 ### ODBXDocument-ModelSpace
@@ -99,6 +103,6 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | --- | --- | --- |
-| Returns: | [ODBXUCSs](ODBXUCSs.html) |
+| Returns: | [AcDbUCSs](AcDbUCSs.html) |
 | Help: | Active UCSs Method |
 

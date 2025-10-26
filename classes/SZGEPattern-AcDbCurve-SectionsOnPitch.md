@@ -1,6 +1,11 @@
 
 # Class:	SZGEPattern-AcDbCurve-SectionsOnPitch
 
+## Description:
+
+SZGEPattern-AcDbCurve-SectionsOnPitch Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPattern-AcDbCurve-SectionsOnPitch Class |
 
 ### SZGEPattern-AcDbCurve-SectionsOnPitch-Make
 

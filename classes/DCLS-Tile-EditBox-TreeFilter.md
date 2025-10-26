@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Tile-EditBox-TreeFilter
 
+## Description:
+
+DCL Filter
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | DCL Filter |
 
 ### DCLS-Tile-EditBox-TreeFilter-Make
 

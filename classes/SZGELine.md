@@ -1,6 +1,11 @@
 
 # Class:	SZGELine
 
+## Description:
+
+Line CLass
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [AcDbXline](AcDbXline.html), [AcDbRay](AcDbRay.html), [AcDbLine](AcDbLine.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Line CLass |
 
 ### SZGELine-Make
 

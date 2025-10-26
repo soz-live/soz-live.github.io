@@ -1,6 +1,11 @@
 
 # Class:	SZCEUCS-Curve-Start
 
+## Description:
+
+SZCEUCS-Curve-Start Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEUCS-Curve-Start Class |
 
 ### SZCEUCS-Curve-Start-Make
 

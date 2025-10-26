@@ -1,6 +1,11 @@
 
 # Class:	SZGE3dCurve-PlanarCurve
 
+## Description:
+
+SZGE3dCurve-PlanarCurve Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGE3dCurve-PlanarCurve Class |
 
 ### SZGE3dCurve-PlanarCurve-Make
 

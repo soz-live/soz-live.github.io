@@ -1,6 +1,11 @@
 
 # Class:	SZLPReals-Fibonacci
 
+## Description:
+
+Real Array using Fibonacci sequence
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-misc](/repos/soz-misc.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Real Array using Fibonacci sequence |
 
 ### SZLPReals-Fibonacci-Make
 

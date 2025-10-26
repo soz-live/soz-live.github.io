@@ -1,6 +1,11 @@
 
 # Class:	SZCEModelGroup-Solid-CubedOnCurve
 
+## Description:
+
+SZCEModelGroup-Solid-CubedOnCurve Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEModelGroup-Solid-CubedOnCurve Class |
 
 ### SZCEModelGroup-Solid-CubedOnCurve-Make
 

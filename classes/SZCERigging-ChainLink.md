@@ -1,5 +1,10 @@
 
-# Class:	SZCEModelDef-ChainLink
+# Class:	SZCERigging-ChainLink
+
+## Description:
+
+ChainLink Block
+
 
 | Fields | Values |
 | --------- | --------- |
@@ -10,15 +15,14 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | ChainLink Block |
 
-### SZCEModelDef-ChainLink-Make
+### SZCERigging-ChainLink-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LOOP | [SZGEShape-ChainLink](SZGEShape-ChainLink.html) |  |
 | --- | --- | --- |
-| Returns: | [SZCEModelDef-ChainLink](SZCEModelDef-ChainLink.html) |
+| Returns: | [SZCERigging-ChainLink](SZCERigging-ChainLink.html) |
 | Help: | Make ChainLink Block |
 
 

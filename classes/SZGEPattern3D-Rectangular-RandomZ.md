@@ -1,6 +1,11 @@
 
 # Class:	SZGEPattern3D-Rectangular-RandomZ
 
+## Description:
+
+SZGEPattern3D-Rectangular-RandomZ Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-random](/repos/soz-random.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPattern3D-Rectangular-RandomZ Class |
 
 ### SZGEPattern3D-Rectangular-RandomZ-Make
 

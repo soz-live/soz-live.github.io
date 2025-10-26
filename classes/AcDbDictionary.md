@@ -1,6 +1,11 @@
 
 # Class:	AcDbDictionary
 
+## Description:
+
+Base Dictionary Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Base Dictionary Class |
 
 
 ## Functions:

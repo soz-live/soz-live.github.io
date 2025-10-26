@@ -1,6 +1,11 @@
 
 # Class:	Point
 
+## Description:
+
+Point Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZGEPoint](SZGEPoint.html), [AcDbPoint](AcDbPoint.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Point Class |
 
 ### Point-Make
 

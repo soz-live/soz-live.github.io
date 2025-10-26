@@ -1,6 +1,11 @@
 
 # Class:	SZDODoc
 
+## Description:
+
+Doc Object
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Doc Object |
 
 
 ## Functions:

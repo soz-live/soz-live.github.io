@@ -1,6 +1,11 @@
 
 # Class:	Enum-AcDbAlignment
 
+## Description:
+
+Shape alignment value
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Shape alignment value |
 
 ### Enum-AcDbAlignment-Make
 

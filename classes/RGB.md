@@ -1,6 +1,11 @@
 
 # Class:	RGB
 
+## Description:
+
+Color Values
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPColor](SZLPColor.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Color Values |
 
 ### RGB-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-Connection-MemberCutBack
 
+## Description:
+
+A Structural MemberCutBack Connection
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | A Structural MemberCutBack Connection |
 
 ### SZCEStruct-Connection-MemberCutBack-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	SZLPMacro
 
+## Description:
+
+SZLPMacro Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-macro](/repos/soz-macro.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | SZLPMacro Class |
 
 
 ## Functions:

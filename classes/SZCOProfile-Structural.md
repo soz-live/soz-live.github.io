@@ -1,6 +1,11 @@
 
 # Class:	SZCOProfile-Structural
 
+## Description:
+
+Structural Profile
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Structural Profile |
 
 ### SZCOProfile-Structural-Make
 

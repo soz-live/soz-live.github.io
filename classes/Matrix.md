@@ -1,6 +1,11 @@
 
 # Class:	Matrix
 
+## Description:
+
+Matrix Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Matrix Class |
 
 
 ## Functions:

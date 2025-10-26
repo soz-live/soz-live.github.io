@@ -1,16 +1,20 @@
 
 # Class:	SZLPReals-DivideInto
 
+## Description:
+
+SZLPReals-DivideInto Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPReals](SZLPReals.html) |
-| Subclasses: |  |
+| Subclasses: | [SZLPReals-DivideInto-AcDbCurve](SZLPReals-DivideInto-AcDbCurve.html) |
 | Interfaces: | [Reals-DivideInto](Reals-DivideInto.html) |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPReals-DivideInto Class |
 
 ### SZLPReals-DivideInto-Make
 

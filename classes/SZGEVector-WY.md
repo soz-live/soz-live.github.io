@@ -1,6 +1,11 @@
 
 # Class:	SZGEVector-WY
 
+## Description:
+
+SZGEVector-WY Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEVector-WY Class |
 
 ### SZGEVector-WY-Make
 

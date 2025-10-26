@@ -1,6 +1,11 @@
 
 # Class:	SZCOColor-Current
 
+## Description:
+
+Current color
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Current color |
 
 ### SZCOColor-Current-Make
 

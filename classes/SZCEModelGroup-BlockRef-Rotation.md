@@ -1,16 +1,20 @@
 
 # Class:	SZCEModelGroup-BlockRef-Rotation
 
+## Description:
+
+SZCEModelGroup-BlockRef-Rotation Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEModelGroup-BlockRef](SZCEModelGroup-BlockRef.html) |
-| Subclasses: | [SZCEModelGroup-TwistedChain](SZCEModelGroup-TwistedChain.html) <br> [SZCEModelGroup-Chain](SZCEModelGroup-Chain.html) |
+| Subclasses: | [SZCERigging-TwistedChain](SZCERigging-TwistedChain.html) <br> [SZCERigging-Chain](SZCERigging-Chain.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEModelGroup-BlockRef-Rotation Class |
 
 ### SZCEModelGroup-BlockRef-Rotation-Make
 

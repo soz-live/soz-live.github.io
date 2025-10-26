@@ -1,6 +1,11 @@
 
 # Class:	SZGEShape-Slot
 
+## Description:
+
+SZGEShape-Slot Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEShape-Slot Class |
 
 ### SZGEShape-Slot-Make
 

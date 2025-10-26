@@ -1,6 +1,11 @@
 
 # Class:	DCLS-BaseTile
 
+## Description:
+
+DCL Tile Structure
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | DCL Tile Structure |
 
 
 ## Functions:

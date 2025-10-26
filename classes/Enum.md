@@ -1,16 +1,20 @@
 
 # Class:	Enum
 
+## Description:
+
+Enum Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Option](Option.html) |
-| Subclasses: | [Enum-Member-End](Enum-Member-End.html) <br> [Enum-SZCORegion-Loop](Enum-SZCORegion-Loop.html) <br> [Enum-AcDbAttributeMode](Enum-AcDbAttributeMode.html) <br> [Enum-AcDbLineWeight](Enum-AcDbLineWeight.html) <br> [Enum-AcDbMTextAttachment](Enum-AcDbMTextAttachment.html) <br> [Enum-AcDbTextAlignment](Enum-AcDbTextAlignment.html) <br> [Enum-AcDbAlignment](Enum-AcDbAlignment.html) <br> [Enum-AcDbExtend](Enum-AcDbExtend.html) <br> [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) <br> [Enum-AcDb3dSolidSlice](Enum-AcDb3dSolidSlice.html) <br> [Enum-AcDbLinearType](Enum-AcDbLinearType.html) <br> [Enum-AcDb3dPolylineType](Enum-AcDb3dPolylineType.html) <br> [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |
+| Subclasses: | [Enum-Member-End](Enum-Member-End.html) <br> [Enum-SZCECircle](Enum-SZCECircle.html) <br> [Enum-SZCORegion-Loop](Enum-SZCORegion-Loop.html) <br> [Enum-AcDbAttributeMode](Enum-AcDbAttributeMode.html) <br> [Enum-AcDbLineWeight](Enum-AcDbLineWeight.html) <br> [Enum-AcDbMTextAttachment](Enum-AcDbMTextAttachment.html) <br> [Enum-AcDbTextAlignment](Enum-AcDbTextAlignment.html) <br> [Enum-AcDbPolySolidAlignment](Enum-AcDbPolySolidAlignment.html) <br> [Enum-AcDbAlignment](Enum-AcDbAlignment.html) <br> [Enum-AcDbExtend](Enum-AcDbExtend.html) <br> [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) <br> [Enum-AcDb3dSolidSlice](Enum-AcDb3dSolidSlice.html) <br> [Enum-SZCELinearType](Enum-SZCELinearType.html) <br> [Enum-AcDb3dPolylineType](Enum-AcDb3dPolylineType.html) <br> [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Enum Class |
 
 
 ## Functions:

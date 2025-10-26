@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Tile-PopUp-ListMethods
 
+## Description:
+
+DCL Strings
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | DCL Strings |
 
 
 ## Functions:

@@ -1,6 +1,11 @@
 
 # Class:	File-SOZ
 
+## Description:
+
+File-SOZ Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | File-SOZ Class |
 
 ### File-SOZ-Make
 

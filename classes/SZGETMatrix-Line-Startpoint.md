@@ -1,6 +1,11 @@
 
 # Class:	SZGETMatrix-Line-StartPoint
 
+## Description:
+
+SZGETMatrix-Line-StartPoint Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGETMatrix-Line-StartPoint Class |
 
 ### SZGETMatrix-Line-StartPoint-Make
 

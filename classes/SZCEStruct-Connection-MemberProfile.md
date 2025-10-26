@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-Connection-MemberProfile
 
+## Description:
+
+A Structural MemberProfile Connection
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | A Structural MemberProfile Connection |
 
 ### SZCEStruct-Connection-MemberProfile-Make
 

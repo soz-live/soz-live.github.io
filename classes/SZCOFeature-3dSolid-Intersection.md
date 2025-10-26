@@ -1,6 +1,11 @@
 
 # Class:	SZCOFeature-3dSolid-Intersection
 
+## Description:
+
+Intersection Solid Feature
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Intersection Solid Feature |
 
 ### SZCOFeature-3dSolid-Intersection-Make
 

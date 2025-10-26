@@ -1,6 +1,8 @@
 ---
 layout: default
 description: Sub Repo, with structural functionality included.
+type: Private
+status: Beta
 ---
 
 # soz-structural
@@ -9,7 +11,7 @@ description: Sub Repo, with structural functionality included.
 
 The **soz-structural** repo adds structural functionality to **SOZ**.
 
-With this repo it is possible to:
+With this repo it is possible to create Strucural Elements such as Footings, Columns, Beams and Braces.
 ## Class Hierarchy
 
 - [SZOBBase](/classes/SZOBBase.html)
@@ -21,25 +23,6 @@ With this repo it is possible to:
             - [Enum](/classes/Enum.html)
               - [Enum-Member-End](/classes/Enum-Member-End.html)
   - [SZOBObject](/classes/SZOBObject.html)
-    - [SZGEObject](/classes/SZGEObject.html)
-      - [SZGECurve](/classes/SZGECurve.html)
-        - [SZGE3dCurve](/classes/SZGE3dCurve.html)
-          - [SZGELine](/classes/SZGELine.html)
-            - [SZGELine-Brace](/classes/SZGELine-Brace.html)
-      - [SZGEPlane](/classes/SZGEPlane.html)
-        - [SZGEPlane-PointNormal](/classes/SZGEPlane-PointNormal.html)
-          - [SZGEPlane-Footing](/classes/SZGEPlane-Footing.html)
-          - [SZGEPlane-Member-End](/classes/SZGEPlane-Member-End.html)
-          - [SZGEPlane-Member-MemberSide](/classes/SZGEPlane-Member-MemberSide.html)
-      - [SZGEPoint](/classes/SZGEPoint.html)
-        - [SZGEPoint-Member-End](/classes/SZGEPoint-Member-End.html)
-      - [SZGETMatrix](/classes/SZGETMatrix.html)
-        - [SZGETMatrix-Member-EndPlate](/classes/SZGETMatrix-Member-EndPlate.html)
-        - [SZGETMatrix-MemberToMember-EndPlate](/classes/SZGETMatrix-MemberToMember-EndPlate.html)
-        - [SZGETMatrix-StructuralSection](/classes/SZGETMatrix-StructuralSection.html)
-      - [SZGEVector](/classes/SZGEVector.html)
-        - [SZGEVector-Member-End](/classes/SZGEVector-Member-End.html)
-        - [SZGEVector-Member-MemberSide](/classes/SZGEVector-Member-MemberSide.html)
     - [SZOBCAD](/classes/SZOBCAD.html)
       - [AcDbObject](/classes/AcDbObject.html)
         - [AcDbTableRecord](/classes/AcDbTableRecord.html)
@@ -87,6 +70,26 @@ With this repo it is possible to:
         - [SZCOProfile](/classes/SZCOProfile.html)
           - [SZCOProfile-Loop](/classes/SZCOProfile-Loop.html)
             - [SZCOProfile-Structural](/classes/SZCOProfile-Structural.html)
+    - [SZOBValue](/classes/SZOBValue.html)
+      - [SZGEObject](/classes/SZGEObject.html)
+        - [SZGECurve](/classes/SZGECurve.html)
+          - [SZGE3dCurve](/classes/SZGE3dCurve.html)
+            - [SZGELine](/classes/SZGELine.html)
+              - [SZGELine-Brace](/classes/SZGELine-Brace.html)
+        - [SZGEPlane](/classes/SZGEPlane.html)
+          - [SZGEPlane-PointNormal](/classes/SZGEPlane-PointNormal.html)
+            - [SZGEPlane-Footing](/classes/SZGEPlane-Footing.html)
+            - [SZGEPlane-Member-End](/classes/SZGEPlane-Member-End.html)
+            - [SZGEPlane-Member-MemberSide](/classes/SZGEPlane-Member-MemberSide.html)
+        - [SZGEPoint](/classes/SZGEPoint.html)
+          - [SZGEPoint-Member-End](/classes/SZGEPoint-Member-End.html)
+        - [SZGETMatrix](/classes/SZGETMatrix.html)
+          - [SZGETMatrix-Member-EndPlate](/classes/SZGETMatrix-Member-EndPlate.html)
+          - [SZGETMatrix-MemberToMember-EndPlate](/classes/SZGETMatrix-MemberToMember-EndPlate.html)
+          - [SZGETMatrix-StructuralSection](/classes/SZGETMatrix-StructuralSection.html)
+        - [SZGEVector](/classes/SZGEVector.html)
+          - [SZGEVector-Member-End](/classes/SZGEVector-Member-End.html)
+          - [SZGEVector-Member-MemberSide](/classes/SZGEVector-Member-MemberSide.html)
   - [SZOBScript](/classes/SZOBScript.html)
     - [SZCOScript](/classes/SZCOScript.html)
       - [SZCEScript](/classes/SZCEScript.html)
@@ -99,6 +102,6 @@ With this repo it is possible to:
             - [SZCEScript-Columns-FootingToOpenEnd](/classes/SZCEScript-Columns-FootingToOpenEnd.html)
           - [SZCEScript-Members-MemberToMember-OnPlanes](/classes/SZCEScript-Members-MemberToMember-OnPlanes.html)
 
-Version:  1.25.2
+Version:  1.26.3
 <br>
-Date: 20250715.1648
+Date: 20251026.1955

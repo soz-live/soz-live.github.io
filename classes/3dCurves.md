@@ -1,6 +1,11 @@
 
 # Class:	3dCurves
 
+## Description:
+
+3dCurves Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | 3dCurves Class |
 
 
 ## Functions:

@@ -1,6 +1,11 @@
 
 # Class:	SZGEPlane-ItemofPlanes
 
+## Description:
+
+SZGEPlane-ItemofPlanes Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPlane-ItemofPlanes Class |
 
 ### SZGEPlane-ItemofPlanes-Make
 

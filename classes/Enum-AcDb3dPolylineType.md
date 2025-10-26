@@ -1,6 +1,11 @@
 
 # Class:	Enum-AcDb3dPolylineType
 
+## Description:
+
+AcDb3dPolylineType
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPEnum-AcDb3dPolylineType](SZLPEnum-AcDb3dPolylineType.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | AcDb3dPolylineType |
 
 ### Enum-AcDb3dPolylineType-Make
 

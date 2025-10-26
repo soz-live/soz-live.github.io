@@ -1,6 +1,11 @@
 
 # Class:	SZCEPoints-OnCurve
 
+## Description:
+
+Points on Curve
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Points on Curve |
 
 
 ## Functions:

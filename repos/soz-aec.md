@@ -1,6 +1,8 @@
 ---
 layout: default
 description: Sub Repo with AEC functionality included.
+type: Private
+status: Beta
 ---
 
 # soz-aec
@@ -47,6 +49,6 @@ workflows.
           - [SZCESections](/classes/SZCESections.html)
             - [SZCESections-OnCurve-Chainage-Exported](/classes/SZCESections-OnCurve-Chainage-Exported.html)
 
-Version:  1.25.2
+Version:  1.26.3
 <br>
-Date: 20250715.1648
+Date: 20251026.1955

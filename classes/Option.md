@@ -1,6 +1,11 @@
 
 # Class:	Option
 
+## Description:
+
+Base Option Value
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPOption](SZLPOption.html) |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Base Option Value |
 
 
 ## Functions:

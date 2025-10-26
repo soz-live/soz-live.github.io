@@ -1,6 +1,11 @@
 
 # Class:	Real-Random
 
+## Description:
+
+Real Random Number between 0 and 1
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-random](/repos/soz-random.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Real Random Number between 0 and 1 |
 
 ### Real-Random-Make
 

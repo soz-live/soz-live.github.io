@@ -1,6 +1,11 @@
 
 # Class:	SZOBHistory-TimeStamp-Now
 
+## Description:
+
+Now
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-history](/repos/soz-history.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Now |
 
 ### SZOBHistory-TimeStamp-Now-Make
 

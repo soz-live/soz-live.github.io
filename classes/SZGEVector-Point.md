@@ -1,6 +1,11 @@
 
 # Class:	SZGEVector-Point
 
+## Description:
+
+SZGEVector-Point Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEVector-Point Class |
 
 ### SZGEVector-Point-Make
 

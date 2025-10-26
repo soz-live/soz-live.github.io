@@ -1,6 +1,11 @@
 
 # Class:	SZLPReal-PI
 
+## Description:
+
+SZLPReal-PI Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPReal-PI Class |
 
 ### SZLPReal-PI-Make
 

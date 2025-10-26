@@ -1,6 +1,11 @@
 
 # Class:	Point-Spherical
 
+## Description:
+
+Spherical Point
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Spherical Point |
 
 ### Point-Spherical-Make
 

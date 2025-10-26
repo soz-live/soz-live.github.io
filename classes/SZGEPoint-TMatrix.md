@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoint-TMatrix
 
+## Description:
+
+SZGEPoint-TMatrix Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPoint-TMatrix Class |
 
 ### SZGEPoint-TMatrix-Make
 

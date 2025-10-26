@@ -1,6 +1,11 @@
 
 # Class:	SZCOFeature-Assy-WorldRef
 
+## Description:
+
+WorldRef Reference Feature
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | WorldRef Reference Feature |
 
 ### SZCOFeature-Assy-WorldRef-Make
 

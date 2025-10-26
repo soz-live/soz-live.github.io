@@ -1,6 +1,11 @@
 
 # Class:	SZCOFeatures
 
+## Description:
+
+List of Features
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | List of Features |
 
 
 ## Functions:

@@ -1,6 +1,11 @@
 
 # Class:	SZCORigging-Triangle
 
+## Description:
+
+Rigging Triangle Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Rigging Triangle Class |
 
 ### SZCORigging-Triangle-Make
 

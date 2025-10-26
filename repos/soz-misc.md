@@ -1,13 +1,15 @@
 ---
 layout: default
 description: Sub Repo, with additional Misc. functionality included.
+type: Private
+status: Beta
 ---
 
 # soz-misc
 
 ## Introduction
 
-This repo includes additional misc. functionality for **soz-live**.
+This repo includes additional misc. functionality for **soz-live** such as Fractals and other curves.  
 
 ## Class Hierarchy
 
@@ -24,20 +26,6 @@ This repo includes additional misc. functionality for **soz-live**.
             - [Reals](/classes/Reals.html)
               - [Reals-Fibonacci](/classes/Reals-Fibonacci.html)
   - [SZOBObject](/classes/SZOBObject.html)
-    - [SZGEObject](/classes/SZGEObject.html)
-      - [SZGECurve](/classes/SZGECurve.html)
-        - [SZGE3dCurve](/classes/SZGE3dCurve.html)
-          - [SZGE3dCurve-OnTMatrix](/classes/SZGE3dCurve-OnTMatrix.html)
-            - [SZGE3dCurve-Fibonacci](/classes/SZGE3dCurve-Fibonacci.html)
-              - [SZGE3dCurve-2dFibonacci](/classes/SZGE3dCurve-2dFibonacci.html)
-              - [SZGE3dCurve-3dFibonacci](/classes/SZGE3dCurve-3dFibonacci.html)
-    - [SZLPObject](/classes/SZLPObject.html)
-      - [SZLPLogical](/classes/SZLPLogical.html)
-        - [SZLP-T](/classes/SZLP-T.html)
-          - [SZLPList](/classes/SZLPList.html)
-            - [SZLPArray](/classes/SZLPArray.html)
-              - [SZLPReals](/classes/SZLPReals.html)
-                - [SZLPReals-Fibonacci](/classes/SZLPReals-Fibonacci.html)
     - [SZOBCAD](/classes/SZOBCAD.html)
       - [AcDbObject](/classes/AcDbObject.html)
         - [AcDbEntity](/classes/AcDbEntity.html)
@@ -53,11 +41,26 @@ This repo includes additional misc. functionality for **soz-live**.
                 - [SZCELines-Fractal-HPattern](/classes/SZCELines-Fractal-HPattern.html)
                 - [SZCELines-Fractal-Tree](/classes/SZCELines-Fractal-Tree.html)
                 - [SZCELines-Fractal-Triangular](/classes/SZCELines-Fractal-Triangular.html)
+    - [SZOBValue](/classes/SZOBValue.html)
+      - [SZGEObject](/classes/SZGEObject.html)
+        - [SZGECurve](/classes/SZGECurve.html)
+          - [SZGE3dCurve](/classes/SZGE3dCurve.html)
+            - [SZGE3dCurve-OnTMatrix](/classes/SZGE3dCurve-OnTMatrix.html)
+              - [SZGE3dCurve-Fibonacci](/classes/SZGE3dCurve-Fibonacci.html)
+                - [SZGE3dCurve-2dFibonacci](/classes/SZGE3dCurve-2dFibonacci.html)
+                - [SZGE3dCurve-3dFibonacci](/classes/SZGE3dCurve-3dFibonacci.html)
+      - [SZLPObject](/classes/SZLPObject.html)
+        - [SZLPLogical](/classes/SZLPLogical.html)
+          - [SZLP-T](/classes/SZLP-T.html)
+            - [SZLPList](/classes/SZLPList.html)
+              - [SZLPArray](/classes/SZLPArray.html)
+                - [SZLPReals](/classes/SZLPReals.html)
+                  - [SZLPReals-Fibonacci](/classes/SZLPReals-Fibonacci.html)
   - [SZOBScript](/classes/SZOBScript.html)
     - [SZCOScript](/classes/SZCOScript.html)
       - [SZCEScript](/classes/SZCEScript.html)
         - [SZCEScript-NestedHypocycloid](/classes/SZCEScript-NestedHypocycloid.html)
 
-Version:  1.25.2
+Version:  1.26.3
 <br>
-Date: 20250715.1648
+Date: 20251026.1955

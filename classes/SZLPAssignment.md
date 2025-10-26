@@ -1,6 +1,11 @@
 
 # Class:	SZLPAssignment
 
+## Description:
+
+Base Assignment Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Base Assignment Class |
 
 
 ## Functions:

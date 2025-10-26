@@ -1,6 +1,11 @@
 
 # Class:	Boolean
 
+## Description:
+
+Boolean values - True and False
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPBoolean](SZLPBoolean.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Boolean values - True and False |
 
 ### Boolean-Make
 

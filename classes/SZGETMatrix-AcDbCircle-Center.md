@@ -1,6 +1,11 @@
 
 # Class:	SZGETMatrix-AcDbCircle-Center
 
+## Description:
+
+SZGETMatrix-AcDbCircle-Center Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGETMatrix-AcDbCircle-Center Class |
 
 ### SZGETMatrix-AcDbCircle-Center-Make
 

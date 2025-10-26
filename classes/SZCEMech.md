@@ -1,6 +1,11 @@
 
 # Class:	SZCEMech
 
+## Description:
+
+Basic Mechanical Element
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-aec](/repos/soz-aec.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Basic Mechanical Element |
 
 
 ## Functions:

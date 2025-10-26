@@ -1,6 +1,11 @@
 
 # Class:	Real
 
+## Description:
+
+Real Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPNumber](SZLPNumber.html), [SZLPReal](SZLPReal.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Real Class |
 
 ### Real-Make
 

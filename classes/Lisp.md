@@ -1,6 +1,11 @@
 
 # Class:	Lisp
 
+## Description:
+
+Abstract Base Lisp Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Abstract Base Lisp Class |
 
 
 ## Functions:

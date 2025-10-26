@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-KBrace
 
+## Description:
+
+KBrace Structural Member
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | KBrace Structural Member |
 
 ### SZCEStruct-KBrace-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	SZCOSolid-Cube
 
+## Description:
+
+SZCOSolid-Cube Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCOSolid-Cube Class |
 
 ### SZCOSolid-Cube-Make
 

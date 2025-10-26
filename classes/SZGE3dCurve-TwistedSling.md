@@ -1,6 +1,11 @@
 
 # Class:	SZGE3dCurve-TwistedSling
 
+## Description:
+
+Twisted Sling Curve
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-slings](/repos/soz-slings.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Twisted Sling Curve |
 
 ### SZGE3dCurve-TwistedSling-Make
 

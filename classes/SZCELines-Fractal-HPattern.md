@@ -1,6 +1,11 @@
 
 # Class:	SZCELines-Fractal-HPattern
 
+## Description:
+
+SZCELines-Fractal-HPattern Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-misc](/repos/soz-misc.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCELines-Fractal-HPattern Class |
 
 ### SZCELines-Fractal-HPattern-Make
 

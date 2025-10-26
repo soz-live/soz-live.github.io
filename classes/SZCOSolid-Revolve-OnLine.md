@@ -1,6 +1,11 @@
 
 # Class:	SZCOSolid-Revolve-OnLine
 
+## Description:
+
+SZCOSolid-Revolve-OnLine Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCOSolid-Revolve-OnLine Class |
 
 ### SZCOSolid-Revolve-OnLine-Make
 

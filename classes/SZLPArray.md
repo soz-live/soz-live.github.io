@@ -1,6 +1,11 @@
 
 # Class:	SZLPArray
 
+## Description:
+
+Base Array Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZGEObjects](SZGEObjects.html) |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Base Array Class |
 
 
 ## Functions:

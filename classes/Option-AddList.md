@@ -1,6 +1,11 @@
 
 # Class:	Option-AddList
 
+## Description:
+
+AddList Options
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | AddList Options |
 
 ### Option-AddList-Make
 

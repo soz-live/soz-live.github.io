@@ -1,6 +1,11 @@
 
 # Class:	SZGETMatrix-Scale
 
+## Description:
+
+SZGETMatrix-Scale Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGETMatrix-Scale Class |
 
 ### SZGETMatrix-Scale-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	Key
 
+## Description:
+
+Key
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPKey](SZLPKey.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Key |
 
 ### Key-Make
 

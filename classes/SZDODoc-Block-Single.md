@@ -1,6 +1,11 @@
 
 # Class:	SZDODoc-Block-Single
 
+## Description:
+
+Doc Block Object
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Doc Block Object |
 
 ### SZDODoc-Block-Single-Make
 

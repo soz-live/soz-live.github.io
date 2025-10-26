@@ -1,6 +1,11 @@
 
 # Class:	SZCEPlanes-Offsets
 
+## Description:
+
+SZCEPlanes-Offsets Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEPlanes-Offsets Class |
 
 ### SZCEPlanes-Offsets-Make
 

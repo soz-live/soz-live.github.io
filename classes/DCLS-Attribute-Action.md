@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Attribute-Action
 
+## Description:
+
+DCL Action Attribute
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | DCL Action Attribute |
 
 ### DCLS-Attribute-Action-Make
 

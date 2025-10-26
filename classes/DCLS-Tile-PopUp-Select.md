@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Tile-PopUp-Select
 
+## Description:
+
+DCL Strings
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | DCL Strings |
 
 ### DCLS-Tile-PopUp-Select-Make
 

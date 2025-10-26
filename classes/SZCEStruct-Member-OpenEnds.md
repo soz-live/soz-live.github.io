@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-Member-OpenEnds
 
+## Description:
+
+OpenEnds Linear Structural Member
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | OpenEnds Linear Structural Member |
 
 ### SZCEStruct-Member-OpenEnds-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	SZGETMatrix-Curve-AtPoint
 
+## Description:
+
+SZGETMatrix-Curve-AtPoint Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGETMatrix-Curve-AtPoint Class |
 
 ### SZGETMatrix-Curve-AtPoint-Make
 

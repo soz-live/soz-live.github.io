@@ -1,6 +1,11 @@
 
 # Class:	SZCEGrid-Circular
 
+## Description:
+
+SZCEGrid-Circular Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEGrid-Circular Class |
 
 ### SZCEGrid-Circular-Make
 

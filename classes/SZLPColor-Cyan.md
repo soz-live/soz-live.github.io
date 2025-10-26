@@ -1,6 +1,11 @@
 
 # Class:	SZLPColor-Cyan
 
+## Description:
+
+SZLPColor-Cyan Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPColor-Cyan Class |
 
 ### SZLPColor-Cyan-Make
 

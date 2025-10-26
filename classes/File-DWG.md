@@ -1,6 +1,11 @@
 
 # Class:	File-DWG
 
+## Description:
+
+DWG File
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | DWG File |
 
 ### File-DWG-Make
 

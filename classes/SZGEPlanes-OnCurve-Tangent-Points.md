@@ -1,6 +1,11 @@
 
 # Class:	SZGEPlanes-OnCurve-Tangent-Points
 
+## Description:
+
+SZGEPlanes-OnCurve-Tangent-Points Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPlanes-OnCurve-Tangent-Points Class |
 
 ### SZGEPlanes-OnCurve-Tangent-Points-Make
 

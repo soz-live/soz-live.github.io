@@ -1,6 +1,11 @@
 
 # Class:	SZCOProfile
 
+## Description:
+
+Combined 2D Region used during modelling
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Combined 2D Region used during modelling |
 
 ### SZCOProfile-Make
 

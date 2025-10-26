@@ -1,6 +1,11 @@
 
 # Class:	SZCOFeature-3dSolid-Union
 
+## Description:
+
+Union Solid Feature
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Union Solid Feature |
 
 ### SZCOFeature-3dSolid-Union-Make
 

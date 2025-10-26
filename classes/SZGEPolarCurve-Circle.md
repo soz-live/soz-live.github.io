@@ -1,6 +1,11 @@
 
 # Class:	SZGEPolarCurve-Circle
 
+## Description:
+
+Circle
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Circle |
 
 ### SZGEPolarCurve-Circle-Make
 

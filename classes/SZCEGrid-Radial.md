@@ -1,6 +1,11 @@
 
 # Class:	SZCEGrid-Radial
 
+## Description:
+
+SZCEGrid-Radial Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEGrid-Radial Class |
 
 ### SZCEGrid-Radial-Make
 

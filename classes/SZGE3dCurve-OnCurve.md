@@ -1,6 +1,11 @@
 
 # Class:	SZGE3dCurve-OnCurve
 
+## Description:
+
+SZGE3dCurve-OnCurve Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | SZGE3dCurve-OnCurve Class |
 
 
 ## Functions:

@@ -1,6 +1,11 @@
 
 # Class:	SZCOSolid-Cylinder-OnLine
 
+## Description:
+
+SZCOSolid-Cylinder-OnLine Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCOSolid-Cylinder-OnLine Class |
 
 ### SZCOSolid-Cylinder-OnLine-Make
 

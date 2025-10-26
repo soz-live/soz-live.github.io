@@ -1,6 +1,11 @@
 
 # Class:	Reals-AlternateSpacing
 
+## Description:
+
+Reals-AlternateSpacing Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPReals-AlternateSpacing](SZLPReals-AlternateSpacing.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Reals-AlternateSpacing Class |
 
 ### Reals-AlternateSpacing-Make
 

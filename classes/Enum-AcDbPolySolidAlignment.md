@@ -1,5 +1,10 @@
 
-# Class:	Enum-AcDbLinearType
+# Class:	Enum-AcDbPolySolidAlignment
+
+## Description:
+
+PolySolid alignment value
+
 
 | Fields | Values |
 | --------- | --------- |
@@ -7,28 +12,27 @@
 | Superclass: | [Enum](Enum.html) |
 | Subclasses: |  |
 | Interfaces: |  |
-| Interfaced: | [SZLPEnum-AcDbLinearType](SZLPEnum-AcDbLinearType.html) |
+| Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | AcDbLinearType of XLine, Ray, Line |
 
-### Enum-AcDbLinearType-Make
+### Enum-AcDbPolySolidAlignment-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| VALUE | [Enum-AcDbLinearType](Enum-AcDbLinearType.html) |  |
+| VALUE | [Enum-AcDbPolySolidAlignment](Enum-AcDbPolySolidAlignment.html) |  |
 | --- | --- | --- |
-| Returns: | [Enum-AcDbLinearType](Enum-AcDbLinearType.html) |
-| Help: | Enum-AcDbLinearType |
+| Returns: | [Enum-AcDbPolySolidAlignment](Enum-AcDbPolySolidAlignment.html) |
+| Help: | PolySolid  AcDbAlignment |
 
 
 ## Options
 
 | Names | Values |
 | --------- | --------- |
-| Xline | 0 |
-| Ray | 1 |
-| Line | 2 |
+| Right | 7 |
+| Center | 8 |
+| Left | 9 |
 
 ## Functions:
 

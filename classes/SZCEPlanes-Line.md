@@ -1,6 +1,11 @@
 
 # Class:	SZCEPlanes-Line
 
+## Description:
+
+SZCEPlanes-Line Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEPlanes-Line Class |
 
 ### SZCEPlanes-Line-Make
 

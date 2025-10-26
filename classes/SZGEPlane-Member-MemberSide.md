@@ -1,6 +1,11 @@
 
 # Class:	SZGEPlane-Member-MemberSide
 
+## Description:
+
+Side of Member Plane
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Side of Member Plane |
 
 ### SZGEPlane-Member-MemberSide-Make
 

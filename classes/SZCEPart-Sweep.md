@@ -1,16 +1,20 @@
 
 # Class:	SZCEPart-Sweep
 
+## Description:
+
+SZCEPart-Sweep Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEPart](SZCEPart.html) |
-| Subclasses: |  |
+| Subclasses: | [SZCEPart-PolySolid](SZCEPart-PolySolid.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEPart-Sweep Class |
 
 ### SZCEPart-Sweep-Make
 

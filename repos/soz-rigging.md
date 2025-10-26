@@ -1,6 +1,8 @@
 ---
 layout: default
 description: Sub Repo, with rigging specific functionality included.
+type: Private
+status: Beta
 ---
 
 # soz-rigging
@@ -13,18 +15,12 @@ This repo provides crane rigging functionality for **soz-live**.
 
 - [SZOBBase](/classes/SZOBBase.html)
   - [SZOBObject](/classes/SZOBObject.html)
-    - [SZGEObject](/classes/SZGEObject.html)
-      - [SZGECurve](/classes/SZGECurve.html)
-        - [SZGE2dCurve](/classes/SZGE2dCurve.html)
-          - [SZGELoop](/classes/SZGELoop.html)
-            - [SZGEShape](/classes/SZGEShape.html)
-              - [SZGEShape-Shackle-Eye](/classes/SZGEShape-Shackle-Eye.html)
     - [SZOBCAD](/classes/SZOBCAD.html)
       - [AcDbObject](/classes/AcDbObject.html)
         - [AcDbTableRecord](/classes/AcDbTableRecord.html)
           - [AcDbBlock](/classes/AcDbBlock.html)
             - [SZCEModelDef](/classes/SZCEModelDef.html)
-              - [SZCEModelDef-ChainLink](/classes/SZCEModelDef-ChainLink.html)
+              - [SZCERigging-ChainLink](/classes/SZCERigging-ChainLink.html)
                 - [SZCERigging-Link](/classes/SZCERigging-Link.html)
               - [SZCERigging-Shackle](/classes/SZCERigging-Shackle.html)
                 - [SZCERigging-Shackle-Bow](/classes/SZCERigging-Shackle-Bow.html)
@@ -38,9 +34,9 @@ This repo provides crane rigging functionality for **soz-live**.
             - [SZCORigging-Arrgt-2xL-SB-2x2xL](/classes/SZCORigging-Arrgt-2xL-SB-2x2xL.html)
             - [SZCORigging-Arrgt-4xL](/classes/SZCORigging-Arrgt-4xL.html)
           - [SZCORigging-Object](/classes/SZCORigging-Object.html)
-            - [SZCORigging-Assy](/classes/SZCORigging-Assy.html)
-              - [SZCORigging-Leg](/classes/SZCORigging-Leg.html)
             - [SZCORigging-Item](/classes/SZCORigging-Item.html)
+              - [SZCORigging-Assy](/classes/SZCORigging-Assy.html)
+                - [SZCORigging-ChainAssy](/classes/SZCORigging-ChainAssy.html)
               - [SZCORigging-Bar](/classes/SZCORigging-Bar.html)
                 - [SZCORigging-LiftingBeam](/classes/SZCORigging-LiftingBeam.html)
                   - [SZCORigging-Triangle](/classes/SZCORigging-Triangle.html)
@@ -51,7 +47,15 @@ This repo provides crane rigging functionality for **soz-live**.
               - [SZCORigging-Sling](/classes/SZCORigging-Sling.html)
                 - [SZCORigging-Chain](/classes/SZCORigging-Chain.html)
                 - [SZCORigging-RoundSling](/classes/SZCORigging-RoundSling.html)
+            - [SZCORigging-Leg](/classes/SZCORigging-Leg.html)
+    - [SZOBValue](/classes/SZOBValue.html)
+      - [SZGEObject](/classes/SZGEObject.html)
+        - [SZGECurve](/classes/SZGECurve.html)
+          - [SZGE2dCurve](/classes/SZGE2dCurve.html)
+            - [SZGELoop](/classes/SZGELoop.html)
+              - [SZGEShape](/classes/SZGEShape.html)
+                - [SZGEShape-Shackle-Eye](/classes/SZGEShape-Shackle-Eye.html)
 
-Version:  1.25.2
+Version:  1.26.3
 <br>
-Date: 20250715.1648
+Date: 20251026.1955

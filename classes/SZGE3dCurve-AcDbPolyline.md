@@ -1,6 +1,11 @@
 
 # Class:	SZGE3dCurve-AcDbPolyline
 
+## Description:
+
+SZGE3dCurve-AcDbPolyline Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGE3dCurve-AcDbPolyline Class |
 
 ### SZGE3dCurve-AcDbPolyline-Make
 

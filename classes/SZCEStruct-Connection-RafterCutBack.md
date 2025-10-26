@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-Connection-RafterCutBack
 
+## Description:
+
+A Structural RafterCutBack Connection
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | A Structural RafterCutBack Connection |
 
 ### SZCEStruct-Connection-RafterCutBack-Make
 

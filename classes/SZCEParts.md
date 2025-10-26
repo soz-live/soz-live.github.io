@@ -1,6 +1,11 @@
 
 # Class:	SZCEParts
 
+## Description:
+
+List of Parts
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | List of Parts |
 
 
 ## Functions:

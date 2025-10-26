@@ -1,6 +1,11 @@
 
 # Class:	SZGEPlanes-Levels
 
+## Description:
+
+SZGEPlanes-Levels Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPlanes-Levels Class |
 
 ### SZGEPlanes-Levels-Make
 

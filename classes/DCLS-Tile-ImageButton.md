@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Tile-ImageButton
 
+## Description:
+
+DCL Button
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | DCL Button |
 
 ### DCLS-Tile-ImageButton-Make
 

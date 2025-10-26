@@ -1,6 +1,11 @@
 
 # Class:	SZDOObject-IDE
 
+## Description:
+
+IDE for DevOps
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | IDE for DevOps |
 
 ### SZDOObject-IDE-Make
 

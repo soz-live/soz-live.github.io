@@ -1,6 +1,11 @@
 
 # Class:	SZLPInteger-Code
 
+## Description:
+
+Base Integer Function Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Base Integer Function Class |
 
 
 ## Functions:

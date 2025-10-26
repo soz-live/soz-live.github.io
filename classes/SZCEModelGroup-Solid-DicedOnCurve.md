@@ -1,6 +1,11 @@
 
 # Class:	SZCEModelGroup-Solid-DicedOnCurve
 
+## Description:
+
+SZCEModelGroup-Solid-DicedOnCurve Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEModelGroup-Solid-DicedOnCurve Class |
 
 ### SZCEModelGroup-Solid-DicedOnCurve-Make
 

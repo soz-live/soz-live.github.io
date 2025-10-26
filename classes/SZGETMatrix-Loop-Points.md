@@ -1,5 +1,10 @@
 
-# Class:	SZGETMatrix-Shape-Points
+# Class:	SZGETMatrix-Loop-Points
+
+## Description:
+
+SZGETMatrix-Loop-Points Class
+
 
 | Fields | Values |
 | --------- | --------- |
@@ -10,16 +15,15 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGETMatrix-Shape-Points Class |
 
-### SZGETMatrix-Shape-Points-Make
+### SZGETMatrix-Loop-Points-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LOOP | [SZGELoop-Points](SZGELoop-Points.html) |  |
 | --- | --- | --- |
-| Returns: | [SZGETMatrix-Shape-Points](SZGETMatrix-Shape-Points.html) |
-| Help: | Make a SZGETMatrix-Shape-Points |
+| Returns: | [SZGETMatrix-Loop-Points](SZGETMatrix-Loop-Points.html) |
+| Help: | Make a SZGETMatrix-Loop-Points |
 
 
 ## Functions:

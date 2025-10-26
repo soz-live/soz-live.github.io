@@ -1,6 +1,11 @@
 
 # Class:	SZGE3dCurve-HelicalCurve
 
+## Description:
+
+SZGE3dCurve-HelicalCurve Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGE3dCurve-HelicalCurve Class |
 
 ### SZGE3dCurve-HelicalCurve-Make
 

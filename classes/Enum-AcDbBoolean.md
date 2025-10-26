@@ -1,6 +1,11 @@
 
 # Class:	Enum-AcDbBoolean
 
+## Description:
+
+AcDbBoolean value of Union, Subtract or Intersect.
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPEnum-AcDbBoolean](SZLPEnum-AcDbBoolean.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | AcDbBoolean value of Union, Subtract or Intersect. |
 
 ### Enum-AcDbBoolean-Make
 

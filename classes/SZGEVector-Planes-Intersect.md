@@ -1,6 +1,11 @@
 
 # Class:	SZGEVector-Planes-Intersect
 
+## Description:
+
+SZGEVector-Planes-Intersect Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEVector-Planes-Intersect Class |
 
 ### SZGEVector-Planes-Intersect-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	SZLPRange
 
+## Description:
+
+SZLPRange Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPRange Class |
 
 ### SZLPRange-Make
 

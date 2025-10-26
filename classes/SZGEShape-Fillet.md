@@ -1,6 +1,11 @@
 
 # Class:	SZGEShape-Fillet
 
+## Description:
+
+Fillet Shape
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Fillet Shape |
 
 ### SZGEShape-Fillet-Make
 

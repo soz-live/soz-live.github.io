@@ -1,16 +1,20 @@
 
 # Class:	SZGEObject
 
+## Description:
+
+SZGEObject
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZOBObject](SZOBObject.html) |
+| Superclass: | [SZOBValue](SZOBValue.html) |
 | Subclasses: | [SZGECurve](SZGECurve.html) <br> [SZGETMatrix](SZGETMatrix.html) <br> [SZGEPlane](SZGEPlane.html) <br> [SZGEPoint](SZGEPoint.html) <br> [SZGEVector](SZGEVector.html) |
 | Interfaces: | [SZLPAtom](SZLPAtom.html) |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | SZGEObject |
 
 
 ## Functions:

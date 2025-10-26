@@ -1,6 +1,11 @@
 
 # Class:	SZGEPlane-PlaneOffset
 
+## Description:
+
+SZGEPlane-PlaneOffset Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPlane-PlaneOffset Class |
 
 ### SZGEPlane-PlaneOffset-Make
 

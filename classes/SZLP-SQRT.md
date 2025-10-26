@@ -1,6 +1,11 @@
 
 # Class:	SZLP-SQRT
 
+## Description:
+
+SZLP-SQRT Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLP-SQRT Class |
 
 ### SZLP-SQRT-Make
 

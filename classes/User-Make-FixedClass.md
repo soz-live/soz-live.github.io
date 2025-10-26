@@ -1,6 +1,11 @@
 
 # Class:	User-Make-FixedClass
 
+## Description:
+
+User Make-FixedClass Structure
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | User Make-FixedClass Structure |
 
 ### User-Make-FixedClass-Make
 

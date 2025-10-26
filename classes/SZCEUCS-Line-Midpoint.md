@@ -1,6 +1,11 @@
 
 # Class:	SZCEUCS-Line-MidPoint
 
+## Description:
+
+SZCEUCS-Line-MidPoint Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEUCS-Line-MidPoint Class |
 
 ### SZCEUCS-Line-MidPoint-Make
 

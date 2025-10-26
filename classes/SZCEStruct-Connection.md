@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-Connection
 
+## Description:
+
+Basic Structural Connection
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Basic Structural Connection |
 
 
 ## Functions:

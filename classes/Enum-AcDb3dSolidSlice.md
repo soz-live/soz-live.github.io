@@ -1,6 +1,11 @@
 
 # Class:	Enum-AcDb3dSolidSlice
 
+## Description:
+
+AcDb3dSolidSlice value - Below or Above
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | AcDb3dSolidSlice value - Below or Above |
 
 ### Enum-AcDb3dSolidSlice-Make
 

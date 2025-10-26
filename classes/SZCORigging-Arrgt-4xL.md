@@ -1,6 +1,11 @@
 
 # Class:	SZCORigging-Arrgt-4xL
 
+## Description:
+
+Rigging 4xL Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Rigging 4xL Class |
 
 ### SZCORigging-Arrgt-4xL-Make
 

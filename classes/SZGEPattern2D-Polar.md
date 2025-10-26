@@ -1,6 +1,11 @@
 
 # Class:	SZGEPattern2D-Polar
 
+## Description:
+
+SZGEPattern2D-Polar Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPattern2D-Polar Class |
 
 ### SZGEPattern2D-Polar-Make
 

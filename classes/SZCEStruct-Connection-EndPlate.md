@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-Connection-EndPlate
 
+## Description:
+
+A Structural EndPlate Connection
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | A Structural EndPlate Connection |
 
 ### SZCEStruct-Connection-EndPlate-Make
 

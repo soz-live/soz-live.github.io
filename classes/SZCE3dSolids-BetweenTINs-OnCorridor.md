@@ -1,6 +1,11 @@
 
 # Class:	SZCE3dSolids-BetweenTINs-OnCorridor
 
+## Description:
+
+SZCE3dSolids-BetweenTINs-OnCorridor Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-bsys](/repos/soz-bsys.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCE3dSolids-BetweenTINs-OnCorridor Class |
 
 ### SZCE3dSolids-BetweenTINs-OnCorridor-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-Brace
 
+## Description:
+
+Brace Structural Members
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Brace Structural Members |
 
 
 ## Functions:

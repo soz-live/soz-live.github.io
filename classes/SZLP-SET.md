@@ -1,6 +1,11 @@
 
 # Class:	SZLP-SET
 
+## Description:
+
+SET Function
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SET Function |
 
 ### SZLP-SET-Make
 

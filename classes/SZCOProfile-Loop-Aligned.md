@@ -1,6 +1,11 @@
 
 # Class:	SZCOProfile-Loop-Aligned
 
+## Description:
+
+SZCOProfile-Loop-Aligned Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCOProfile-Loop-Aligned Class |
 
 ### SZCOProfile-Loop-Aligned-Make
 

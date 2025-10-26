@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-Column-FootingToOpenEnd
 
+## Description:
+
+FootingToOpenEnd Structural Column
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | FootingToOpenEnd Structural Column |
 
 ### SZCEStruct-Column-FootingToOpenEnd-Make
 

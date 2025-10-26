@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Cluster-BoxedRow
 
+## Description:
+
+DCL Row Structure
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | DCL Row Structure |
 
 ### DCLS-Cluster-BoxedRow-Make
 

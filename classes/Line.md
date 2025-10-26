@@ -1,6 +1,11 @@
 
 # Class:	Line
 
+## Description:
+
+Line Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZGELine](SZGELine.html), [AcDbXline](AcDbXline.html), [AcDbRay](AcDbRay.html), [AcDbLine](AcDbLine.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Line Class |
 
 ### Line-Make
 

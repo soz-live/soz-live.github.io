@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoint-Line-Ratio
 
+## Description:
+
+SZGEPoint-Line-Ratio Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPoint-Line-Ratio Class |
 
 ### SZGEPoint-Line-Ratio-Make
 

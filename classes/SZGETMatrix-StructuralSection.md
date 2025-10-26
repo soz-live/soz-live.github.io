@@ -1,6 +1,11 @@
 
 # Class:	SZGETMatrix-StructuralSection
 
+## Description:
+
+Strutural Profile Matrix
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Strutural Profile Matrix |
 
 ### SZGETMatrix-StructuralSection-Make
 

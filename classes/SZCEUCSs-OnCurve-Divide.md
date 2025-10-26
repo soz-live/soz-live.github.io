@@ -1,6 +1,11 @@
 
 # Class:	SZCEUCSs-OnCurve-Divide
 
+## Description:
+
+SZCEUCSs-OnCurve-Divide Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEUCSs-OnCurve-Divide Class |
 
 ### SZCEUCSs-OnCurve-Divide-Make
 

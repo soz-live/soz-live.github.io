@@ -1,6 +1,11 @@
 
 # Class:	SZGELine-LineToPlane-Vertical
 
+## Description:
+
+SZGELine-LineToPlane-Vertical Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGELine-LineToPlane-Vertical Class |
 
 ### SZGELine-LineToPlane-Vertical-Make
 

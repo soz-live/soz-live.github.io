@@ -1,6 +1,11 @@
 
 # Class:	SZCOSolid-Extrusion-Tapered
 
+## Description:
+
+SZCOSolid-Extrusion-Tapered Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCOSolid-Extrusion-Tapered Class |
 
 ### SZCOSolid-Extrusion-Tapered-Make
 

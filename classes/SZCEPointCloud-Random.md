@@ -1,6 +1,11 @@
 
 # Class:	SZCEPointCloud-Random
 
+## Description:
+
+PointCloud Random
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-random](/repos/soz-random.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | PointCloud Random |
 
 ### SZCEPointCloud-Random-Make
 

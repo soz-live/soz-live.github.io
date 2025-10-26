@@ -1,6 +1,8 @@
 ---
 layout: default
 description: Sub Repo, with BricsCAD specific functionality included.
+type: Private
+status: Beta
 ---
 
 # soz-bsys
@@ -9,7 +11,7 @@ description: Sub Repo, with BricsCAD specific functionality included.
 
 The **soz-bsys** repo adds BricsCAD specific functionality to **SOZ**.
 
-With this repo it is possible to:
+With this repo it is possible to work with BricsCAD Civil objects such as TINs, Corridors and Aligments.
 
 ## Class Hierarchy
 
@@ -47,6 +49,6 @@ With this repo it is possible to:
             - [SZCE3dSolids-BetweenTINs-OnCorridor](/classes/SZCE3dSolids-BetweenTINs-OnCorridor.html)
             - [SZCE3dSolids-OnCorridor](/classes/SZCE3dSolids-OnCorridor.html)
 
-Version:  1.25.2
+Version:  1.26.3
 <br>
-Date: 20250715.1648
+Date: 20251026.1955

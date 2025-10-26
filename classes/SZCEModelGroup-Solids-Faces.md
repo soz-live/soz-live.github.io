@@ -1,6 +1,11 @@
 
 # Class:	SZCEModelGroup-Solids-Faces
 
+## Description:
+
+SZCEModelGroup-Solids-Faces Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEModelGroup-Solids-Faces Class |
 
 ### SZCEModelGroup-Solids-Faces-Make
 

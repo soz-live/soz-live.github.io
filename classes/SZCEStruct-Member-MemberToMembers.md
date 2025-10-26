@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-Member-MemberToMembers
 
+## Description:
+
+MemberToMembers Linear Structural Member
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | MemberToMembers Linear Structural Member |
 
 ### SZCEStruct-Member-MemberToMembers-Make
 

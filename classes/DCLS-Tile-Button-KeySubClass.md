@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Tile-Button-KeySubClass
 
+## Description:
+
+DCL KeySubClass Button
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | DCL KeySubClass Button |
 
 ### DCLS-Tile-Button-KeySubClass-Make
 

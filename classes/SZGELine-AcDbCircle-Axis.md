@@ -1,6 +1,11 @@
 
 # Class:	SZGELine-AcDbCircle-Axis
 
+## Description:
+
+SZGELine-AcDbCircle-Axis Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGELine-AcDbCircle-Axis Class |
 
 ### SZGELine-AcDbCircle-Axis-Make
 

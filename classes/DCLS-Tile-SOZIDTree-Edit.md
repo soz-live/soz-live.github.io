@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Tile-SOZIDTree-Edit
 
+## Description:
+
+DCL SOZIDsTree-Edit
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | DCL SOZIDsTree-Edit |
 
 ### DCLS-Tile-SOZIDTree-Edit-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	SZLPNumber-Random
 
+## Description:
+
+Random Number Object
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-random](/repos/soz-random.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Random Number Object |
 
 ### SZLPNumber-Random-Make
 

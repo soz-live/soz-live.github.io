@@ -1,6 +1,11 @@
 
 # Class:	SZCEElement
 
+## Description:
+
+A Modelling Element
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | A Modelling Element |
 
 
 ## Functions:

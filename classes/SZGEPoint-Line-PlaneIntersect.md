@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoint-Line-PlaneIntersect
 
+## Description:
+
+SZGEPoint-Line-PlaneIntersect Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPoint-Line-PlaneIntersect Class |
 
 ### SZGEPoint-Line-PlaneIntersect-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	SZLP-LISTP
 
+## Description:
+
+SZLP-LISTP Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLP-LISTP Class |
 
 ### SZLP-LISTP-Make
 

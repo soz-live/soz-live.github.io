@@ -1,6 +1,11 @@
 
 # Class:	Reals
 
+## Description:
+
+List of Reals
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPReals](SZLPReals.html) |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | List of Reals |
 
 
 ## Functions:

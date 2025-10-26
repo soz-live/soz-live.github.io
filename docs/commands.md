@@ -49,7 +49,7 @@ To access all of the Commands in a dialog box - type **Y** at the command line.
     - H-Select
   - Import
     - I-Array
-    - I-CSV
+    - I-Class
     - I-SOZ
   - Live
     - L-Add
@@ -156,14 +156,19 @@ To access all of the Commands in a dialog box - type **Y** at the command line.
     - O-Delete
     - O-Reset
     - O-Set
+  - Reference
+    - R-Edit
+    - R-Make
+    - R-Select
   - Update
     - U-All
+    - U-Live
     - U-Select
   - Visual
     - V-MatchEntity
     - V-ResetEntities
     - V-SetEntities
 
-Version:  1.25.2
+Version:  1.26.3
 <br>
-Date: 20250715.1648
+Date: 20251026.1955

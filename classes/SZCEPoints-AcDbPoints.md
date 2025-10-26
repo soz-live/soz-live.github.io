@@ -1,6 +1,11 @@
 
 # Class:	SZCEPoints-AcDbPoints
 
+## Description:
+
+SZCEPoints-AcDbPoints Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEPoints-AcDbPoints Class |
 
 ### SZCEPoints-AcDbPoints-Make
 

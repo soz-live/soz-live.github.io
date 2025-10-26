@@ -1,6 +1,11 @@
 
 # Class:	SZCORigging-Chain
 
+## Description:
+
+Rigging ChainSling Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Rigging ChainSling Class |
 
 ### SZCORigging-Chain-Make
 
@@ -20,10 +24,10 @@
 | LOR | [Real](Real.html) |  |
 | WOR | [Real](Real.html) |  |
 | WLL | [Real](Real.html) |  |
-| LINK | [SZCEModelDef-ChainLink](SZCEModelDef-ChainLink.html) |  |
+| LINK | [SZCERigging-ChainLink](SZCERigging-ChainLink.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCORigging-Chain](SZCORigging-Chain.html) |
-| Help: | Chain Sling |
+| Help: | Length of Chain |
 
 
 ## Functions:

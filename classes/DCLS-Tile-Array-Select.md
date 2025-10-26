@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Tile-Array-Select
 
+## Description:
+
+DCL Array
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | DCL Array |
 
 
 ## Functions:

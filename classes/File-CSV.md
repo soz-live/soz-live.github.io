@@ -1,6 +1,11 @@
 
 # Class:	File-CSV
 
+## Description:
+
+File-CSV Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | File-CSV Class |
 
 ### File-CSV-Make
 

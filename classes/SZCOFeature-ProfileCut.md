@@ -1,6 +1,11 @@
 
 # Class:	SZCOFeature-ProfileCut
 
+## Description:
+
+Profile Cut Feature
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Profile Cut Feature |
 
 ### SZCOFeature-ProfileCut-Make
 

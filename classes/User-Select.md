@@ -1,6 +1,11 @@
 
 # Class:	User-Select
 
+## Description:
+
+User Select Structure
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | User Select Structure |
 
 ### User-Select-Make
 

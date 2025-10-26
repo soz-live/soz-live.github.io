@@ -1,6 +1,11 @@
 
 # Class:	Atom
 
+## Description:
+
+Atom Type Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPAtom](SZLPAtom.html), [SZCOObject](SZCOObject.html) |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Atom Type Class |
 
 
 ## Functions:

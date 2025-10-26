@@ -1,25 +1,29 @@
 
-# Class:	SZLPEnum-AcDbLinearType
+# Class:	SZLPEnum-SZCELinearType
+
+## Description:
+
+SZLPEnum-SZCELinearType Class
+
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPEnum](SZLPEnum.html) |
 | Subclasses: |  |
-| Interfaces: | [Enum-AcDbLinearType](Enum-AcDbLinearType.html) |
+| Interfaces: | [Enum-SZCELinearType](Enum-SZCELinearType.html) |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPEnum-AcDbLinearType Class |
 
-### SZLPEnum-AcDbLinearType-Make
+### SZLPEnum-SZCELinearType-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| VALUE | [Enum-AcDbLinearType](Enum-AcDbLinearType.html) |  |
+| VALUE | [Enum-SZCELinearType](Enum-SZCELinearType.html) |  |
 | --- | --- | --- |
-| Returns: | [SZLPEnum-AcDbLinearType](SZLPEnum-AcDbLinearType.html) |
-| Help: | Make a SZLPEnum-AcDbLinearType |
+| Returns: | [SZLPEnum-SZCELinearType](SZLPEnum-SZCELinearType.html) |
+| Help: | Make a SZLPEnum-SZCELinearType |
 
 
 ## Functions:

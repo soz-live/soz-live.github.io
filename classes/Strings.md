@@ -1,16 +1,20 @@
 
 # Class:	Strings
 
+## Description:
+
+Strings Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Array](Array.html) |
 | Subclasses: | [Keys](Keys.html) |
 | Interfaces: | [List:String](List:String.html) |
-| Interfaced: |  |
+| Interfaced: | [Documentation](Documentation.html) |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Strings Class |
 
 
 ## Functions:

@@ -1,6 +1,11 @@
 
 # Class:	SZGEPlane
 
+## Description:
+
+SZGEPlane Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZCEPlane](SZCEPlane.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPlane Class |
 
 ### SZGEPlane-Make
 

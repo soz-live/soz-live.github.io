@@ -1,6 +1,8 @@
 ---
 layout: default
-description: Sub Repo, with Random functionality included.
+description: Sub Repo, with Random functionality for SOZ included.
+type: Private
+status: Beta
 ---
 
 # soz-random
@@ -26,23 +28,6 @@ With this repo it is possible to create:
               - [Real-Random](/classes/Real-Random.html)
               - [Real-Random-Range](/classes/Real-Random-Range.html)
   - [SZOBObject](/classes/SZOBObject.html)
-    - [SZDOObject](/classes/SZDOObject.html)
-    - [SZGEObjects](/classes/SZGEObjects.html)
-      - [SZGEMatrices](/classes/SZGEMatrices.html)
-        - [SZGETMatrices](/classes/SZGETMatrices.html)
-          - [SZGEPattern](/classes/SZGEPattern.html)
-            - [SZGEPattern3D](/classes/SZGEPattern3D.html)
-              - [SZGEPattern3D-Rectangular-RandomZ](/classes/SZGEPattern3D-Rectangular-RandomZ.html)
-    - [SZLPObject](/classes/SZLPObject.html)
-      - [SZLPLogical](/classes/SZLPLogical.html)
-        - [SZLP-T](/classes/SZLP-T.html)
-          - [SZLPAtom](/classes/SZLPAtom.html)
-            - [SZLPNumber](/classes/SZLPNumber.html)
-              - [SZLPNumber-Random](/classes/SZLPNumber-Random.html)
-              - [SZLPNumber-Random-Range](/classes/SZLPNumber-Random-Range.html)
-              - [SZLPReal](/classes/SZLPReal.html)
-                - [SZLPInteger](/classes/SZLPInteger.html)
-                  - [SZLPInteger-Random](/classes/SZLPInteger-Random.html)
     - [SZOBCAD](/classes/SZOBCAD.html)
       - [AcDbObject](/classes/AcDbObject.html)
         - [AcDbEntity](/classes/AcDbEntity.html)
@@ -61,7 +46,24 @@ With this repo it is possible to create:
             - [SZCOFeatures-Part](/classes/SZCOFeatures-Part.html)
               - [SZCOFeatures-3dSolid](/classes/SZCOFeatures-3dSolid.html)
                 - [SZCOFeatures-Random-Spheres](/classes/SZCOFeatures-Random-Spheres.html)
+    - [SZOBValue](/classes/SZOBValue.html)
+      - [SZGEObjects](/classes/SZGEObjects.html)
+        - [SZGEMatrices](/classes/SZGEMatrices.html)
+          - [SZGETMatrices](/classes/SZGETMatrices.html)
+            - [SZGEPattern](/classes/SZGEPattern.html)
+              - [SZGEPattern3D](/classes/SZGEPattern3D.html)
+                - [SZGEPattern3D-Rectangular-RandomZ](/classes/SZGEPattern3D-Rectangular-RandomZ.html)
+      - [SZLPObject](/classes/SZLPObject.html)
+        - [SZLPLogical](/classes/SZLPLogical.html)
+          - [SZLP-T](/classes/SZLP-T.html)
+            - [SZLPAtom](/classes/SZLPAtom.html)
+              - [SZLPNumber](/classes/SZLPNumber.html)
+                - [SZLPNumber-Random](/classes/SZLPNumber-Random.html)
+                - [SZLPNumber-Random-Range](/classes/SZLPNumber-Random-Range.html)
+                - [SZLPReal](/classes/SZLPReal.html)
+                  - [SZLPInteger](/classes/SZLPInteger.html)
+                    - [SZLPInteger-Random](/classes/SZLPInteger-Random.html)
 
-Version:  1.25.2
+Version:  1.26.3
 <br>
-Date: 20250715.1648
+Date: 20251026.1955

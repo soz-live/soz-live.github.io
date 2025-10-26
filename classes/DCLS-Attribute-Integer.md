@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Attribute-Integer
 
+## Description:
+
+DCL IntegerAttribute
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | DCL IntegerAttribute |
 
 ### DCLS-Attribute-Integer-Make
 

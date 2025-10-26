@@ -1,6 +1,11 @@
 
 # Class:	SZCOSolid-Loft-CrossSections
 
+## Description:
+
+Loft using CrossSections
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Loft using CrossSections |
 
 ### SZCOSolid-Loft-CrossSections-Make
 

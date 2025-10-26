@@ -1,6 +1,11 @@
 
 # Class:	SZOBHistory-RecordObject-Now
 
+## Description:
+
+RecordObject Now Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-history](/repos/soz-history.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | RecordObject Now Class |
 
 ### SZOBHistory-RecordObject-Now-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	SZGEShape-ChainLink
 
+## Description:
+
+ChainLink shape
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-slings](/repos/soz-slings.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | ChainLink shape |
 
 ### SZGEShape-ChainLink-Make
 

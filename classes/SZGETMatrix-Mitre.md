@@ -1,6 +1,11 @@
 
 # Class:	SZGETMatrix-Mitre
 
+## Description:
+
+SZGETMatrix-Mitre Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGETMatrix-Mitre Class |
 
 ### SZGETMatrix-Mitre-Make
 

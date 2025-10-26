@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Attribute-Tabs
 
+## Description:
+
+DCL tabs Attribute
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | DCL tabs Attribute |
 
 ### DCLS-Attribute-Tabs-Make
 

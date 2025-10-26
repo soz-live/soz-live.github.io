@@ -1,6 +1,11 @@
 
 # Class:	SZCOFeature-Extrusion-CutOut
 
+## Description:
+
+Face Cut Out Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-aec](/repos/soz-aec.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Face Cut Out Class |
 
 ### SZCOFeature-Extrusion-CutOut-Make
 

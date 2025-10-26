@@ -1,6 +1,11 @@
 
 # Class:	SZCORigging-SpreaderBar
 
+## Description:
+
+Rigging Spreader Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Rigging Spreader Class |
 
 ### SZCORigging-SpreaderBar-Make
 

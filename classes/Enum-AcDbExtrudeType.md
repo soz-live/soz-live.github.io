@@ -1,6 +1,11 @@
 
 # Class:	Enum-AcDbExtrudeType
 
+## Description:
+
+AcDbExtrudeType value - Poitive, Negative or Midplane.
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPEnum-AcDbExtrudeType](SZLPEnum-AcDbExtrudeType.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | AcDbExtrudeType value - Poitive, Negative or Midplane. |
 
 ### Enum-AcDbExtrudeType-Make
 

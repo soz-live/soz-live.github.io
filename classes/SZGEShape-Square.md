@@ -1,6 +1,11 @@
 
 # Class:	SZGEShape-Square
 
+## Description:
+
+SZGEShape-Square Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEShape-Square Class |
 
 ### SZGEShape-Square-Make
 

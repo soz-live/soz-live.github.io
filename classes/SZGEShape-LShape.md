@@ -1,6 +1,11 @@
 
 # Class:	SZGEShape-LShape
 
+## Description:
+
+SZGEShape-LShape Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | SZGEShape-LShape Class |
 
 
 ## Functions:

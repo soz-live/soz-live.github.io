@@ -1,6 +1,11 @@
 
 # Class:	SZLPRange-Theta
 
+## Description:
+
+SZLPRange-Theta Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPRange-Theta Class |
 
 ### SZLPRange-Theta-Make
 

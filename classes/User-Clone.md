@@ -1,6 +1,11 @@
 
 # Class:	User-Clone
 
+## Description:
+
+User Copy Structure
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | User Copy Structure |
 
 ### User-Clone-Make
 

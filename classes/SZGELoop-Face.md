@@ -1,6 +1,11 @@
 
 # Class:	SZGELoop-Face
 
+## Description:
+
+Face Loop Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Face Loop Class |
 
 ### SZGELoop-Face-Make
 
@@ -20,6 +24,7 @@
 | VECTOR | [SZGEVector](SZGEVector.html) |  |
 | LOWER | [SZCEPlane](SZCEPlane.html) |  |
 | UPPER | [SZCEPlane](SZCEPlane.html) |  |
+| REVERSED | [Boolean](Boolean.html) |  |
 | --- | --- | --- |
 | Returns: | [SZGELoop-Face](SZGELoop-Face.html) |
 | Help: | Make a SZGELoop-Face |

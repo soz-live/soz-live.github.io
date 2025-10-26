@@ -1,6 +1,11 @@
 
 # Class:	Rad
 
+## Description:
+
+Rad Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Rad Class |
 
 ### Rad-Make
 

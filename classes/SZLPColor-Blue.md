@@ -1,6 +1,11 @@
 
 # Class:	SZLPColor-Blue
 
+## Description:
+
+SZLPColor-Blue Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPColor-Blue Class |
 
 ### SZLPColor-Blue-Make
 

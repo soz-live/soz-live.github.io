@@ -1,6 +1,11 @@
 
 # Class:	SZCEPart-FilletedSweep-Round
 
+## Description:
+
+Filleted Rebar
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Filleted Rebar |
 
 ### SZCEPart-FilletedSweep-Round-Make
 

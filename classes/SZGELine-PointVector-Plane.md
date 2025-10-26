@@ -1,6 +1,11 @@
 
 # Class:	SZGELine-PointVector-Plane
 
+## Description:
+
+SZGELine-PointVector-Plane Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGELine-PointVector-Plane Class |
 
 ### SZGELine-PointVector-Plane-Make
 

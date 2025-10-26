@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoint-AcDbArc-Center
 
+## Description:
+
+SZGEPoint-AcDbArc-Center Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPoint-AcDbArc-Center Class |
 
 ### SZGEPoint-AcDbArc-Center-Make
 

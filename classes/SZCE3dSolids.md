@@ -1,6 +1,11 @@
 
 # Class:	SZCE3dSolids
 
+## Description:
+
+SZCE3dSolids Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-bsys](/repos/soz-bsys.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | SZCE3dSolids Class |
 
 
 ## Functions:

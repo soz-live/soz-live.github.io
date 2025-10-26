@@ -1,6 +1,11 @@
 
 # Class:	SZGELoop-Facade
 
+## Description:
+
+SZGELoop-Facade Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGELoop-Facade Class |
 
 ### SZGELoop-Facade-Make
 
@@ -18,6 +22,7 @@
 | --------- | --------- | --------- |
 | FACE | [SZCEPlane](SZCEPlane.html) |  |
 | PLANES | [List:SZCEPlane](SZCEPlane.html) |  |
+| REVERSED | [Boolean](Boolean.html) |  |
 | --- | --- | --- |
 | Returns: | [SZGELoop-Facade](SZGELoop-Facade.html) |
 | Help: | Make a SZGELoop-Facade |

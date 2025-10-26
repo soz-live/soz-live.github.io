@@ -1,6 +1,11 @@
 
 # Class:	Line-Segment
 
+## Description:
+
+Line-Segment Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Line-Segment Class |
 
 ### Line-Segment-Make
 

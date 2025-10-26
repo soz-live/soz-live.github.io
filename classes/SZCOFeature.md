@@ -1,6 +1,11 @@
 
 # Class:	SZCOFeature
 
+## Description:
+
+Additional classes to work with features inside ModelDefs
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Additional classes to work with features inside ModelDefs |
 
 
 ## Functions:

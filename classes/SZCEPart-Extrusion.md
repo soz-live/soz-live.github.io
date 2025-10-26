@@ -1,6 +1,11 @@
 
 # Class:	SZCEPart-Extrusion
 
+## Description:
+
+SZCEPart-Extrusion Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEPart-Extrusion Class |
 
 ### SZCEPart-Extrusion-Make
 

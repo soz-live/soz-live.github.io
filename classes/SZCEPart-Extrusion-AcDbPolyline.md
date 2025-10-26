@@ -1,6 +1,11 @@
 
 # Class:	SZCEPart-Extrusion-AcDbPolyline
 
+## Description:
+
+SZCEPart-Extrusion-AcDbPolyline Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEPart-Extrusion-AcDbPolyline Class |
 
 ### SZCEPart-Extrusion-AcDbPolyline-Make
 

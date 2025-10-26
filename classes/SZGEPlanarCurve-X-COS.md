@@ -1,6 +1,11 @@
 
 # Class:	SZGEPlanarCurve-X-COS
 
+## Description:
+
+curve using x and cos
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | curve using x and cos |
 
 ### SZGEPlanarCurve-X-COS-Make
 

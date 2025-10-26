@@ -1,5 +1,10 @@
 
-# Class:	SZCEModelGroup-TwistedChain
+# Class:	SZCERigging-TwistedChain
+
+## Description:
+
+TwistedChain Model
+
 
 | Fields | Values |
 | --------- | --------- |
@@ -10,17 +15,16 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | TwistedChain Model |
 
-### SZCEModelGroup-TwistedChain-Make
+### SZCERigging-TwistedChain-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| LINK | [SZCEModel-TwistedLink](SZCEModel-TwistedLink.html) |  |
+| LINK | [SZCERigging-TwistedLink](SZCERigging-TwistedLink.html) |  |
 | STARTANG | [Deg](Deg.html) |  |
 | --- | --- | --- |
-| Returns: | [SZCEModelGroup-TwistedChain](SZCEModelGroup-TwistedChain.html) |
+| Returns: | [SZCERigging-TwistedChain](SZCERigging-TwistedChain.html) |
 | Help: | Make TwistedChain Model |
 
 

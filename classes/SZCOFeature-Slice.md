@@ -1,6 +1,11 @@
 
 # Class:	SZCOFeature-Slice
 
+## Description:
+
+SZCOFeature-Slice Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | SZCOFeature-Slice Class |
 
 
 ## Functions:

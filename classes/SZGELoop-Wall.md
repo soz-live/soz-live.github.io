@@ -1,6 +1,11 @@
 
 # Class:	SZGELoop-Wall
 
+## Description:
+
+SZGELoop-Wall Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGELoop-Wall Class |
 
 ### SZGELoop-Wall-Make
 
@@ -19,6 +23,7 @@
 | LINE | [AcDbLine](AcDbLine.html) |  |
 | LOWER | [SZCEPlane](SZCEPlane.html) |  |
 | UPPER | [SZCEPlane](SZCEPlane.html) |  |
+| REVERSED | [Boolean](Boolean.html) |  |
 | --- | --- | --- |
 | Returns: | [SZGELoop-Wall](SZGELoop-Wall.html) |
 | Help: | Make a SZGELoop-Wall |

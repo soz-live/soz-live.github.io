@@ -1,6 +1,11 @@
 
 # Class:	SZLPBoolean
 
+## Description:
+
+SZLPBoolean Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPBoolean Class |
 
 ### SZLPBoolean-Make
 

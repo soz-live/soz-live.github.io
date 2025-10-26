@@ -1,6 +1,11 @@
 
 # Class:	SZLPAtom
 
+## Description:
+
+Base Atom Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZGEObject](SZGEObject.html) |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Base Atom Class |
 
 
 ## Functions:

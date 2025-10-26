@@ -1,6 +1,11 @@
 
 # Class:	SZCOSolid-Sphere
 
+## Description:
+
+SZCOSolid-Sphere Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCOSolid-Sphere Class |
 
 ### SZCOSolid-Sphere-Make
 

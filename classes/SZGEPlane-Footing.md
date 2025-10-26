@@ -1,6 +1,11 @@
 
 # Class:	SZGEPlane-Footing
 
+## Description:
+
+Footing Plane
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Footing Plane |
 
 ### SZGEPlane-Footing-Make
 

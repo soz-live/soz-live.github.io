@@ -1,6 +1,11 @@
 
 # Class:	SZGEShape-ColdAngle
 
+## Description:
+
+SZGEShape-ColdAngle Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEShape-ColdAngle Class |
 
 ### SZGEShape-ColdAngle-Make
 

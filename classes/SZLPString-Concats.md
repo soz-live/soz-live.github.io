@@ -1,6 +1,11 @@
 
 # Class:	SZLPString-Concats
 
+## Description:
+
+SZLPString-Concats Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPString-Concats Class |
 
 ### SZLPString-Concats-Make
 

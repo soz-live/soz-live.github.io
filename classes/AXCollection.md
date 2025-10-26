@@ -1,6 +1,11 @@
 
 # Class:	AXCollection
 
+## Description:
+
+A Collection Object
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | A Collection Object |
 
 
 ## Functions:

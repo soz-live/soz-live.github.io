@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-PortalFrame
 
+## Description:
+
+PortalFrame Structural Members
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | PortalFrame Structural Members |
 
 ### SZCEStruct-PortalFrame-Make
 

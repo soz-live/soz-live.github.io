@@ -1,6 +1,11 @@
 
 # Class:	SZCEPart-Faces
 
+## Description:
+
+SZCEPart-Faces Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEPart-Faces Class |
 
 ### SZCEPart-Faces-Make
 

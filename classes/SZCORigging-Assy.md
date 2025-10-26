@@ -1,16 +1,20 @@
 
 # Class:	SZCORigging-Assy
 
+## Description:
+
+Rigging Assembly Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
-| Superclass: | [SZCORigging-Object](SZCORigging-Object.html) |
-| Subclasses: | [SZCORigging-Leg](SZCORigging-Leg.html) |
+| Superclass: | [SZCORigging-Item](SZCORigging-Item.html) |
+| Subclasses: | [SZCORigging-ChainAssy](SZCORigging-ChainAssy.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Rigging Assembly Class |
 
 
 ## Functions:

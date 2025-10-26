@@ -1,5 +1,10 @@
 
-# Class:	SZCEModelGroup-Chain
+# Class:	SZCERigging-Chain
+
+## Description:
+
+Chain Model
+
 
 | Fields | Values |
 | --------- | --------- |
@@ -10,17 +15,16 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Chain Model |
 
-### SZCEModelGroup-Chain-Make
+### SZCERigging-Chain-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| LINK | [SZCEModelDef-ChainLink](SZCEModelDef-ChainLink.html) |  |
+| LINK | [SZCERigging-ChainLink](SZCERigging-ChainLink.html) |  |
 | STARTANG | [Deg](Deg.html) |  |
 | --- | --- | --- |
-| Returns: | [SZCEModelGroup-Chain](SZCEModelGroup-Chain.html) |
+| Returns: | [SZCERigging-Chain](SZCERigging-Chain.html) |
 | Help: | Make Chain Model |
 
 

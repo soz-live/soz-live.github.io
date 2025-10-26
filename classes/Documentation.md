@@ -1,16 +1,20 @@
 
 # Class:	Documentation
 
+## Description:
+
+Documentation
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [String](String.html) |
 | Subclasses: |  |
-| Interfaces: |  |
+| Interfaces: | [Strings](Strings.html) |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Documentation |
 
 ### Documentation-Make
 

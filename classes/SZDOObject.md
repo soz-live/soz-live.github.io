@@ -1,16 +1,20 @@
 
 # Class:	SZDOObject
 
+## Description:
+
+DevOps
+
+
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-random](/repos/soz-random.html) |
+| Repo: |  |
 | Superclass: | [SZOBObject](SZOBObject.html) |
 | Subclasses: | [SZDOMap](SZDOMap.html) <br> [SZDOObject-IDE](SZDOObject-IDE.html) <br> [SZDODoc](SZDODoc.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | DevOps |
 
 
 ## Functions:

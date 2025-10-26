@@ -1,6 +1,11 @@
 
 # Class:	SZGELine-Brace
 
+## Description:
+
+Brace Line
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Brace Line |
 
 ### SZGELine-Brace-Make
 

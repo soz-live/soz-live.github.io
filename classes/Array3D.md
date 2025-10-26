@@ -1,6 +1,11 @@
 
 # Class:	Array3D
 
+## Description:
+
+Basic 3D Array
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Basic 3D Array |
 
 
 ## Functions:

@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoint-OnCurve-EndPoint
 
+## Description:
+
+SZGEPoint-OnCurve-EndPoint Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPoint-OnCurve-EndPoint Class |
 
 ### SZGEPoint-OnCurve-EndPoint-Make
 

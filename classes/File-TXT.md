@@ -1,6 +1,11 @@
 
 # Class:	File-TXT
 
+## Description:
+
+Text File
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Text File |
 
 ### File-TXT-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	SZDODoc-Document
 
+## Description:
+
+Document Object
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Document Object |
 
 ### SZDODoc-Document-Make
 

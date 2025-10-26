@@ -1,6 +1,11 @@
 
 # Class:	Array
 
+## Description:
+
+Single level list with Constant Value Types.
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPArray](SZLPArray.html) |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Single level list with Constant Value Types. |
 
 
 ## Functions:

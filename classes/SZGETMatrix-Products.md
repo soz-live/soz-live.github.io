@@ -1,6 +1,11 @@
 
 # Class:	SZGETMatrix-Products
 
+## Description:
+
+SZGETMatrix-Products Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGETMatrix-Products Class |
 
 ### SZGETMatrix-Products-Make
 

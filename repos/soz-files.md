@@ -1,6 +1,8 @@
 ---
 layout: default
 description: Sub Repo, with Data Import / Export functionality included.
+type: Private
+status: Beta
 ---
 
 # soz-files
@@ -23,6 +25,6 @@ With this repo it is possible to import and export **soz** objects to various fi
               - [File-CSV](/classes/File-CSV.html)
                 - [File-CSVA](/classes/File-CSVA.html)
 
-Version:  1.25.2
+Version:  1.26.3
 <br>
-Date: 20250715.1648
+Date: 20251026.1955

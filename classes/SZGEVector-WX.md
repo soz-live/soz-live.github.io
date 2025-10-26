@@ -1,6 +1,11 @@
 
 # Class:	SZGEVector-WX
 
+## Description:
+
+SZGEVector-WX Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEVector-WX Class |
 
 ### SZGEVector-WX-Make
 

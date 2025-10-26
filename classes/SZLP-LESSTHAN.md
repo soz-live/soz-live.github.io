@@ -1,6 +1,11 @@
 
 # Class:	SZLP-LESSTHAN
 
+## Description:
+
+LESSTHAN Function
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | LESSTHAN Function |
 
 ### SZLP-LESSTHAN-Make
 

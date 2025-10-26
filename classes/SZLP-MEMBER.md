@@ -1,6 +1,11 @@
 
 # Class:	SZLP-MEMBER
 
+## Description:
+
+MEMBER Function
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | MEMBER Function |
 
 ### SZLP-MEMBER-Make
 

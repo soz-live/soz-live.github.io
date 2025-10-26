@@ -1,6 +1,11 @@
 
 # Class:	SZCE3dSolids-OnCorridor
 
+## Description:
+
+SZCE3dSolids-OnCorridor Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-bsys](/repos/soz-bsys.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCE3dSolids-OnCorridor Class |
 
 ### SZCE3dSolids-OnCorridor-Make
 

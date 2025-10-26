@@ -1,6 +1,11 @@
 
 # Class:	SZCOSection-Circle
 
+## Description:
+
+SZCOSection-Circle Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCOSection-Circle Class |
 
 ### SZCOSection-Circle-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	SZLPNumber
 
+## Description:
+
+SZLPNumber Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPNumber Class |
 
 ### SZLPNumber-Make
 

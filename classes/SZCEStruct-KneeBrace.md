@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-KneeBrace
 
+## Description:
+
+KneeBrace Structural Member
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | KneeBrace Structural Member |
 
 ### SZCEStruct-KneeBrace-Make
 

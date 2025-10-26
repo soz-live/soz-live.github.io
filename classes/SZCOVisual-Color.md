@@ -1,6 +1,11 @@
 
 # Class:	SZCOVisual-Color
 
+## Description:
+
+Color
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Color |
 
 ### SZCOVisual-Color-Make
 

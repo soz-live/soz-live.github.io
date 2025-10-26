@@ -1,6 +1,11 @@
 
 # Class:	SZGE3dCurve-2dFibonacci
 
+## Description:
+
+SZGE3dCurve-2dFibonacci Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-misc](/repos/soz-misc.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGE3dCurve-2dFibonacci Class |
 
 ### SZGE3dCurve-2dFibonacci-Make
 

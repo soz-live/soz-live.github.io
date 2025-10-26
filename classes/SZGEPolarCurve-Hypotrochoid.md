@@ -1,6 +1,11 @@
 
 # Class:	SZGEPolarCurve-Hypotrochoid
 
+## Description:
+
+Inside rolling curve
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Inside rolling curve |
 
 ### SZGEPolarCurve-Hypotrochoid-Make
 

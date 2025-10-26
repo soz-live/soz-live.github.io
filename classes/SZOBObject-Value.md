@@ -1,6 +1,11 @@
 
 # Class:	SZOBObject-Value
 
+## Description:
+
+Create an Object of a Value
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Create an Object of a Value |
 
 
 ## Functions:

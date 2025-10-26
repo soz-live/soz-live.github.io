@@ -1,6 +1,11 @@
 
 # Class:	Array2D
 
+## Description:
+
+Basic 2D Array
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Basic 2D Array |
 
 
 ## Functions:

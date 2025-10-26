@@ -1,6 +1,11 @@
 
 # Class:	File-CSVA
 
+## Description:
+
+File-CSVA Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-files](/repos/soz-files.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | File-CSVA Class |
 
 
 ## Functions:

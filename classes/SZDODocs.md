@@ -1,6 +1,11 @@
 
 # Class:	SZDODocs
 
+## Description:
+
+Documentation of Lisp Files
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Documentation of Lisp Files |
 
 
 ## Functions:

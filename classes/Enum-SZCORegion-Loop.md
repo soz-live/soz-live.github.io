@@ -1,6 +1,11 @@
 
 # Class:	Enum-SZCORegion-Loop
 
+## Description:
+
+Enum-SZCORegion-Loop Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Enum-SZCORegion-Loop Class |
 
 ### Enum-SZCORegion-Loop-Make
 

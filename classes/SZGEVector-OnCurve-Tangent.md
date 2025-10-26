@@ -1,6 +1,11 @@
 
 # Class:	SZGEVector-OnCurve-Tangent
 
+## Description:
+
+SZGEVector-OnCurve-Tangent Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEVector-OnCurve-Tangent Class |
 
 ### SZGEVector-OnCurve-Tangent-Make
 

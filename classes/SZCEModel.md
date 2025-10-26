@@ -1,16 +1,20 @@
 
 # Class:	SZCEModel
 
+## Description:
+
+Basic Model
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEModelDef](SZCEModelDef.html) |
-| Subclasses: | [SZCEModel-TwistedLink](SZCEModel-TwistedLink.html) <br> [SZCEAssy](SZCEAssy.html) <br> [SZCEPart](SZCEPart.html) |
+| Subclasses: | [SZCERigging-TwistedLink](SZCERigging-TwistedLink.html) <br> [SZCEAssy](SZCEAssy.html) <br> [SZCEPart](SZCEPart.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Basic Model |
 
 
 ## Functions:

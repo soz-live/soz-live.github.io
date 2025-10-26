@@ -1,6 +1,11 @@
 
 # Class:	SZLPRange-ZeroToOne
 
+## Description:
+
+SZLPRange-ZeroToOne Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPRange-ZeroToOne Class |
 
 ### SZLPRange-ZeroToOne-Make
 

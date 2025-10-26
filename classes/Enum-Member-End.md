@@ -1,6 +1,11 @@
 
 # Class:	Enum-Member-End
 
+## Description:
+
+Member End Enum
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Member End Enum |
 
 ### Enum-Member-End-Make
 

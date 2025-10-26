@@ -1,6 +1,11 @@
 
 # Class:	SZGEPlanarCurve
 
+## Description:
+
+Planar Curve
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Planar Curve |
 
 ### SZGEPlanarCurve-Make
 

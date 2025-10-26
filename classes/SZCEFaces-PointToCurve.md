@@ -1,6 +1,11 @@
 
 # Class:	SZCEFaces-PointToCurve
 
+## Description:
+
+SZCEFaces-PointToCurve Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEFaces-PointToCurve Class |
 
 ### SZCEFaces-PointToCurve-Make
 

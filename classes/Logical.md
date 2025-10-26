@@ -1,6 +1,11 @@
 
 # Class:	Logical
 
+## Description:
+
+Base Logical Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPLogical](SZLPLogical.html) |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Base Logical Class |
 
 
 ## Functions:

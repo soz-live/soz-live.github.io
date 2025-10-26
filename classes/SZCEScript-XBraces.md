@@ -1,6 +1,11 @@
 
 # Class:	SZCEScript-XBraces
 
+## Description:
+
+XBraces Structural Members
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | XBraces Structural Members |
 
 ### SZCEScript-XBraces-Make
 

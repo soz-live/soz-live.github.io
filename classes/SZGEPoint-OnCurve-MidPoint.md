@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoint-OnCurve-MidPoint
 
+## Description:
+
+SZGEPoint-OnCurve-MidPoint Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPoint-OnCurve-MidPoint Class |
 
 ### SZGEPoint-OnCurve-MidPoint-Make
 

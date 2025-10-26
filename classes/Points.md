@@ -1,6 +1,11 @@
 
 # Class:	Points
 
+## Description:
+
+Points Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [Curve](Curve.html), [SZGE3dCurve](SZGE3dCurve.html), [AcDb3dPolyline](AcDb3dPolyline.html), [BsysTinSurface](BsysTinSurface.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Points Class |
 
 ### Points-Make
 

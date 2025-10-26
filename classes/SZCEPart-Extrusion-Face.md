@@ -1,6 +1,11 @@
 
 # Class:	SZCEPart-Extrusion-Face
 
+## Description:
+
+Face Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-aec](/repos/soz-aec.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Face Class |
 
 ### SZCEPart-Extrusion-Face-Make
 

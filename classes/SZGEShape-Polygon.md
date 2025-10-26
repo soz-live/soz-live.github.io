@@ -1,6 +1,11 @@
 
 # Class:	SZGEShape-Polygon
 
+## Description:
+
+SZGEShape-Polygon Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEShape-Polygon Class |
 
 ### SZGEShape-Polygon-Make
 

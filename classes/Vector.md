@@ -1,6 +1,11 @@
 
 # Class:	Vector
 
+## Description:
+
+Vector Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZGEVector](SZGEVector.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Vector Class |
 
 ### Vector-Make
 

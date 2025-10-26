@@ -1,6 +1,11 @@
 
 # Class:	SZGELoop-Points
 
+## Description:
+
+SZGELoop-Points Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGELoop-Points Class |
 
 ### SZGELoop-Points-Make
 
@@ -18,6 +22,7 @@
 | --------- | --------- | --------- |
 | POINTS | [List:SZGEPoint](SZGEPoint.html) |  |
 | CLOSED | [Boolean](Boolean.html) |  |
+| REVERSED | [Boolean](Boolean.html) |  |
 | --- | --- | --- |
 | Returns: | [SZGELoop-Points](SZGELoop-Points.html) |
 | Help: | Shape from Points |

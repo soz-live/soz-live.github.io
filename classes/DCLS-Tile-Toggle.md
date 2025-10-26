@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Tile-Toggle
 
+## Description:
+
+DCL Toggle
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | DCL Toggle |
 
 ### DCLS-Tile-Toggle-Make
 

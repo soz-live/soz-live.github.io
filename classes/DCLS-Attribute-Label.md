@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Attribute-Label
 
+## Description:
+
+DCL Label Attribute
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | DCL Label Attribute |
 
 ### DCLS-Attribute-Label-Make
 

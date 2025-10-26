@@ -1,6 +1,11 @@
 
 # Class:	SZLPReal-Curve-BaryComb
 
+## Description:
+
+SZLPReal-Curve-BaryComb Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPReal-Curve-BaryComb Class |
 
 ### SZLPReal-Curve-BaryComb-Make
 

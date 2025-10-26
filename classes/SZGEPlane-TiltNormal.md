@@ -1,6 +1,11 @@
 
 # Class:	SZGEPlane-TiltNormal
 
+## Description:
+
+SZGEPlane-TiltNormal Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPlane-TiltNormal Class |
 
 ### SZGEPlane-TiltNormal-Make
 

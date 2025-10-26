@@ -1,6 +1,11 @@
 
 # Class:	SZGEPattern2D
 
+## Description:
+
+SZGEPattern2D Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | SZGEPattern2D Class |
 
 
 ## Functions:

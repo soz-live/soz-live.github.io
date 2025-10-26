@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoints
 
+## Description:
+
+SZGEPoints Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZGE3dCurve](SZGE3dCurve.html), [AcDb3dPolyline](AcDb3dPolyline.html), [SZLPMacro-Points](SZLPMacro-Points.html) |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | SZGEPoints Class |
 
 
 ## Functions:

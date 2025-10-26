@@ -1,6 +1,11 @@
 
 # Class:	SZOBObject-Method
 
+## Description:
+
+Create an Object of a Method
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -9,8 +14,7 @@
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
-| isValue?: | No |
-| Help: | Create an Object of a Method |
+| isValue?: | Yes |
 
 ### SZOBObject-Method-Make
 

@@ -1,16 +1,20 @@
 
 # Class:	SZCEModelDef
 
+## Description:
+
+SZCEModelDef Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbBlock](AcDbBlock.html) |
-| Subclasses: | [SZCEStruct-FootingDef](SZCEStruct-FootingDef.html) <br> [SZCEStruct-PlateDef](SZCEStruct-PlateDef.html) <br> [SZCEModelDef-ChainLink](SZCEModelDef-ChainLink.html) <br> [SZCERigging-Shackle](SZCERigging-Shackle.html) <br> [SZCESection](SZCESection.html) <br> [SZCEModel](SZCEModel.html) |
+| Subclasses: | [SZCERigging-ChainLink](SZCERigging-ChainLink.html) <br> [SZCERigging-Shackle](SZCERigging-Shackle.html) <br> [SZCEStruct-FootingDef](SZCEStruct-FootingDef.html) <br> [SZCEStruct-PlateDef](SZCEStruct-PlateDef.html) <br> [SZCESection](SZCESection.html) <br> [SZCEModel](SZCEModel.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | SZCEModelDef Class |
 
 
 ## Functions:

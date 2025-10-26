@@ -1,6 +1,11 @@
 
 # Class:	SZCELines-Fractal-Tree
 
+## Description:
+
+SZCELines-Fractal-Tree Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-misc](/repos/soz-misc.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCELines-Fractal-Tree Class |
 
 ### SZCELines-Fractal-Tree-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	Option-PredicateFunction
 
+## Description:
+
+PredicateFunction Options
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | PredicateFunction Options |
 
 ### Option-PredicateFunction-Make
 
@@ -33,6 +37,8 @@
 | > | > |
 | >= | >= |
 | wc | WCMATCH |
+| eq | EQ |
+| equal | EQUAL |
 
 ## Functions:
 

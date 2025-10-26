@@ -1,6 +1,11 @@
 
 # Class:	Face-4xPoints
 
+## Description:
+
+Face-4xPoints Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Face-4xPoints Class |
 
 ### Face-4xPoints-Make
 

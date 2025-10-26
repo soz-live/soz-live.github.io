@@ -1,6 +1,11 @@
 
 # Class:	SZCOSection
 
+## Description:
+
+2D Shape used during modelling
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | 2D Shape used during modelling |
 
 
 ## Functions:

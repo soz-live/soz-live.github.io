@@ -1,6 +1,11 @@
 
 # Class:	SZCEGridLine-OnLine
 
+## Description:
+
+SZCEGridLine-OnLine Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,14 +15,13 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEGridLine-OnLine Class |
 
 ### SZCEGridLine-OnLine-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
-| TYP | [Enum-AcDbLinearType](Enum-AcDbLinearType.html) |  |
+| TYP | [Enum-SZCELinearType](Enum-SZCELinearType.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCEGridLine-OnLine](SZCEGridLine-OnLine.html) |
 | Help: | Make a SZCEGridLine-OnLine |

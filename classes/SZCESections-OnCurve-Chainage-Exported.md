@@ -1,6 +1,11 @@
 
 # Class:	SZCESections-OnCurve-Chainage-Exported
 
+## Description:
+
+Exported sections on chainage
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-aec](/repos/soz-aec.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Exported sections on chainage |
 
 ### SZCESections-OnCurve-Chainage-Exported-Make
 

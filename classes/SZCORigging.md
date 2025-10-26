@@ -1,6 +1,11 @@
 
 # Class:	SZCORigging
 
+## Description:
+
+Base Rigging Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Base Rigging Class |
 
 
 ## Functions:

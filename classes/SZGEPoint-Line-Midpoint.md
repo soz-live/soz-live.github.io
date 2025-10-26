@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoint-Line-MidPoint
 
+## Description:
+
+SZGEPoint-Line-MidPoint Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPoint-Line-MidPoint Class |
 
 ### SZGEPoint-Line-MidPoint-Make
 

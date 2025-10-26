@@ -1,6 +1,11 @@
 
 # Class:	SZCELines-Columns-OnPlaneIntersects
 
+## Description:
+
+SZCELines-Columns-OnPlaneIntersects Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCELines-Columns-OnPlaneIntersects Class |
 
 ### SZCELines-Columns-OnPlaneIntersects-Make
 

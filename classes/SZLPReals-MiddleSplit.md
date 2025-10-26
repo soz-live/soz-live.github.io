@@ -1,6 +1,11 @@
 
 # Class:	SZLPReals-MiddleSplit
 
+## Description:
+
+SZLPReals-MiddleSplit Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPReals-MiddleSplit Class |
 
 ### SZLPReals-MiddleSplit-Make
 

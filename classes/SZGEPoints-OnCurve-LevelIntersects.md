@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoints-OnCurve-LevelIntersects
 
+## Description:
+
+SZGEPoints-OnCurve-LevelIntersects Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPoints-OnCurve-LevelIntersects Class |
 
 ### SZGEPoints-OnCurve-LevelIntersects-Make
 

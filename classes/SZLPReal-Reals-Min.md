@@ -1,6 +1,11 @@
 
 # Class:	SZLPReal-Reals-Min
 
+## Description:
+
+SZLPReal-Reals-Min Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPReal-Reals-Min Class |
 
 ### SZLPReal-Reals-Min-Make
 

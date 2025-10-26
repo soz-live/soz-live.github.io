@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-Column
 
+## Description:
+
+Structural Column
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Structural Column |
 
 
 ## Functions:

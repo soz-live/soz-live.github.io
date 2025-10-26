@@ -1,6 +1,11 @@
 
 # Class:	SZCEScript-NestedHypocycloid
 
+## Description:
+
+NestedHypocycloid Script
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-misc](/repos/soz-misc.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | NestedHypocycloid Script |
 
 ### SZCEScript-NestedHypocycloid-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	SZDOMap-Class
 
+## Description:
+
+Class Map
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-devs](/repos/soz-devs.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Class Map |
 
 ### SZDOMap-Class-Make
 

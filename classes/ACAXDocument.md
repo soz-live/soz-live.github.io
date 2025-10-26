@@ -1,6 +1,11 @@
 
 # Class:	ACAXDocument
 
+## Description:
+
+ACAXDocument Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | ACAXDocument Class |
 
 
 ## Functions:

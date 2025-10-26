@@ -1,6 +1,11 @@
 
 # Class:	SZGETMatrix-AcDbArc-Center
 
+## Description:
+
+SZGETMatrix-AcDbArc-Center Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGETMatrix-AcDbArc-Center Class |
 
 ### SZGETMatrix-AcDbArc-Center-Make
 

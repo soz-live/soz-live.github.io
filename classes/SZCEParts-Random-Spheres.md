@@ -1,6 +1,11 @@
 
 # Class:	SZCEParts-Random-Spheres
 
+## Description:
+
+SZCEParts Random Spheres
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-random](/repos/soz-random.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEParts Random Spheres |
 
 ### SZCEParts-Random-Spheres-Make
 

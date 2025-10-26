@@ -1,6 +1,11 @@
 
 # Class:	SZCORigging-Arrgt-2xL-SB-2x1xL
 
+## Description:
+
+Rigging 2xL-SB-2x1xL Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Rigging 2xL-SB-2x1xL Class |
 
 ### SZCORigging-Arrgt-2xL-SB-2x1xL-Make
 

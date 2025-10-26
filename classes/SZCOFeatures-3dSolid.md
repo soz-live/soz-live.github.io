@@ -1,6 +1,11 @@
 
 # Class:	SZCOFeatures-3dSolid
 
+## Description:
+
+SZCOFeatures 3dSolid
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | SZCOFeatures 3dSolid |
 
 
 ## Functions:

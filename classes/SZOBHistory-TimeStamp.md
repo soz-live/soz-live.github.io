@@ -1,6 +1,11 @@
 
 # Class:	SZOBHistory-TimeStamp
 
+## Description:
+
+TimeStamp Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-history](/repos/soz-history.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | TimeStamp Class |
 
 
 ## Functions:

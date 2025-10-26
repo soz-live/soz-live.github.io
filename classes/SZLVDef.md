@@ -1,6 +1,11 @@
 
 # Class:	SZLVDef
 
+## Description:
+
+LIVE Definition Block
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | LIVE Definition Block |
 
 
 ## Functions:

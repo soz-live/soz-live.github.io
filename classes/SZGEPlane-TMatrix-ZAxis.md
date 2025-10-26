@@ -1,6 +1,11 @@
 
 # Class:	SZGEPlane-TMatrix-ZAxis
 
+## Description:
+
+SZGEPlane-TMatrix-ZAxis Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPlane-TMatrix-ZAxis Class |
 
 ### SZGEPlane-TMatrix-ZAxis-Make
 

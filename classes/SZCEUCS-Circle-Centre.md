@@ -1,6 +1,11 @@
 
 # Class:	SZCEUCS-Circle-Centre
 
+## Description:
+
+SZCEUCS-Circle-Centre Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEUCS-Circle-Centre Class |
 
 ### SZCEUCS-Circle-Centre-Make
 

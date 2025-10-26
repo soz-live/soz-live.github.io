@@ -1,6 +1,11 @@
 
 # Class:	DegMinSec
 
+## Description:
+
+Deg Min Sec
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Deg Min Sec |
 
 ### DegMinSec-Make
 

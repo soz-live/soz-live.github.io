@@ -1,6 +1,11 @@
 
 # Class:	SZOBHistory
 
+## Description:
+
+Base History Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-history](/repos/soz-history.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Base History Class |
 
 
 ## Functions:

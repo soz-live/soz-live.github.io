@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Tile-AlistTree-CategorySelect
 
+## Description:
+
+CategorySelect Alist Tree View
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | CategorySelect Alist Tree View |
 
 ### DCLS-Tile-AlistTree-CategorySelect-Make
 

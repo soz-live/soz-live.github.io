@@ -1,6 +1,11 @@
 
 # Class:	Reals-EqualSpacing
 
+## Description:
+
+Reals-EqualSpacing Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPReals-EqualSpacing](SZLPReals-EqualSpacing.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Reals-EqualSpacing Class |
 
 ### Reals-EqualSpacing-Make
 

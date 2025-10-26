@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoint-AcDbCircle-Center
 
+## Description:
+
+SZGEPoint-AcDbCircle-Center Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPoint-AcDbCircle-Center Class |
 
 ### SZGEPoint-AcDbCircle-Center-Make
 

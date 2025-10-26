@@ -1,6 +1,11 @@
 
 # Class:	SZCEModelGroup-Solid-DiceOnWCS
 
+## Description:
+
+SZCEModelGroup-Solid-DiceOnWCS Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEModelGroup-Solid-DiceOnWCS Class |
 
 ### SZCEModelGroup-Solid-DiceOnWCS-Make
 

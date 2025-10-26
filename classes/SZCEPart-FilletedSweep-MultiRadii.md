@@ -1,6 +1,11 @@
 
 # Class:	SZCEPart-FilletedSweep-MultiRadii
 
+## Description:
+
+SZCEPart-FilletedSweep-MultiRadii Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | SZCEPart-FilletedSweep-MultiRadii Class |
 
 
 ## Functions:

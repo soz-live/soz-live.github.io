@@ -1,6 +1,11 @@
 
 # Class:	SZCEScript-Braces
 
+## Description:
+
+Braces
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Braces |
 
 
 ## Functions:

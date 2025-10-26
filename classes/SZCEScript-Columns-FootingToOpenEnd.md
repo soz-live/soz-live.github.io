@@ -1,6 +1,11 @@
 
 # Class:	SZCEScript-Columns-FootingToOpenEnd
 
+## Description:
+
+Columns
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Columns |
 
 ### SZCEScript-Columns-FootingToOpenEnd-Make
 

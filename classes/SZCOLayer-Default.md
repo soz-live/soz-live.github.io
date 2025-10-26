@@ -1,6 +1,11 @@
 
 # Class:	SZCOLayer-Default
 
+## Description:
+
+SZCOLayer-Default Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCOLayer-Default Class |
 
 ### SZCOLayer-Default-Make
 

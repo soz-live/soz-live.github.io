@@ -1,6 +1,11 @@
 
 # Class:	Bulge
 
+## Description:
+
+Loop Bulge Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Loop Bulge Class |
 
 ### Bulge-Make
 

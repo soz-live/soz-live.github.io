@@ -1,6 +1,11 @@
 
 # Class:	SZGELine-2xLines-PlaneIntersect
 
+## Description:
+
+SZGELine-2xLines-PlaneIntersect Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGELine-2xLines-PlaneIntersect Class |
 
 ### SZGELine-2xLines-PlaneIntersect-Make
 

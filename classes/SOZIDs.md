@@ -1,6 +1,11 @@
 
 # Class:	SOZIDs
 
+## Description:
+
+SOZIDs Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SOZIDs Class |
 
 ### SOZIDs-Make
 

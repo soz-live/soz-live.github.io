@@ -1,6 +1,11 @@
 
 # Class:	SZGE3dCurve-Zigzag
 
+## Description:
+
+SZGE3dCurve-Zigzag Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGE3dCurve-Zigzag Class |
 
 ### SZGE3dCurve-Zigzag-Make
 

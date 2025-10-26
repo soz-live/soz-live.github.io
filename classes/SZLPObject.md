@@ -1,16 +1,20 @@
 
 # Class:	SZLPObject
 
+## Description:
+
+Base Lisp Object Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZOBObject](SZOBObject.html) |
+| Superclass: | [SZOBValue](SZOBValue.html) |
 | Subclasses: | [SZLPLogical](SZLPLogical.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |
-| isValue?: | No |
-| Help: | Base Lisp Object Class |
+| isValue?: | Yes |
 
 
 ## Functions:

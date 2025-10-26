@@ -1,6 +1,11 @@
 
 # Class:	SZCOSolid-Cone-OnLine
 
+## Description:
+
+SZCOSolid-Cone-OnLine Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCOSolid-Cone-OnLine Class |
 
 ### SZCOSolid-Cone-OnLine-Make
 

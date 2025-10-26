@@ -1,6 +1,11 @@
 
 # Class:	SZGELoop-AcDbPolyline-OnStart
 
+## Description:
+
+SZGELoop-AcDbPolyline-OnStart Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGELoop-AcDbPolyline-OnStart Class |
 
 ### SZGELoop-AcDbPolyline-OnStart-Make
 

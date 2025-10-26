@@ -1,6 +1,11 @@
 
 # Class:	SZLP-IF
 
+## Description:
+
+IF Function
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | IF Function |
 
 ### SZLP-IF-Make
 

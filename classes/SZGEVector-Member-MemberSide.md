@@ -1,6 +1,11 @@
 
 # Class:	SZGEVector-Member-MemberSide
 
+## Description:
+
+Member Side Vector
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Member Side Vector |
 
 ### SZGEVector-Member-MemberSide-Make
 

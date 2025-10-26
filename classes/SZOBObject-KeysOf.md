@@ -1,6 +1,11 @@
 
 # Class:	SZOBObject-KeysOf
 
+## Description:
+
+Create an Object from a list of Keys
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Create an Object from a list of Keys |
 
 ### SZOBObject-KeysOf-Make
 

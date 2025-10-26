@@ -1,6 +1,11 @@
 
 # Class:	SZCOFeatures-Random-Spheres
 
+## Description:
+
+SZCOFeatures Random Spheres
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-random](/repos/soz-random.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCOFeatures Random Spheres |
 
 ### SZCOFeatures-Random-Spheres-Make
 

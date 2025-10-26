@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoint-OnCurve-DistFromEnd
 
+## Description:
+
+SZGEPoint-OnCurve-DistFromEnd Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPoint-OnCurve-DistFromEnd Class |
 
 ### SZGEPoint-OnCurve-DistFromEnd-Make
 

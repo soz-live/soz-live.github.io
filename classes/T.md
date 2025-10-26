@@ -1,6 +1,11 @@
 
 # Class:	T
 
+## Description:
+
+Base Lisp Class T
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLP-T](SZLP-T.html) |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Base Lisp Class T |
 
 
 ## Functions:

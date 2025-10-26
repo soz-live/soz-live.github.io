@@ -1,6 +1,11 @@
 
 # Class:	SZLPEquation
 
+## Description:
+
+SZLPEquation Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPMacro-Equation](SZLPMacro-Equation.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPEquation Class |
 
 ### SZLPEquation-Make
 

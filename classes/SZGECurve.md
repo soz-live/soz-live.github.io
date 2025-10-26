@@ -1,6 +1,11 @@
 
 # Class:	SZGECurve
 
+## Description:
+
+SZGECurve Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | SZGECurve Class |
 
 
 ## Functions:

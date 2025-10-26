@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoint-Member-End
 
+## Description:
+
+Member End Point
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Member End Point |
 
 ### SZGEPoint-Member-End-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	SZCEPart-FilletedSweep-SingleRadius
 
+## Description:
+
+SZCEPart-FilletedSweep-SingleRadius Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | SZCEPart-FilletedSweep-SingleRadius Class |
 
 
 ## Functions:

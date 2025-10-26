@@ -1,6 +1,11 @@
 
 # Class:	SZCOColor-RGB
 
+## Description:
+
+RGB Color
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | RGB Color |
 
 ### SZCOColor-RGB-Make
 

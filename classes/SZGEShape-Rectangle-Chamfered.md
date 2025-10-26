@@ -1,6 +1,11 @@
 
 # Class:	SZGEShape-Rectangle-Chamfered
 
+## Description:
+
+SZGEShape-Rectangle-Chamfered Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEShape-Rectangle-Chamfered Class |
 
 ### SZGEShape-Rectangle-Chamfered-Make
 

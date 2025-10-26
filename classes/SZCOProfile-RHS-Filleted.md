@@ -1,6 +1,11 @@
 
 # Class:	SZCOProfile-RHS-Filleted
 
+## Description:
+
+SZCOProfile-RHS-Filleted Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCOProfile-RHS-Filleted Class |
 
 ### SZCOProfile-RHS-Filleted-Make
 

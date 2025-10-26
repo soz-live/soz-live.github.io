@@ -1,6 +1,11 @@
 
 # Class:	SZCEModelGroup-Solid-SliceOnCurve
 
+## Description:
+
+SZCEModelGroup-Solid-SliceOnCurve Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEModelGroup-Solid-SliceOnCurve Class |
 
 ### SZCEModelGroup-Solid-SliceOnCurve-Make
 

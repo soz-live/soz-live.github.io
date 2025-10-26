@@ -1,6 +1,8 @@
 ---
 layout: default
 description: Sub Repo, with ODBX specific functionality included.
+type: Private
+status: Beta
 ---
 
 # soz-odbx
@@ -18,9 +20,11 @@ With this repo it is possible to load and script external drawings without havin
       - [ODBXObject](/classes/ODBXObject.html)
         - [ODBXApplication](/classes/ODBXApplication.html)
         - [ODBXDocument](/classes/ODBXDocument.html)
-        - [ODBXScript](/classes/ODBXScript.html)
-          - [ODBXScript-Section-PaperSpace-Setup](/classes/ODBXScript-Section-PaperSpace-Setup.html)
+  - [SZOBScript](/classes/SZOBScript.html)
+    - [ODBXScript](/classes/ODBXScript.html)
+      - [ODBXScript-GetReferenceValue](/classes/ODBXScript-GetReferenceValue.html)
+      - [ODBXScript-Section-PaperSpace-Setup](/classes/ODBXScript-Section-PaperSpace-Setup.html)
 
-Version:  1.25.2
+Version:  1.26.3
 <br>
-Date: 20250715.1648
+Date: 20251026.1955

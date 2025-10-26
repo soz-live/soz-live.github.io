@@ -1,6 +1,11 @@
 
 # Class:	SZGEPattern-AcDbCurve-Divide
 
+## Description:
+
+SZGEPattern-AcDbCurve-Divide Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPattern-AcDbCurve-Divide Class |
 
 ### SZGEPattern-AcDbCurve-Divide-Make
 

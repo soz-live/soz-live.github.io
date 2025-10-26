@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Dialog-ListBox
 
+## Description:
+
+SOZDCLDialog ListBox
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | SOZDCLDialog ListBox |
 
 
 ## Functions:

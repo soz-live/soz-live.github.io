@@ -1,6 +1,11 @@
 
 # Class:	SZGELine-AcDb3dPolyline-Segment
 
+## Description:
+
+SZGELine-AcDb3dPolyline-Segment Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGELine-AcDb3dPolyline-Segment Class |
 
 ### SZGELine-AcDb3dPolyline-Segment-Make
 

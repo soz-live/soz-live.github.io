@@ -1,16 +1,20 @@
 
 # Class:	SZGETMatrix
 
+## Description:
+
+SZGETMatrix Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEObject](SZGEObject.html) |
-| Subclasses: | [SZGETMatrix-MemberToMember-EndPlate](SZGETMatrix-MemberToMember-EndPlate.html) <br> [SZGETMatrix-Member-EndPlate](SZGETMatrix-Member-EndPlate.html) <br> [SZGETMatrix-StructuralSection](SZGETMatrix-StructuralSection.html) <br> [SZGETMatrix-Mitre](SZGETMatrix-Mitre.html) <br> [SZGETMatrix-Relative](SZGETMatrix-Relative.html) <br> [SZGETMatrix-AcDbEllipse-Center](SZGETMatrix-AcDbEllipse-Center.html) <br> [SZGETMatrix-AcDbArc-Center](SZGETMatrix-AcDbArc-Center.html) <br> [SZGETMatrix-AcDbCircle-Center](SZGETMatrix-AcDbCircle-Center.html) <br> [SZGETMatrix-SZCEUCS](SZGETMatrix-SZCEUCS.html) <br> [SZGETMatrix-SZCEPosn](SZGETMatrix-SZCEPosn.html) <br> [SZGETMatrix-AcDbPolyline](SZGETMatrix-AcDbPolyline.html) <br> [SZGETMatrix-Shape-Points](SZGETMatrix-Shape-Points.html) <br> [SZGETMatrix-XYAxis](SZGETMatrix-XYAxis.html) <br> [SZGETMatrix-ZAxis](SZGETMatrix-ZAxis.html) <br> [SZGETMatrix-Products](SZGETMatrix-Products.html) <br> [SZGETMatrix-Product](SZGETMatrix-Product.html) <br> [SZGETMatrix-XAxisRotation](SZGETMatrix-XAxisRotation.html) <br> [SZGETMatrix-YAxisRotation](SZGETMatrix-YAxisRotation.html) <br> [SZGETMatrix-ZAxisRotation](SZGETMatrix-ZAxisRotation.html) <br> [SZGETMatrix-Curve-AtDist](SZGETMatrix-Curve-AtDist.html) <br> [SZGETMatrix-Curve-AtPoint](SZGETMatrix-Curve-AtPoint.html) <br> [SZGETMatrix-Curve-StartPoint](SZGETMatrix-Curve-StartPoint.html) <br> [SZGETMatrix-Plane](SZGETMatrix-Plane.html) <br> [SZGETMatrix-Line-MidPoint](SZGETMatrix-Line-MidPoint.html) <br> [SZGETMatrix-Line-EndPoint](SZGETMatrix-Line-EndPoint.html) <br> [SZGETMatrix-Line-StartPoint](SZGETMatrix-Line-StartPoint.html) <br> [SZGETMatrix-Scale](SZGETMatrix-Scale.html) <br> [SZGETMatrix-Translation](SZGETMatrix-Translation.html) <br> [SZGETMatrix-Unit](SZGETMatrix-Unit.html) |
+| Subclasses: | [SZGETMatrix-MemberToMember-EndPlate](SZGETMatrix-MemberToMember-EndPlate.html) <br> [SZGETMatrix-Member-EndPlate](SZGETMatrix-Member-EndPlate.html) <br> [SZGETMatrix-StructuralSection](SZGETMatrix-StructuralSection.html) <br> [SZGETMatrix-Mitre](SZGETMatrix-Mitre.html) <br> [SZGETMatrix-Relative](SZGETMatrix-Relative.html) <br> [SZGETMatrix-AcDbEllipse-Center](SZGETMatrix-AcDbEllipse-Center.html) <br> [SZGETMatrix-AcDbArc-Center](SZGETMatrix-AcDbArc-Center.html) <br> [SZGETMatrix-AcDbCircle-Center](SZGETMatrix-AcDbCircle-Center.html) <br> [SZGETMatrix-SZCEUCS](SZGETMatrix-SZCEUCS.html) <br> [SZGETMatrix-SZCEPosn](SZGETMatrix-SZCEPosn.html) <br> [SZGETMatrix-AcDbPolyline](SZGETMatrix-AcDbPolyline.html) <br> [SZGETMatrix-Loop-Points](SZGETMatrix-Loop-Points.html) <br> [SZGETMatrix-XYAxis](SZGETMatrix-XYAxis.html) <br> [SZGETMatrix-ZAxis](SZGETMatrix-ZAxis.html) <br> [SZGETMatrix-Products](SZGETMatrix-Products.html) <br> [SZGETMatrix-Product](SZGETMatrix-Product.html) <br> [SZGETMatrix-XAxisRotation](SZGETMatrix-XAxisRotation.html) <br> [SZGETMatrix-YAxisRotation](SZGETMatrix-YAxisRotation.html) <br> [SZGETMatrix-ZAxisRotation](SZGETMatrix-ZAxisRotation.html) <br> [SZGETMatrix-Curve-AtDist](SZGETMatrix-Curve-AtDist.html) <br> [SZGETMatrix-Curve-AtPoint](SZGETMatrix-Curve-AtPoint.html) <br> [SZGETMatrix-Curve-StartPoint](SZGETMatrix-Curve-StartPoint.html) <br> [SZGETMatrix-Plane](SZGETMatrix-Plane.html) <br> [SZGETMatrix-Line-MidPoint](SZGETMatrix-Line-MidPoint.html) <br> [SZGETMatrix-Line-EndPoint](SZGETMatrix-Line-EndPoint.html) <br> [SZGETMatrix-Line-StartPoint](SZGETMatrix-Line-StartPoint.html) <br> [SZGETMatrix-Scale](SZGETMatrix-Scale.html) <br> [SZGETMatrix-Translation](SZGETMatrix-Translation.html) <br> [SZGETMatrix-Unit](SZGETMatrix-Unit.html) |
 | Interfaces: | [TMatrix](TMatrix.html) |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | SZGETMatrix Class |
 
 
 ## Functions:

@@ -1,6 +1,11 @@
 
 # Class:	SZOBObject-IndexOfKey
 
+## Description:
+
+Create an Object from an Index of a Key
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Create an Object from an Index of a Key |
 
 ### SZOBObject-IndexOfKey-Make
 

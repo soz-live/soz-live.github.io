@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-Members
 
+## Description:
+
+Linear Structural Members
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Linear Structural Members |
 
 
 ## Functions:

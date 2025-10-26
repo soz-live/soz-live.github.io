@@ -1,16 +1,20 @@
 
 # Class:	ODBXObject
 
+## Description:
+
+ObjectDbx Object
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-odbx](/repos/soz-odbx.html) |
 | Superclass: | [SZOBCAD](SZOBCAD.html) |
-| Subclasses: | [ODBXScript](ODBXScript.html) <br> [ODBXDocument](ODBXDocument.html) <br> [ODBXApplication](ODBXApplication.html) |
+| Subclasses: | [ODBXDocument](ODBXDocument.html) <br> [ODBXApplication](ODBXApplication.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | ObjectDbx Object |
 
 
 ## Functions:

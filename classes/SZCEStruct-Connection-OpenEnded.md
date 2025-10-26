@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-Connection-OpenEnded
 
+## Description:
+
+A Structural Connection
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | A Structural Connection |
 
 ### SZCEStruct-Connection-OpenEnded-Make
 

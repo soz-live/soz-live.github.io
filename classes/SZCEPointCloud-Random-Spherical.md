@@ -1,6 +1,11 @@
 
 # Class:	SZCEPointCloud-Random-Spherical
 
+## Description:
+
+PointCloud Spherical Random
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-random](/repos/soz-random.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | PointCloud Spherical Random |
 
 ### SZCEPointCloud-Random-Spherical-Make
 

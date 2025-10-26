@@ -1,6 +1,11 @@
 
 # Class:	SZGELine-MidPoint-Vector-Dist
 
+## Description:
+
+SZGELine-MidPoint-Vector-Dist Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGELine-MidPoint-Vector-Dist Class |
 
 ### SZGELine-MidPoint-Vector-Dist-Make
 

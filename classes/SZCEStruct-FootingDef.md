@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-FootingDef
 
+## Description:
+
+Footing Definition Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Footing Definition Class |
 
 ### SZCEStruct-FootingDef-Make
 

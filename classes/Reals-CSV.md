@@ -1,6 +1,11 @@
 
 # Class:	Reals-CSV
 
+## Description:
+
+Reals-CSV Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPReals-CSV](SZLPReals-CSV.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Reals-CSV Class |
 
 ### Reals-CSV-Make
 

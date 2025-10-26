@@ -1,6 +1,11 @@
 
 # Class:	SZLPMacro-Point
 
+## Description:
+
+Point Macro function
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-macro](/repos/soz-macro.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Point Macro function |
 
 ### SZLPMacro-Point-Make
 

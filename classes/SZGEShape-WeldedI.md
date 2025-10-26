@@ -1,6 +1,11 @@
 
 # Class:	SZGEShape-WeldedI
 
+## Description:
+
+SZGEShape-WeldedI Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEShape-WeldedI Class |
 
 ### SZGEShape-WeldedI-Make
 

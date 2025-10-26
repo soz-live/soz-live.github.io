@@ -1,6 +1,11 @@
 
 # Class:	SZLPEnum-AcDb3dPolylineType
 
+## Description:
+
+SZLPEnum-AcDb3dPolylineType Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPEnum-AcDb3dPolylineType Class |
 
 ### SZLPEnum-AcDb3dPolylineType-Make
 

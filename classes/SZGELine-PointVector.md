@@ -1,6 +1,11 @@
 
 # Class:	SZGELine-PointVector
 
+## Description:
+
+SZGELine-PointVector Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGELine-PointVector Class |
 
 ### SZGELine-PointVector-Make
 

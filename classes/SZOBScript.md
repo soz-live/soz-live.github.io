@@ -1,16 +1,20 @@
 
 # Class:	SZOBScript
 
+## Description:
+
+Base Script Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZOBBase](SZOBBase.html) |
-| Subclasses: | [SZCOScript](SZCOScript.html) |
+| Subclasses: | [ODBXScript](ODBXScript.html) <br> [SZCOScript](SZCOScript.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Base Script Class |
 
 
 ## Functions:

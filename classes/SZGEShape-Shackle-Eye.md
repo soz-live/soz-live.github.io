@@ -1,6 +1,11 @@
 
 # Class:	SZGEShape-Shackle-Eye
 
+## Description:
+
+Shackle-Eye Shape
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Shackle-Eye Shape |
 
 
 ## Functions:

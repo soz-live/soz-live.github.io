@@ -1,6 +1,11 @@
 
 # Class:	Reals-Offsets
 
+## Description:
+
+Reals-Offsets Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Reals-Offsets Class |
 
 ### Reals-Offsets-Make
 

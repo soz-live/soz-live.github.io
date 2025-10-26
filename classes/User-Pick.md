@@ -1,6 +1,11 @@
 
 # Class:	User-Pick
 
+## Description:
+
+User Pick Structure
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | User Pick Structure |
 
 ### User-Pick-Make
 

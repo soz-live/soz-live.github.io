@@ -1,6 +1,11 @@
 
 # Class:	User-Make-Key
 
+## Description:
+
+User KeyMake Structure
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | User KeyMake Structure |
 
 ### User-Make-Key-Make
 

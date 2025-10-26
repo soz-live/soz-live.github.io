@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoint-Line-EndPoint
 
+## Description:
+
+SZGEPoint-Line-EndPoint Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPoint-Line-EndPoint Class |
 
 ### SZGEPoint-Line-EndPoint-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	SZCEPart-Ditch
 
+## Description:
+
+Ditch Part Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-aec](/repos/soz-aec.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Ditch Part Class |
 
 ### SZCEPart-Ditch-Make
 

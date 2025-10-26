@@ -1,6 +1,11 @@
 
 # Class:	SZCEPointCloud
 
+## Description:
+
+PointCloud Entity Abstract Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | PointCloud Entity Abstract Class |
 
 
 ## Functions:

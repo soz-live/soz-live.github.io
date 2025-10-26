@@ -1,6 +1,11 @@
 
 # Class:	SZCERigging-TwistedSling
 
+## Description:
+
+Twisted Sling Model
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-slings](/repos/soz-slings.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Twisted Sling Model |
 
 ### SZCERigging-TwistedSling-Make
 

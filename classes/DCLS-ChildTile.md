@@ -1,6 +1,11 @@
 
 # Class:	DCLS-ChildTile
 
+## Description:
+
+Abstract DCL ChildTile Structure
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
-| Help: | Abstract DCL ChildTile Structure |
 
 
 ## Functions:

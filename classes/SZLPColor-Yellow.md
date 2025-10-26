@@ -1,6 +1,11 @@
 
 # Class:	SZLPColor-Yellow
 
+## Description:
+
+SZLPColor-Yellow Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZLPColor-Yellow Class |
 
 ### SZLPColor-Yellow-Make
 

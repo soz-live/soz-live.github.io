@@ -1,6 +1,11 @@
 
 # Class:	SZOBBase
 
+## Description:
+
+SZOBBase is the Base Class for all Classes in SOZ.
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: |  |
 
 
 ## Functions:

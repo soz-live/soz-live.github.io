@@ -1,6 +1,11 @@
 
 # Class:	AcDbXrecord
 
+## Description:
+
+Base Xrecord Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Base Xrecord Class |
 
 
 ## Functions:

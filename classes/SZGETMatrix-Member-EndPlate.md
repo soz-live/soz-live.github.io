@@ -1,6 +1,11 @@
 
 # Class:	SZGETMatrix-Member-EndPlate
 
+## Description:
+
+Member EndPlate Matrix
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Member EndPlate Matrix |
 
 ### SZGETMatrix-Member-EndPlate-Make
 

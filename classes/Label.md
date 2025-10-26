@@ -1,6 +1,11 @@
 
 # Class:	Label
 
+## Description:
+
+Label
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPLabel](SZLPLabel.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Label |
 
 ### Label-Make
 

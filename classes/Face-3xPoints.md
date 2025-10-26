@@ -1,6 +1,11 @@
 
 # Class:	Face-3xPoints
 
+## Description:
+
+Face-3xPoints Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Face-3xPoints Class |
 
 ### Face-3xPoints-Make
 

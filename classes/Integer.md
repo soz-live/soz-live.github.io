@@ -1,6 +1,11 @@
 
 # Class:	Integer
 
+## Description:
+
+Integer
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPInteger](SZLPInteger.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Integer |
 
 ### Integer-Make
 

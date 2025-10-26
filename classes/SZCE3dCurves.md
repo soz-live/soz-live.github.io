@@ -1,6 +1,11 @@
 
 # Class:	SZCE3dCurves
 
+## Description:
+
+SZCE3dCurves Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | SZCE3dCurves Class |
 
 
 ## Functions:

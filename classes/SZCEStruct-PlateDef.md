@@ -1,6 +1,11 @@
 
 # Class:	SZCEStruct-PlateDef
 
+## Description:
+
+Plate Definition
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-structural](/repos/soz-structural.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Plate Definition |
 
 ### SZCEStruct-PlateDef-Make
 

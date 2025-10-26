@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoint
 
+## Description:
+
+SZGEPoint Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [AcDbPoint](AcDbPoint.html), [SZLPMacro-Point](SZLPMacro-Point.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPoint Class |
 
 ### SZGEPoint-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	SZCEPoints-XsYsRL-PlaneIntersects
 
+## Description:
+
+Xs Ys RL PlaneIntersects Points
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Xs Ys RL PlaneIntersects Points |
 
 ### SZCEPoints-XsYsRL-PlaneIntersects-Make
 

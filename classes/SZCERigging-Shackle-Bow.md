@@ -1,6 +1,11 @@
 
 # Class:	SZCERigging-Shackle-Bow
 
+## Description:
+
+Shackle Def
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | Shackle Def |
 
 ### SZCERigging-Shackle-Bow-Make
 

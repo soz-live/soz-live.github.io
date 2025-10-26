@@ -1,6 +1,11 @@
 
 # Class:	SZGEShape-HotAngle
 
+## Description:
+
+SZGEShape-HotAngle Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEShape-HotAngle Class |
 
 ### SZGEShape-HotAngle-Make
 

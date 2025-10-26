@@ -1,6 +1,11 @@
 
 # Class:	Angle
 
+## Description:
+
+Angle Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPAngle](SZLPAngle.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Angle Class |
 
 ### Angle-Make
 

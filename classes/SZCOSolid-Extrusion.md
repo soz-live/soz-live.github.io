@@ -1,6 +1,11 @@
 
 # Class:	SZCOSolid-Extrusion
 
+## Description:
+
+SZCOSolid-Extrusion Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCOSolid-Extrusion Class |
 
 ### SZCOSolid-Extrusion-Make
 

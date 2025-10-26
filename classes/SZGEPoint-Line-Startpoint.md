@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoint-Line-StartPoint
 
+## Description:
+
+SZGEPoint-Line-StartPoint Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPoint-Line-StartPoint Class |
 
 ### SZGEPoint-Line-StartPoint-Make
 

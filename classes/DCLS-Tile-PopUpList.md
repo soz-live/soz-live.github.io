@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Tile-PopUpList
 
+## Description:
+
+DCLS-Tile PopUpList
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | DCLS-Tile PopUpList |
 
 ### DCLS-Tile-PopUpList-Make
 

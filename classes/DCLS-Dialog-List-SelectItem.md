@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Dialog-List-SelectItem
 
+## Description:
+
+SOZDCLDialog Strings
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SOZDCLDialog Strings |
 
 ### DCLS-Dialog-List-SelectItem-Make
 

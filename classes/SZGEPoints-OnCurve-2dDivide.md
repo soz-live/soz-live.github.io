@@ -1,6 +1,11 @@
 
 # Class:	SZGEPoints-OnCurve-2dDivide
 
+## Description:
+
+SZGEPoints-OnCurve-2dDivide Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPoints-OnCurve-2dDivide Class |
 
 ### SZGEPoints-OnCurve-2dDivide-Make
 

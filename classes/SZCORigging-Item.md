@@ -1,16 +1,20 @@
 
 # Class:	SZCORigging-Item
 
+## Description:
+
+Rigging Item Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
 | Superclass: | [SZCORigging-Object](SZCORigging-Object.html) |
-| Subclasses: | [SZCORigging-Bar](SZCORigging-Bar.html) <br> [SZCORigging-Shackle](SZCORigging-Shackle.html) <br> [SZCORigging-Link](SZCORigging-Link.html) <br> [SZCORigging-Sling](SZCORigging-Sling.html) |
+| Subclasses: | [SZCORigging-Assy](SZCORigging-Assy.html) <br> [SZCORigging-Bar](SZCORigging-Bar.html) <br> [SZCORigging-Shackle](SZCORigging-Shackle.html) <br> [SZCORigging-Link](SZCORigging-Link.html) <br> [SZCORigging-Sling](SZCORigging-Sling.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Rigging Item Class |
 
 
 ## Functions:

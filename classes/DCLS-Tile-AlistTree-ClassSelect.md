@@ -1,6 +1,11 @@
 
 # Class:	DCLS-Tile-AlistTree-ClassSelect
 
+## Description:
+
+ClassSelect Alist Tree View
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | ClassSelect Alist Tree View |
 
 ### DCLS-Tile-AlistTree-ClassSelect-Make
 

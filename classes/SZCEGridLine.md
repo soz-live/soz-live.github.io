@@ -1,6 +1,11 @@
 
 # Class:	SZCEGridLine
 
+## Description:
+
+SZCEGridLine Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEGridLine Class |
 
 ### SZCEGridLine-Make
 
@@ -19,7 +23,7 @@
 | MATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | ROTATION | [Deg](Deg.html) |  |
 | OFFSET | [Real](Real.html) |  |
-| TYP | [Enum-AcDbLinearType](Enum-AcDbLinearType.html) |  |
+| TYP | [Enum-SZCELinearType](Enum-SZCELinearType.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCEGridLine](SZCEGridLine.html) |
 | Help: | Make a SZCEGridLine |

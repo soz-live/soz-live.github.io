@@ -1,6 +1,11 @@
 
 # Class:	Option-FractalDepth
 
+## Description:
+
+FractalDepth Options
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-misc](/repos/soz-misc.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | FractalDepth Options |
 
 ### Option-FractalDepth-Make
 

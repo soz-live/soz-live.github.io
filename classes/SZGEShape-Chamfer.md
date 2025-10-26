@@ -1,6 +1,11 @@
 
 # Class:	SZGEShape-Chamfer
 
+## Description:
+
+Chamfer Shape
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Chamfer Shape |
 
 ### SZGEShape-Chamfer-Make
 

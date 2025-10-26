@@ -1,6 +1,11 @@
 
 # Class:	SZGEPlane-Mitre
 
+## Description:
+
+SZGEPlane-Mitre Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEPlane-Mitre Class |
 
 ### SZGEPlane-Mitre-Make
 

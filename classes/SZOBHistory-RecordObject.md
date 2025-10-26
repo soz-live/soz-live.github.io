@@ -1,6 +1,11 @@
 
 # Class:	SZOBHistory-RecordObject
 
+## Description:
+
+Base History RecordObject Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-history](/repos/soz-history.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Base History RecordObject Class |
 
 
 ## Functions:

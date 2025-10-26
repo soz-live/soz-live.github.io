@@ -1,5 +1,10 @@
 
-# Class:	SZCEModel-TwistedLink
+# Class:	SZCERigging-TwistedLink
+
+## Description:
+
+TwistedLink Block
+
 
 | Fields | Values |
 | --------- | --------- |
@@ -10,15 +15,14 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | TwistedLink Block |
 
-### SZCEModel-TwistedLink-Make
+### SZCERigging-TwistedLink-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LOOP | [SZGE3dCurve-TwistedSling](SZGE3dCurve-TwistedSling.html) |  |
 | --- | --- | --- |
-| Returns: | [SZCEModel-TwistedLink](SZCEModel-TwistedLink.html) |
+| Returns: | [SZCERigging-TwistedLink](SZCERigging-TwistedLink.html) |
 | Help: | Make TwistedLink Block |
 
 

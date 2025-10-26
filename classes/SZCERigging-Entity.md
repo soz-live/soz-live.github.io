@@ -1,6 +1,11 @@
 
 # Class:	SZCERigging-Entity
 
+## Description:
+
+Base Rigging Entity Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZCERigging-Shackle](SZCERigging-Shackle.html), [SZCERigging-Link](SZCERigging-Link.html), [SZCERigging-TwistedSling](SZCERigging-TwistedSling.html) |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Base Rigging Entity Class |
 
 
 ## Functions:

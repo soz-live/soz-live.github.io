@@ -1,6 +1,11 @@
 
 # Class:	Comment
 
+## Description:
+
+Comment
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPComment](SZLPComment.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Comment |
 
 ### Comment-Make
 

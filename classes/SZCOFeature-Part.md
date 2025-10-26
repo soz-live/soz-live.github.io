@@ -1,6 +1,11 @@
 
 # Class:	SZCOFeature-Part
 
+## Description:
+
+Base Part Feature
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZCOFeatures-Part](SZCOFeatures-Part.html) |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | Base Part Feature |
 
 
 ## Functions:

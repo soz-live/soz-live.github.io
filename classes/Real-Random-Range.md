@@ -1,6 +1,11 @@
 
 # Class:	Real-Random-Range
 
+## Description:
+
+Real Random Number between LOW and HIGH
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-random](/repos/soz-random.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Real Random Number between LOW and HIGH |
 
 ### Real-Random-Range-Make
 

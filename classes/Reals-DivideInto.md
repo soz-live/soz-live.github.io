@@ -1,6 +1,11 @@
 
 # Class:	Reals-DivideInto
 
+## Description:
+
+Reals-DivideInto Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: | [SZLPReals-DivideInto](SZLPReals-DivideInto.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | Reals-DivideInto Class |
 
 ### Reals-DivideInto-Make
 

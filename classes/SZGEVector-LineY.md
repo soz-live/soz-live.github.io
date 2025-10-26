@@ -1,6 +1,11 @@
 
 # Class:	SZGEVector-LineY
 
+## Description:
+
+SZGEVector-LineY Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEVector-LineY Class |
 
 ### SZGEVector-LineY-Make
 

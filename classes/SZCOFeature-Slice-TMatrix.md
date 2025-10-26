@@ -1,6 +1,11 @@
 
 # Class:	SZCOFeature-Slice-TMatrix
 
+## Description:
+
+SZCOFeature-Slice-TMatrix Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCOFeature-Slice-TMatrix Class |
 
 ### SZCOFeature-Slice-TMatrix-Make
 

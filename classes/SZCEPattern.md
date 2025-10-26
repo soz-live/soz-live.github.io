@@ -1,6 +1,11 @@
 
 # Class:	SZCEPattern
 
+## Description:
+
+SZCEPattern Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEPattern Class |
 
 ### SZCEPattern-Make
 

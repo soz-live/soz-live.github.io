@@ -1,6 +1,11 @@
 
 # Class:	SZCEPlanes-OnCurve-Tangent
 
+## Description:
+
+SZCEPlanes-OnCurve-Tangent Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
-| Help: | SZCEPlanes-OnCurve-Tangent Class |
 
 ### SZCEPlanes-OnCurve-Tangent-Make
 

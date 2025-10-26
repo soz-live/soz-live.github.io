@@ -1,6 +1,11 @@
 
 # Class:	SZGEShape-Rectangle-Filleted
 
+## Description:
+
+SZGEShape-Rectangle-Filleted Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGEShape-Rectangle-Filleted Class |
 
 ### SZGEShape-Rectangle-Filleted-Make
 

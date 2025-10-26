@@ -1,6 +1,11 @@
 
 # Class:	SZGETMatrix-Curve-AtDist
 
+## Description:
+
+SZGETMatrix-Curve-AtDist Class
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
-| Help: | SZGETMatrix-Curve-AtDist Class |
 
 ### SZGETMatrix-Curve-AtDist-Make
 

@@ -1,6 +1,11 @@
 
 # Class:	SZCEPoints
 
+## Description:
+
+List of Points
+
+
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
@@ -10,7 +15,6 @@
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |
-| Help: | List of Points |
 
 
 ## Functions:
