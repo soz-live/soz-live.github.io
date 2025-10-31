@@ -1,33 +1,20 @@
 
-# Class:	SZCORigging-Triangle
+# Class:	SZCERigging
 
 ## Description:
 
-Rigging Triangle Class
+Base Rigging Entity Class
 
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
-| Superclass: | [SZCORigging-LiftingBeam](SZCORigging-LiftingBeam.html) |
-| Subclasses: |  |
+| Superclass: | [SZCORigging](SZCORigging.html) |
+| Subclasses: | [SZCERigging-Arrgt](SZCERigging-Arrgt.html) |
 | Interfaces: |  |
-| Interfaced: |  |
-| Abstract?: | No |
+| Interfaced: | [SZCERigging-Shackle](SZCERigging-Shackle.html), [SZCERigging-Link](SZCERigging-Link.html), [SZCERigging-Chain](SZCERigging-Chain.html), [SZCERigging-TwistedChain](SZCERigging-TwistedChain.html), [SZCERigging-TwistedSling](SZCERigging-TwistedSling.html) |
+| Abstract?: | Yes |
 | isValue?: | No |
-
-### SZCORigging-Triangle-Make
-
-| Keys | Types | Help |
-| --------- | --------- | --------- |
-| LABEL | [Comment](Comment.html) |  |
-| WOR | [Real](Real.html) |  |
-| WLL | [Real](Real.html) |  |
-| LWIDTH | [Real](Real.html) |  |
-| DEPTH | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCORigging-Triangle](SZCORigging-Triangle.html) |
-| Help: | Triangle |
 
 
 ## Functions:

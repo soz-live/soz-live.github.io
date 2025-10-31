@@ -169,6 +169,6 @@ To access all of the Commands in a dialog box - type **Y** at the command line.
     - V-ResetEntities
     - V-SetEntities
 
-Version:  1.26.3
+Version:  1.26.4
 <br>
-Date: 20251026.1955
+Date: 20251031.1809

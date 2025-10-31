@@ -10,7 +10,7 @@ SZCEEntities Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOObjects](SZCOObjects.html) |
-| Subclasses: | [SZCE3dSolids](SZCE3dSolids.html) <br> [SZCOFeatures](SZCOFeatures.html) <br> [SZCEParts](SZCEParts.html) <br> [SZCECurves](SZCECurves.html) <br> [SZCEPattern](SZCEPattern.html) <br> [SZCEGrid](SZCEGrid.html) <br> [SZCEPlanes](SZCEPlanes.html) <br> [SZCEPoints](SZCEPoints.html) <br> [SZCEUCSs](SZCEUCSs.html) <br> [SZCESections](SZCESections.html) |
+| Subclasses: | [SZCE3dSolids](SZCE3dSolids.html) <br> [SZCESections](SZCESections.html) <br> [SZCOFeatures](SZCOFeatures.html) <br> [SZCEParts](SZCEParts.html) <br> [SZCECurves](SZCECurves.html) <br> [SZCEPattern](SZCEPattern.html) <br> [SZCEGrid](SZCEGrid.html) <br> [SZCEPlanes](SZCEPlanes.html) <br> [SZCEPoints](SZCEPoints.html) <br> [SZCEUCSs](SZCEUCSs.html) |
 | Interfaces: | [Set:AcDbEntity](Set:AcDbEntity.html) |
 | Interfaced: |  |
 | Abstract?: | Yes |

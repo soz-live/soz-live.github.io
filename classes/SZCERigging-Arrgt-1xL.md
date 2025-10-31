@@ -1,33 +1,34 @@
 
-# Class:	SZCORigging-Arrgt-2xL
+# Class:	SZCERigging-Arrgt-1xL
 
 ## Description:
 
-Rigging 2xL Class
+Rigging 1xL Class
 
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
-| Superclass: | [SZCORigging-Arrgt](SZCORigging-Arrgt.html) |
+| Superclass: | [SZCERigging-Arrgt](SZCERigging-Arrgt.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
 
-### SZCORigging-Arrgt-2xL-Make
+### SZCERigging-Arrgt-1xL-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LABEL | [Comment](Comment.html) |  |
 | LEG | [SZCORigging-Leg](SZCORigging-Leg.html) |  |
-| BASE0 | [SZGEPoint](SZGEPoint.html) |  |
-| BASE1 | [SZGEPoint](SZGEPoint.html) |  |
+| BASE | [SZGEPoint](SZGEPoint.html) |  |
+| DX | [Real](Real.html) |  |
+| DY | [Real](Real.html) |  |
 | STARTANG | [Deg](Deg.html) |  |
 | --- | --- | --- |
-| Returns: | [SZCORigging-Arrgt-2xL](SZCORigging-Arrgt-2xL.html) |
-| Help: | Rigging 2xL |
+| Returns: | [SZCERigging-Arrgt-1xL](SZCERigging-Arrgt-1xL.html) |
+| Help: | Make Rigging 1xL |
 
 
 ## Functions:

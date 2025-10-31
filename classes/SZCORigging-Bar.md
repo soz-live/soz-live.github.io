@@ -10,7 +10,7 @@ Rigging Bar Class
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
 | Superclass: | [SZCORigging-Item](SZCORigging-Item.html) |
-| Subclasses: | [SZCORigging-LiftingBeam](SZCORigging-LiftingBeam.html) <br> [SZCORigging-SpreaderBar](SZCORigging-SpreaderBar.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

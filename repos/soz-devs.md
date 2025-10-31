@@ -55,6 +55,6 @@ This repo includes functionality for Developers of **soz-live**, including:
             - [SZDODef](/classes/SZDODef.html)
               - [SZDODef-Function](/classes/SZDODef-Function.html)
 
-Version:  1.26.3
+Version:  1.26.4
 <br>
-Date: 20251026.1955
+Date: 20251031.1809

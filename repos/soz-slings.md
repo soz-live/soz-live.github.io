@@ -49,6 +49,6 @@ With this repo it is possible to create editable:
           - [SZGE3dCurve](/classes/SZGE3dCurve.html)
             - [SZGE3dCurve-TwistedSling](/classes/SZGE3dCurve-TwistedSling.html)
 
-Version:  1.26.3
+Version:  1.26.4
 <br>
-Date: 20251026.1955
+Date: 20251031.1809

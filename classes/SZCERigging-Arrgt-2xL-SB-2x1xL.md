@@ -1,22 +1,22 @@
 
-# Class:	SZCORigging-Arrgt-2xL-SB-2x2xL
+# Class:	SZCERigging-Arrgt-2xL-SB-2x1xL
 
 ## Description:
 
-Rigging 2xL-SB-2x2xL Class
+Rigging 2xL-SB-2x1xL Class
 
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
-| Superclass: | [SZCORigging-Arrgt](SZCORigging-Arrgt.html) |
+| Superclass: | [SZCERigging-Arrgt](SZCERigging-Arrgt.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
 
-### SZCORigging-Arrgt-2xL-SB-2x2xL-Make
+### SZCERigging-Arrgt-2xL-SB-2x1xL-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
@@ -24,11 +24,11 @@ Rigging 2xL-SB-2x2xL Class
 | ULEG | [SZCORigging-Leg](SZCORigging-Leg.html) |  |
 | SB0 | [SZCORigging-SpreaderBar](SZCORigging-SpreaderBar.html) |  |
 | LLEG | [SZCORigging-Leg](SZCORigging-Leg.html) |  |
-| BASELL | [SZGEPoint](SZGEPoint.html) |  |
-| BASEUR | [SZGEPoint](SZGEPoint.html) |  |
+| BASE0 | [SZGEPoint](SZGEPoint.html) |  |
+| BASE1 | [SZGEPoint](SZGEPoint.html) |  |
 | --- | --- | --- |
-| Returns: | [SZCORigging-Arrgt-2xL-SB-2x2xL](SZCORigging-Arrgt-2xL-SB-2x2xL.html) |
-| Help: | Rigging 2xL-SB-2x2xL |
+| Returns: | [SZCERigging-Arrgt-2xL-SB-2x1xL](SZCERigging-Arrgt-2xL-SB-2x1xL.html) |
+| Help: | Rigging 2xL-SB-2x1xL |
 
 
 ## Functions:

@@ -10,7 +10,7 @@ Base Rigging Object Class
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
 | Superclass: | [SZCORigging](SZCORigging.html) |
-| Subclasses: | [SZCORigging-Leg](SZCORigging-Leg.html) <br> [SZCORigging-Item](SZCORigging-Item.html) |
+| Subclasses: | [SZCORigging-Item](SZCORigging-Item.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

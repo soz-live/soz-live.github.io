@@ -11,7 +11,7 @@ Twisted Sling Model
 | Repo: | [soz-slings](/repos/soz-slings.html) |
 | Superclass: | [SZCEPart-FilletedSweep-MultiRadii](SZCEPart-FilletedSweep-MultiRadii.html) |
 | Subclasses: |  |
-| Interfaces: | [SZCERigging-Entity](SZCERigging-Entity.html) |
+| Interfaces: | [SZCERigging](SZCERigging.html) |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |

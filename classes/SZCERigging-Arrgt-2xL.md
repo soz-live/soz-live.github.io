@@ -1,20 +1,33 @@
 
-# Class:	SZCERigging-Entity
+# Class:	SZCERigging-Arrgt-2xL
 
 ## Description:
 
-Base Rigging Entity Class
+Rigging 2xL Class
 
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
-| Superclass: | [SZCORigging](SZCORigging.html) |
+| Superclass: | [SZCERigging-Arrgt](SZCERigging-Arrgt.html) |
 | Subclasses: |  |
 | Interfaces: |  |
-| Interfaced: | [SZCERigging-Shackle](SZCERigging-Shackle.html), [SZCERigging-Link](SZCERigging-Link.html), [SZCERigging-TwistedSling](SZCERigging-TwistedSling.html) |
-| Abstract?: | Yes |
+| Interfaced: |  |
+| Abstract?: | No |
 | isValue?: | No |
+
+### SZCERigging-Arrgt-2xL-Make
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| LABEL | [Comment](Comment.html) |  |
+| LEG | [SZCORigging-Leg](SZCORigging-Leg.html) |  |
+| BASE0 | [SZGEPoint](SZGEPoint.html) |  |
+| BASE1 | [SZGEPoint](SZGEPoint.html) |  |
+| STARTANG | [Deg](Deg.html) |  |
+| --- | --- | --- |
+| Returns: | [SZCERigging-Arrgt-2xL](SZCERigging-Arrgt-2xL.html) |
+| Help: | Rigging 2xL |
 
 
 ## Functions:

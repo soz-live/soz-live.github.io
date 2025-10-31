@@ -1,34 +1,20 @@
 
-# Class:	SZCORigging-SpreaderBar
+# Class:	SZCERigging-Arrgt
 
 ## Description:
 
-Rigging Spreader Class
+Rigging Arrgt Class
 
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
-| Superclass: | [SZCORigging-Bar](SZCORigging-Bar.html) |
-| Subclasses: |  |
+| Superclass: | [SZCERigging](SZCERigging.html) |
+| Subclasses: | [SZCERigging-Arrgt-2xL-SB-2x2xL](SZCERigging-Arrgt-2xL-SB-2x2xL.html) <br> [SZCERigging-Arrgt-2xL-SB-2x1xL](SZCERigging-Arrgt-2xL-SB-2x1xL.html) <br> [SZCERigging-Arrgt-4xL](SZCERigging-Arrgt-4xL.html) <br> [SZCERigging-Arrgt-2xL](SZCERigging-Arrgt-2xL.html) <br> [SZCERigging-Arrgt-1xL](SZCERigging-Arrgt-1xL.html) <br> [SZCERigging-Arrgt-OnLine](SZCERigging-Arrgt-OnLine.html) |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | No |
+| Abstract?: | Yes |
 | isValue?: | No |
-
-### SZCORigging-SpreaderBar-Make
-
-| Keys | Types | Help |
-| --------- | --------- | --------- |
-| LABEL | [Comment](Comment.html) |  |
-| WOR | [Real](Real.html) |  |
-| WLL | [Real](Real.html) |  |
-| UWIDTH | [Real](Real.html) |  |
-| LWIDTH | [Real](Real.html) |  |
-| DEPTH | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCORigging-SpreaderBar](SZCORigging-SpreaderBar.html) |
-| Help: | SpreaderBar |
 
 
 ## Functions:

@@ -1,20 +1,32 @@
 
-# Class:	SZCORigging-LiftingBeam
+# Class:	SZCERigging-Arrgt-4xL
 
 ## Description:
 
-Rigging LiftingBeam Class
+Rigging 4xL Class
 
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
-| Superclass: | [SZCORigging-Bar](SZCORigging-Bar.html) |
-| Subclasses: | [SZCORigging-Triangle](SZCORigging-Triangle.html) |
+| Superclass: | [SZCERigging-Arrgt](SZCERigging-Arrgt.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | Yes |
+| Abstract?: | No |
 | isValue?: | No |
+
+### SZCERigging-Arrgt-4xL-Make
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| LABEL | [Comment](Comment.html) |  |
+| LEG | [SZCORigging-Leg](SZCORigging-Leg.html) |  |
+| BASELL | [SZGEPoint](SZGEPoint.html) |  |
+| BASEUR | [SZGEPoint](SZGEPoint.html) |  |
+| --- | --- | --- |
+| Returns: | [SZCERigging-Arrgt-4xL](SZCERigging-Arrgt-4xL.html) |
+| Help: | Rigging 4xL |
 
 
 ## Functions:

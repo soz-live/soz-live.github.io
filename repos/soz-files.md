@@ -25,6 +25,6 @@ With this repo it is possible to import and export **soz** objects to various fi
               - [File-CSV](/classes/File-CSV.html)
                 - [File-CSVA](/classes/File-CSVA.html)
 
-Version:  1.26.3
+Version:  1.26.4
 <br>
-Date: 20251026.1955
+Date: 20251031.1809

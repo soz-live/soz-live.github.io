@@ -11,7 +11,7 @@ Link Def
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
 | Superclass: | [SZCERigging-ChainLink](SZCERigging-ChainLink.html) |
 | Subclasses: |  |
-| Interfaces: | [SZCERigging-Entity](SZCERigging-Entity.html) |
+| Interfaces: | [SZCERigging](SZCERigging.html) |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |

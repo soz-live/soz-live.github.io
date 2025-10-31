@@ -3,13 +3,13 @@
 
 ## Description:
 
-Rigging Leg Class
+Rigging Leg Class - Top to Bottom
 
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-rigging](/repos/soz-rigging.html) |
-| Superclass: | [SZCORigging-Object](SZCORigging-Object.html) |
+| Superclass: | [SZCORigging](SZCORigging.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
@@ -24,7 +24,7 @@ Rigging Leg Class
 | ITEMS | [List:SZCORigging-Item](SZCORigging-Item.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCORigging-Leg](SZCORigging-Leg.html) |
-| Help: | Make a rigging Leg |
+| Help: | Make a rigging Leg. |
 
 
 ## Functions:
