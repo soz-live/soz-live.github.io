@@ -73,7 +73,7 @@ And:
 | Description | Comment | a Description of the Class being created |
 
 
-{% include note.html content="<br>- Many of the specified classes are Abstract classes - meaning that they can't be instanced / objects created from them.<br>- They are used to set out the hierarchy in a logical fashion so that LSP works for each type / class specified." %}
+{% include note.html content="<br> - Many of the specified classes are Abstract classes - meaning that they can't be instanced / objects created from them.<br> - They are used to set out the hierarchy in a logical fashion so that LSP works for each type / class specified." %}
 
 
 ## Objects
@@ -142,4 +142,4 @@ And:
 
 For the full list - refer to the [Categories document](/docs/categories.html).
 
-{% include note.html content="<br>- Each Category has a corresponding M- (Make) command that can be entered at the command line.<br>- This resolves class naming issues as the class name can be all about functionality." %}
+{% include note.html content="<br> - Each Category has a corresponding M- (Make) command that can be entered at the command line.<br> - This resolves class naming issues as the class name can be all about functionality." %}

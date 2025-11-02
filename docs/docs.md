@@ -26,7 +26,7 @@ This documentation is focussed on a User of the project:
   - [Model](/users/docs/model.html).
   - [Present](/users/docs/present.html).
 
-{% include note.html content="<br>- There is more that needs to be done here!" %}
+{% include note.html content="<br> - There is more that needs to be done here!" %}
 
 
 ## Coders
@@ -39,7 +39,7 @@ This documentation is focussed on a Coder of the project:
 - [SOZ Class Information](/coders/docs/classes.html).
 - [SOZ Method Information](/coders/docs/methods.html).
 
-{% include note.html content="<br>- And there is more that needs to be done here too!" %}
+{% include note.html content="<br> - And there is more that needs to be done here too!" %}
 
 
 ## References
