@@ -14,4 +14,4 @@ layout: default
 In this document we will go into details of the various types used during the Present stage of Model creation.
 
 
-{% include note.html content="<br>More to do here!" %}
+{% include note.html content="<br> - More to do here!" %}

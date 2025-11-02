@@ -75,4 +75,4 @@ All with the ability to Edit and Update previously created Objects and Entities.
 
 - [Part 1](/users/videos/part-1.html) - an example of a Boolean Feature Solid.  
 
-{% include note.html content="<br>More that needs to be done here!" %} 
+{% include note.html content="<br> - More that needs to be done here!" %} 
