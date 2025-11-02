@@ -32,7 +32,7 @@ The current status of the project is **Private Beta**.
 - a Node-based user interface (UI), **LIVE**, for iterative modelling.
 - and a consistent Graphical User Interface (GUI).  
 
-Refer to the [Users Introduction](/users/docs/intro.html) for details.
+Refer to the [Users Introduction](/users/intro.html) for details.
 
 
 ## For Coders
@@ -45,7 +45,7 @@ Written entirely in Lisp, **SOZ** combines the best of:
 
 With a structured and expressive approach to programming in CAD, **SOZ** gives creative power to Coders to extend and develop the project in the direction required.  
 
-Refer to the [Coders Introduction](/coders/docs/intro.html) for details.
+Refer to the [Coders Introduction](/coders/intro.html) for details.
 
 
 ## Platforms

@@ -6,9 +6,9 @@ columns:
       - name: Documents
         link: /docs/docs.html        
       - name: Users
-        link: /users/docs/intro.html    
+        link: /users/intro.html    
       - name: Coders
-        link: /coders/docs/intro.html  
+        link: /coders/intro.html  
   - title: References
     subitems:
       - name: Glossary

@@ -16,15 +16,15 @@ This page lists documentation for **SOZ-LIVE** in the following sections:
 
 This documentation is focussed on a User of the project:  
 
-- [Users Introduction](/users/docs/intro.html). 
-- [Basic Concepts](/users/docs/basics.html).
-- [Quickstart Guide](/users/docs/quickstart.html).
-- [User Interface Basics](/users/docs/uibasics.html).
+- [Users Introduction](/users/intro.html). 
+- [Basic Concepts](/users/basics.html).
+- [Quickstart Guide](/users/quickstart.html).
+- [User Interface Basics](/users/uibasics.html).
 - SOZ Process
-  - [Specify](/users/docs/specify.html).
-  - [Draft](/users/docs/draft.html).
-  - [Model](/users/docs/model.html).
-  - [Present](/users/docs/present.html).
+  - [Specify](/users/specify.html).
+  - [Draft](/users/draft.html).
+  - [Model](/users/model.html).
+  - [Present](/users/present.html).
 
 {% include note.html content="<br> - There is more that needs to be done here!" %}
 
@@ -33,11 +33,11 @@ This documentation is focussed on a User of the project:
 
 This documentation is focussed on a Coder of the project:  
 
-- [Coders Introduction](/coders/docs/intro.html). 
-- [Lisp Introduction](/coders/docs/lisp.html).
-- [Basic Information](/coders/docs/basics.html).
-- [SOZ Class Information](/coders/docs/classes.html).
-- [SOZ Method Information](/coders/docs/methods.html).
+- [Coders Introduction](/coders/intro.html). 
+- [Lisp Introduction](/coders/lisp.html).
+- [Basic Information](/coders/basics.html).
+- [SOZ Class Information](/coders/classes.html).
+- [SOZ Method Information](/coders/methods.html).
 
 {% include note.html content="<br> - And there is more that needs to be done here too!" %}
 
