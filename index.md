@@ -29,8 +29,8 @@ The current status of the project is **Private Beta**.
   - Parts
   - Features
   - Assemblies
-- a Node-based user interface (UI), **LIVE**, for iterative modelling.
-- and a consistent Graphical User Interface (GUI).  
+- a Node-based user interface (UI), **LIVE**, for iterative modelling, and
+- a consistent Graphical User Interface (GUI).  
 
 Refer to the [Users Introduction](/users/intro.html) for details.
 
