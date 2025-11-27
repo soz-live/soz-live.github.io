@@ -1,0 +1,5 @@
+<a 
+  {% assign repo = include.id %}
+  {% capture path %}"/repos/"{{ repo }}".html"{% endcapture %}
+  href={{ path }}>{{ repo }}
+  </a>

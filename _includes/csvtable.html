@@ -9,7 +9,13 @@
     {% endif %}
 
     {% tablerow pair in row %}
-      {{ pair[1] }}
+      {% if pair[0] == "Repo" %}
+        {% include repolink.html id=pair[1] %}
+      {% else %}
+        {{ pair[1] }}
+      {% endif %}
     {% endtablerow %}
   {% endfor %}
 </table>
+
+
