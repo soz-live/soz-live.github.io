@@ -1,19 +1,10 @@
 ---
-title: Release Features
+title: Release Repos
 ---
 
-<table>
-  {% for row in site.data.releases %}
-    {% if forloop.first %}
-    <tr>
-      {% for pair in row %}
-        <th>{{ pair[0] }}</th>
-      {% endfor %}
-    </tr>
-    {% endif %}
+# Release Repos
 
-    {% tablerow pair in row %}
-      {{ pair[1] }}
-    {% endtablerow %}
-  {% endfor %}
-</table>
+Below is a table of repos vs releases, showing which repos are included with each release.  
+
+
+{% include csvtable.html id=site.data.releases %}
