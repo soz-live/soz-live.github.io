@@ -3,7 +3,7 @@ layout: post
 author: Tim_M
 ---
 
-We live in a world where we interact through strings, via languages, whether they be human, written or spoken, or computer or mathematical.
+We live in a world where we interact through strings, via languages, whether they be human, written, spoken, computer or mathematical.
 
 ## Strings
 
@@ -24,7 +24,7 @@ And as with a programming language, there are other symbols and syntax that are 
 
 ## Conclusion
 
-**SOZ** uses strings in places where other programming languages might use symbols, becuase:
+**SOZ** uses strings in places where other programming languages might use symbols, because:
 
 - Users have to be able to read the strings.
 - converting strings to symbols is easy.
@@ -35,4 +35,4 @@ And as with a programming language, there are other symbols and syntax that are 
 - String -> Symbol for within Lisp.
 - String -> Number for within equations.
 
-It makes perfect sense then to use Strings as the basis for human understanding and communication as well as for conversion into other forms for the various languages as required.
+It makes perfect sense then to use Strings as the basis for human understanding and communication as well as for conversion into other forms for the various purposes as required.
