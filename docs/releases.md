@@ -1,8 +1,8 @@
 ---
-title: Release Repos
+title: Releases
 ---
 
-# Release Repos
+# Releases
 
 Below is a table of repos vs releases, showing which repos are included with each release.  
 

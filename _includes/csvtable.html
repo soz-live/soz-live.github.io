@@ -9,7 +9,7 @@
     {% endif %}
 
     {% tablerow pair in row %}
-      {{ pair[1] }}
+      {{ pair[1] | markdownify }}
     {% endtablerow %}
   {% endfor %}
 </table>
