@@ -1,4 +1,4 @@
-<table>
+<table  style="width:100%">
   {% for row in include.id %}
     {% if forloop.first %}
     <tr>
@@ -9,11 +9,7 @@
     {% endif %}
 
     {% tablerow pair in row %}
-      {% if pair[0] == "Repo" %}
-        {% include repolink.html id=pair[1] %}
-      {% else %}
-        {{ pair[1] }}
-      {% endif %}
+      {{ pair[1] }}
     {% endtablerow %}
   {% endfor %}
 </table>
