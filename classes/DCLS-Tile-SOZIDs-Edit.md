@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Tile-SOZIDs-Edit
 
-## Description:
+### Description:
 
 DCL SOZIDs Edit
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

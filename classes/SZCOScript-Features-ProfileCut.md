@@ -1,10 +1,13 @@
 
 # Class:	SZCOScript-Features-ProfileCut
 
-## Description:
+### Description:
 
 Profile Cuts
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

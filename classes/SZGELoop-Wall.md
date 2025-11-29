@@ -1,10 +1,13 @@
 
 # Class:	SZGELoop-Wall
 
-## Description:
+### Description:
 
 SZGELoop-Wall Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |
@@ -34,6 +37,6 @@ SZGELoop-Wall Class
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZGELoop-Face-Make](SZGELoop-Face.html) <br> [SZGELoop-Points-Make](SZGELoop-Points.html) <br> [SZGELoop-Make](SZGELoop.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZGELoop-Face-Make](SZGELoop-Face.html) <br> [SZGELoop-Points-Make](SZGELoop-Points.html) <br> [SZGELoop-Make](SZGELoop.html) <br> [SZOBObject-IndexOfXOBJS](SZOBObject.html) <br> [SZOBObject-AddIOBJ](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

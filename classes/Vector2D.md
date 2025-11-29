@@ -1,10 +1,13 @@
 
 # Class:	Vector2D
 
-## Description:
+### Description:
 
 Vector2D Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

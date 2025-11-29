@@ -1,10 +1,13 @@
 
 # Class:	Face-3xPoints
 
-## Description:
+### Description:
 
 Face-3xPoints Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

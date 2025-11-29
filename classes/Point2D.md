@@ -1,10 +1,13 @@
 
 # Class:	Point2D
 
-## Description:
+### Description:
 
 Point2D Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

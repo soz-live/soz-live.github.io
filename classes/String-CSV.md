@@ -1,10 +1,13 @@
 
 # Class:	String-CSV
 
-## Description:
+### Description:
 
 String-CSV Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

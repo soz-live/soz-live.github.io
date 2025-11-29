@@ -1,10 +1,13 @@
 
 # Class:	Enum-AcDb3dPolylineType
 
-## Description:
+### Description:
 
 AcDb3dPolylineType
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	Reals-AlternateSpacing
 
-## Description:
+### Description:
 
 Reals-AlternateSpacing Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	SZOBBase
 
-## Description:
+### Description:
 
 SZOBBase is the Base Class for all Classes in SOZ.
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

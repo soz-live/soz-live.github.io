@@ -1,10 +1,13 @@
 
 # Class:	Axes
 
-## Description:
+### Description:
 
 Axes Vectors Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

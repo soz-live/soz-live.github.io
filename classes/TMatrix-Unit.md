@@ -1,10 +1,13 @@
 
 # Class:	TMatrix-Unit
 
-## Description:
+### Description:
 
 TMatrix-Unit Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

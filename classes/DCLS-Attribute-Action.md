@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Attribute-Action
 
-## Description:
+### Description:
 
 DCL Action Attribute
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

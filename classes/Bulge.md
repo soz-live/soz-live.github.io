@@ -1,10 +1,13 @@
 
 # Class:	Bulge
 
-## Description:
+### Description:
 
 Loop Bulge Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

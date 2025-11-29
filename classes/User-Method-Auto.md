@@ -1,10 +1,13 @@
 
 # Class:	User-Method-Auto
 
-## Description:
+### Description:
 
 User Auto Method Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

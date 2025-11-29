@@ -1,10 +1,13 @@
 
 # Class:	SZCOScript-ModelGroups
 
-## Description:
+### Description:
 
 Model Group Scripts
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

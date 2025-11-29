@@ -1,10 +1,13 @@
 
 # Class:	User-Make-Key
 
-## Description:
+### Description:
 
 User KeyMake Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

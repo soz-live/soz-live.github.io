@@ -1,10 +1,13 @@
 
 # Class:	Option-EditList
 
-## Description:
+### Description:
 
 EditList Options
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

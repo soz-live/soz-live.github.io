@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Attribute-Key
 
-## Description:
+### Description:
 
 DCL Key Attribute
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

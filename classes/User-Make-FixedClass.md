@@ -1,10 +1,13 @@
 
 # Class:	User-Make-FixedClass
 
-## Description:
+### Description:
 
 User Make-FixedClass Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	SZCEScript-Columns-FootingToOpenEnd
 
-## Description:
+### Description:
 
 Columns
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

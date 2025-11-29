@@ -1,10 +1,13 @@
 
 # Class:	AXCollection
 
-## Description:
+### Description:
 
 A Collection Object
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	Enum-SZCECircle
 
-## Description:
+### Description:
 
 Enum-SZCECircle Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

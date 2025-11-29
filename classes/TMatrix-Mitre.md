@@ -1,10 +1,13 @@
 
 # Class:	TMatrix-Mitre
 
-## Description:
+### Description:
 
 Mitre Matrix
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	ODBXScript-Section-PaperSpace-Setup
 
-## Description:
+### Description:
 
 PaperSpace Script
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

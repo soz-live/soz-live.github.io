@@ -1,10 +1,13 @@
 
 # Class:	Plane-Points
 
-## Description:
+### Description:
 
 Plane-Points Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

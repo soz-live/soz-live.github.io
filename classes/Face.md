@@ -1,10 +1,13 @@
 
 # Class:	Face
 
-## Description:
+### Description:
 
 Face Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	Planes
 
-## Description:
+### Description:
 
 Planes Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	Option-Integer
 
-## Description:
+### Description:
 
 Integer Options
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -105,10 +105,9 @@ All scripts, functions that are run for their internal effects only, are sub-cla
           - [File](/classes/File.html)
             - [File-DWG](/classes/File-DWG.html)
             - [File-TXT](/classes/File-TXT.html)
-              - [File-CSV](/classes/File-CSV.html)
+              - [File-DAT](/classes/File-DAT.html)
               - [File-LSP](/classes/File-LSP.html)
               - [File-MD](/classes/File-MD.html)
-              - [File-SOZ](/classes/File-SOZ.html)
           - [Number](/classes/Number.html)
             - [Real](/classes/Real.html)
               - [Angle](/classes/Angle.html)
@@ -308,8 +307,8 @@ All scripts, functions that are run for their internal effects only, are sub-cla
             - [Strings](/classes/Strings.html)
               - [Keys](/classes/Keys.html)
           - [Cons](/classes/Cons.html)
-          - [Pair](/classes/Pair.html)
-            - [Property](/classes/Property.html)
+            - [Pair](/classes/Pair.html)
+              - [Property](/classes/Property.html)
           - [Set](/classes/Set.html)
             - [AcDbPickSet](/classes/AcDbPickSet.html)
           - [Tree](/classes/Tree.html)
@@ -589,7 +588,6 @@ All scripts, functions that are run for their internal effects only, are sub-cla
     - [SZOBObject-Value](/classes/SZOBObject-Value.html)
       - [SZOBObject-IndexOf](/classes/SZOBObject-IndexOf.html)
       - [SZOBObject-IndexOfKey](/classes/SZOBObject-IndexOfKey.html)
-        - [SZOBObject-IndexOfXOBJS](/classes/SZOBObject-IndexOfXOBJS.html)
       - [SZOBObject-KeysOf](/classes/SZOBObject-KeysOf.html)
         - [SZOBObject-KeyOf](/classes/SZOBObject-KeyOf.html)
     - [SZOBValue](/classes/SZOBValue.html)
@@ -946,6 +944,6 @@ All scripts, functions that are run for their internal effects only, are sub-cla
           - [SZCOScript-Features-ProfileCut](/classes/SZCOScript-Features-ProfileCut.html)
       - [SZCOScript-ModelGroups](/classes/SZCOScript-ModelGroups.html)
 
-Version:  1.26.4
+Version:  1.27.0
 <br>
-Date: 20251031.1809
+Date: 20251129.135

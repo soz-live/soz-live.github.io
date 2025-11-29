@@ -1,10 +1,13 @@
 
 # Class:	Comment
 
-## Description:
+### Description:
 
 Comment
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

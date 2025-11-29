@@ -1,10 +1,13 @@
 
 # Class:	Alist
 
-## Description:
+### Description:
 
 Basic Alist - key value pairs
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |
@@ -30,7 +33,7 @@ Basic Alist - key value pairs
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | AL | [Alist](Alist.html) |  |
-| K | [Key](Key.html) |  |
+| K | [Atom](Atom.html) |  |
 | --- | --- | --- |
 | Returns: | [SZOBBase](SZOBBase.html) |
 | Help: | Get an Alist Key |
@@ -40,7 +43,7 @@ Basic Alist - key value pairs
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | AL | [Alist](Alist.html) |  |
-| K | [Key](Key.html) |  |
+| K | [Atom](Atom.html) |  |
 | V | [SZOBBase](SZOBBase.html) |  |
 | --- | --- | --- |
 | Returns: | [Alist](Alist.html) |

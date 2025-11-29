@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Dialog
 
-## Description:
+### Description:
 
 DCL Dialog Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	User-Method
 
-## Description:
+### Description:
 
 User Method Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

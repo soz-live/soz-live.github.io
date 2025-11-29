@@ -1,10 +1,13 @@
 
 # Class:	Face-4xPoints
 
-## Description:
+### Description:
 
 Face-4xPoints Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

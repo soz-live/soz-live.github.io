@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Tile-EditBox
 
-## Description:
+### Description:
 
 DCL EditBox
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

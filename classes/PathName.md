@@ -1,10 +1,13 @@
 
 # Class:	PathName
 
-## Description:
+### Description:
 
 PathName
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

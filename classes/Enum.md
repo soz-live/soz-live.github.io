@@ -1,10 +1,13 @@
 
 # Class:	Enum
 
-## Description:
+### Description:
 
 Enum Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

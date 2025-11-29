@@ -1,10 +1,13 @@
 
 # Class:	Logical
 
-## Description:
+### Description:
 
 Base Logical Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

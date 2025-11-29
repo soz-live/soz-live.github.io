@@ -1,10 +1,13 @@
 
 # Class:	User-Edit-Keys
 
-## Description:
+### Description:
 
 User Edit Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

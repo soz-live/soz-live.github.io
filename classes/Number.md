@@ -1,10 +1,13 @@
 
 # Class:	Number
 
-## Description:
+### Description:
 
 Basic Number Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

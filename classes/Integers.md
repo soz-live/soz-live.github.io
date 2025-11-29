@@ -1,10 +1,13 @@
 
 # Class:	Integers
 
-## Description:
+### Description:
 
 Integer Lists
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

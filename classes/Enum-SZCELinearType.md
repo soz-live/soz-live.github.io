@@ -1,10 +1,13 @@
 
 # Class:	Enum-SZCELinearType
 
-## Description:
+### Description:
 
 SZCELinearType of XLine, Ray, Line
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

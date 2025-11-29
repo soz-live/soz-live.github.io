@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Dialog-ListBox
 
-## Description:
+### Description:
 
 SOZDCLDialog ListBox
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

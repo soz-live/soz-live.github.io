@@ -1,10 +1,13 @@
 
 # Class:	Atom
 
-## Description:
+### Description:
 
 Atom Type Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

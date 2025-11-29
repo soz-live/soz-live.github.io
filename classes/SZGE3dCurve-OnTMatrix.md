@@ -1,10 +1,13 @@
 
 # Class:	SZGE3dCurve-OnTMatrix
 
-## Description:
+### Description:
 
 SZGE3dCurve-OnTMatrix Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |
@@ -22,6 +25,6 @@ SZGE3dCurve-OnTMatrix Class
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZGE3dCurve-Make](SZGE3dCurve.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZGE3dCurve-Make](SZGE3dCurve.html) <br> [SZOBObject-IndexOfXOBJS](SZOBObject.html) <br> [SZOBObject-AddIOBJ](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

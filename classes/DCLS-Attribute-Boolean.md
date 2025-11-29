@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Attribute-Boolean
 
-## Description:
+### Description:
 
 DCL BooleanAttribute
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

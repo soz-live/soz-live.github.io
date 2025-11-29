@@ -1,10 +1,13 @@
 
 # Class:	Angle
 
-## Description:
+### Description:
 
 Angle Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

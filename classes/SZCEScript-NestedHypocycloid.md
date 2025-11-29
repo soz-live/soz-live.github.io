@@ -1,10 +1,13 @@
 
 # Class:	SZCEScript-NestedHypocycloid
 
-## Description:
+### Description:
 
 NestedHypocycloid Script
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

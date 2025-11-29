@@ -1,10 +1,13 @@
 
 # Class:	Plane-TMatrix
 
-## Description:
+### Description:
 
 Plane-TMatrix Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

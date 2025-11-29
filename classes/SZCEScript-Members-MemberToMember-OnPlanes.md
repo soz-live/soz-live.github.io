@@ -1,10 +1,13 @@
 
 # Class:	SZCEScript-Members-MemberToMember-OnPlanes
 
-## Description:
+### Description:
 
 MemberToMember-OnPlanes Linear Structural Members
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

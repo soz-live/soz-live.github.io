@@ -1,10 +1,13 @@
 
 # Class:	Plane-Face
 
-## Description:
+### Description:
 
 Plane-Face Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

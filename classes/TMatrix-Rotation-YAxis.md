@@ -1,10 +1,13 @@
 
 # Class:	TMatrix-Rotation-YAxis
 
-## Description:
+### Description:
 
 TMatrix-Rotation-YAxis Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	Point
 
-## Description:
+### Description:
 
 Point Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |
@@ -12,7 +15,7 @@ Point Class
 | Superclass: | [Vector](Vector.html) |
 | Subclasses: | [Point2D](Point2D.html) <br> [Point-Spherical](Point-Spherical.html) |
 | Interfaces: |  |
-| Interfaced: | [SZGEPoint](SZGEPoint.html), [AcDbPoint](AcDbPoint.html) |
+| Interfaced: | [SZGEPoint](SZGEPoint.html), [AcDbPoint](AcDbPoint.html), [SZOBAnimate-Effect-Point](SZOBAnimate-Effect-Point.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
 

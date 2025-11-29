@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Attribute-String
 
-## Description:
+### Description:
 
 DCL StringAttribute
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

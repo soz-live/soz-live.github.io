@@ -1,10 +1,13 @@
 
 # Class:	Polygon
 
-## Description:
+### Description:
 
 Polygon Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

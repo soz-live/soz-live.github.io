@@ -13,3 +13,6 @@ Each file contains a hierarchial list of Classes in each repo, with links to doc
 
 {% include csvtable.html id=site.data.repos %}
 
+Version:  1.27.0
+<br>
+Date: 20251129.135

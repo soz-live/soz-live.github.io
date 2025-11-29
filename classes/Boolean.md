@@ -1,10 +1,13 @@
 
 # Class:	Boolean
 
-## Description:
+### Description:
 
 Boolean values - True and False
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

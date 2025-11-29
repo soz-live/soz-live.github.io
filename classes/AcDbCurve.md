@@ -1,10 +1,13 @@
 
 # Class:	AcDbCurve
 
-## Description:
+### Description:
 
 Base abstract DWG Curve Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |
@@ -21,8 +24,8 @@ Base abstract DWG Curve Class
 
 | Types | Functions |
 | --------- | --------- |
-| Class: | [AcDbCurve-ClosestPointTo](#AcDbCurve-ClosestPointTo) <br> [AcDbCurve-ClosestPointToProjection](#AcDbCurve-ClosestPointToProjection) <br> [AcDbCurve-EndPoint](#AcDbCurve-EndPoint) <br> [AcDbCurve-EndPoints](#AcDbCurve-EndPoints) <br> [AcDbCurve-Length](#AcDbCurve-Length) <br> [AcDbCurve-MidPoint](#AcDbCurve-MidPoint) <br> [AcDbCurve-NormalVector](#AcDbCurve-NormalVector) <br> [AcDbCurve-PointAtDist](#AcDbCurve-PointAtDist) <br> [AcDbCurve-PointDistFromEnd](#AcDbCurve-PointDistFromEnd) <br> [AcDbCurve-PointDistFromStart](#AcDbCurve-PointDistFromStart) <br> [AcDbCurve-Segments](#AcDbCurve-Segments) <br> [AcDbCurve-StartPoint](#AcDbCurve-StartPoint) <br> [AcDbCurve-TMatrix](#AcDbCurve-TMatrix) <br> [AcDbCurve-TMatrixAtDist](#AcDbCurve-TMatrixAtDist) <br> [AcDbCurve-TMatrixAtPoint](#AcDbCurve-TMatrixAtPoint) <br> [AcDbCurve-TangentVector](#AcDbCurve-TangentVector) <br> [AcDbCurve-isClosed?](#AcDbCurve-isClosed?) <br> [AcDbCurve-isPlanar?](#AcDbCurve-isPlanar?) |
-| Super: | [AcDbEntity-Copy](AcDbEntity.html) <br> [AcDbEntity-Move](AcDbEntity.html) <br> [AcDbEntity-Transformby](AcDbEntity.html) <br> [AcDbEntity-IntersectWith](AcDbEntity.html) <br> [AcDbEntity-Layer](AcDbEntity.html) <br> [AcDbEntity-SetLayer](AcDbEntity.html) <br> [AcDbEntity-SZCOColor](AcDbEntity.html) <br> [AcDbEntity-Highlight](AcDbEntity.html) <br> [AcDbEntity-SetVisibility](AcDbEntity.html) <br> [AcDbEntity-Space](AcDbEntity.html) <br> [AcDbEntity-InternalCopy](AcDbEntity.html) <br> [AcDbEntity-ExternalCopy](AcDbEntity.html) <br> [AcDbEntity-SetVisual](AcDbEntity.html) <br> [AcDbEntity-Visual](AcDbEntity.html) <br> [AcDbEntity-User_PickList](AcDbEntity.html) <br> [AcDbEntity-User_Pick](AcDbEntity.html) <br> [AcDbEntity-User_PickModel](AcDbEntity.html) <br> [AcDbEntity-User_PickNode](AcDbEntity.html) <br> [AcDbEntity-User_PickSet](AcDbEntity.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Class: | [AcDbCurve-ClosestPointTo](#AcDbCurve-ClosestPointTo) <br> [AcDbCurve-ClosestPointToProjection](#AcDbCurve-ClosestPointToProjection) <br> [AcDbCurve-EndPoint](#AcDbCurve-EndPoint) <br> [AcDbCurve-EndPoints](#AcDbCurve-EndPoints) <br> [AcDbCurve-Length](#AcDbCurve-Length) <br> [AcDbCurve-MidPoint](#AcDbCurve-MidPoint) <br> [AcDbCurve-NormalVector](#AcDbCurve-NormalVector) <br> [AcDbCurve-PointAtDist](#AcDbCurve-PointAtDist) <br> [AcDbCurve-PointAtRatio](#AcDbCurve-PointAtRatio) <br> [AcDbCurve-PointDistFromEnd](#AcDbCurve-PointDistFromEnd) <br> [AcDbCurve-PointDistFromStart](#AcDbCurve-PointDistFromStart) <br> [AcDbCurve-Segments](#AcDbCurve-Segments) <br> [AcDbCurve-StartPoint](#AcDbCurve-StartPoint) <br> [AcDbCurve-TMatrix](#AcDbCurve-TMatrix) <br> [AcDbCurve-TMatrixAtDist](#AcDbCurve-TMatrixAtDist) <br> [AcDbCurve-TMatrixAtPoint](#AcDbCurve-TMatrixAtPoint) <br> [AcDbCurve-TangentVector](#AcDbCurve-TangentVector) <br> [AcDbCurve-isClosed?](#AcDbCurve-isClosed?) <br> [AcDbCurve-isPlanar?](#AcDbCurve-isPlanar?) |
+| Super: | [AcDbEntity-Copy](AcDbEntity.html) <br> [AcDbEntity-Move](AcDbEntity.html) <br> [AcDbEntity-Transformby](AcDbEntity.html) <br> [AcDbEntity-IntersectWith](AcDbEntity.html) <br> [AcDbEntity-Layer](AcDbEntity.html) <br> [AcDbEntity-SetLayer](AcDbEntity.html) <br> [AcDbEntity-SZCOColor](AcDbEntity.html) <br> [AcDbEntity-Highlight](AcDbEntity.html) <br> [AcDbEntity-SetVisibility](AcDbEntity.html) <br> [AcDbEntity-Space](AcDbEntity.html) <br> [AcDbEntity-InternalCopy](AcDbEntity.html) <br> [AcDbEntity-ExternalCopy](AcDbEntity.html) <br> [AcDbEntity-SetVisual](AcDbEntity.html) <br> [AcDbEntity-Visual](AcDbEntity.html) <br> [AcDbEntity-User_PickList](AcDbEntity.html) <br> [AcDbEntity-User_Pick](AcDbEntity.html) <br> [AcDbEntity-User_PickModel](AcDbEntity.html) <br> [AcDbEntity-User_PickNode](AcDbEntity.html) <br> [AcDbEntity-User_PickSet](AcDbEntity.html) <br> [SZOBObject-IndexOfXOBJS](SZOBObject.html) <br> [SZOBObject-AddIOBJ](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### AcDbCurve-ClosestPointTo
@@ -101,6 +104,16 @@ Base abstract DWG Curve Class
 | --- | --- | --- |
 | Returns: | [Point](Point.html) |
 | Help: | Point At Dist of a Curve |
+
+### AcDbCurve-PointAtRatio
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| CURVE | [AcDbCurve](AcDbCurve.html) |  |
+| RATIO | [Real](Real.html) |  |
+| --- | --- | --- |
+| Returns: | [Point](Point.html) |
+| Help: | Point At Ratio of a Curve |
 
 ### AcDbCurve-PointDistFromEnd
 

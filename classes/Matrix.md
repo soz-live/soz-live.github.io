@@ -1,10 +1,13 @@
 
 # Class:	Matrix
 
-## Description:
+### Description:
 
 Matrix Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

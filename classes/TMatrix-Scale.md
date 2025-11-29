@@ -1,10 +1,13 @@
 
 # Class:	TMatrix-Scale
 
-## Description:
+### Description:
 
 TMatrix-Scale Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	3dCurves
 
-## Description:
+### Description:
 
 3dCurves Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

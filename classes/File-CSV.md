@@ -1,16 +1,19 @@
 
 # Class:	File-CSV
 
-## Description:
+### Description:
 
 File-CSV Class
 
 
+
+### Details:
+
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-live](/repos/soz-live.html) |
+| Repo: | [soz-files](/repos/soz-files.html) |
 | Superclass: | [File-TXT](File-TXT.html) |
-| Subclasses: | [File-CSVA](File-CSVA.html) |
+| Subclasses: | [File-CSVArray](File-CSVArray.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

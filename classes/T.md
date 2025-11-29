@@ -1,10 +1,13 @@
 
 # Class:	T
 
-## Description:
+### Description:
 
 Base Lisp Class T
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

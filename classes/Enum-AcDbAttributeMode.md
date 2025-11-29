@@ -1,10 +1,13 @@
 
 # Class:	Enum-AcDbAttributeMode
 
-## Description:
+### Description:
 
 AcDbAttributeMode
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

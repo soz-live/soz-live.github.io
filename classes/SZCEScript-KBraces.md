@@ -1,10 +1,13 @@
 
 # Class:	SZCEScript-KBraces
 
-## Description:
+### Description:
 
 KBraces Structural Members
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

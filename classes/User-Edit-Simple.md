@@ -1,10 +1,13 @@
 
 # Class:	User-Edit-Simple
 
-## Description:
+### Description:
 
 User EditObject Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Dialog-List-ObjectKeySelect
 
-## Description:
+### Description:
 
 SOZDCLDialog Strings
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	SZGETMatrix
 
-## Description:
+### Description:
 
 SZGETMatrix Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |
@@ -22,7 +25,7 @@ SZGETMatrix Class
 | Types | Functions |
 | --------- | --------- |
 | Class: | [SZGETMatrix-Origin](#SZGETMatrix-Origin) <br> [SZGETMatrix-User_CurrentUCS](#SZGETMatrix-User_CurrentUCS) <br> [SZGETMatrix-User_PickPosn](#SZGETMatrix-User_PickPosn) <br> [SZGETMatrix-User_PickREF](#SZGETMatrix-User_PickREF) <br> [SZGETMatrix-User_PickUCS](#SZGETMatrix-User_PickUCS) <br> [SZGETMatrix-User_WCS](#SZGETMatrix-User_WCS) <br> [SZGETMatrix-Value](#SZGETMatrix-Value) <br> [SZGETMatrix-XAxis](#SZGETMatrix-XAxis) <br> [SZGETMatrix-YAxis](#SZGETMatrix-YAxis) <br> [SZGETMatrix-ZAxis](#SZGETMatrix-ZAxis) |
-| Super: | [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZOBObject-IndexOfXOBJS](SZOBObject.html) <br> [SZOBObject-AddIOBJ](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### SZGETMatrix-Origin

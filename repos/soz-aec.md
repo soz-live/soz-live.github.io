@@ -49,6 +49,6 @@ workflows.
           - [SZCESections](/classes/SZCESections.html)
             - [SZCESections-OnCurve-Chainage-Exported](/classes/SZCESections-OnCurve-Chainage-Exported.html)
 
-Version:  1.26.4
+Version:  1.27.0
 <br>
-Date: 20251031.1809
+Date: 20251129.135

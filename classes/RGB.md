@@ -1,10 +1,13 @@
 
 # Class:	RGB
 
-## Description:
+### Description:
 
 Color Values
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

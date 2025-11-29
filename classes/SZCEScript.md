@@ -1,10 +1,13 @@
 
 # Class:	SZCEScript
 
-## Description:
+### Description:
 
 Base Entity Script Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

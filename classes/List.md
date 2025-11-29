@@ -1,16 +1,19 @@
 
 # Class:	List
 
-## Description:
+### Description:
 
 List Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [T](T.html) |
-| Subclasses: | [Set](Set.html) <br> [Array](Array.html) <br> [Pair](Pair.html) <br> [Cons](Cons.html) <br> [Tree](Tree.html) |
+| Subclasses: | [Set](Set.html) <br> [Array](Array.html) <br> [Cons](Cons.html) <br> [Tree](Tree.html) |
 | Interfaces: |  |
 | Interfaced: | [NIL](NIL.html), [SZLPList](SZLPList.html), [SZGEObjects](SZGEObjects.html), [SZCOObjects](SZCOObjects.html) |
 | Abstract?: | Yes |

@@ -1,10 +1,13 @@
 
 # Class:	Minute
 
-## Description:
+### Description:
 
 
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

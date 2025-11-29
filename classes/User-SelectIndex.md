@@ -1,10 +1,13 @@
 
 # Class:	User-SelectIndex
 
-## Description:
+### Description:
 
 User SelectIndex Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

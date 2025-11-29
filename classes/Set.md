@@ -1,10 +1,13 @@
 
 # Class:	Set
 
-## Description:
+### Description:
 
 Set Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

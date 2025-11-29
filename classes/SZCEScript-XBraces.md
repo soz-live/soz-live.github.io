@@ -1,10 +1,13 @@
 
 # Class:	SZCEScript-XBraces
 
-## Description:
+### Description:
 
 XBraces Structural Members
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

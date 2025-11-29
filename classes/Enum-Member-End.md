@@ -1,10 +1,13 @@
 
 # Class:	Enum-Member-End
 
-## Description:
+### Description:
 
 Member End Enum
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

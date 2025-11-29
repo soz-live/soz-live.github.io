@@ -1,10 +1,13 @@
 
 # Class:	Enum-AcDb3dSolidSlice
 
-## Description:
+### Description:
 
 AcDb3dSolidSlice value - Below or Above
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

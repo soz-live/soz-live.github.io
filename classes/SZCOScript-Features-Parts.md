@@ -1,10 +1,13 @@
 
 # Class:	SZCOScript-Features-Parts
 
-## Description:
+### Description:
 
 Features
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

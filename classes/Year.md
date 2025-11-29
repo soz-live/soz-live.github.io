@@ -1,10 +1,13 @@
 
 # Class:	Year
 
-## Description:
+### Description:
 
 
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

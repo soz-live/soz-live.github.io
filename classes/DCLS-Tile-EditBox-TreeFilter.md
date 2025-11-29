@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Tile-EditBox-TreeFilter
 
-## Description:
+### Description:
 
 DCL Filter
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

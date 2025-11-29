@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Tile-Text
 
-## Description:
+### Description:
 
 DCL Text
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

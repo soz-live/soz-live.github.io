@@ -1,10 +1,13 @@
 
 # Class:	Symbol
 
-## Description:
+### Description:
 
 Symbol Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,16 +1,19 @@
 
 # Class:	ODBXScript
 
-## Description:
+### Description:
 
 ObjectDbx Script
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-odbx](/repos/soz-odbx.html) |
 | Superclass: | [SZOBScript](SZOBScript.html) |
-| Subclasses: | [ODBXScript-GetReferenceValue](ODBXScript-GetReferenceValue.html) <br> [ODBXScript-Section-PaperSpace-Setup](ODBXScript-Section-PaperSpace-Setup.html) |
+| Subclasses: | [ODBXScript-Section-PaperSpace-Setup](ODBXScript-Section-PaperSpace-Setup.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

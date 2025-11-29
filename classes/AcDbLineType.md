@@ -1,10 +1,13 @@
 
 # Class:	AcDbLineType
 
-## Description:
+### Description:
 
 AcDbLineTypes
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	TMatrix-Rotation-ZAxis
 
-## Description:
+### Description:
 
 TMatrix-Rotation-ZAxis Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Tile-Toggle
 
-## Description:
+### Description:
 
 DCL Toggle
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

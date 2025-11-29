@@ -1,10 +1,13 @@
 
 # Class:	Points
 
-## Description:
+### Description:
 
 Points Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

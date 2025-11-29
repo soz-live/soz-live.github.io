@@ -1,10 +1,13 @@
 
 # Class:	SZCOScript-Features-Assy
 
-## Description:
+### Description:
 
 Assembly Features
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

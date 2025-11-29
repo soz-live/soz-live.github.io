@@ -1,10 +1,13 @@
 
 # Class:	SOZID
 
-## Description:
+### Description:
 
 SOZID
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

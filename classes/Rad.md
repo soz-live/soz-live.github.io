@@ -1,10 +1,13 @@
 
 # Class:	Rad
 
-## Description:
+### Description:
 
 Rad Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

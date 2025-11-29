@@ -1,10 +1,13 @@
 
 # Class:	Curve
 
-## Description:
+### Description:
 
 Curve Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

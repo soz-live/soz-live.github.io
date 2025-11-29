@@ -1,10 +1,13 @@
 
 # Class:	Point-Spherical
 
-## Description:
+### Description:
 
 Spherical Point
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	Equation
 
-## Description:
+### Description:
 
 Equation
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

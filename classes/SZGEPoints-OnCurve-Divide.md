@@ -1,10 +1,13 @@
 
 # Class:	SZGEPoints-OnCurve-Divide
 
-## Description:
+### Description:
 
 SZGEPoints-OnCurve-Divide Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |
@@ -32,6 +35,6 @@ SZGEPoints-OnCurve-Divide Class
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZGEPoints-OnCurve-DivideInto-Make](SZGEPoints-OnCurve-DivideInto.html) <br> [SZGEPoints-Make](SZGEPoints.html) <br> [SZGEObjects-Value](SZGEObjects.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZGEPoints-OnCurve-DivideInto-Make](SZGEPoints-OnCurve-DivideInto.html) <br> [SZGEPoints-Make](SZGEPoints.html) <br> [SZGEObjects-Value](SZGEObjects.html) <br> [SZOBObject-IndexOfXOBJS](SZOBObject.html) <br> [SZOBObject-AddIOBJ](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

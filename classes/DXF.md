@@ -1,10 +1,13 @@
 
 # Class:	DXF
 
-## Description:
+### Description:
 
 Acad DXF Structured Alist
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

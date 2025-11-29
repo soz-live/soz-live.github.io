@@ -1,10 +1,13 @@
 
 # Class:	String
 
-## Description:
+### Description:
 
 String
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

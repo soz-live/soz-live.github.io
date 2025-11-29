@@ -1,10 +1,13 @@
 
 # Class:	User-Make-Auto
 
-## Description:
+### Description:
 
 User Auto Make Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

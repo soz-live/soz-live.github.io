@@ -1,10 +1,13 @@
 
 # Class:	User-Edit-SZLVNode
 
-## Description:
+### Description:
 
 User Edit SZLVNode Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

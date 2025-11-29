@@ -1,10 +1,13 @@
 
 # Class:	Deg
 
-## Description:
+### Description:
 
 Deg Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

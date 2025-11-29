@@ -1,10 +1,13 @@
 
 # Class:	TMatrix
 
-## Description:
+### Description:
 
 TMatrix Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

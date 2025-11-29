@@ -1,10 +1,13 @@
 
 # Class:	SZMAClassName
 
-## Description:
+### Description:
 
 SZMAClassName
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

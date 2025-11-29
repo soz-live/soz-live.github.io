@@ -1,10 +1,13 @@
 
 # Class:	DegMinSec
 
-## Description:
+### Description:
 
 Deg Min Sec
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

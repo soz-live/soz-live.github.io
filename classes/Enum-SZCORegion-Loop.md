@@ -1,10 +1,13 @@
 
 # Class:	Enum-SZCORegion-Loop
 
-## Description:
+### Description:
 
 Enum-SZCORegion-Loop Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

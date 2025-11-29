@@ -1,10 +1,13 @@
 
 # Class:	Hour
 
-## Description:
+### Description:
 
 
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

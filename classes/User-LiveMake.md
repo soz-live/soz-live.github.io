@@ -1,10 +1,13 @@
 
 # Class:	User-LiveMake
 
-## Description:
+### Description:
 
 User LiveMake Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

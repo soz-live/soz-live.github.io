@@ -1,10 +1,13 @@
 
 # Class:	Plane-PointNormal
 
-## Description:
+### Description:
 
 Plane-PointNormal Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

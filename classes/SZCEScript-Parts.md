@@ -1,10 +1,13 @@
 
 # Class:	SZCEScript-Parts
 
-## Description:
+### Description:
 
 Parts
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

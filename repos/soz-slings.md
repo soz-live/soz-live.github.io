@@ -28,17 +28,17 @@ With this repo it is possible to create editable:
             - [SZCEModelGroup](/classes/SZCEModelGroup.html)
               - [SZCEModelGroup-BlockRef](/classes/SZCEModelGroup-BlockRef.html)
                 - [SZCEModelGroup-BlockRef-Rotation](/classes/SZCEModelGroup-BlockRef-Rotation.html)
-                  - [SZCERigging-Chain](/classes/SZCERigging-Chain.html)
-                  - [SZCERigging-TwistedChain](/classes/SZCERigging-TwistedChain.html)
+                  - [SZCESling-Chain](/classes/SZCESling-Chain.html)
+                  - [SZCESling-TwistedChain](/classes/SZCESling-TwistedChain.html)
         - [AcDbTableRecord](/classes/AcDbTableRecord.html)
           - [AcDbBlock](/classes/AcDbBlock.html)
             - [SZCEModelDef](/classes/SZCEModelDef.html)
               - [SZCEModel](/classes/SZCEModel.html)
                 - [SZCEPart](/classes/SZCEPart.html)
                   - [SZCEPart-FilletedSweep-MultiRadii](/classes/SZCEPart-FilletedSweep-MultiRadii.html)
-                    - [SZCERigging-TwistedSling](/classes/SZCERigging-TwistedSling.html)
-                - [SZCERigging-TwistedLink](/classes/SZCERigging-TwistedLink.html)
-              - [SZCERigging-ChainLink](/classes/SZCERigging-ChainLink.html)
+                    - [SZCESling-TwistedSling](/classes/SZCESling-TwistedSling.html)
+                - [SZCESling-TwistedLink](/classes/SZCESling-TwistedLink.html)
+              - [SZCESlingDef-ChainLink](/classes/SZCESlingDef-ChainLink.html)
     - [SZOBValue](/classes/SZOBValue.html)
       - [SZGEObject](/classes/SZGEObject.html)
         - [SZGECurve](/classes/SZGECurve.html)
@@ -49,6 +49,6 @@ With this repo it is possible to create editable:
           - [SZGE3dCurve](/classes/SZGE3dCurve.html)
             - [SZGE3dCurve-TwistedSling](/classes/SZGE3dCurve-TwistedSling.html)
 
-Version:  1.26.4
+Version:  1.27.0
 <br>
-Date: 20251031.1809
+Date: 20251129.135

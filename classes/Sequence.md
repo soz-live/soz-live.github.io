@@ -1,10 +1,13 @@
 
 # Class:	Sequence
 
-## Description:
+### Description:
 
 Sequence Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

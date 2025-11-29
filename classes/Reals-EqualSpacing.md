@@ -1,10 +1,13 @@
 
 # Class:	Reals-EqualSpacing
 
-## Description:
+### Description:
 
 Reals-EqualSpacing Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

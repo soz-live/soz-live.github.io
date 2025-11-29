@@ -1,10 +1,13 @@
 
 # Class:	Enum-AcDbTextAlignment
 
-## Description:
+### Description:
 
 AcDbTextAlignment value
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

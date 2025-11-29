@@ -1,10 +1,13 @@
 
 # Class:	DCLS
 
-## Description:
+### Description:
 
 Basic DCL Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

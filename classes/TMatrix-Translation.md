@@ -1,10 +1,13 @@
 
 # Class:	TMatrix-Translation
 
-## Description:
+### Description:
 
 TMatrix-Translation Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

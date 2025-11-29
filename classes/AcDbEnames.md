@@ -1,10 +1,13 @@
 
 # Class:	AcDbEnames
 
-## Description:
+### Description:
 
 AcDbEnames Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

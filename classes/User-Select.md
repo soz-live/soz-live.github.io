@@ -1,10 +1,13 @@
 
 # Class:	User-Select
 
-## Description:
+### Description:
 
 User Select Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

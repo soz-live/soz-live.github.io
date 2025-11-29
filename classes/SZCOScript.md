@@ -1,10 +1,13 @@
 
 # Class:	SZCOScript
 
-## Description:
+### Description:
 
 Base Object Script Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

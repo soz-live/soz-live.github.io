@@ -1,10 +1,13 @@
 
 # Class:	User-Clone
 
-## Description:
+### Description:
 
 User Copy Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

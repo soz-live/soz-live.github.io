@@ -1,10 +1,13 @@
 
 # Class:	Documentation
 
-## Description:
+### Description:
 
 Documentation
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Tile-PopUp-UserMethods
 
-## Description:
+### Description:
 
 DCL Strings
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	Enum-AcDbExtrudeType
 
-## Description:
+### Description:
 
 AcDbExtrudeType value - Poitive, Negative or Midplane.
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	Month
 
-## Description:
+### Description:
 
 
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

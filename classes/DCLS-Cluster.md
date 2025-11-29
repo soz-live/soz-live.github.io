@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Cluster
 
-## Description:
+### Description:
 
 DCL Cluster Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

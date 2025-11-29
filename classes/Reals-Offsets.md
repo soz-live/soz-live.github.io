@@ -1,10 +1,13 @@
 
 # Class:	Reals-Offsets
 
-## Description:
+### Description:
 
 Reals-Offsets Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

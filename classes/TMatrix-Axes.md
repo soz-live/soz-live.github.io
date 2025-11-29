@@ -1,10 +1,13 @@
 
 # Class:	TMatrix-Axes
 
-## Description:
+### Description:
 
 Basic TMatrix creation class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

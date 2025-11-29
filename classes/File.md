@@ -1,16 +1,19 @@
 
 # Class:	File
 
-## Description:
+### Description:
 
 File Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Atom](Atom.html) |
-| Subclasses: | [File-TXT](File-TXT.html) <br> [File-DWG](File-DWG.html) |
+| Subclasses: | [File-DWG](File-DWG.html) <br> [File-TXT](File-TXT.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

@@ -1,10 +1,13 @@
 
 # Class:	User-Make
 
-## Description:
+### Description:
 
 User Make Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

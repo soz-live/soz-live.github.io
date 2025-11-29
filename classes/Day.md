@@ -1,10 +1,13 @@
 
 # Class:	Day
 
-## Description:
+### Description:
 
 
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

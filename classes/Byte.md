@@ -1,10 +1,13 @@
 
 # Class:	Byte
 
-## Description:
+### Description:
 
 Byte
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

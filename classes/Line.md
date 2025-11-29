@@ -1,10 +1,13 @@
 
 # Class:	Line
 
-## Description:
+### Description:
 
 Line Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

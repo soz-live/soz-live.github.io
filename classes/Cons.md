@@ -1,16 +1,19 @@
 
 # Class:	Cons
 
-## Description:
+### Description:
 
 Cons Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [List](List.html) |
-| Subclasses: |  |
+| Subclasses: | [Pair](Pair.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
@@ -20,8 +23,8 @@ Cons Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| A | [T](T.html) |  |
-| D | [T](T.html) |  |
+| A | [SZOBBase](SZOBBase.html) |  |
+| D | [SZOBBase](SZOBBase.html) |  |
 | --- | --- | --- |
 | Returns: | [List](List.html) |
 | Help: | Make a Cons |

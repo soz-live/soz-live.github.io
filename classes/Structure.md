@@ -1,10 +1,13 @@
 
 # Class:	Structure
 
-## Description:
+### Description:
 
 Basic Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

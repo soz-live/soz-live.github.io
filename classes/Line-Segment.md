@@ -1,10 +1,13 @@
 
 # Class:	Line-Segment
 
-## Description:
+### Description:
 
 Line-Segment Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

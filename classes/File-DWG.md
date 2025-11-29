@@ -1,10 +1,13 @@
 
 # Class:	File-DWG
 
-## Description:
+### Description:
 
 DWG File
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

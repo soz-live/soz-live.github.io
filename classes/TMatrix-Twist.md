@@ -1,10 +1,13 @@
 
 # Class:	TMatrix-Twist
 
-## Description:
+### Description:
 
 Mitre Matrix
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

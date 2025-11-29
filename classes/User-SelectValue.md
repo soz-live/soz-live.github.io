@@ -1,10 +1,13 @@
 
 # Class:	User-SelectValue
 
-## Description:
+### Description:
 
 User SelectValue Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

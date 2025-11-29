@@ -1,10 +1,13 @@
 
 # Class:	File-LSP
 
-## Description:
+### Description:
 
 File-LSP Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -12,6 +12,8 @@ To access all of the Commands in a dialog box - type **Y** at the command line.
 ## Command Hierarchy
 
 - Y
+  - Animate
+    - A-Scene
   - Clone
     - C-Entity
     - C-Node
@@ -59,6 +61,11 @@ To access all of the Commands in a dialog box - type **Y** at the command line.
     - L-Select
   - Make
     - M-Base
+      - M-Animate
+        - M-Change
+        - M-Effect
+        - M-Scene
+        - M-Sequence
       - M-Code
         - M-Function
           - M-Assignment
@@ -169,6 +176,6 @@ To access all of the Commands in a dialog box - type **Y** at the command line.
     - V-ResetEntities
     - V-SetEntities
 
-Version:  1.26.4
+Version:  1.27.0
 <br>
-Date: 20251031.1809
+Date: 20251129.135

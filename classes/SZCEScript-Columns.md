@@ -1,10 +1,13 @@
 
 # Class:	SZCEScript-Columns
 
-## Description:
+### Description:
 
 Columns
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

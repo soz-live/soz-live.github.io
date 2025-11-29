@@ -1,10 +1,13 @@
 
 # Class:	SZCOScript-Features-Assy-RelativeRef
 
-## Description:
+### Description:
 
 InModel adds
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

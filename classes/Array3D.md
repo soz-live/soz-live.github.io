@@ -1,10 +1,13 @@
 
 # Class:	Array3D
 
-## Description:
+### Description:
 
 Basic 3D Array
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

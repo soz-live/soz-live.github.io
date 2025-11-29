@@ -1,10 +1,13 @@
 
 # Class:	SZOBObject-KeyOf
 
-## Description:
+### Description:
 
 Create an Object from a Key
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |
@@ -32,7 +35,7 @@ Create an Object from a Key
 | Types | Functions |
 | --------- | --------- |
 | Class: | [SZOBObject-KeyOf-User_Edit](#SZOBObject-KeyOf-User_Edit) |
-| Super: | [SZOBObject-KeysOf-Make](SZOBObject-KeysOf.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZOBObject-KeysOf-Make](SZOBObject-KeysOf.html) <br> [SZOBObject-IndexOfXOBJS](SZOBObject.html) <br> [SZOBObject-AddIOBJ](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### SZOBObject-KeyOf-User_Edit

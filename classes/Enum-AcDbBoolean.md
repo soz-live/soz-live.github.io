@@ -1,10 +1,13 @@
 
 # Class:	Enum-AcDbBoolean
 
-## Description:
+### Description:
 
 AcDbBoolean value of Union, Subtract or Intersect.
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

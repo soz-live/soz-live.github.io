@@ -1,10 +1,13 @@
 
 # Class:	Date
 
-## Description:
+### Description:
 
 
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

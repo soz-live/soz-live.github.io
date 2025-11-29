@@ -1,10 +1,13 @@
 
 # Class:	Plane-PointNormal-Offset
 
-## Description:
+### Description:
 
 Offset Plane
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

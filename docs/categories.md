@@ -17,6 +17,11 @@ For example:
 ## Category Hierarchy
 
 - Base
+  - Animate
+    - Change
+    - Effect
+    - Scene
+    - Sequence
   - Code
     - Function
       - Assignment
@@ -106,6 +111,6 @@ For example:
         - List
   - Script
 
-Version:  1.26.4
+Version:  1.27.0
 <br>
-Date: 20251031.1809
+Date: 20251129.135

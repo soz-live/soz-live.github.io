@@ -1,10 +1,13 @@
 
 # Class:	Enum-AcDbLineWeight
 
-## Description:
+### Description:
 
 AcDbLineWeight
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

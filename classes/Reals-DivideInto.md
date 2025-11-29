@@ -1,10 +1,13 @@
 
 # Class:	Reals-DivideInto
 
-## Description:
+### Description:
 
 Reals-DivideInto Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

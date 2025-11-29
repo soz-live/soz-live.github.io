@@ -1,10 +1,13 @@
 
 # Class:	String-Delim
 
-## Description:
+### Description:
 
 String-Delim Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

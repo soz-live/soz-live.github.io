@@ -1,10 +1,13 @@
 
 # Class:	Enum-AcDbAlignment
 
-## Description:
+### Description:
 
 Shape alignment value
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

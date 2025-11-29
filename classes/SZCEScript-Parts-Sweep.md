@@ -1,10 +1,13 @@
 
 # Class:	SZCEScript-Parts-Sweep
 
-## Description:
+### Description:
 
 Sweep Parts
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

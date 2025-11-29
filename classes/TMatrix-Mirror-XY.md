@@ -1,10 +1,13 @@
 
 # Class:	TMatrix-Mirror-XY
 
-## Description:
+### Description:
 
 TMatrix-Mirror-XY Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Dialog-SOZIDs-Editor
 
-## Description:
+### Description:
 
 SOZIDs-Editor
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

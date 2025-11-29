@@ -1,10 +1,13 @@
 
 # Class:	DCLS-ChildTile
 
-## Description:
+### Description:
 
 Abstract DCL ChildTile Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

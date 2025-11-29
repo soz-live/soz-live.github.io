@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Cluster-BoxedColumn
 
-## Description:
+### Description:
 
 DCL Column Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

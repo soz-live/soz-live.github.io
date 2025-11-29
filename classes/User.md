@@ -1,10 +1,13 @@
 
 # Class:	User
 
-## Description:
+### Description:
 
 Basic User Structure
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

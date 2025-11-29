@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Dialog-Docment-Reader
 
-## Description:
+### Description:
 
 SOZDCLDialog Strings
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

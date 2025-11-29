@@ -1,10 +1,13 @@
 
 # Class:	Integer
 
-## Description:
+### Description:
 
 Integer
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

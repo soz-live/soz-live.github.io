@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Attribute-Label
 
-## Description:
+### Description:
 
 DCL Label Attribute
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

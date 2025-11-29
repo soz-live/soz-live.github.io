@@ -1,10 +1,13 @@
 
 # Class:	SZGEVector
 
-## Description:
+### Description:
 
 SZGEVector Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |
@@ -33,7 +36,7 @@ SZGEVector Class
 | Types | Functions |
 | --------- | --------- |
 | Class: | [SZGEVector-CrossProduct](#SZGEVector-CrossProduct) <br> [SZGEVector-DotProduct](#SZGEVector-DotProduct) <br> [SZGEVector-Length](#SZGEVector-Length) <br> [SZGEVector-Normal](#SZGEVector-Normal) <br> [SZGEVector-Scalar](#SZGEVector-Scalar) <br> [SZGEVector-Subtract](#SZGEVector-Subtract) <br> [SZGEVector-Sum](#SZGEVector-Sum) <br> [SZGEVector-User_WX](#SZGEVector-User_WX) <br> [SZGEVector-User_WY](#SZGEVector-User_WY) <br> [SZGEVector-User_WZ](#SZGEVector-User_WZ) <br> [SZGEVector-Value](#SZGEVector-Value) <br> [SZGEVector-X](#SZGEVector-X) <br> [SZGEVector-Y](#SZGEVector-Y) <br> [SZGEVector-Z](#SZGEVector-Z) |
-| Super: | [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZOBObject-IndexOfXOBJS](SZOBObject.html) <br> [SZOBObject-AddIOBJ](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### SZGEVector-CrossProduct

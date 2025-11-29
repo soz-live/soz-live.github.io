@@ -1,10 +1,13 @@
 
 # Class:	AXObject
 
-## Description:
+### Description:
 
 AXObject Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

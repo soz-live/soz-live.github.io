@@ -1,10 +1,13 @@
 
 # Class:	2dCurve
 
-## Description:
+### Description:
 
 2dCurve Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

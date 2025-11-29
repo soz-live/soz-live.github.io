@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Attribute-Tabs
 
-## Description:
+### Description:
 
 DCL tabs Attribute
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

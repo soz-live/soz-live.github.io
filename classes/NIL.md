@@ -1,10 +1,13 @@
 
 # Class:	NIL
 
-## Description:
+### Description:
 
 Base Lisp Class NIL
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

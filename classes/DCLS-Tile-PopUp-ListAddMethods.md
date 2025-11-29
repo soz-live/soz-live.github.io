@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Tile-PopUp-ListAddMethods
 
-## Description:
+### Description:
 
 DCL Strings
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

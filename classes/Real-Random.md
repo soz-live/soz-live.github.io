@@ -1,10 +1,13 @@
 
 # Class:	Real-Random
 
-## Description:
+### Description:
 
 Real Random Number between 0 and 1
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

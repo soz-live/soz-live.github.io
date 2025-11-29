@@ -1,10 +1,13 @@
 
 # Class:	Enum-AcDbMTextAttachment
 
-## Description:
+### Description:
 
 AcDbMTextAttachment value
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

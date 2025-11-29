@@ -1,10 +1,13 @@
 
 # Class:	SZOBScript
 
-## Description:
+### Description:
 
 Base Script Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

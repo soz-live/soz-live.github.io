@@ -1,10 +1,13 @@
 
 # Class:	Vector
 
-## Description:
+### Description:
 
 Vector Class
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |
@@ -12,7 +15,7 @@ Vector Class
 | Superclass: | [Reals](Reals.html) |
 | Subclasses: | [Point](Point.html) <br> [Orientation](Orientation.html) <br> [Vector2D](Vector2D.html) |
 | Interfaces: |  |
-| Interfaced: | [SZGEVector](SZGEVector.html) |
+| Interfaced: | [SZGEVector](SZGEVector.html), [SZOBAnimate-Effect-Vector](SZOBAnimate-Effect-Vector.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
 

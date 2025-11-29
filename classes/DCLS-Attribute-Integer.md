@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Attribute-Integer
 
-## Description:
+### Description:
 
 DCL IntegerAttribute
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

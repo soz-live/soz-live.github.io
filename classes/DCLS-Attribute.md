@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Attribute
 
-## Description:
+### Description:
 
 DCL Attributes
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

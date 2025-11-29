@@ -1,10 +1,13 @@
 
 # Class:	DCLS-Dialog-Alist-SZMACategory
 
-## Description:
+### Description:
 
 DCL Selector
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

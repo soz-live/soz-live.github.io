@@ -1,10 +1,13 @@
 
 # Class:	Enum-AcDbPolySolidAlignment
 
-## Description:
+### Description:
 
 PolySolid alignment value
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

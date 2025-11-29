@@ -1,10 +1,13 @@
 
 # Class:	SZCEScript-Braces
 
-## Description:
+### Description:
 
 Braces
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

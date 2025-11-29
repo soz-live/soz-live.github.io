@@ -1,10 +1,13 @@
 
 # Class:	SZCEScript-Members
 
-## Description:
+### Description:
 
 Members
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |

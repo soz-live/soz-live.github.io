@@ -1,10 +1,13 @@
 
 # Class:	Option-FractalDepth
 
-## Description:
+### Description:
 
 FractalDepth Options
 
+
+
+### Details:
 
 | Fields | Values |
 | --------- | --------- |
