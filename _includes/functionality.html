@@ -1,0 +1,5 @@
+<details>
+  {% assign item include.id %} 
+  <summary>{{ item.repo | markdownlify }}</summary>
+    {% include csvtable.html id=item.csv %}
+</details>

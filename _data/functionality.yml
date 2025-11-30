@@ -1,0 +1,4 @@
+
+soz-live:
+  - repo: "[soz-live](/repos/soz-live.html)"
+    csv: site.data.soz-live
