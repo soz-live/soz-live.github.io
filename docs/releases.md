@@ -1,5 +1,5 @@
 ---
-title: Releases
+layout: default
 ---
 
 # Releases
@@ -8,3 +8,7 @@ Below is a table of repos vs releases, showing which repos are included with eac
 
 
 {% include csvtable.html id=site.data.releases %}
+
+Version:  1.27.0
+<br>
+Date: 20251130.101
