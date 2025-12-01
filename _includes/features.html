@@ -1,9 +1,7 @@
 
 <div>
-  {% for item in site.data.features %}
-      <details>
-      <summary>{{ item.name }}</summary>
-        {% include csvtable.html id=item.csv %}
-      </details>
-    {% endfor %}    
+  <details>
+  <summary>{{ include.name }}</summary>
+    {% include csvtable.html id=include.id %}
+  </details>
 </div>

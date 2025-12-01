@@ -1,6 +1,0 @@
-- name: soz-live
-  csv: "site.data.soz-live"
-- name: soz-macro
-  csv: "site.data.soz-macro"
-- name: soz-files
-  csv: "site.data.soz-files"
