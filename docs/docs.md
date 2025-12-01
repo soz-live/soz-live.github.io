@@ -50,5 +50,6 @@ These documents provide additional information about the project that don't fit 
 - [Prefixes](/docs/prefixes.html) - a list of Class prefixes used within the project.
 - [Categories](/docs/categories.html) - a hierarchial list of Categories used within the project.
 - [Commands](/docs/commands.html) - a hierarchial list of Commands for the project.
-- [Repos](/docs/repos.html) - a list of Repos / Modules for the project, with links to help documentation
-- [Releases](/docs/releases.html) - a table of Releases and their functionality.
+- [Repos](/docs/repos.html) - a table of Repos / Modules for the project, with links to help documentation
+- [Releases](/docs/releases.html) - a table of Releases for the project.
+- [Features](/docs/features.html) - a table of Releases and their features.

@@ -1,0 +1,9 @@
+
+<div>
+  {% for item in site.data.features %}
+      <details>
+      <summary>{{ item.name }}</summary>
+        {% include csvtable.html id=item.csv %}
+      </details>
+    {% endfor %}    
+</div>
