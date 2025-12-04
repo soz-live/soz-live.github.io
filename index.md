@@ -25,7 +25,7 @@ The current status of the project is **Private Beta**.
   - Arcs
   - Circles
   - Polylines 
-- a 3D Solid modeller for:
+- a parametric 3D Solid modeller for:
   - Parts
   - Features
   - Assemblies
