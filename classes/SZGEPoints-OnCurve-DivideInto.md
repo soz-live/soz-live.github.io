@@ -13,7 +13,7 @@ SZGEPoints-OnCurve-DivideInto Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEPoints-OnCurve](SZGEPoints-OnCurve.html) |
-| Subclasses: | [SZGEPoints-OnCurve-Divide](SZGEPoints-OnCurve-Divide.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
@@ -27,6 +27,7 @@ SZGEPoints-OnCurve-DivideInto Class
 | NO | [Integer](Integer.html) |  |
 | START | [Boolean](Boolean.html) |  |
 | END | [Boolean](Boolean.html) |  |
+| FLIPPED | [Boolean](Boolean.html) |  |
 | --- | --- | --- |
 | Returns: | [SZGEPoints-OnCurve-DivideInto](SZGEPoints-OnCurve-DivideInto.html) |
 | Help: | Make a SZGEPoints-OnCurve-DivideInto |

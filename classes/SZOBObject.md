@@ -13,7 +13,7 @@ Abstract Base Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZOBBase](SZOBBase.html) |
-| Subclasses: | [SZOBAnimate](SZOBAnimate.html) <br> [SZDOObject](SZDOObject.html) <br> [SZOBHistory](SZOBHistory.html) <br> [SZOBCAD](SZOBCAD.html) <br> [SZOBObject-Method](SZOBObject-Method.html) <br> [SZOBObject-Value](SZOBObject-Value.html) <br> [SZOBValue](SZOBValue.html) |
+| Subclasses: | [SZDOObject](SZDOObject.html) <br> [SZOBAnimate](SZOBAnimate.html) <br> [SZOBHistory](SZOBHistory.html) <br> [SZOBCAD](SZOBCAD.html) <br> [SZOBObject-Method](SZOBObject-Method.html) <br> [SZOBObject-Value](SZOBObject-Value.html) <br> [SZOBValue](SZOBValue.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

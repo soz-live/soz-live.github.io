@@ -25,6 +25,8 @@ SZCE3dCurve-AcDbPolyline Class
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | DEFN | [SZGE3dCurve-AcDbPolyline](SZGE3dCurve-AcDbPolyline.html) |  |
+| CLOSED | [Boolean](Boolean.html) |  |
+| POLYTYPE | [Enum-AcDb3dPolylineType](Enum-AcDb3dPolylineType.html) |  |
 | --- | --- | --- |
 | Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) |
 | Help: | Make a SZCE3dCurve-AcDbPolyline |

@@ -26,4 +26,4 @@ With this repo it is possible to load and script external drawings without havin
 
 Version:  1.27.0
 <br>
-Date: 20251129.135
+Date: 20251204.2009

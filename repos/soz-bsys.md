@@ -51,4 +51,4 @@ With this repo it is possible to work with BricsCAD Civil objects such as TINs, 
 
 Version:  1.27.0
 <br>
-Date: 20251129.135
+Date: 20251204.2009

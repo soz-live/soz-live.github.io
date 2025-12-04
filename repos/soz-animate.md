@@ -53,4 +53,4 @@ The **soz-animate** repo adds animation functionality to **SOZ**.
 
 Version:  1.27.0
 <br>
-Date: 20251129.135
+Date: 20251204.2009

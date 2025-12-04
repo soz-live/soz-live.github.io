@@ -27,6 +27,7 @@ Points on Curve Divide
 | NO | [Integer](Integer.html) |  |
 | START | [Boolean](Boolean.html) |  |
 | END | [Boolean](Boolean.html) |  |
+| FLIPPED | [Boolean](Boolean.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCEPoints-OnCurve-DivideInto](SZCEPoints-OnCurve-DivideInto.html) |
 | Help: | Points on Curve Divide |

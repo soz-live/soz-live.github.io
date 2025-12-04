@@ -25,6 +25,8 @@ SZCE3dCurve-RadialPoints Class
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | POINTS | [Set:AcDbPoint](AcDbPoint.html) |  |
+| CLOSED | [Boolean](Boolean.html) |  |
+| POLYTYPE | [Enum-AcDb3dPolylineType](Enum-AcDb3dPolylineType.html) |  |
 | --- | --- | --- |
 | Returns: | [SZCE3dCurve-RadialPoints](SZCE3dCurve-RadialPoints.html) |
 | Help: | Make a SZCE3dCurve-RadialPoints |

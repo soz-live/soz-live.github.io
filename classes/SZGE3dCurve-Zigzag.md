@@ -25,7 +25,7 @@ SZGE3dCurve-Zigzag Class
 | --------- | --------- | --------- |
 | CURVE0 | [AcDbCurve](AcDbCurve.html) |  |
 | CURVE1 | [AcDbCurve](AcDbCurve.html) |  |
-| FLIP1 | [Boolean](Boolean.html) |  |
+| FLIPPED | [Boolean](Boolean.html) |  |
 | NO | [Integer](Integer.html) |  |
 | --- | --- | --- |
 | Returns: | [SZGE3dCurve-Zigzag](SZGE3dCurve-Zigzag.html) |

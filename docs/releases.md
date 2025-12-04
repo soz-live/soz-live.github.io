@@ -11,4 +11,4 @@ Below is a table of repos vs releases, showing which repos are included with eac
 
 Version:  1.27.0
 <br>
-Date: 20251130.101
+Date: 20251204.2009

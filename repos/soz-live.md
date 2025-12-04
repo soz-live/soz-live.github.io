@@ -782,7 +782,6 @@ All scripts, functions that are run for their internal effects only, are sub-cla
           - [SZGEPoints-OnCurve](/classes/SZGEPoints-OnCurve.html)
             - [SZGEPoints-OnCurve-Distance](/classes/SZGEPoints-OnCurve-Distance.html)
             - [SZGEPoints-OnCurve-DivideInto](/classes/SZGEPoints-OnCurve-DivideInto.html)
-              - [SZGEPoints-OnCurve-Divide](/classes/SZGEPoints-OnCurve-Divide.html)
             - [SZGEPoints-OnCurve-PlaneIntersects](/classes/SZGEPoints-OnCurve-PlaneIntersects.html)
               - [SZGEPoints-OnCurve-2dDivide](/classes/SZGEPoints-OnCurve-2dDivide.html)
               - [SZGEPoints-OnCurve-2dInterval](/classes/SZGEPoints-OnCurve-2dInterval.html)
@@ -946,4 +945,4 @@ All scripts, functions that are run for their internal effects only, are sub-cla
 
 Version:  1.27.0
 <br>
-Date: 20251129.135
+Date: 20251204.2009

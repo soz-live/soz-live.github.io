@@ -63,4 +63,4 @@ This repo provides crane rigging functionality for **soz-live**.
 
 Version:  1.27.0
 <br>
-Date: 20251129.135
+Date: 20251204.2009
