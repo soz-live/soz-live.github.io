@@ -2,13 +2,13 @@
 <div>
 
     <div>    
-    {% for repo in site.data.features.repos %}
+    {% for item in site.data.features.repos %}
         <div>
-        <h2>{{ repo.repo }}</h2>
-          {% for area in repo.areas %}
-          <h3>{{ area.area }}</h3>            
+        <h2>{{ item.repo }}</h2>
+          {% for entry in item.areas %}
+          <h3>{{ entry.area }}</h3>            
           <ul>      
-            {% for feature in area.features %}          
+            {% for feature in entry.features %}          
             <li>{{ feature.name }}</li>
             {% endfor %}
           </ul>
