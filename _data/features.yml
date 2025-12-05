@@ -1,0 +1,28 @@
+repos:
+  - repo: soz-live
+    areas:
+      - area: Modelling
+      features:
+        - name: Feature
+        - name: Part
+        - name: Assembly
+  - repo: soz-macro
+    areas:
+      - area: Macros
+      features:      
+        - name: Equation
+        - name: Point
+        - name: Points
+  - repo: soz-files
+    areas:
+      - area: SOZFile
+      features:      
+        - name: Import
+        - name: Export
+      - area: CSVArray File
+      features:      
+        - name: Import
+        - name: Export
+      - area: CSV Class File
+      features:      
+        - name: Import

@@ -1,7 +1,20 @@
 
 <div>
-  <details>
-  <summary>{{ include.name }}</summary>
-    {% include csvtable.html id=include.id %}
-  </details>
+
+    <div>    
+    {% for repo in site.data.features.repos %}
+        <div>
+        <h2>{{ repo.repo }}</h2>
+          {% for area in repo.areas %}
+          <h3>{{ area.area }}</h3>            
+          <ul>      
+            {% for feature in area.features %}          
+            <li>{{ feature.name }}</li>
+            {% endfor %}
+          </ul>
+          {% endfor %}
+        </div>  
+      {% endfor %}    
+    </div>    
+    
 </div>
