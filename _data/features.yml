@@ -1,28 +1,46 @@
 repos:
   - repo: soz-live
+    note: Base module with core parametric functionality
     areas:
       - area: Modelling
+        note: 3D parametric solid modelling.
         features:
           - name: Feature
           - name: Part
           - name: Assembly
-  - repo: soz-macro
+      - area: Features
+        note: Modelling features
+        features:
+          - name: Boolean Solids
+          - name: Chamfers and Fillets
+          - name: Part Slicing to Planes
+      - area: Parts
+        note: 3D parametric Parts
+        features:
+          - name: Extrusion
+          - name: Sweep
+          - name: Sphere
+          - name: Filleted Sweep      
+  - repo: soz-files
+    note: Data import and export module
     areas:
-      - area: Macros
+      - area: Import File Formats
+        note: Importing pre-defined data into SOZ
+        features:      
+          - name: SOZFile format
+          - name: CSVArray File format
+          - name: CSV Class File format
+      - area: Export File Formats
+        note: Exporting SOZ data to external files.
+        features:      
+          - name: SOZFile format
+          - name: CSVArray File format
+  - repo: soz-macro
+    note: Module for creation of user defined classes at run-time.
+    areas:
+      - area: User Macros
+        note: Generation of user classes at run-time.
         features:      
           - name: Equation
           - name: Point
           - name: Points
-  - repo: soz-files
-    areas:
-      - area: SOZFile
-        features:      
-          - name: Import
-          - name: Export
-      - area: CSVArray File
-        features:      
-          - name: Import
-          - name: Export
-      - area: CSV Class File
-        features:      
-          - name: Import

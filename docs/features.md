@@ -6,7 +6,7 @@ layout: default
 
 ## Introduction
 
-Below is a list of the current features per repo for the project.<br>
+Below is an incomplete list of the current features per repo for the project.<br>
 
 
 {% include features.html %}

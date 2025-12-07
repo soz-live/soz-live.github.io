@@ -5,13 +5,17 @@
     {% for item in site.data.features.repos %}
         <div>
         <h2>{{ item.repo }}</h2>
-          {% for entry in item.areas %}
-          <h3>{{ entry.area }}</h3>            
+        <p>{{ item.note }}</p>
+        
+          {% for entry in item.areas %}          
+          <h3>{{ entry.area }}</h3>  
+          <p>{{ entry.note }}</p>
           <ul>      
             {% for feature in entry.features %}          
             <li>{{ feature.name }}</li>
             {% endfor %}
           </ul>
+          
           {% endfor %}
         </div>  
       {% endfor %}    
