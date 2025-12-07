@@ -44,3 +44,72 @@ repos:
           - name: Equation
           - name: Point
           - name: Points
+  - repo: soz-history
+    note: Module for storing & recalling historical records of a model
+    areas:
+      - area: Recording
+        note: At a given timestamp
+        features:      
+          - name: Record 
+      - area: Recall
+        note: Recalling a Record
+        features:      
+          - name: First
+          - name: Last
+          - name: Select    
+      - area: Other
+        note: Other functionality
+        features:      
+          - name: Deleting a Record
+  - repo: soz-misc
+    note: Module for misc. routines.
+    areas:
+      - area: Fibonacci
+        note: Fibonacci routines
+        features:      
+          - name: Fibonacci Sequence 
+          - name: 2D Fibonacci Curve
+          - name: 3D Fibonacci Curve   
+      - area: Fractals
+        note: fractal functionality
+        features:      
+          - name: H-Pattern Fractal 
+          - name: Tree Fractal
+          - name: Triangular Fractal
+      - area: Other
+        note: Other functionality
+        features:      
+          - name: Nested Hypocycloids       
+  - repo: soz-random
+    note: Module for random numbers, points etc.
+    areas:
+      - area: Numbers
+        note: Random Number routines
+        features:      
+          - name: Random Real 
+          - name: Random Real, within in a range
+          - name: Random Integer, within in a range  
+      - area: Points
+        note: Random Point routines
+        features:      
+          - name: Random Point
+          - name: Random Spherical Point
+          - name: Random PointClouds
+      - area: Modelling
+        note: Random Modelling functionality
+        features:      
+          - name: Random Spherical Parts
+          - name: Random Spherical Features         
+  - repo: soz-odbx
+    note: Module for working with external drawings
+    areas:
+      - area: Drawings
+        note: Drawing file routines
+        features:      
+          - name: Open
+          - name: Save
+          - name: Close
+      - area: Scripts
+        note: ODBX Scripts
+        features:      
+          - name: PapaerSpace viewport creation.

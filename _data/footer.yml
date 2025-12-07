@@ -21,6 +21,10 @@ columns:
         link: /docs/commands.html
       - name: Repos
         link: /docs/repos.html
+      - name: Releases
+        link: /docs/releases.html
+       - name: Features
+        link: /docs/features.html
   - title: Information
     subitems:
       - name: Blog
