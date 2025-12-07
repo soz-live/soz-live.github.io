@@ -102,6 +102,6 @@ With this repo it is possible to create Strucural Elements such as Footings, Col
             - [SZCEScript-Columns-FootingToOpenEnd](/classes/SZCEScript-Columns-FootingToOpenEnd.html)
           - [SZCEScript-Members-MemberToMember-OnPlanes](/classes/SZCEScript-Members-MemberToMember-OnPlanes.html)
 
-Version:  1.27.0
+Version:  1.27.1
 <br>
-Date: 20251204.2009
+Date: 20251207.1911

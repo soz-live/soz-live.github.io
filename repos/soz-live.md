@@ -314,6 +314,8 @@ All scripts, functions that are run for their internal effects only, are sub-cla
           - [Tree](/classes/Tree.html)
   - [SZOBObject](/classes/SZOBObject.html)
     - [SZOBCAD](/classes/SZOBCAD.html)
+      - [AcDbCommand](/classes/AcDbCommand.html)
+      - [AcDbError](/classes/AcDbError.html)
       - [AcDbObject](/classes/AcDbObject.html)
         - [AcDbApplication](/classes/AcDbApplication.html)
         - [AcDbDictionary](/classes/AcDbDictionary.html)
@@ -943,6 +945,6 @@ All scripts, functions that are run for their internal effects only, are sub-cla
           - [SZCOScript-Features-ProfileCut](/classes/SZCOScript-Features-ProfileCut.html)
       - [SZCOScript-ModelGroups](/classes/SZCOScript-ModelGroups.html)
 
-Version:  1.27.0
+Version:  1.27.1
 <br>
-Date: 20251204.2009
+Date: 20251207.1911

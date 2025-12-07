@@ -56,6 +56,6 @@ They are imported into **SOZ** using the **I-CLASS** command.
               - [File-DAT](/classes/File-DAT.html)
                 - [SOZFile](/classes/SOZFile.html)
 
-Version:  1.27.0
+Version:  1.27.1
 <br>
-Date: 20251204.2009
+Date: 20251207.1911

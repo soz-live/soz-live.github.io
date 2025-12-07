@@ -7,18 +7,10 @@ status: Beta
 
 # soz-aec
 
-## Introduction
+## Functionality
 
-This repo includes functionality for:
 
-- Architectural
-- Engineering
-  - Mechanical
-  - Civil
-  - Structural
-- Construction
-
-workflows.
+{% include repo-features.html id=site.data.repo-features.soz-aec %}
 
 ## Class Hierarchy
 
@@ -49,6 +41,6 @@ workflows.
           - [SZCESections](/classes/SZCESections.html)
             - [SZCESections-OnCurve-Chainage-Exported](/classes/SZCESections-OnCurve-Chainage-Exported.html)
 
-Version:  1.27.0
+Version:  1.27.1
 <br>
-Date: 20251204.2009
+Date: 20251207.1911

@@ -61,6 +61,6 @@ This repo provides crane rigging functionality for **soz-live**.
               - [SZGEShape](/classes/SZGEShape.html)
                 - [SZGEShape-Shackle-Eye](/classes/SZGEShape-Shackle-Eye.html)
 
-Version:  1.27.0
+Version:  1.27.1
 <br>
-Date: 20251204.2009
+Date: 20251207.1911

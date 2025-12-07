@@ -61,6 +61,6 @@ This repo includes additional misc. functionality for **soz-live** such as Fract
       - [SZCEScript](/classes/SZCEScript.html)
         - [SZCEScript-NestedHypocycloid](/classes/SZCEScript-NestedHypocycloid.html)
 
-Version:  1.27.0
+Version:  1.27.1
 <br>
-Date: 20251204.2009
+Date: 20251207.1911

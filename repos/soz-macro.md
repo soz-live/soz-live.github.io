@@ -26,6 +26,6 @@ With this repo it is possible to create additional classes for equation, point a
                 - [SZLPMacro-Point](/classes/SZLPMacro-Point.html)
                 - [SZLPMacro-Points](/classes/SZLPMacro-Points.html)
 
-Version:  1.27.0
+Version:  1.27.1
 <br>
-Date: 20251204.2009
+Date: 20251207.1911

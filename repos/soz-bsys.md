@@ -49,6 +49,6 @@ With this repo it is possible to work with BricsCAD Civil objects such as TINs, 
             - [SZCE3dSolids-BetweenTINs-OnCorridor](/classes/SZCE3dSolids-BetweenTINs-OnCorridor.html)
             - [SZCE3dSolids-OnCorridor](/classes/SZCE3dSolids-OnCorridor.html)
 
-Version:  1.27.0
+Version:  1.27.1
 <br>
-Date: 20251204.2009
+Date: 20251207.1911

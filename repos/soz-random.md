@@ -64,6 +64,6 @@ With this repo it is possible to create:
                   - [SZLPInteger](/classes/SZLPInteger.html)
                     - [SZLPInteger-Random](/classes/SZLPInteger-Random.html)
 
-Version:  1.27.0
+Version:  1.27.1
 <br>
-Date: 20251204.2009
+Date: 20251207.1911
