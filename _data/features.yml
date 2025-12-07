@@ -28,13 +28,13 @@ repos:
         note: Importing pre-defined data into SOZ
         features:      
           - name: SOZFile format
-          - name: CSVArray File format
-          - name: CSV Class File format
+          - name: CSVArray file format
+          - name: CSV Class file format
       - area: Export File Formats
         note: Exporting SOZ data to external files.
         features:      
           - name: SOZFile format
-          - name: CSVArray File format
+          - name: CSVArray file format
   - repo: soz-macro
     note: Module for creation of user defined classes at run-time.
     areas:
@@ -112,4 +112,125 @@ repos:
       - area: Scripts
         note: ODBX Scripts
         features:      
-          - name: PapaerSpace viewport creation.
+          - name: PapaerSpace Viewport creation.
+  - repo: soz-aec
+    note: Module for AEC classes
+    areas:
+      - area: Architectural Modelling
+        note: Architectural classes
+        features:      
+          - name: Parts
+          - name: Features
+      - area: Civil Modelling
+        note: Civil classes
+        features:      
+          - name: Ditch
+          - name: Cross-Sections          
+  - repo: soz-bsys
+    note: Module for BricsCAD Civil functionality
+    areas:
+      - area: TIN Surfaces
+        note: TIN surface functionality
+        features:      
+          - name: Points
+          - name: Curves
+          - name: Faces
+          - name: Meshes      
+          - name: Solid Entities
+      - area: 3D Solids
+        note: 3D Solid classes from TINs
+        features:      
+          - name: Between TINs
+          - name: TIN Depth
+          - name: TIN Elevation
+          - name: On a Corridor
+          - name: Between TINs on a Corridor
+  - repo: soz-structural
+    note: Module for structural elements and members
+    areas:
+      - area: Elements
+        note: Structural Elements of the Model
+        features:      
+          - name: Footing
+          - name: Members
+          - name: Connections
+          - name: Plates
+      - area: Members
+        note: Structural Members
+        features:      
+          - name: Column
+          - name: Beam
+          - name: X Brace
+          - name: K Brace
+          - name: Rafter
+          - name: Portal Frame         
+      - area: Connections
+        note: Structural Connections
+        features:      
+          - name: Open End
+          - name: Cutback
+          - name: End Plate
+          - name: Profile Cuts
+          - name: Mitre Cuts        
+      - area: Scripts
+        note: Scripts to speed up the modelling process
+        features:      
+          - name: Footings
+          - name: Members
+          - name: Braces
+          - name: Columns 
+  - repo: soz-rigging
+    note: Module for crane rigging components and arrangements
+    areas:
+      - area: Items
+        note: Rigging Items
+        features:      
+          - name: Bow Shackle
+          - name: Chain Assembly
+          - name: Link
+          - name: Round Sling
+          - name: Chain Sling
+          - name: Wire Rope
+          - name: Wire Grommet
+          - name: Spreader Bar      
+      - area: Assemblies
+        note: Rigging Assemblies
+        features:      
+          - name: 1x Leg
+          - name: 2x Leg
+          - name: 4x Leg
+          - name: On Line           
+          - name: 2x Leg to Spreader to 2x Leg
+          - name: 2x Leg to Spreader to 4x Leg
+  - repo: soz-slings
+    note: Module for rigging slings
+    areas:
+      - area: Modelling
+        note: Modelling of Slings
+        features:      
+          - name: Chain
+          - name: Twisted Chain
+          - name: Twisted Sling
+  - repo: soz-animate
+    note: Module for the animation of models
+    areas:
+      - area: Animation
+        note: Animation classes
+        features:
+          - name: Scene
+          - name: Effects
+          - name: Sequences         
+  - repo: soz-devs
+    note: Module for developers of SOZ.
+    areas:
+      - area: Documentation
+        note: Documentation routines
+        features:      
+          - name: GitHub Pages documents     
+      - area: Visualisation
+        note: visualisation routines
+        features:      
+          - name: Class hierarchy
+          - name: Function
+          - name: Code         
+          - name: Runtime Environment        
