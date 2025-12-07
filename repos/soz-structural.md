@@ -7,11 +7,10 @@ status: Beta
 
 # soz-structural
 
-## Introduction
+## Functionality
 
-The **soz-structural** repo adds structural functionality to **SOZ**.
+{% include repo-features.html id=site.data.repo-features.soz-structural %}
 
-With this repo it is possible to create Strucural Elements such as Footings, Columns, Beams and Braces.
 ## Class Hierarchy
 
 - [SZOBBase](/classes/SZOBBase.html)
@@ -104,4 +103,4 @@ With this repo it is possible to create Strucural Elements such as Footings, Col
 
 Version:  1.27.1
 <br>
-Date: 20251207.1911
+Date: 20251207.1926

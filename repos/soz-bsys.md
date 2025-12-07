@@ -7,11 +7,9 @@ status: Beta
 
 # soz-bsys
 
-## Introduction
+## Functionality
 
-The **soz-bsys** repo adds BricsCAD specific functionality to **SOZ**.
-
-With this repo it is possible to work with BricsCAD Civil objects such as TINs, Corridors and Aligments.
+{% include repo-features.html id=site.data.repo-features.soz-bsys %}
 
 ## Class Hierarchy
 
@@ -51,4 +49,4 @@ With this repo it is possible to work with BricsCAD Civil objects such as TINs, 
 
 Version:  1.27.1
 <br>
-Date: 20251207.1911
+Date: 20251207.1926

@@ -7,9 +7,9 @@ status: Beta
 
 # soz-rigging
 
-## Introduction
+## Functionality
 
-This repo provides crane rigging functionality for **soz-live**.
+{% include repo-features.html id=site.data.repo-features.soz-rigging %}
 
 ## Class Hierarchy
 
@@ -63,4 +63,4 @@ This repo provides crane rigging functionality for **soz-live**.
 
 Version:  1.27.1
 <br>
-Date: 20251207.1911
+Date: 20251207.1926

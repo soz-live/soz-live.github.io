@@ -7,17 +7,9 @@ status: Beta
 
 # soz-history
 
-## Introduction
+## Functionality
 
-The **soz-history** repo adds history functionality to **SOZ**.
-
-With this repo it is possible to record a state of drafting / design, at a specific TimeStamp, that enables the user to return to that state and can be recalled later for whatever reason.  
-<br>
-To record a state, use the H-Record command.  
-To recall the first state, use the H-First command.  
-To recall the last state, use the H-Last command.  
-To recall a state, use the H-Select command.  
-
+{% include repo-features.html id=site.data.repo-features.soz-history %}
 ## Class Hierarchy
 
 - [SZOBBase](/classes/SZOBBase.html)
@@ -32,4 +24,4 @@ To recall a state, use the H-Select command.
 
 Version:  1.27.1
 <br>
-Date: 20251207.1911
+Date: 20251207.1926

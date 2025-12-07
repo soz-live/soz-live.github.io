@@ -11,84 +11,9 @@ status: Beta
 
 The status of this Repo is: **Private Beta**
 
+## Functionality
 
-## Introduction
-
-This is the Main project repo, with core functionality included.  
-Functionality provided by this repo includes Making, Editing & Updating of:
-
-- Basic Lisp types:
-  - as Values
-  - as Objects
-- Geomeric Objects, including:
-  - Point
-  - Plane
-  - Curve
-- Basic CAD Entities, including:
-  - Point
-  - Curves
-    - Arc
-    - Circle
-    - Line  
-    - Polylines
-    - 3dPolylines
-  - Text
-  - Blocks
-- Extended CAD Entities, including:
-  - Planes
-  - Curves
-  - Grids
-- Modelling Objects and Entities including:
-  - Features  
-  - Parts  
-  - Groups
-  - Elements
-  - Assemblies
-
-And the Running of Scripts.
-
-## Classes
- 
-All classes are derived from the Base Class - **SZOBBase**.
-
-The first level of sub-classes:
-
-- [SZOBBase](/classes/SZOBBase.html)
-  - [Lisp](/classes/Lisp.html)
-  - [SZOBObject](/classes/SZOBObject.html)
-  - [SZOBScript](/classes/SZOBScript.html)
-
-
-### Lisp
-
-All basic Lisp values, such as:
-
-- Real, 
-- Integer, 
-- String, 
-- Boolean 
-
-including geometric types such as:
-
-- Vector, 
-- Point, 
-- Line, 
-- Plane 
-- TMatrix
-
-are sub-classes of this class.  
-These types are passed by Value to routines and stored within objects by Value.
-
-### SZOBObject
-
-This is the basic Object class. All classes, that create Objects and Entities are sub-classes of this class.  
-Instead of being passed by Value, they are passed and stored by ID, a String in a particular format, eg `#O#5A48`.  
-Many classes are converted to simpler types as required by the program, eg a SZGELine Object to a Line value.  
-
-### SZOBScript
-
-This is the basic Script class.  
-All scripts, functions that are run for their internal effects only, are sub-classes of this type.
+{% include repo-features.html id=site.data.repo-features.soz-live %}
 
 ## Class Hierarchy
 
@@ -947,4 +872,4 @@ All scripts, functions that are run for their internal effects only, are sub-cla
 
 Version:  1.27.1
 <br>
-Date: 20251207.1911
+Date: 20251207.1926

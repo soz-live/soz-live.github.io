@@ -7,30 +7,10 @@ status: Alpha
 
 # soz-animate
 
-## Introduction
+## Functionality
 
-The **soz-animate** repo adds animation functionality to **SOZ**.
+{% include repo-features.html id=site.data.repo-features.soz-animate %}
 
-
-## Commands:
-
-- M-Animate to make the:
-  - Scene
-  - Changes
-  - Effects
-  - Sequences
-- A-Scene - a command line menu to access and work with the animation
-  - Select Scene
-  - Generate Scene
-  - Play Scene
-    - to play an animation
-  - Edit the scene
-  - Delay
-    - set the DELAY setting
-  - Times
-    - set the TIMES setting.
-  - Reset
-    - reset settings 
 ## Class Hierarchy
 
 - [SZOBBase](/classes/SZOBBase.html)
@@ -53,4 +33,4 @@ The **soz-animate** repo adds animation functionality to **SOZ**.
 
 Version:  1.27.1
 <br>
-Date: 20251207.1911
+Date: 20251207.1926

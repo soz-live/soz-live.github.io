@@ -7,15 +7,9 @@ status: Beta
 
 # soz-random
 
-## Introduction
+## Functionality
 
-The **soz-repo** repo adds Random functionality to **SOZ**.
-
-With this repo it is possible to create:
-
-- random numbers
-- random points
-- 
+{% include repo-features.html id=site.data.repo-features.soz-random %}
 ## Class Hierarchy
 
 - [SZOBBase](/classes/SZOBBase.html)
@@ -66,4 +60,4 @@ With this repo it is possible to create:
 
 Version:  1.27.1
 <br>
-Date: 20251207.1911
+Date: 20251207.1926

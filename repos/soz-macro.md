@@ -7,11 +7,9 @@ status: Beta
 
 # soz-macro
 
-## Introduction
+## Functionality
 
-The **soz-macro** repo adds macro functionality to **SOZ**.
-
-With this repo it is possible to create additional classes for equation, point and points classes to generate curves using equations.
+{% include repo-features.html id=site.data.repo-features.soz-macro %}
 ## Class Hierarchy
 
 - [SZOBBase](/classes/SZOBBase.html)
@@ -28,4 +26,4 @@ With this repo it is possible to create additional classes for equation, point a
 
 Version:  1.27.1
 <br>
-Date: 20251207.1911
+Date: 20251207.1926

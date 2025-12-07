@@ -7,14 +7,9 @@ status: Beta
 
 # soz-devs
 
-## Introduction
+## Functionality
 
-This repo includes functionality for Developers of **soz-live**, including:
-
-- Source code release creation functions and commands
-- Scripting routines for Github, PowerShell and Batch files.
-- Code Visualisation tools using code mapping functions
-- Code Documentation tools used during the release of code.
+{% include repo-features.html id=site.data.repo-features.soz-devs %}
 ## Class Hierarchy
 
 - [SZOBBase](/classes/SZOBBase.html)
@@ -56,4 +51,4 @@ This repo includes functionality for Developers of **soz-live**, including:
 
 Version:  1.27.1
 <br>
-Date: 20251207.1911
+Date: 20251207.1926

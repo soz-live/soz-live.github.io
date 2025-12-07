@@ -7,10 +7,9 @@ status: Beta
 
 # soz-misc
 
-## Introduction
+## Functionality
 
-This repo includes additional misc. functionality for **soz-live** such as Fractals and other curves.  
-
+{% include repo-features.html id=site.data.repo-features.soz-misc %}
 ## Class Hierarchy
 
 - [SZOBBase](/classes/SZOBBase.html)
@@ -63,4 +62,4 @@ This repo includes additional misc. functionality for **soz-live** such as Fract
 
 Version:  1.27.1
 <br>
-Date: 20251207.1911
+Date: 20251207.1926

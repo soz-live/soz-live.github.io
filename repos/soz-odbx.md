@@ -7,11 +7,9 @@ status: Beta
 
 # soz-odbx
 
-## Introduction
+## Functionality
 
-The **soz-odbx** repo adds odbx functionality to **SOZ**.
-
-With this repo it is possible to load and script external drawings without having to load them into the application.
+{% include repo-features.html id=site.data.repo-features.soz-odbx %}
 ## Class Hierarchy
 
 - [SZOBBase](/classes/SZOBBase.html)
@@ -26,4 +24,4 @@ With this repo it is possible to load and script external drawings without havin
 
 Version:  1.27.1
 <br>
-Date: 20251207.1911
+Date: 20251207.1926

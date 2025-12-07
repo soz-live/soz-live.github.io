@@ -7,15 +7,9 @@ status: Beta
 
 # soz-slings
 
-## Introduction
+## Functionality
 
-The **soz-slings** repo adds lifting sling functionality to **SOZ**.
-
-With this repo it is possible to create editable:
-
-- Chains
-- Round Slings
-- Twisted Chains
+{% include repo-features.html id=site.data.repo-features.soz-slings %}
 
 ## Class Hierarchy
 
@@ -51,4 +45,4 @@ With this repo it is possible to create editable:
 
 Version:  1.27.1
 <br>
-Date: 20251207.1911
+Date: 20251207.1926
