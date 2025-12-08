@@ -1,11 +1,11 @@
 ---
 layout: default
 ---
-# Specify
+# Examples
 
 ## Contents
 
-- Specify
+- Examples
   - [Introduction](#introduction)
   - [Values](#values)
     - [Real](#real)

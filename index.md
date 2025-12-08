@@ -17,32 +17,14 @@ The current status of the project is **Private Beta**.
 
 ## For Users
 
-**SOZ-LIVE** combines:
-
-- parametric creation and editing of drafting entities such as:
-  - Points
-  - Lines
-  - Arcs
-  - Circles
-  - Polylines 
-- a parametric 3D Solid modeller for:
-  - Parts
-  - Features
-  - Assemblies
-- a Node-based user interface (UI), **LIVE**, for iterative modelling, and
-- a consistent Graphical User Interface (GUI).  
+**SOZ-LIVE** combines parametric creation and editing of drafting entities, a parametric 3D Solid modeller, a Node-based user interface (UI), **LIVE**, for iterative modelling, using a consistent Graphical User Interface (GUI).  
 
 Refer to the [Users Introduction](/users/intro.html) for details.
 
 
 ## For Coders
 
-Written entirely in Lisp, **SOZ** combines the best of:
-
-- Functional, 
-- Object-Oriented & 
-- Scripting languages, 
-
+Written entirely in Lisp, **SOZ** combines the best of Functional, Object-Oriented & Scripting languages.  
 With a structured and expressive approach to programming in CAD, **SOZ** gives creative power to Coders to extend and develop the project in the direction required.  
 
 Refer to the [Coders Introduction](/coders/intro.html) for details.

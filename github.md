@@ -18,7 +18,7 @@ To obtain a pre-release copy, and become part of the community, refer to the [Co
 
 ## Quickstart
 
-For information on downloading and using the project, refer to the [Quickstart Guide](/users/quickstart.html).
+For information on downloading and using the project, refer to the [Quickstart](/users/quickstart.html) document.
 
 ## Sponsor
 

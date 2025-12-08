@@ -14,30 +14,23 @@ This page lists documentation for **SOZ-LIVE** in the following sections:
 
 ## Users
 
-This documentation is focussed on a User of the project:  
+This documentation is focussed on Users of the project:  
 
 - [Users Introduction](/users/intro.html). 
-- [Basic Concepts](/users/basics.html).
-- [Quickstart Guide](/users/quickstart.html).
-- [User Interface Basics](/users/uibasics.html).
-- SOZ Process
-  - [Specify](/users/specify.html).
-  - [Draft](/users/draft.html).
-  - [Model](/users/model.html).
-  - [Present](/users/present.html).
+- [Quickstart](/users/quickstart.html).
+- [Basics](/users/basics.html).
+
 
 {% include note.html content="<br> - There is more that needs to be done here!" %}
 
 
 ## Coders
 
-This documentation is focussed on a Coder of the project:  
+This documentation is focussed on Coders of the project:  
 
-- [Coders Introduction](/coders/intro.html). 
-- [Lisp Introduction](/coders/lisp.html).
-- [Basic Information](/coders/basics.html).
-- [SOZ Class Information](/coders/classes.html).
-- [SOZ Method Information](/coders/methods.html).
+- [Introduction](/coders/intro.html). 
+- [Basics](/coders/basic.html).
+
 
 {% include note.html content="<br> - And there is more that needs to be done here too!" %}
 
@@ -52,4 +45,3 @@ These documents provide additional information about the project that don't fit 
 - [Commands](/docs/commands.html) - a hierarchial list of Commands for the project.
 - [Repos](/docs/repos.html) - a table of Repos / Modules for the project, with links to help documentation
 - [Releases](/docs/releases.html) - a table of Releases for the project.
-- [Features](/docs/features.html) - a table of Releases and their features.

@@ -14,36 +14,11 @@ layout: default
 
 ## Introduction
 
-For users, **SOZ-LIVE** provides parametric CAD functionality in the areas of:
+For users, **SOZ-LIVE** provides editable parametric CAD functionality.
+It enables the user to work in a number of consistent User Interfaces (UIs) including a dialog box GUI and **LIVE**, a node based UI. 
 
-- 3D Drafting
-  - Points
-  - Planes
-  - Curves
-    - Lines
-    - Arcs
-    - Circles
-    - Polylines
-    - 3dPolylines
-  - Grids
-  - Levels
-- 3D Modelling
-  - Parts
-  - Features
-  - Assemblies
-  
-For the following disciplines:
-  
-- Architecture
-- Engineering
-  - Mechanical
-  - Structural
-  - Civil
-- Construction
-  - Rigging
+An incomplete list of **SOZ-LIVE** functionality is [here](/repos/soz-live.html).  
 
-It enables the user to work in a number of consistent User Interfaces (UIs) including a dialog box GUI and **LIVE**, a node based UI.  
-All with the ability to Edit and Update previously created Objects and Entities.
 
 ## Potential Users
 
@@ -62,14 +37,9 @@ All with the ability to Edit and Update previously created Objects and Entities.
 
 ## Documents
 
-- [Basic Concepts](/users/basics.html).
-- [Quickstart Guide](/users/quickstart.html).
-- [User Interface Basics](/users/uibasics.html).
-- SOZ Process
-  - [Specify](/users/specify.html).
-  - [Draft](/users/draft.html).
-  - [Model](/users/model.html).
-  - [Present](/users/present.html).
+- [Quickstart](/users/quickstart.html).
+- [Basics](/users/basics.html).
+
 
 ## Videos
 
