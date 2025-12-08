@@ -1,6 +1,142 @@
 soz-live:
-  note: Base module with core parametric functionality
+  note: Core module with parametric functionality
   areas:
+    - area: Basics
+      note: Basic SOZ Object Functionality
+      features:
+        - name: Make Objects
+        - name: Edit Objects
+        - name: Update Objects  
+        - name: Draw Entities    
+        - name: Clone Objects    
+        - name: Delete Objects    
+        - name: Convert objects
+    - area: Lisp
+      note: Lisp functionality built in
+      features:
+        - name: Numbers
+        - name: Strings
+        - name: Boolean  
+        - name: Enums    
+        - name: Files    
+        - name: Lists    
+        - name: AxObjects
+    - area: Lists
+      note: List functionality built in.
+      features:
+        - name: Array
+        - name: Alist
+        - name: Structure  
+        - name: Geometry
+        - name: Tree
+    - area: Geometry
+      note: Geometric values and objects
+      features:
+        - name: Vector
+        - name: Point
+        - name: Spherical Point  
+        - name: Plane
+        - name: TMatrix
+        - name: Points  
+        - name: Face
+        - name: 2D Curve
+        - name: Loop 
+        - name: 3D Curve  
+        - name: Line
+        - name: Patterns
+    - area: Loop
+      note: Geometric 2D Curve Objects
+      features:
+        - name: Polyline
+        - name: Points
+        - name: Shape  
+        - name: Polar Curve
+        - name: Planar Curve
+        - name: Points  
+        - name: Face
+        - name: 2D Curve
+        - name: Loop 
+        - name: 3D Curve  
+        - name: Line    
+    - area: Shape
+      note: Parametric 2D Curves
+      features:
+        - name: C Shapes
+        - name: Circle
+        - name: Hat  
+        - name: I Shapes
+        - name: L Shapes
+        - name: Polygon  
+        - name: Rectangular Shapes
+        - name: Square
+        - name: Slot 
+        - name: Purlins 
+    - area: Entities
+      note: Parametric CAD Entities
+      features:
+        - name: XLine
+        - name: Ray
+        - name: Region  
+        - name: 3DSolid
+        - name: Text
+        - name: MText  
+        - name: Attributes
+        - name: Blocks
+        - name: Curves  
+        - name: Point
+        - name: Plane 
+        - name: UCS
+    - area: Profiles
+      note: 2D Entities used for the creation of Solids
+      features:
+        - name: Circle Entity
+        - name: Polyline Entity
+        - name: Circle
+        - name: Loop
+        - name: Pipe (CHS)
+        - name: Planar Curve
+        - name: RHS
+    - area: 3D Solids
+      note: Parametric 3D Solids
+      features:
+        - name: Box
+        - name: Cone
+        - name: Cylinder
+        - name: Eliptical Cone
+        - name: Eliptical Cylinder    
+        - name: Extrusion
+        - name: Revolve
+        - name: Sphere  
+        - name: Sweep
+        - name: Torus
+        - name: Wedge  
+        - name: Loft   
+    - area: Curves
+      note: Parametric Curve Entities
+      features:
+        - name: 2D Polylines
+        - name: 3D Polylines
+        - name: Arc  
+        - name: Arc - 3x Point
+        - name: Arc - Offset
+        - name: Circle  
+        - name: Circle 3x Points
+        - name: Circle - Offset
+        - name: Ellipse  
+        - name: Line
+    - area: Multiple Entities
+      note: Multiple CAD Entities
+      features:
+        - name: Grids
+        - name: Pattern
+        - name: Planes  
+        - name: Planes - Levels
+        - name: Points
+        - name: Sections  
+        - name: UCSs
+        - name: Curves  
+        - name: Faces
+        - name: Lines
     - area: Modelling
       note: 3D parametric solid modelling.
       features:
@@ -12,14 +148,27 @@ soz-live:
       features:
         - name: Boolean Solids
         - name: Chamfers and Fillets
-        - name: Part Slicing to Planes
+        - name: Slicing to Planes
+        - name: Profile cuts
+        - name: Boolean Toolbodies
     - area: Parts
       note: 3D parametric Parts
       features:
-        - name: Extrusion
+        - name: Planar
         - name: Sweep
         - name: Sphere
         - name: Filleted Sweep      
+        - name: PolySolid
+    - area: Runtime Environment
+      note: The controlling runtime meta-environment
+      features:
+        - name: Functions
+        - name: Classes
+        - name: Methods
+        - name: Interfaces
+        - name: Categories
+        - name: Types
+        - name: Settings
         
 soz-files:
   note: Data import and export module
@@ -245,4 +394,11 @@ soz-devs:
         - name: Class hierarchy
         - name: Function
         - name: Code         
-        - name: Runtime Environment        
+        - name: Runtime Environment    
+    - area: Scripting
+      note: Scripting of functions using different languages
+      features:      
+        - name: Powershell
+        - name: Git
+        - name: Batch         
+        - name: Bash        
