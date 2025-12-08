@@ -1,9 +1,9 @@
 
-# Class:	SZOBCAD
+# Class:	AcDbCommand
 
 ### Description:
 
-Base CAD Object Class
+Base AcDbCommand Class
 
 
 
@@ -12,8 +12,8 @@ Base CAD Object Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZOBObject](SZOBObject.html) |
-| Subclasses: | [ODBXObject](ODBXObject.html) <br> [AcDbObject](AcDbObject.html) <br> [SZCOObjects](SZCOObjects.html) <br> [SZCOObject](SZCOObject.html) <br> [AcDbCommand](AcDbCommand.html) <br> [AcDbError](AcDbError.html) <br> [AcDbVars](AcDbVars.html) |
+| Superclass: | [SZOBCAD](SZOBCAD.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

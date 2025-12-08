@@ -1,9 +1,9 @@
 
-# Class:	ODBXScript
+# Class:	ODBXScript-PaperSpace-Viewport
 
 ### Description:
 
-ObjectDbx Script
+PaperSpace Script
 
 
 
@@ -12,12 +12,22 @@ ObjectDbx Script
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-odbx](/repos/soz-odbx.html) |
-| Superclass: | [SZOBScript](SZOBScript.html) |
-| Subclasses: | [ODBXScript-PaperSpace-Viewport](ODBXScript-PaperSpace-Viewport.html) |
+| Superclass: | [ODBXScript](ODBXScript.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | Yes |
+| Abstract?: | No |
 | isValue?: | No |
+
+### ODBXScript-PaperSpace-Viewport-Make
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| FN | [File-DWG](File-DWG.html) |  |
+| NAME | [String](String.html) |  |
+| --- | --- | --- |
+| Returns: | [FileName](FileName.html) |
+| Help: | PaperSpace Setup Script |
 
 
 ## Functions:

@@ -159,6 +159,12 @@ soz-live:
         - name: Sphere
         - name: Filleted Sweep      
         - name: PolySolid
+    - area: User Interfaces
+      note: UI functionality built in,
+      features:
+        - name: CLI - Command line
+        - name: GUI - DCL based Dialog Boxes
+        - name: LIVE - Node based UI
     - area: Runtime Environment
       note: The controlling runtime meta-environment
       features:

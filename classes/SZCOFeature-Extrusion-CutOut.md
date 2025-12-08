@@ -3,7 +3,7 @@
 
 ### Description:
 
-Face Cut Out Class
+Extruded Face, Cut Out Class
 
 
 

@@ -9,6 +9,6 @@ Below is a table of repos vs releases, showing which repos are included with eac
 
 {% include csvtable.html id=site.data.releases %}
 
-Version:  1.27.0
+Version:  1.27.1
 <br>
-Date: 20251204.2009
+Date: 20251208.1614

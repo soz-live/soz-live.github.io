@@ -34,6 +34,7 @@ EditList Options
 | Names | Values |
 | --------- | --------- |
 | Edit Item | User_EditItem |
+| Clone Item | User_CloneItem |
 | Remove Item | User_RemoveItem |
 | Move To First | User_MoveToFirst |
 | Move Up | User_MoveItemUp |

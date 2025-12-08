@@ -1,11 +1,11 @@
 Repo,CORE,BASE,AEC,ALL,DEVS
 [soz-live](/repos/soz-live.html),Yes,Yes,Yes,Yes,Yes
-[soz-macro](/repos/soz-macro.html),Yes,Yes,Yes,Yes,Yes
 [soz-files](/repos/soz-files.html),Yes,Yes,Yes,Yes,Yes
-[soz-odbx](/repos/soz-odbx.html),,Yes,Yes,Yes,Yes
+[soz-macro](/repos/soz-macro.html),,Yes,Yes,Yes,Yes
 [soz-history](/repos/soz-history.html),,Yes,Yes,Yes,Yes
 [soz-misc](/repos/soz-misc.html),,Yes,Yes,Yes,Yes
 [soz-random](/repos/soz-random.html),,Yes,Yes,Yes,Yes
+[soz-odbx](/repos/soz-odbx.html),,Yes,Yes,Yes,Yes
 [soz-aec](/repos/soz-aec.html),,,Yes,Yes,Yes
 [soz-bsys](/repos/soz-bsys.html),,,Yes,Yes,Yes
 [soz-structural](/repos/soz-structural.html),,,Yes,Yes,Yes

@@ -155,10 +155,6 @@ To access all of the Commands in a dialog box - type **Y** at the command line.
           - M-Values
             - M-List
       - M-Script
-  - Misc
-    - T-Area
-    - T-Length
-    - T-Poly3D
   - Object
     - O-Clear
     - O-Delete
@@ -177,6 +173,6 @@ To access all of the Commands in a dialog box - type **Y** at the command line.
     - V-ResetEntities
     - V-SetEntities
 
-Version:  1.27.0
+Version:  1.27.1
 <br>
-Date: 20251204.2009
+Date: 20251208.1614
