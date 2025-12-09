@@ -36,6 +36,6 @@ Refer to the [Coders Introduction](/coders/intro.html) for details.
 
 
 > {% include note-icon.html %}
-> 3D Modelling functionality requires BricsCAD Pro or above, or full AutoCAD.   
-> TIN Surfaces and Civil functionality require BricsCAD Pro or above.  
-> SOZ-LIVE is not affiliated with BricsCAD or AutoCAD.
+> - 3D Modelling functionality requires BricsCAD Pro or above, or full AutoCAD.   
+> - TIN Surfaces and Civil functionality require BricsCAD Pro or above.  
+> - SOZ-LIVE is not affiliated with BricsCAD or AutoCAD.
