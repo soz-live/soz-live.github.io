@@ -17,8 +17,8 @@ This page lists documentation for **SOZ-LIVE** in the following sections:
 This documentation is focussed on Users of the project:  
 
 - [Users Introduction](/users/intro.html). 
-- [Quickstart](/users/quickstart.html).
-- [Basics](/users/basics.html).
+- [Quickstart Guide](/users/quickstart.html).
+- [Basic Information](/users/basics.html).
 
 
 {% include note.html content="<br> - There is more that needs to be done here!" %}
@@ -28,9 +28,10 @@ This documentation is focussed on Users of the project:
 
 This documentation is focussed on Coders of the project:  
 
-- [Introduction](/coders/intro.html). 
-- [Basics](/coders/basic.html).
+- [Coders Introduction](/coders/intro.html). 
+- [Basic Information](/coders/basic.html).
 
+> - And there is more that needs to be done here too!
 
 {% include note.html content="<br> - And there is more that needs to be done here too!" %}
 

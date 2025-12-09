@@ -27,7 +27,7 @@ It enables coders to use Object Oriented (OO) techniques from within a functiona
 
 ## Documents
 
-- [Basic](/coders/basic.html).
+- [Basic Information](/coders/basic.html).
 
 
 ## Videos
