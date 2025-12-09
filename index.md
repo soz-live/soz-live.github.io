@@ -35,7 +35,7 @@ Refer to the [Coders Introduction](/coders/intro.html) for details.
 **SOZ-LIVE** is written to be run from within both BricsCAD and AutoCAD.
 
 
-   
+> {% include note-icon.html %}
 > 3D Modelling functionality requires BricsCAD Pro or above, or full AutoCAD.   
 > TIN Surfaces and Civil functionality require BricsCAD Pro or above.  
 > SOZ-LIVE is not affiliated with BricsCAD or AutoCAD.
