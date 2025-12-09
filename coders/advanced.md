@@ -15,4 +15,4 @@ layout: default
 This page contains Advanced information for coders.  
 
 
-{% include note.html content="<br> - More to be done here" %}
+

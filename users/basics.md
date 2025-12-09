@@ -52,7 +52,7 @@ Through to non-graphical objects such as:
 - [SZLPReal](/classes/SZLPReal.html) - a value object for a real number.
 - [SZLPReals](/classes/SZLPReals.html) - a value object for a list of Real Numbers.
 
-{% include note.html content="<br> - Except for Lisp values, each class has a four letter prefix that identifies it as belonging to a particular part of the class hierarchy.<br> - Refer to the Prefixes document for details." %}
+{% include note-content.html content="<br> - Except for Lisp values, each class has a four letter prefix that identifies it as belonging to a particular part of the class hierarchy.<br> - Refer to the Prefixes document for details." %}
 
 
 ## Object
@@ -70,7 +70,7 @@ Through to complex geometric objects that utilise other objects and entities in 
 - [SZGEPattern2D-Rectangular](/classes/SZGEPattern2D-Rectangular.html) object - that creates and returns a list of [TMatrix](/classes/TMatrix.html) values for the insertion of Entities into the Model in a Rectangular 2D Pattern.  
 
 
-{% include note.html content="<br> - A Real value entered into a dialog box is stored as a string until required by the program.<br> - This enables lisp equations such as (/ 1.0 3.0) to be entered and calculated to full precision as and when required." %}
+{% include note-content.html content="<br> - A Real value entered into a dialog box is stored as a string until required by the program.<br> - This enables lisp equations such as (/ 1.0 3.0) to be entered and calculated to full precision as and when required." %}
 
 ## Entity
 
@@ -84,7 +84,7 @@ Base entity classes predominantly begin with the prefix `AcDb`, and derived clas
 All objects in **SOZ** are stored and passed by reference to an **ID** - that is a string incorporating the object's Handle.  
 eg: **`"#O#AA5"`** would be the **SOZ** object with the handle **AA5**.
 
-{% include note.html content="<br> - All Make routines return the ID of the object / entity that was created." %}
+{% include note-content.html content="<br> - All Make routines return the ID of the object / entity that was created." %}
 
 ## Methods
 
@@ -101,7 +101,7 @@ The easiest way to interact with **SOZ** is to type **Y** on the command line - 
 
 The full hierarchial list of of commands is [here](/docs/commands.html).
 
-{% include note.html content="<br> - All SOZ commands are in the same format, eg M-... so as not to interfere with conventional CAD shortcuts.<br> - Once you know the name of a command, you can type that command instead.<br> - Y was chosen as it is the only key not used as a standard CAD command shortcut." %}
+{% include note-content.html content="<br> - All SOZ commands are in the same format, eg M-... so as not to interfere with conventional CAD shortcuts.<br> - Once you know the name of a command, you can type that command instead.<br> - Y was chosen as it is the only key not used as a standard CAD command shortcut." %}
 
 
 ## Dialog Boxes
@@ -110,7 +110,7 @@ Each **SOZ-LIVE** Class and Function has a dialog box developed on-the-fly, depe
 
 Each argument to be specified creates another entry in the dialog box to be filled in by the user.
 
-{% include note.html content="<br> - Only fully completed dialogs - one with valid entries for each field, will be parsed by the Make routine properly and return a valid Object." %}
+{% include note-content.html content="<br> - Only fully completed dialogs - one with valid entries for each field, will be parsed by the Make routine properly and return a valid Object." %}
 
 The entry is either an **atom** field or a **list** field - depending upon the type of each of the arguments for the Class...
 
@@ -120,7 +120,7 @@ For example, the dialog for the class [SZGELine](/classes/SZGELine.html) has two
 - POINT1 - an atom field which is required to be of type [SZGEPoint](/classes/SZGEPoint.html)
 
 
-{% include note.html content="<br> - Any class that is derived or one that interfaces with the type is also valid.<br> - The alternative classes available for each dialog are available from the ... button at the top of the dialog next to the Class Name.<br> - You can Cut and Paste values from one field to another - as long as the Type of the Value / Object / Entity is compatible." %}
+{% include note-content.html content="<br> - Any class that is derived or one that interfaces with the type is also valid.<br> - The alternative classes available for each dialog are available from the ... button at the top of the dialog next to the Class Name.<br> - You can Cut and Paste values from one field to another - as long as the Type of the Value / Object / Entity is compatible." %}
 
 ### Atom Fields
 
@@ -142,7 +142,7 @@ Where the Options vary depending upon the Class being created, but include:
 - Prompt - Use the Command Line version for entering the Class.
 <br>
 
-{% include note.html content="<br> - All options are prefixed with User_ to indicate that they are user methods - selectable by the User." %}
+{% include note-content.html content="<br> - All options are prefixed with User_ to indicate that they are user methods - selectable by the User." %}
 
 ### List Fields
 
@@ -173,7 +173,7 @@ And Edit Options include:
 - Edit an item
 <br>
 
-{% include note.html content="<br> - Double clicking on an Item Edits the Item." %}
+{% include note-content.html content="<br> - Double clicking on an Item Edits the Item." %}
 
  
 ## LIVE

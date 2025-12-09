@@ -14,5 +14,3 @@ layout: default
 
 This page contains Intermediate information for coders.  
 
-
-{% include note.html content="<br> - More to be done here" %}

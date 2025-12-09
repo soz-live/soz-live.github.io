@@ -34,8 +34,6 @@ Within a dialog box, there is a text field to enter the desired value.
 Alternatively there are options on the RHS for additional ways to enter a value.  
 
 
-{% include note.html content="These examples are only testing functionality at the moment." %}
-
 {% include examples.html id=site.data.examples.szlpreal %}
 
 
@@ -46,8 +44,6 @@ An example are the Boolean values of True and False. The only possible values fo
 Within a dialog box, an Option is specified by selecting one of the options from the drop-down list for the value.  
 The visible value is the current value.  
 
-
-{% include note.html content="These examples are only testing functionality at the moment." %}
 
 {% include examples.html id=site.data.examples.option %}
 

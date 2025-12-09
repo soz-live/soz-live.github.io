@@ -44,5 +44,3 @@ An incomplete list of **SOZ-LIVE** functionality is [here](/repos/soz-live.html)
 ## Videos
 
 - [Part 1](/users/video-1.html) - an example of a Boolean Feature Solid.  
-
-{% include note.html content="<br> - More that needs to be done here!" %} 
