@@ -52,7 +52,10 @@ Through to non-graphical objects such as:
 - [SZLPReal](/classes/SZLPReal.html) - a value object for a real number.
 - [SZLPReals](/classes/SZLPReals.html) - a value object for a list of Real Numbers.
 
-{% include note-content.html content="<br> - Except for Lisp values, each class has a four letter prefix that identifies it as belonging to a particular part of the class hierarchy.<br> - Refer to the Prefixes document for details." %}
+
+> {% include note-icon.html %}  
+> Except for Lisp values, each class has a four letter prefix that identifies it as belonging to a particular part of the class hierarchy. 
+> Refer to the Prefixes reference document for details.
 
 
 ## Object
