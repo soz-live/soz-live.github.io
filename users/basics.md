@@ -34,7 +34,7 @@ layout: default
   
 ## Introduction
 
-This page contains basic concepts for users working with **SOZ-LIVE**.  
+This page contains basic concepts for users working with **SOZ-LIVE**.
 
 
 ## Class
@@ -53,9 +53,8 @@ Through to non-graphical objects such as:
 - [SZLPReals](/classes/SZLPReals.html) - a value object for a list of Real Numbers.
 
 
-{% include note-icon.html %}  
 > Except for Lisp values, each class has a four letter prefix that identifies it as belonging to a particular part of the class hierarchy. 
-> Refer to the Prefixes reference document for details.
+> Refer to the Prefixes Reference document for details.
 
 
 ## Object
