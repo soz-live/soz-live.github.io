@@ -20,7 +20,7 @@ This documentation is focussed on Users of the project:
 - [Quickstart Guide](/users/quickstart.html).
 - [Basic Information](/users/basics.html).
 
-   
+> {% include note-icon.html %}  
 > There is more that needs to be done here too!
 
 ## Coders
@@ -30,7 +30,7 @@ This documentation is focussed on Coders of the project:
 - [Coders Introduction](/coders/intro.html). 
 - [Basic Information](/coders/basic.html).
 
-   
+> {% include note-icon.html %}  
 > And there is more that needs to be done here too!
 
 
