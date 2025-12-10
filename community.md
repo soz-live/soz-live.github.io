@@ -28,8 +28,8 @@ While aiming to be:
 - welcoming
 - open
 - diverse
-- healthy
-- giving
+- caring
+- sharing
 
 All members actions will be governed by the **Code of Conduct** in the GitHub repo.
 
