@@ -111,6 +111,6 @@ For example:
         - List
   - Script
 
-Version:  1.27.1
+Version:  1.27.2
 <br>
-Date: 20251208.1614
+Date: 20251212.1923

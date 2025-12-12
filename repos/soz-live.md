@@ -867,6 +867,6 @@ status: Beta
           - [SZCOScript-Features-ProfileCut](/classes/SZCOScript-Features-ProfileCut.html)
       - [SZCOScript-ModelGroups](/classes/SZCOScript-ModelGroups.html)
 
-Version:  1.27.1
+Version:  1.27.2
 <br>
-Date: 20251208.1614
+Date: 20251212.1923
