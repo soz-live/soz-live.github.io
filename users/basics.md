@@ -26,7 +26,7 @@ layout: default
     - [Draft](#draft)
     - [Model](#Model)
       - [Part](#part)
-      - [Feature](#feature)
+      - [Features](#features)
       - [Assembly](#assembly)    
     - [Present](#present)  
   
@@ -261,10 +261,17 @@ During each phase the basic approach to using **SOZ** is followed:
   - this is done from within the **Edit** commands.
 
 
+{% include note-icon.html %}  
+> The process of drawing develoment doesn't have to be linear (moving from Specify to Draft to Model etc.)  
+> **SOZ** enables most entities to be created from within the Dialog Boxes as required.  
+> This means that a non-linear approach to model creation can be achieved.  
+> And because changes can be made, editing can be done later.
+
+
 ### Specify
 
 The Objects and Values that form the basis for the Entities are created in this phase.  
-These inclde the likes of:
+These include:
 
 - Numbers
 - Equations
@@ -289,6 +296,7 @@ The Entities that form the basis for the Models are created in this phase:
   - Circles
   - etc
 - Grids
+- Solids
 - etc.  
 
 ### Model
@@ -296,16 +304,28 @@ The Entities that form the basis for the Models are created in this phase:
 Modelling Entities are created in the phase, using previously defined Entities and objects:
 
 - [Part](#part)
-- [Feature](#feature)
+- [Features](#features)
 - [Assembly](#assembly)
 
 #### Part
 
-Parts are made of Features.
+Parts are made from Features.  
+In the drawing they exist as a BlockReference for a given Block (the Definition).
+When editing the Part, the changes are make to the Definition and then the model is updated to reflect the changes.  
+There are also a number of pre-defined Part classes that can be created:
 
-#### Feature
+- Extrusion
+  - Extrusion using a Circle
+  - Extrusion using a Polyline.
+- Sweep
+  - PolySoild
+- Sphere
 
-There are a variety of types of Features that can be created. Including
+These can then be further developed by adding features.
+
+#### Features
+
+There are a variety of types of Features that can be created. Including:
 
 - Boolean Solids
   - Union
