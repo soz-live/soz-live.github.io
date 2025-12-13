@@ -4,21 +4,16 @@ layout: default
 
 # About
 
-## Introduction
-
-**SOZ-LIVE** is a collection of over 2600 Lisp routines, that enables the creation of complex CAD entities, from a series of inputs of simpler objects. It builds upon basic types such numbers and vectors to entities such as Lines and Circles to enable the modelling of complex 3D Parts made of Features.
-
 ## SOZ
 
 ### The What of SOZ
 
-**SOZ** is a means of combining:
+For Users, **SOZ** provides a consistent environment to develop complex CAD models, from a series of inputs of simpler objects using a Graphical User Interface (GUI).
 
-- Functional Programming (FP)
-- Object Oriented Programming (OOP) 
-- Scripting
+It builds upon basic types such numbers and strings, all the way to the modelling of complex 3D Parts made of Features.
 
-All programmed in Lisp.
+For Coders, **SOZ** is a means of combining Functional Programming (FP), Object Oriented Programming (OOP) and Scripting, all programmed in Lisp.
+
  
 ### The Why of SOZ
 
@@ -31,24 +26,24 @@ Along the way, benefits of using the **SOZ** approach became apparent, including
 
 - Reduced code duplication.
 - Ease of extending classes.
-- Adding to the functionality of CAD.  
+- Adding to functionality.  
+- Automated documentation of code.
 
 ## LIVE 
 
 ### The What of LIVE
 
-**LIVE** is a Node-based User Interface (UI) written in **SOZ** that enables the user to create visual models for iterative design.
+**LIVE** is a Node-based User Interface (UI) written in **SOZ** that enables the user to create visual models for iterative design.  
+The routines are built into the core of **SOZ**, and consist of around 1000 lines of code.
 
 ### The How of LIVE
-
-The routines are built into the Core of **SOZ**, and consist of around 1000 lines of code.
 
 **LIVE** objects, such as Nodes and Links, are created in PaperSpace while the modelling entities are created in ModelSpace.  This enables complex models and arrangements to be created, enabling iterative design of the models.
 
 
 ## The Vision
 
-The vision is to provide a better way of programming Lisp in CAD with immediate benefits to coders, users and the community.  
+The vision is to provide a better way of programming Lisp inside of CAD with immediate benefits to coders, users and the community. 
 By combining the functionality that **SOZ** provides, with the visual experience of **LIVE**, the project aims to create a niche product capable of providing the user with a means of generating itarative models and the coder with a basis to develop the project's code-base in new directions.  
 
 
@@ -76,7 +71,7 @@ The expansion of the community will also enable further growth and development o
 ### Tim Marchbank - Project Lead
 
 Tim developed an interest in programming Lisp and CAD customisation during university days.  
-This interest was developed further during his career and led to previous iterations of what would become SOZ-LIVE.  
-He has been developing the project since 2013 after wanting entities in CAD that weren't available in base products, and soon after realised the potential depth and breadth of the project for the wider community. The desire to see others benefit from the project provides the drive to continue to develop the project.  
+This interest was developed further during his career and led to previous iterations of what would become **SOZ-LIVE**.  
+He has been developing the project since 2013 after wanting entities in CAD that weren't available in base products, and soon after realised the potential depth and breadth of the project for the wider community. The desire to see others benefit from the work provides the drive to continue to develop the project.  
 
-For any questions regarding the project please email **tim AT soz-live DOT com**
+For any questions regarding the project please email tim AT soz-live DOT com

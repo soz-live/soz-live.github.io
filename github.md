@@ -7,7 +7,7 @@ layout: default
 
 ## Introduction
 
-The codebase is stored on GitHub.
+The codebase is stored on [GitHub](https://github.com/soz-live?view_as=public)
 
 
 ## Status
