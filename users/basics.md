@@ -108,7 +108,7 @@ The full hierarchial list of of commands is [here](/docs/commands.html).
 {% include note-icon.html %}  
 > All SOZ commands are in the same format, eg M-... so as not to interfere with conventional CAD shortcuts.  
 > Once you know the name of a command, you can type that command instead.  
-> Y was chosen as it is the only key not used as a standard CAD command shortcut.
+> Y was chosen as it is the only single key not used as a standard CAD command shortcut.
 
 
 ## Dialog Boxes
@@ -184,6 +184,7 @@ And Edit Options include:
 - Reverse the list
 - Remove an item
 - Edit an item
+- Clone an Item
 <br>
 
 {% include note-icon.html %}  
@@ -331,9 +332,9 @@ There are a variety of types of Features that can be created. Including:
   - Union
   - Intersection
   - Subtraction
-- Corners
-  - Chamfers
-  - Fillets
+  - Corners
+    - Chamfers
+    - Fillets
 - Slicing to Planes
 - Profile Cuts
 - Boolean Toolbodies
@@ -345,5 +346,5 @@ Assemblies are made of Parts.
 
 ### Present
 
-Currently the presentation of the model is out of the scope of **SOZ-LIVE**
+Currently the presentation of the model using **SOZ-LIVE** is in development.
 

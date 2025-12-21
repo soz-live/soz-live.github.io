@@ -14,12 +14,12 @@ layout: default
 
 ## Introduction
 
-To use **SOZ-LIVE**, download the zip file and the load the file into CAD.
+To use **SOZ-LIVE**, follow the steps below:
 
 
 ## Downloading
 
-Download the release **zip** file and save it into a local directory.
+Download the release **zip** file and save it into a local directory.  
 Unzip the file, ready for loading into CAD.
 
 {% include note-icon.html %}     
@@ -34,4 +34,4 @@ Load the release Lisp file into CAD using the standard "Appload" command.
 
 ## Running
 
-Read the [Basics](/users/basics.html) to find out how to use **SOZ-LIVE** to create models.
+Read the [Basics](/users/basics.html) document to find out how to use **SOZ-LIVE** to create objects, entities and models.
