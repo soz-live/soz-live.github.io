@@ -18,7 +18,7 @@ This documentation is focussed on Users of the project:
 
 - [Users Introduction](/users/intro.html). 
 - [Quickstart Guide](/users/quickstart.html).
-- [Basic Information](/users/basics.html).
+- [Users Basic Information](/users/basics.html).
 
 
 
@@ -27,7 +27,7 @@ This documentation is focussed on Users of the project:
 This documentation is focussed on Coders of the project:  
 
 - [Coders Introduction](/coders/intro.html). 
-- [Basic Information](/coders/basic.html).
+- [Coders Basic Information](/coders/basic.html).
 
 
 

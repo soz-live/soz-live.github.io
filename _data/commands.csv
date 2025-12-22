@@ -1,0 +1,162 @@
+Command,Help
+Make,
+M-Base,
+M-Code,Make a Code
+M-Symbol,Make a Symbol
+M-Function,Make a Function
+M-Expression,Make a Expression
+M-Equation,Make a Equation
+M-Assignment,Make a Assignment
+M-Conditional,Make a Conditional
+M-Predicate,Make a Predicate
+M-Mathematical,Make a Mathematical
+M-Macro,Make a Macro
+M-Macro-Equation,Make a Macro-Equation
+M-Macro-Point,Make a Macro-Point
+M-Macro-Points,Make a Macro-Points
+M-Process,Make a Process
+M-Specify,Make a Specify
+M-Value,Make a Value
+M-String,Make a String
+M-Number,Make a Number
+M-Option,Make a Option
+M-Values,Make a Values
+M-List,Make a List
+M-Geometry,Make a Geometry
+M-Definition,Make a Definition
+M-Draft,Make a Draft
+M-Entity,Make a Entity
+M-Block,Make a Block
+M-Point,Make a Point
+M-Solid,Make a Solid
+M-Region,Make a Region
+M-Curve,Make a Curve
+M-2dCurve,Make a 2dCurve
+M-Circle,Make a Circle
+M-Arc,Make a Arc
+M-3dCurve,Make a 3dCurve
+M-Line,Make a Line
+M-UCS,Make a UCS
+M-Plane,Make a Plane
+M-3dSurface,Make a 3dSurface
+M-PViewport,Make a PViewport
+M-Model,Make a Model
+M-Feature,Make a Feature
+M-Group,Make a Group
+M-Slice,Make a Slice
+M-Dice,Make a Dice
+M-Sections,Make a Sections
+M-Part,Make a Part
+M-Assembly,Make a Assembly
+M-Reference,Make a Reference
+M-Item,Make a Item
+M-Parts,Make a Parts
+M-Features,Make a Features
+M-Multiple,Make a Multiple
+M-Points,Make a Points
+M-Planes,Make a Planes
+M-Lines,Make a Lines
+M-Pattern,Make a Pattern
+M-Curves,Make a Curves
+M-Present,Make a Present
+M-Script,Make a Script
+M-Discipline,Make a Discipline
+M-Engineering,Make a Engineering
+M-Mechanical,Make a Mechanical
+M-Piping,Make a Piping
+M-Electrical,Make a Electrical
+M-Wire,Make a Wire
+M-Structural,Make a Structural
+M-Footing,Make a Footing
+M-Member,Make a Member
+M-Column,Make a Column
+M-Members,Make a Members
+M-Brace,Make a Brace
+M-Civil,Make a Civil
+M-TIN,Make a TIN
+M-Grading,Make a Grading
+M-Construction,Make a Construction
+M-Surveying,Make a Surveying
+M-Grid,Make a Grid
+M-Levels,Make a Levels
+M-Fabrication,Make a Fabrication
+M-Rebar,Make a Rebar
+M-Rigging,Make a Rigging
+M-Slings,Make a Slings
+M-Architectural,Make a Architectural
+M-Building,Make a Building
+M-History,Make a History
+M-Misc,Make a Misc
+M-Fractal,Make a Fractal
+M-Random,Make a Random
+M-Animate,Make a Animate
+M-Scene,Make a Scene
+M-Change,Make a Change
+M-Effect,Make a Effect
+M-Sequence,Make a Sequence
+M-DevOps,Make a DevOps
+Live,
+L-Auto,Auto Layout Nodes
+L-Links,Auto Layout Links
+L-Add,Add Live Objects
+L-Select,Nodes from Select Dialog
+L-Pick,Nodes from Picking a Model Entity
+Edit,
+E-Entity,Edit an Entity
+E-Live,Edit Live Objects
+E-Model,Edit Model Entities
+E-Object,Edit an Object
+E-Setting,Edit a Setting
+E-Custom,Edit Custom Properties
+SOZ,
+S-Set,Set SOZ Object Data
+S-Reset,Reset SOZ Object Data
+S-Delete,Delete SOZ Objects
+S-Clear,Clear SOZ Data from Objects
+Clone,
+C-Object,Clone an Object
+C-Entity,Clone an Entity
+C-Part,Clone a Part
+C-Reference,Clone a Part Reference
+C-Node,Clone a Live Node
+Update,
+U-Select,Update Selected Objects
+U-All,Update All Objects
+U-Live,Update LIVE Layout
+Reference,
+R-Make,Make Reference
+R-Select,Select Reference
+R-Edit,Edit Reference
+Visual,
+V-SetEntities,Set Visual Settings of Entities
+V-MatchEntity,Set Visual Settings of Entities to Match Entity
+V-ResetEntities,Reset Visual Settings of Entities
+Export,
+X-SOZ,Export SOZ Data
+X-Array,Export CSV Array
+Import,
+I-SOZ,Import SOZ Data
+I-Array,Import CSV Array
+I-Class,Import CSV Class
+History,
+H-Record,Record History
+H-First,Recall First Record
+H-Last,Recall Last Record
+H-Select,Recall Selected Record
+H-Delete,Delete a Record
+Animate,
+A-Control,Control Animations
+Development,
+Dev-Source,
+D-Source-Reload,Reload Source Code
+Dev-View,
+D-View-RunTime,View the RunTime
+D-View-Class,View the Class of an Entity
+D-View-Entity,View an Entity
+D-View-Entities,View Entities
+D-View-Part,View a Part
+Dev-Map,
+D-Map-Class,Create a Class Map
+D-Map-ClassFunc,Map Classes to Functions
+D-Map-ClassFuncLine,Map Classes to Functions to Lines of Code
+D-Map-Function,Map Functions
