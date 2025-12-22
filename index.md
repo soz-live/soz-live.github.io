@@ -1,5 +1,10 @@
 ---
 layout: default
+carousels:
+  - images: 
+    - image: /assets/images/image_sphere_001.png
+    - image: /assets/images/image_sphere_002.png
+
 ---
 
 # SOZ-LIVE
