@@ -4,6 +4,23 @@ layout: default
 
 # About
 
+## Contents
+
+- About
+  - [SOZ](#soz)
+    - [The What of SOZ](#the-what-of-soz)
+    - [The Why of SOZ](#the-why-of-soz)
+  - [LIVE](#live)
+    - [The What of LIVE](#the-what-of-live)
+    - [The Why of LIVE](#the-why-of-live)  
+  - [The Vision](#the-vision)
+  - [The Timeline](#the-timeline)
+    - [Past](#past)
+    - [Present](#present)
+    - [Future](#future)
+  - [The Team](#the-team)  
+  
+
 ## SOZ
 
 ### The What of SOZ
@@ -47,9 +64,9 @@ The vision is to provide a better way of programming Lisp inside of CAD with imm
 By combining the functionality that **SOZ** provides, with the visual experience of **LIVE**, the project aims to create a niche product capable of providing the user with a means of generating itarative models and the coder with a basis to develop the project's code-base in new directions.  
 
 
-## Timeline
+## The Timeline
 
-### Past (2013 - 2025)
+### Past
 
 The SOZ-LIVE project has been developed for the last 12 years with a team of one and as a closed source project.  
 Initially developed to draw entities in CAD that were unavailable or took a long time to draw, it has grown to take a more all encompassing approach.  
@@ -57,12 +74,12 @@ The recent additions of the LIVE User Interface and a dynamic DCL based GUI has 
 
 ### Present
 
-The project is currently closed source and in **Private Beta**, with work still required to reach a mature and stable product. The current aim is to develop a community of developers and testers to progress the project to release stage.  
+The project is currently closed source and in **Private Beta**, with work still required to reach a mature and stable product. The aim is to develop a community of developers and testers to progress the project to release stage.  
 
-### Future (2025 - ?)
+### Future
 
-The aim is to move to Open Source when a mature v2.0 product is released, expected to be in 2025.  
-The future includes a list of potential areas, features and functionality for further development.  
+The aim is to move to Open Source when a mature v2.0 product is released in 2026.  
+The roadmap includes a list of potential areas, features and functionality for further development.  
 The expansion of the community will also enable further growth and development of the project.  
 
 
