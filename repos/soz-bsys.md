@@ -47,6 +47,6 @@ status: Beta
             - [SZCE3dSolids-BetweenTINs-OnCorridor](/classes/SZCE3dSolids-BetweenTINs-OnCorridor.html)
             - [SZCE3dSolids-OnCorridor](/classes/SZCE3dSolids-OnCorridor.html)
 
-Version:  1.27.2
+Version:  1.27.3
 <br>
-Date: 20251212.1923
+Date: 20251222.2115

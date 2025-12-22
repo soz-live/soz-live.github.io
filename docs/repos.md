@@ -16,6 +16,6 @@ Each link refers to a file for the repo, containing:
 
 {% include csvtable.html id=site.data.repos %}
 
-Version:  1.27.2
+Version:  1.27.3
 <br>
-Date: 20251212.1923
+Date: 20251222.2115

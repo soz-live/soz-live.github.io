@@ -13,7 +13,7 @@ SZCOSolid-Sweep Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOSolid](SZCOSolid.html) |
-| Subclasses: |  |
+| Subclasses: | [SZCOSolid-PolySolid](SZCOSolid-PolySolid.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

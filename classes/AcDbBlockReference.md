@@ -13,7 +13,7 @@ AcDbBlockReference Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbEntity](AcDbEntity.html) |
-| Subclasses: | [SZDONode](SZDONode.html) <br> [SZLVNode](SZLVNode.html) <br> [SZCEModelRef](SZCEModelRef.html) <br> [AcDbExternalReference](AcDbExternalReference.html) |
+| Subclasses: | [SZDONode](SZDONode.html) <br> [SZLVNode](SZLVNode.html) <br> [SZCEItemRef](SZCEItemRef.html) <br> [SZCEModelRef](SZCEModelRef.html) <br> [SZCEBlockRef](SZCEBlockRef.html) <br> [AcDbExternalReference](AcDbExternalReference.html) |
 | Interfaces: |  |
 | Interfaced: | [AcDb3dSolid-AnySolids](AcDb3dSolid-AnySolids.html) |
 | Abstract?: | No |

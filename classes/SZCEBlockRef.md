@@ -1,9 +1,9 @@
 
-# Class:	SZCEModelRef
+# Class:	SZCEBlockRef
 
 ### Description:
 
-SZCEModelRef Class
+SZCEBlockRef Class
 
 
 
@@ -13,21 +13,21 @@ SZCEModelRef Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbBlockReference](AcDbBlockReference.html) |
-| Subclasses: | [SZCEAssyRef](SZCEAssyRef.html) <br> [SZCEPartRef](SZCEPartRef.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
 
-### SZCEModelRef-Make
+### SZCEBlockRef-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| PDEF | [SZCEModelDef](SZCEModelDef.html) |  |
-| DEF | [SZCEModelDef](SZCEModelDef.html) |  |
+| SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
+| DEF | [SZCEBlockDef](SZCEBlockDef.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | --- | --- | --- |
-| Returns: | [SZCEModelRef](SZCEModelRef.html) |
+| Returns: | [SZCEBlockRef](SZCEBlockRef.html) |
 | Help: | Base Model Reference |
 
 

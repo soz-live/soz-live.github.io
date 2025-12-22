@@ -13,7 +13,7 @@ AcDbBlock Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbTableRecord](AcDbTableRecord.html) |
-| Subclasses: | [SZDODef](SZDODef.html) <br> [SZLVDef](SZLVDef.html) <br> [SZCEModelDef](SZCEModelDef.html) <br> [SZCEBlock](SZCEBlock.html) |
+| Subclasses: | [SZDODef](SZDODef.html) <br> [SZLVDef](SZLVDef.html) <br> [SZCEModelDef](SZCEModelDef.html) <br> [SZCEBlockDef](SZCEBlockDef.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

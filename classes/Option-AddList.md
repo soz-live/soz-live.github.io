@@ -39,6 +39,7 @@ AddList Options
 | Add PickSet | User_PickSet |
 | Add PickList | User_PickList |
 | Add List | User_AddList |
+| Add Node | User_AddNode |
 
 ## Functions:
 

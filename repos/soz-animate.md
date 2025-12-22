@@ -31,6 +31,6 @@ status: Alpha
             - [SZOBAnimate-Sequence-Point-OnCurve](/classes/SZOBAnimate-Sequence-Point-OnCurve.html)
           - [SZOBAnimate-Sequence-Vector-PointToCurve](/classes/SZOBAnimate-Sequence-Vector-PointToCurve.html)
 
-Version:  1.27.2
+Version:  1.27.3
 <br>
-Date: 20251212.1923
+Date: 20251222.2115

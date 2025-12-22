@@ -272,9 +272,10 @@ status: Beta
           - [AcDbAttributeDefinition](/classes/AcDbAttributeDefinition.html)
           - [AcDbBlockReference](/classes/AcDbBlockReference.html)
             - [AcDbExternalReference](/classes/AcDbExternalReference.html)
+            - [SZCEBlockRef](/classes/SZCEBlockRef.html)
+            - [SZCEItemRef](/classes/SZCEItemRef.html)
             - [SZCEModelRef](/classes/SZCEModelRef.html)
               - [SZCEAssyRef](/classes/SZCEAssyRef.html)
-              - [SZCEItem](/classes/SZCEItem.html)
               - [SZCEPartRef](/classes/SZCEPartRef.html)
             - [SZLVNode](/classes/SZLVNode.html)
               - [SZLVNode-Method](/classes/SZLVNode-Method.html)
@@ -286,14 +287,15 @@ status: Beta
           - [AcDbCurve](/classes/AcDbCurve.html)
             - [AcDb2dPolyline](/classes/AcDb2dPolyline.html)
             - [AcDb3dPolyline](/classes/AcDb3dPolyline.html)
-              - [AcDb3dPolyline-Flatten](/classes/AcDb3dPolyline-Flatten.html)
               - [SZCE3dCurve](/classes/SZCE3dCurve.html)
                 - [SZCE3dCurve-AcDbPoints](/classes/SZCE3dCurve-AcDbPoints.html)
                 - [SZCE3dCurve-AcDbPolyline](/classes/SZCE3dCurve-AcDbPolyline.html)
                 - [SZCE3dCurve-Catenary](/classes/SZCE3dCurve-Catenary.html)
+                - [SZCE3dCurve-Flatten](/classes/SZCE3dCurve-Flatten.html)
                 - [SZCE3dCurve-HelicalCurve](/classes/SZCE3dCurve-HelicalCurve.html)
                 - [SZCE3dCurve-Helix](/classes/SZCE3dCurve-Helix.html)
                 - [SZCE3dCurve-PlanarCurve](/classes/SZCE3dCurve-PlanarCurve.html)
+                - [SZCE3dCurve-ProjectToPlane](/classes/SZCE3dCurve-ProjectToPlane.html)
                 - [SZCE3dCurve-RadialPoints](/classes/SZCE3dCurve-RadialPoints.html)
                 - [SZCE3dCurve-SZCEPoints](/classes/SZCE3dCurve-SZCEPoints.html)
                 - [SZCE3dCurve-SZGEPoints](/classes/SZCE3dCurve-SZGEPoints.html)
@@ -353,7 +355,8 @@ status: Beta
         - [AcDbLayout](/classes/AcDbLayout.html)
         - [AcDbTableRecord](/classes/AcDbTableRecord.html)
           - [AcDbBlock](/classes/AcDbBlock.html)
-            - [SZCEBlock](/classes/SZCEBlock.html)
+            - [SZCEBlockDef](/classes/SZCEBlockDef.html)
+              - [SZCEBlock](/classes/SZCEBlock.html)
             - [SZCEModelDef](/classes/SZCEModelDef.html)
               - [SZCEModel](/classes/SZCEModel.html)
                 - [SZCEAssy](/classes/SZCEAssy.html)
@@ -449,6 +452,7 @@ status: Beta
             - [SZCOSolid-Revolve-OnLine](/classes/SZCOSolid-Revolve-OnLine.html)
           - [SZCOSolid-Sphere](/classes/SZCOSolid-Sphere.html)
           - [SZCOSolid-Sweep](/classes/SZCOSolid-Sweep.html)
+            - [SZCOSolid-PolySolid](/classes/SZCOSolid-PolySolid.html)
           - [SZCOSolid-Torus](/classes/SZCOSolid-Torus.html)
           - [SZCOSolid-Wedge](/classes/SZCOSolid-Wedge.html)
         - [SZCOVisual](/classes/SZCOVisual.html)
@@ -867,6 +871,6 @@ status: Beta
           - [SZCOScript-Features-ProfileCut](/classes/SZCOScript-Features-ProfileCut.html)
       - [SZCOScript-ModelGroups](/classes/SZCOScript-ModelGroups.html)
 
-Version:  1.27.2
+Version:  1.27.3
 <br>
-Date: 20251212.1923
+Date: 20251222.2115

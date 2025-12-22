@@ -1,9 +1,9 @@
 
-# Class:	SZDOLink
+# Class:	SZCE3dCurve-ProjectToPlane
 
 ### Description:
 
-DevOps Link
+SZCE3dCurve-ProjectToPlane Class
 
 
 
@@ -11,23 +11,24 @@ DevOps Link
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-devs](/repos/soz-devs.html) |
-| Superclass: | [AcDb3dPolyline](AcDb3dPolyline.html) |
+| Repo: | [soz-live](/repos/soz-live.html) |
+| Superclass: | [SZCE3dCurve](SZCE3dCurve.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |
 
-### SZDOLink-Make
+### SZCE3dCurve-ProjectToPlane-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| START | [SZDOPoint](SZDOPoint.html) |  |
-| END | [SZDOPoint](SZDOPoint.html) |  |
+| CURVE | [AcDbCurve](AcDbCurve.html) |  |
+| PLANE | [SZCEPlane](SZCEPlane.html) |  |
+| VECTOR | [SZGEVector](SZGEVector.html) |  |
 | --- | --- | --- |
-| Returns: | [SZDOLink](SZDOLink.html) |
-| Help: |  |
+| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) |
+| Help: | Make a SZCE3dCurve-ProjectToPlane |
 
 
 ## Functions:
