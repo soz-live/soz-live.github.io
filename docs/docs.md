@@ -38,6 +38,6 @@ These documents provide additional information about the project that don't fit 
 - [Glossary](/docs/glossary.html) - a list of terms used within the project.
 - [Prefixes](/docs/prefixes.html) - a list of Class prefixes used within the project.
 - [Categories](/docs/categories.html) - a hierarchial list of Categories used within the project.
-- [Commands](/docs/commands.html) - a hierarchial list of Commands for the project.
+- [Commands](/docs/commands.html) - a list of Commands for the project.
 - [Repos](/docs/repos.html) - a table of Repos / Modules for the project, with links to help documentation
 - [Releases](/docs/releases.html) - a table of Releases for the project.
