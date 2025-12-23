@@ -55,6 +55,10 @@ Refer to the [Security](/security.html) page for details.
 
 The current status of the project is **Private Beta**.  
 
+## AI
+
+No AI has been used to generate code for this project - Lets keep it that way.  
+
 
 ## Platforms
 
