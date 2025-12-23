@@ -44,6 +44,13 @@ Refer to the [Coders Introduction](/coders/intro.html) for details.
 
 Refer to the [Community](/community.html) page for details.
 
+
+## Security
+
+**SOZ-LIVE** aims to be a trusted and secure project for Users and Coders alike. 
+
+Refer to the [Security](/security.html) page for details.
+
 ## Status
 
 The current status of the project is **Private Beta**.  

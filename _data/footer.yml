@@ -9,6 +9,8 @@ columns:
         link: /users/intro.html    
       - name: Coders
         link: /coders/intro.html  
+      - name: Security
+        link: /security.html      
   - title: References
     subitems:
       - name: Glossary
