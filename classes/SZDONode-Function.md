@@ -25,9 +25,9 @@
 | --------- | --------- | --------- |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
 | FUNC | [SZMAFunctionName](SZMAFunctionName.html) |  |
-| --- | --- | --- |
-| Returns: | [SZDONode-Function](SZDONode-Function.html) |
-| Help: | Make a Function Node |
+| | | |
+| Returns: | [SZDONode-Function](SZDONode-Function.html) | |
+| Help: | | Make a Function Node |
 
 
 ## Functions:

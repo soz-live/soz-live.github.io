@@ -24,9 +24,9 @@ SZGEPlane-Ray-Inline Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | RAY | [AcDbRay](AcDbRay.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane](SZGEPlane.html) |
-| Help: | Make a SZGEPlane-Ray-Inline |
+| | | |
+| Returns: | [SZGEPlane](SZGEPlane.html) | |
+| Help: | | Make a SZGEPlane-Ray-Inline |
 
 
 ## Functions:

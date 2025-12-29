@@ -25,9 +25,9 @@ SZCOProfile-PlanarCurve Class
 | --------- | --------- | --------- |
 | ENTITY | [AcDbCurve-PlanarClosed](AcDbCurve-PlanarClosed.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOProfile-PlanarCurve](SZCOProfile-PlanarCurve.html) |
-| Help: | Make a SZCOProfile-PlanarCurve |
+| | | |
+| Returns: | [SZCOProfile-PlanarCurve](SZCOProfile-PlanarCurve.html) | |
+| Help: | | Make a SZCOProfile-PlanarCurve |
 
 
 ## Functions:

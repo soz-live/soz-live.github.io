@@ -25,9 +25,9 @@ SZGETMatrix-Product Class
 | --------- | --------- | --------- |
 | TMATRIX0 | [SZGETMatrix](SZGETMatrix.html) |  |
 | TMATRIX1 | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-Product](SZGETMatrix-Product.html) |
-| Help: | Make a SZGETMatrix-Product |
+| | | |
+| Returns: | [SZGETMatrix-Product](SZGETMatrix-Product.html) | |
+| Help: | | Make a SZGETMatrix-Product |
 
 
 ## Functions:

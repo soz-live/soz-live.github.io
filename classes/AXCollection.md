@@ -34,7 +34,7 @@ A Collection Object
 | --------- | --------- | --------- |
 | OBJECT | [AXCollection](AXCollection.html) |  |
 | ITEM | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [AXObject](AXObject.html) |
-| Help: | Safely gets an Object from a Collection |
+| | | |
+| Returns: | [AXObject](AXObject.html) | |
+| Help: | | Safely gets an Object from a Collection |
 

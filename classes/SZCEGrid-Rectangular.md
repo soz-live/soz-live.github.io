@@ -26,9 +26,9 @@ SZCEGrid-Rectangular Class
 | MATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | XOFFSETS | [SZLPReals](SZLPReals.html) |  |
 | YOFFSETS | [SZLPReals](SZLPReals.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEGrid-Rectangular](SZCEGrid-Rectangular.html) |
-| Help: | Make a SZCEGrid-Rectangular |
+| | | |
+| Returns: | [SZCEGrid-Rectangular](SZCEGrid-Rectangular.html) | |
+| Help: | | Make a SZCEGrid-Rectangular |
 
 
 ## Functions:
@@ -44,16 +44,16 @@ SZCEGrid-Rectangular Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZCEGrid-Rectangular](SZCEGrid-Rectangular.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEGrid-Offsets](SZCEGrid-Offsets.html) |
-| Help: | Make a SZCEGrid-Rectangular |
+| | | |
+| Returns: | [SZCEGrid-Offsets](SZCEGrid-Offsets.html) | |
+| Help: | | Make a SZCEGrid-Rectangular |
 
 ### SZCEGrid-Rectangular-YGrid
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZCEGrid-Rectangular](SZCEGrid-Rectangular.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEGrid-Offsets](SZCEGrid-Offsets.html) |
-| Help: | Make a SZCEGrid-Rectangular |
+| | | |
+| Returns: | [SZCEGrid-Offsets](SZCEGrid-Offsets.html) | |
+| Help: | | Make a SZCEGrid-Rectangular |
 

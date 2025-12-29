@@ -27,9 +27,9 @@ Mitre Matrix
 | YAXIS | [Vector](Vector.html) |  |
 | ZAXIS | [Vector](Vector.html) |  |
 | ANG | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix-Twist](TMatrix-Twist.html) |
-| Help: | Twist Matrix |
+| | | |
+| Returns: | [TMatrix-Twist](TMatrix-Twist.html) | |
+| Help: | | Twist Matrix |
 
 
 ## Functions:

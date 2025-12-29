@@ -24,9 +24,9 @@ SZGEPlane-Entity Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [SZCEPlane](SZCEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane-Entity](SZGEPlane-Entity.html) |
-| Help: | Make a SZGEPlane-Entity |
+| | | |
+| Returns: | [SZGEPlane-Entity](SZGEPlane-Entity.html) | |
+| Help: | | Make a SZGEPlane-Entity |
 
 
 ## Functions:

@@ -26,9 +26,9 @@ SZGEPlane-GridLine Class
 | MATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | ROTATION | [Deg](Deg.html) |  |
 | OFFSET | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane](SZGEPlane.html) |
-| Help: | Make a SZGEPlane-GridLine |
+| | | |
+| Returns: | [SZGEPlane](SZGEPlane.html) | |
+| Help: | | Make a SZGEPlane-GridLine |
 
 
 ## Functions:

@@ -27,9 +27,9 @@ AcDb3dSolid-Extrusion-AcDbCircle Class
 | ENTITY | [AcDbCircle](AcDbCircle.html) |  |
 | HEIGHT | [Real](Real.html) |  |
 | EXTRUDE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
-| --- | --- | --- |
-| Returns: | [](.html) |
-| Help: | Make an AcDb3dSolid-Extrusion-AcDbCircle |
+| | | |
+| Returns: | [](.html) | |
+| Help: | | Make an AcDb3dSolid-Extrusion-AcDbCircle |
 
 
 ## Functions:

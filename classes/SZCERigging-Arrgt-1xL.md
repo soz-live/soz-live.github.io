@@ -29,9 +29,9 @@ Rigging 1xL Class
 | DX | [Real](Real.html) |  |
 | DY | [Real](Real.html) |  |
 | STARTANG | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-Arrgt-1xL](SZCERigging-Arrgt-1xL.html) |
-| Help: | Make Rigging 1xL |
+| | | |
+| Returns: | [SZCERigging-Arrgt-1xL](SZCERigging-Arrgt-1xL.html) | |
+| Help: | | Make Rigging 1xL |
 
 
 ## Functions:

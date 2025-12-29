@@ -24,9 +24,9 @@ SZGEPoint-AcDbArc-Center Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbArc](AcDbArc.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-AcDbArc-Center](SZGEPoint-AcDbArc-Center.html) |
-| Help: | Center of Arc |
+| | | |
+| Returns: | [SZGEPoint-AcDbArc-Center](SZGEPoint-AcDbArc-Center.html) | |
+| Help: | | Center of Arc |
 
 
 ## Functions:

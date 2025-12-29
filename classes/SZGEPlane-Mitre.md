@@ -25,9 +25,9 @@ SZGEPlane-Mitre Class
 | --------- | --------- | --------- |
 | LINE0 | [SZGELine](SZGELine.html) |  |
 | LINE1 | [SZGELine](SZGELine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane-Mitre](SZGEPlane-Mitre.html) |
-| Help: | Make a SZGEPlane-Mitre |
+| | | |
+| Returns: | [SZGEPlane-Mitre](SZGEPlane-Mitre.html) | |
+| Help: | | Make a SZGEPlane-Mitre |
 
 
 ## Functions:

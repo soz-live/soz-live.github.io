@@ -24,9 +24,9 @@ SZLP-ATOM Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | A | [SZOBAtom](SZOBAtom.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | New SZLP-ATOM |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | New SZLP-ATOM |
 
 
 ## Functions:

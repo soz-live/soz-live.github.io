@@ -35,7 +35,7 @@ Base SZCOSolid Class
 | O | [SZCOSolid](SZCOSolid.html) |  |
 | PARENT | [SZCEModelDef](SZCEModelDef.html) |  |
 | OPERATION | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid |
 

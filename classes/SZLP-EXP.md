@@ -24,9 +24,9 @@ SZLP-EXP Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NUM | [Number](Number.html) |  |
-| --- | --- | --- |
-| Returns: | [Number](Number.html) |
-| Help: | Exp Function |
+| | | |
+| Returns: | [Number](Number.html) | |
+| Help: | | Exp Function |
 
 
 ## Functions:

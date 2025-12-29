@@ -24,9 +24,9 @@ SZGEPoint-Line-StartPoint Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-Line-StartPoint](SZGEPoint-Line-StartPoint.html) |
-| Help: | Make a SZGEPoint-Line-StartPoint |
+| | | |
+| Returns: | [SZGEPoint-Line-StartPoint](SZGEPoint-Line-StartPoint.html) | |
+| Help: | | Make a SZGEPoint-Line-StartPoint |
 
 
 ## Functions:

@@ -29,9 +29,9 @@ MText Object
 | HEIGHT | [Real](Real.html) |  |
 | WIDTH | [Real](Real.html) |  |
 | ALIGN | [Enum-AcDbMTextAttachment](Enum-AcDbMTextAttachment.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbMText](AcDbMText.html) |
-| Help: | MText Object |
+| | | |
+| Returns: | [AcDbMText](AcDbMText.html) | |
+| Help: | | MText Object |
 
 
 ## Functions:
@@ -47,7 +47,7 @@ MText Object
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbMText](AcDbMText.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | TMatrix of an AcDbMText |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | TMatrix of an AcDbMText |
 

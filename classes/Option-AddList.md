@@ -24,12 +24,12 @@ AddList Options
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Option-AddList](Option-AddList.html) |  |
-| --- | --- | --- |
-| Returns: | [Option-AddList](Option-AddList.html) |
-| Help: | Option-AddList |
+| | | |
+| Returns: | [Option-AddList](Option-AddList.html) | |
+| Help: | | Option-AddList |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

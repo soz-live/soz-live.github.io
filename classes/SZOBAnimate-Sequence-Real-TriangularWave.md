@@ -26,9 +26,9 @@ TriangularWave Animation Sequence Class
 | LOW | [Real](Real.html) |  |
 | HIGH | [Real](Real.html) |  |
 | NUM | [Integer](Integer.html) | Number of Teeth |
-| --- | --- | --- |
-| Returns: | [SZOBAnimate-Sequence-Real-TriangularWave](SZOBAnimate-Sequence-Real-TriangularWave.html) |
-| Help: | Make Animation Sequence-TriangularWave |
+| | | |
+| Returns: | [SZOBAnimate-Sequence-Real-TriangularWave](SZOBAnimate-Sequence-Real-TriangularWave.html) | |
+| Help: | | Make Animation Sequence-TriangularWave |
 
 
 ## Functions:

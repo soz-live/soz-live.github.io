@@ -24,12 +24,12 @@ Enum-AcDbExtend Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-AcDbExtend](Enum-AcDbExtend.html) |  |
-| --- | --- | --- |
-| Returns: | [Enum-AcDbExtend](Enum-AcDbExtend.html) |
-| Help: | Enum-AcDbExtend |
+| | | |
+| Returns: | [Enum-AcDbExtend](Enum-AcDbExtend.html) | |
+| Help: | | Enum-AcDbExtend |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

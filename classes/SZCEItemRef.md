@@ -26,9 +26,9 @@ SZCEItemRef Class
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | BLOCKNAME | [File-DWG](File-DWG.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEItemRef](SZCEItemRef.html) |
-| Help: | File Item Reference |
+| | | |
+| Returns: | [SZCEItemRef](SZCEItemRef.html) | |
+| Help: | | File Item Reference |
 
 
 ## Functions:

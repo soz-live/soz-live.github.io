@@ -23,9 +23,9 @@ TMatrix-Unit Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | Unit TMatrix routine |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | Unit TMatrix routine |
 
 
 ## Functions:

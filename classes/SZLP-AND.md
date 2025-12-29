@@ -25,9 +25,9 @@ AND Function
 | --------- | --------- | --------- |
 | A | [SZOBObject](SZOBObject.html) |  |
 | B | [SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | And Function |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | And Function |
 
 
 ## Functions:

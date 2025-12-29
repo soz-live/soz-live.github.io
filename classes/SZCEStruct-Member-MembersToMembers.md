@@ -31,9 +31,9 @@ MembersToMembers Linear Structural Member
 | CONN1 | [SZCEStruct-Connection-ToMembers](SZCEStruct-Connection-ToMembers.html) |  |
 | MEM2 | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
 | MEM3 | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-Member-MembersToMembers](SZCEStruct-Member-MembersToMembers.html) |
-| Help: | MembersToMembers Linear Structural Member |
+| | | |
+| Returns: | [SZCEStruct-Member-MembersToMembers](SZCEStruct-Member-MembersToMembers.html) | |
+| Help: | | MembersToMembers Linear Structural Member |
 
 
 ## Functions:

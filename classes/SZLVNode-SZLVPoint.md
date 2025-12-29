@@ -25,9 +25,9 @@ LIVE Node from SZLVPoint
 | --------- | --------- | --------- |
 | POINT | [Point](Point.html) |  |
 | LIVEPT | [SZLVPoint](SZLVPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLVNode](SZLVNode.html) |
-| Help: | SZLVNode from an existing LIVE Point |
+| | | |
+| Returns: | [SZLVNode](SZLVNode.html) | |
+| Help: | | SZLVNode from an existing LIVE Point |
 
 
 ## Functions:

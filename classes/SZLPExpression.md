@@ -24,9 +24,9 @@ SZLPExpression Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | EXPR | [Equation](Equation.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject](SZOBObject.html) |
-| Help: | New SZLPExpression |
+| | | |
+| Returns: | [SZOBObject](SZOBObject.html) | |
+| Help: | | New SZLPExpression |
 
 
 ## Functions:

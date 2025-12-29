@@ -24,9 +24,9 @@ TMatrix-Rotation-ZAxis Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | RAD | [Rad](Rad.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | ZAxis Rotation TMatrix Make |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | ZAxis Rotation TMatrix Make |
 
 
 ## Functions:

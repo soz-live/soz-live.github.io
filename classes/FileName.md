@@ -24,9 +24,9 @@ FileName
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [FileName](FileName.html) |  |
-| --- | --- | --- |
-| Returns: | [FileName](FileName.html) |
-| Help: | New FileName |
+| | | |
+| Returns: | [FileName](FileName.html) | |
+| Help: | | New FileName |
 
 
 ## Functions:
@@ -42,27 +42,27 @@ FileName
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | F | [FileName](FileName.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | File Extension |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | File Extension |
 
 ### Filename-BaseName
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | F | [FileName](FileName.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | File BaseName |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | File BaseName |
 
 ### Filename-Directory
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | F | [FileName](FileName.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | File Directory |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | File Directory |
 
 ### Filename-Rename
 
@@ -70,7 +70,7 @@ FileName
 | --------- | --------- | --------- |
 | OFN | [FileName](FileName.html) |  |
 | NFN | [FileName](FileName.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | File Rename from Old to New |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | File Rename from Old to New |
 

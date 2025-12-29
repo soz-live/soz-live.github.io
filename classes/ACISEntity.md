@@ -33,7 +33,7 @@ ACISEntity Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [ACISEntity](ACISEntity.html) |  |
-| --- | --- | --- |
-| Returns: | [Points](Points.html) |
-| Help: | Points of a ACISEntity |
+| | | |
+| Returns: | [Points](Points.html) | |
+| Help: | | Points of a ACISEntity |
 

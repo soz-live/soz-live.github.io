@@ -30,9 +30,9 @@ DCL Strings
 | W | [Integer](Integer.html) |  |
 | H | [Integer](Integer.html) |  |
 | TABS | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Tile-List-Select](DCLS-Tile-List-Select.html) |
-| Help: | Basic DCLS-ListBox-Strings Constructor |
+| | | |
+| Returns: | [DCLS-Tile-List-Select](DCLS-Tile-List-Select.html) | |
+| Help: | | Basic DCLS-ListBox-Strings Constructor |
 
 
 ## Functions:

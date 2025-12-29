@@ -25,9 +25,9 @@ SZGEPlane-Point-PlaneNormal Class
 | --------- | --------- | --------- |
 | POINT | [AcDbPoint](AcDbPoint.html) |  |
 | PLANE | [SZCEPlane](SZCEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane](SZGEPlane.html) |
-| Help: | Make a SZGEPlane-Point-PlaneNormal |
+| | | |
+| Returns: | [SZGEPlane](SZGEPlane.html) | |
+| Help: | | Make a SZGEPlane-Point-PlaneNormal |
 
 
 ## Functions:

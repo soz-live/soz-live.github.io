@@ -27,9 +27,9 @@ DCL Filter
 | VALUE | [String](String.html) |  |
 | LABEL | [String](String.html) |  |
 | ATTS | [List:DCLS-Attribute](DCLS-Attribute.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Tile-EditBox-ListFilter](DCLS-Tile-EditBox-ListFilter.html) |
-| Help: | Basic DCLS-Filter Constructor |
+| | | |
+| Returns: | [DCLS-Tile-EditBox-ListFilter](DCLS-Tile-EditBox-ListFilter.html) | |
+| Help: | | Basic DCLS-Filter Constructor |
 
 
 ## Functions:

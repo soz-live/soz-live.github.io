@@ -24,9 +24,9 @@ SZGEPlanes-Levels Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LEVELS | [SZLPReals](SZLPReals.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlanes-Levels](SZGEPlanes-Levels.html) |
-| Help: | Make a SZGEPlanes-Levels |
+| | | |
+| Returns: | [SZGEPlanes-Levels](SZGEPlanes-Levels.html) | |
+| Help: | | Make a SZGEPlanes-Levels |
 
 
 ## Functions:

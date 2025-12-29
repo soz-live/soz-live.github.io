@@ -33,9 +33,9 @@ Base Document Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbDocument](AcDbDocument.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbBlock](AcDbBlock.html) |
-| Help: | ActiveSpace of an AcDbDocument |
+| | | |
+| Returns: | [AcDbBlock](AcDbBlock.html) | |
+| Help: | | ActiveSpace of an AcDbDocument |
 
 ### AcDbDocument-AddCustomInfoByKey
 
@@ -44,18 +44,18 @@ Base Document Class
 | DOC | [AcDbDocument](AcDbDocument.html) |  |
 | KEY | [Key](Key.html) |  |
 | VALUE | [Comment](Comment.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbCustomInfo](AcDbCustomInfo.html) |
-| Help: | Add CustomInfo |
+| | | |
+| Returns: | [AcDbCustomInfo](AcDbCustomInfo.html) | |
+| Help: | | Add CustomInfo |
 
 ### AcDbDocument-GetAllCustomInfo
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | DOC | [AcDbDocument](AcDbDocument.html) |  |
-| --- | --- | --- |
-| Returns: | [Structure](Structure.html) |
-| Help: | Get All CustomInfo |
+| | | |
+| Returns: | [Structure](Structure.html) | |
+| Help: | | Get All CustomInfo |
 
 ### AcDbDocument-SetAllCustomInfo
 
@@ -63,9 +63,9 @@ Base Document Class
 | --------- | --------- | --------- |
 | DOC | [AcDbDocument](AcDbDocument.html) |  |
 | AL | [Structure](Structure.html) |  |
-| --- | --- | --- |
-| Returns: | [Structure](Structure.html) |
-| Help: | Set CustomInfo |
+| | | |
+| Returns: | [Structure](Structure.html) | |
+| Help: | | Set CustomInfo |
 
 ### AcDbDocument-SetCustomInfoByKey
 
@@ -74,7 +74,7 @@ Base Document Class
 | DOC | [AcDbDocument](AcDbDocument.html) |  |
 | KEY | [Key](Key.html) |  |
 | VALUE | [Comment](Comment.html) |  |
-| --- | --- | --- |
-| Returns: | [NIL](NIL.html) |
-| Help: | Set CustomInfo Key |
+| | | |
+| Returns: | [NIL](NIL.html) | |
+| Help: | | Set CustomInfo Key |
 

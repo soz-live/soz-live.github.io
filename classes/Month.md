@@ -24,9 +24,9 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [Month](Month.html) |
-| Help: | MM |
+| | | |
+| Returns: | [Month](Month.html) | |
+| Help: | | MM |
 
 
 ## Functions:

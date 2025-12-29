@@ -29,9 +29,9 @@ Helix
 | TURNS | [Real](Real.html) |  |
 | START | [Deg](Deg.html) |  |
 | CCW | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGE3dCurve-Helix](SZGE3dCurve-Helix.html) |
-| Help: | Helix |
+| | | |
+| Returns: | [SZGE3dCurve-Helix](SZGE3dCurve-Helix.html) | |
+| Help: | | Helix |
 
 
 ## Functions:

@@ -27,9 +27,9 @@ AcDbLayerTableRecord Class
 | COLOR | [SZCOColor](SZCOColor.html) | Layer Color |
 | LTYPE | [AcDbLineType](AcDbLineType.html) | Layer LineType |
 | LWEIGHT | [Enum-AcDbLineWeight](Enum-AcDbLineWeight.html) | Layer LineWeight |
-| --- | --- | --- |
-| Returns: | [AcDbLayerTableRecord](AcDbLayerTableRecord.html) |
-| Help: | Make an AcDbLayerTableRecord |
+| | | |
+| Returns: | [AcDbLayerTableRecord](AcDbLayerTableRecord.html) | |
+| Help: | | Make an AcDbLayerTableRecord |
 
 
 ## Functions:
@@ -45,7 +45,7 @@ AcDbLayerTableRecord Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbLayerTableRecord](AcDbLayerTableRecord.html) |
-| Help: | User_Layer_0 |
+| | | |
+| Returns: | [AcDbLayerTableRecord](AcDbLayerTableRecord.html) | |
+| Help: | | User_Layer_0 |
 

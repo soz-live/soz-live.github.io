@@ -25,9 +25,9 @@ DevOps Link
 | --------- | --------- | --------- |
 | START | [SZDOPoint](SZDOPoint.html) |  |
 | END | [SZDOPoint](SZDOPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZDOLink](SZDOLink.html) |
-| Help: |  |
+| | | |
+| Returns: | [SZDOLink](SZDOLink.html) | |
+| Help: | |  |
 
 
 ## Functions:

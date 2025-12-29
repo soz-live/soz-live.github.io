@@ -24,9 +24,9 @@ Circle
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | RADIUS | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPolarCurve-Circle](SZGEPolarCurve-Circle.html) |
-| Help: | Circle |
+| | | |
+| Returns: | [SZGEPolarCurve-Circle](SZGEPolarCurve-Circle.html) | |
+| Help: | | Circle |
 
 
 ## Functions:

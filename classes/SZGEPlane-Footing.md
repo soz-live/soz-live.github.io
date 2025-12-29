@@ -26,9 +26,9 @@ Footing Plane
 | XGRID | [SZCEPlane](SZCEPlane.html) |  |
 | YGRID | [SZCEPlane](SZCEPlane.html) |  |
 | ZPLANE | [SZCEPlane](SZCEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane](SZGEPlane.html) |
-| Help: | Make a Footing Plane |
+| | | |
+| Returns: | [SZGEPlane](SZGEPlane.html) | |
+| Help: | | Make a Footing Plane |
 
 
 ## Functions:

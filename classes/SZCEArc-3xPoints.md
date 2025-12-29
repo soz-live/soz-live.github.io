@@ -27,9 +27,9 @@ SZCEArc-3xPoints Class
 | POINTA | [SZGEPoint](SZGEPoint.html) |  |
 | POINTB | [SZGEPoint](SZGEPoint.html) |  |
 | POINTC | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEArc-3xPoints](SZCEArc-3xPoints.html) |
-| Help: | Make a SZCEArc-3xPoints |
+| | | |
+| Returns: | [SZCEArc-3xPoints](SZCEArc-3xPoints.html) | |
+| Help: | | Make a SZCEArc-3xPoints |
 
 
 ## Functions:

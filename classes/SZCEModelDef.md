@@ -34,9 +34,9 @@ SZCEModelDef Class
 | --------- | --------- | --------- |
 | PARENT | [SZCEModelDef](SZCEModelDef.html) |  |
 | FEATURE | [SZCOFeature](SZCOFeature.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOFeature](SZCOFeature.html) |
-| Help: | Add Feature |
+| | | |
+| Returns: | [SZCOFeature](SZCOFeature.html) | |
+| Help: | | Add Feature |
 
 ### SZCEModelDef-AddFeatures
 
@@ -44,25 +44,25 @@ SZCEModelDef Class
 | --------- | --------- | --------- |
 | PARENT | [SZCEModelDef](SZCEModelDef.html) |  |
 | FEATURES | [Set:SZCOFeature](SZCOFeature.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOFeatures](SZCOFeatures.html) |
-| Help: | Add Features |
+| | | |
+| Returns: | [SZCOFeatures](SZCOFeatures.html) | |
+| Help: | | Add Features |
 
 ### SZCEModelDef-User_Pick
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEModelDef](SZCEModelDef.html) |
-| Help: | User_Pick |
+| | | |
+| Returns: | [SZCEModelDef](SZCEModelDef.html) | |
+| Help: | | User_Pick |
 
 ### SZCEModelDef-Volume
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZCEModelDef](SZCEModelDef.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Volume of a ModelDef |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Volume of a ModelDef |
 

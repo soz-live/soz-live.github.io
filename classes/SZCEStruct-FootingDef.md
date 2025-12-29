@@ -26,9 +26,9 @@ Footing Definition Class
 | PROFILE | [SZCOProfile](SZCOProfile.html) |  |
 | HEIGHT | [Real](Real.html) |  |
 | IOBJS | [List:SZCOFeature-Part](SZCOFeature-Part.html) | Features |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-FootingDef](SZCEStruct-FootingDef.html) |
-| Help: | Make a Footing Definition |
+| | | |
+| Returns: | [SZCEStruct-FootingDef](SZCEStruct-FootingDef.html) | |
+| Help: | | Make a Footing Definition |
 
 
 ## Functions:

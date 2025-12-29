@@ -25,9 +25,9 @@ SZLPReals-Range Class
 | --------- | --------- | --------- |
 | RANGE | [SZLPRange](SZLPRange.html) |  |
 | STEP | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReals-Range](SZLPReals-Range.html) |
-| Help: | Make a SZLPReals-Range |
+| | | |
+| Returns: | [SZLPReals-Range](SZLPReals-Range.html) | |
+| Help: | | Make a SZLPReals-Range |
 
 
 ## Functions:

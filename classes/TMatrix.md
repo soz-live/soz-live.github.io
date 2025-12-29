@@ -27,9 +27,9 @@ TMatrix Class
 | Y | [Vector](Vector.html) | YAxis Vector |
 | Z | [Vector](Vector.html) | ZAxis Vector |
 | POINT | [Point](Point.html) | Origin |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | TMatrix Creation Routine |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | TMatrix Creation Routine |
 
 
 ## Functions:
@@ -45,9 +45,9 @@ TMatrix Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | TM | [TMatrix](TMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Origin of TMatrix |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Origin of TMatrix |
 
 ### TMatrix-Product
 
@@ -55,9 +55,9 @@ TMatrix Class
 | --------- | --------- | --------- |
 | M1 | [TMatrix](TMatrix.html) |  |
 | M2 | [TMatrix](TMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | TMatrix Product |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | TMatrix Product |
 
 ### TMatrix-Relative
 
@@ -65,9 +65,9 @@ TMatrix Class
 | --------- | --------- | --------- |
 | P | [TMatrix](TMatrix.html) |  |
 | C | [TMatrix](TMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | TMatrix Relative |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | TMatrix Relative |
 
 ### TMatrix-Translate
 
@@ -75,27 +75,27 @@ TMatrix Class
 | --------- | --------- | --------- |
 | M | [TMatrix](TMatrix.html) |  |
 | V | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | TMatrix Translate |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | TMatrix Translate |
 
 ### TMatrix-Transpose
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | M | [TMatrix](TMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | Transpose of TMatrix |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | Transpose of TMatrix |
 
 ### TMatrix-TransposeLT
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | M | [TMatrix](TMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | TransposeLT of TMatrix |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | TransposeLT of TMatrix |
 
 ### TMatrix-VectorProduct
 
@@ -104,34 +104,34 @@ TMatrix Class
 | M | [TMatrix](TMatrix.html) |  |
 | POINT | [Vector](Vector.html) |  |
 | DSP | [Logical](Logical.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | TMatrix VectorProduct |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | TMatrix VectorProduct |
 
 ### TMatrix-XAxis
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | TM | [TMatrix](TMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | XAxis of TMatrix |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | XAxis of TMatrix |
 
 ### TMatrix-YAxis
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | TM | [TMatrix](TMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | YAxis of TMatrix |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | YAxis of TMatrix |
 
 ### TMatrix-ZAxis
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | TM | [TMatrix](TMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | ZAxis of TMatrix |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | ZAxis of TMatrix |
 

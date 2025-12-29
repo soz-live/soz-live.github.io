@@ -26,9 +26,9 @@ PlanarCurve Region Object
 | ENTITY | [AcDbCurve-PlanarClosed](AcDbCurve-PlanarClosed.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | COMBINE | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCORegion-PlanarCurve](SZCORegion-PlanarCurve.html) |
-| Help: | Make a SZCORegion-PlanarCurve |
+| | | |
+| Returns: | [SZCORegion-PlanarCurve](SZCORegion-PlanarCurve.html) | |
+| Help: | | Make a SZCORegion-PlanarCurve |
 
 
 ## Functions:

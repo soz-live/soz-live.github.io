@@ -25,9 +25,9 @@ SZGEPlanes-OnCurve-Tangent-Points Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | POINTS | [SZGEPoints](SZGEPoints.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlanes-OnCurve-Tangent-Points](SZGEPlanes-OnCurve-Tangent-Points.html) |
-| Help: | Make a SZGEPlanes-OnCurve-Tangent-Points |
+| | | |
+| Returns: | [SZGEPlanes-OnCurve-Tangent-Points](SZGEPlanes-OnCurve-Tangent-Points.html) | |
+| Help: | | Make a SZGEPlanes-OnCurve-Tangent-Points |
 
 
 ## Functions:

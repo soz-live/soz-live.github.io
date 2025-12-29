@@ -23,9 +23,9 @@ SZLPColor-MidGrey Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZLPColor](SZLPColor.html) |
-| Help: | Make a SZLPColor-MidGrey |
+| | | |
+| Returns: | [SZLPColor](SZLPColor.html) | |
+| Help: | | Make a SZLPColor-MidGrey |
 
 
 ## Functions:

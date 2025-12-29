@@ -26,9 +26,9 @@ SZGELoop Class
 | POINTS | [List:Point2D](Point2D.html) |  |
 | BULGES | [List:Bulge](Bulge.html) |  |
 | CLOSED | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELoop](SZGELoop.html) |
-| Help: | Make a SZGELoop |
+| | | |
+| Returns: | [SZGELoop](SZGELoop.html) | |
+| Help: | | Make a SZGELoop |
 
 
 ## Functions:

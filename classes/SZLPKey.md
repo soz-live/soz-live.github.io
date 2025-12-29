@@ -24,9 +24,9 @@ SZLPKey Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Key](Key.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPKey](SZLPKey.html) |
-| Help: | Make a SZLPKey |
+| | | |
+| Returns: | [SZLPKey](SZLPKey.html) | |
+| Help: | | Make a SZLPKey |
 
 
 ## Functions:

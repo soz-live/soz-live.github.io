@@ -26,9 +26,9 @@ Reals-AlternateSpacing Class
 | DIST | [Real](Real.html) |  |
 | SPACE0 | [Real](Real.html) |  |
 | SPACE1 | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Reals-AlternateSpacing](Reals-AlternateSpacing.html) |
-| Help: | Make a Reals-AlternateSpacing |
+| | | |
+| Returns: | [Reals-AlternateSpacing](Reals-AlternateSpacing.html) | |
+| Help: | | Make a Reals-AlternateSpacing |
 
 
 ## Functions:

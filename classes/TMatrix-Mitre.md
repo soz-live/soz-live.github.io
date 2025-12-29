@@ -25,9 +25,9 @@ Mitre Matrix
 | --------- | --------- | --------- |
 | LINE0 | [Line](Line.html) |  |
 | LINE1 | [Line](Line.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix-Mitre](TMatrix-Mitre.html) |
-| Help: | Mitre Matrix |
+| | | |
+| Returns: | [TMatrix-Mitre](TMatrix-Mitre.html) | |
+| Help: | | Mitre Matrix |
 
 
 ## Functions:

@@ -26,9 +26,9 @@ Chain Model
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | LINK | [SZCESlingDef-ChainLink](SZCESlingDef-ChainLink.html) |  |
 | STARTANG | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCESling-Chain](SZCESling-Chain.html) |
-| Help: | Make Chain Model |
+| | | |
+| Returns: | [SZCESling-Chain](SZCESling-Chain.html) | |
+| Help: | | Make Chain Model |
 
 
 ## Functions:

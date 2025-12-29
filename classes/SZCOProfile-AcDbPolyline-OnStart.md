@@ -24,9 +24,9 @@ SZCOProfile-AcDbPolyline-OnStart Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbPolyline](AcDbPolyline.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOProfile-AcDbPolyline-OnStart](SZCOProfile-AcDbPolyline-OnStart.html) |
-| Help: | Make a SZCOProfile-AcDbPolyline-OnStart |
+| | | |
+| Returns: | [SZCOProfile-AcDbPolyline-OnStart](SZCOProfile-AcDbPolyline-OnStart.html) | |
+| Help: | | Make a SZCOProfile-AcDbPolyline-OnStart |
 
 
 ## Functions:

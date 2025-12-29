@@ -33,9 +33,9 @@ Base Entity Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbEntity](AcDbEntity.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEntity](AcDbEntity.html) |
-| Help: | Copy Entity |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | Copy Entity |
 
 ### AcDbEntity-ExternalCopy
 
@@ -43,9 +43,9 @@ Base Entity Class
 | --------- | --------- | --------- |
 | ENTITY | [AcDbEntity](AcDbEntity.html) |  |
 | PARENT | [AcDbBlockReference](AcDbBlockReference.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEntity](AcDbEntity.html) |
-| Help: | External Copy of an Entitiy |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | External Copy of an Entitiy |
 
 ### AcDbEntity-Highlight
 
@@ -53,9 +53,9 @@ Base Entity Class
 | --------- | --------- | --------- |
 | ENTITY | [AcDbEntity](AcDbEntity.html) |  |
 | BOOL | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [Boolean](Boolean.html) |
-| Help: | Set Entities Highlight |
+| | | |
+| Returns: | [Boolean](Boolean.html) | |
+| Help: | | Set Entities Highlight |
 
 ### AcDbEntity-InternalCopy
 
@@ -63,9 +63,9 @@ Base Entity Class
 | --------- | --------- | --------- |
 | ENTITY | [AcDbEntity](AcDbEntity.html) |  |
 | PARENT | [SZCEModelRef](SZCEModelRef.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEntity](AcDbEntity.html) |
-| Help: | Internal Copy of an Entitiy |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | Internal Copy of an Entitiy |
 
 ### AcDbEntity-IntersectWith
 
@@ -74,18 +74,18 @@ Base Entity Class
 | ENTITY0 | [AcDbEntity](AcDbEntity.html) |  |
 | ENTITY1 | [AcDbEntity](AcDbEntity.html) |  |
 | EXTEND | [Enum-AcDbExtend](Enum-AcDbExtend.html) |  |
-| --- | --- | --- |
-| Returns: | [Points](Points.html) |
-| Help: | IntersectWith |
+| | | |
+| Returns: | [Points](Points.html) | |
+| Help: | | IntersectWith |
 
 ### AcDbEntity-Layer
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbEntity](AcDbEntity.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbLayerTableRecord](AcDbLayerTableRecord.html) |
-| Help: | get Entities's Layer |
+| | | |
+| Returns: | [AcDbLayerTableRecord](AcDbLayerTableRecord.html) | |
+| Help: | | get Entities's Layer |
 
 ### AcDbEntity-Move
 
@@ -94,18 +94,18 @@ Base Entity Class
 | ENTITY | [AcDbEntity](AcDbEntity.html) |  |
 | POINT0 | [SZGEPoint](SZGEPoint.html) |  |
 | POINT1 | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEntity](AcDbEntity.html) |
-| Help: | Move Entity from Point to Point |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | Move Entity from Point to Point |
 
 ### AcDbEntity-SZCOColor
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbEntity](AcDbEntity.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOColor](SZCOColor.html) |
-| Help: | get Entities's TrueColor |
+| | | |
+| Returns: | [SZCOColor](SZCOColor.html) | |
+| Help: | | get Entities's TrueColor |
 
 ### AcDbEntity-SetLayer
 
@@ -113,9 +113,9 @@ Base Entity Class
 | --------- | --------- | --------- |
 | ENTITY | [AcDbEntity](AcDbEntity.html) |  |
 | LAYER | [AcDbLayerTableRecord](AcDbLayerTableRecord.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEntity](AcDbEntity.html) |
-| Help: | Set Entities's Layer |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | Set Entities's Layer |
 
 ### AcDbEntity-SetVisibility
 
@@ -123,9 +123,9 @@ Base Entity Class
 | --------- | --------- | --------- |
 | ENTITY | [AcDbEntity](AcDbEntity.html) |  |
 | VIS | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [Boolean](Boolean.html) |
-| Help: | Set Entities Visibility |
+| | | |
+| Returns: | [Boolean](Boolean.html) | |
+| Help: | | Set Entities Visibility |
 
 ### AcDbEntity-SetVisual
 
@@ -133,18 +133,18 @@ Base Entity Class
 | --------- | --------- | --------- |
 | ENTITY | [AcDbEntity](AcDbEntity.html) |  |
 | VISUAL | [SZCOVisual](SZCOVisual.html) | Visual Settings |
-| --- | --- | --- |
-| Returns: | [AcDbEntity](AcDbEntity.html) |
-| Help: | Sets the Visual Settings for the Entity |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | Sets the Visual Settings for the Entity |
 
 ### AcDbEntity-Space
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbEntity](AcDbEntity.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbBlock](AcDbBlock.html) |
-| Help: | get Entities's Space |
+| | | |
+| Returns: | [AcDbBlock](AcDbBlock.html) | |
+| Help: | | get Entities's Space |
 
 ### AcDbEntity-Transformby
 
@@ -152,61 +152,61 @@ Base Entity Class
 | --------- | --------- | --------- |
 | ENTITY | [AcDbEntity](AcDbEntity.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEntity](AcDbEntity.html) |
-| Help: | Transform Entity by TMatrix |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | Transform Entity by TMatrix |
 
 ### AcDbEntity-User_Pick
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEntity](AcDbEntity.html) |
-| Help: | User_Pick |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | User_Pick |
 
 ### AcDbEntity-User_PickList
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [List:AcDbEntity](AcDbEntity.html) |
-| Help: | User_PickList |
+| | | |
+| Returns: | [List:AcDbEntity](AcDbEntity.html) | |
+| Help: | | User_PickList |
 
 ### AcDbEntity-User_PickModel
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEntity](AcDbEntity.html) |
-| Help: | User_PickModel |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | User_PickModel |
 
 ### AcDbEntity-User_PickNode
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEntity](AcDbEntity.html) |
-| Help: | User_PickNode |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | User_PickNode |
 
 ### AcDbEntity-User_PickSet
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [Set:AcDbEntity](AcDbEntity.html) |
-| Help: | User_PickSet |
+| | | |
+| Returns: | [Set:AcDbEntity](AcDbEntity.html) | |
+| Help: | | User_PickSet |
 
 ### AcDbEntity-Visual
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbEntity](AcDbEntity.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEntity](AcDbEntity.html) |
-| Help: | Gets the Visual Settings for the Entity |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | Gets the Visual Settings for the Entity |
 

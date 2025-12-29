@@ -25,9 +25,9 @@ LIVE Method Object Node
 | --------- | --------- | --------- |
 | POINT | [Point](Point.html) |  |
 | RETURNS | [SZOBObject-Method](SZOBObject-Method.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLVNode](SZLVNode.html) |
-| Help: | SZLVNode using a MethodObject |
+| | | |
+| Returns: | [SZLVNode](SZLVNode.html) | |
+| Help: | | SZLVNode using a MethodObject |
 
 
 ## Functions:

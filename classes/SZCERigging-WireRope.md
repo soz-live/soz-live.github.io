@@ -28,9 +28,9 @@ Rigging WireRopeSling Class
 | WOR | [Real](Real.html) |  |
 | WLL | [Real](Real.html) |  |
 | DIA | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-WireRope](SZCERigging-WireRope.html) |
-| Help: | Make Wire Rope |
+| | | |
+| Returns: | [SZCERigging-WireRope](SZCERigging-WireRope.html) | |
+| Help: | | Make Wire Rope |
 
 
 ## Functions:

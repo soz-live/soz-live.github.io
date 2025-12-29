@@ -24,9 +24,9 @@ AcDbPickSet Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [AcDbPickSet](AcDbPickSet.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbPickSet](AcDbPickSet.html) |
-| Help: | Make an AcDbPickSet |
+| | | |
+| Returns: | [AcDbPickSet](AcDbPickSet.html) | |
+| Help: | | Make an AcDbPickSet |
 
 
 ## Functions:
@@ -42,16 +42,16 @@ AcDbPickSet Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbPickSet](AcDbPickSet.html) |
-| Help: | User_PickSet |
+| | | |
+| Returns: | [AcDbPickSet](AcDbPickSet.html) | |
+| Help: | | User_PickSet |
 
 ### AcDbPickSet-User_PickSetAll
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbPickSet](AcDbPickSet.html) |
-| Help: | User_PickSetAll |
+| | | |
+| Returns: | [AcDbPickSet](AcDbPickSet.html) | |
+| Help: | | User_PickSetAll |
 

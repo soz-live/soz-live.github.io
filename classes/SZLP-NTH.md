@@ -25,9 +25,9 @@ NTH Function
 | --------- | --------- | --------- |
 | IND | [SZLPInteger](SZLPInteger.html) |  |
 | LST | [SZLPList](SZLPList.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject](SZOBObject.html) |
-| Help: | NTH Function |
+| | | |
+| Returns: | [SZOBObject](SZOBObject.html) | |
+| Help: | | NTH Function |
 
 
 ## Functions:

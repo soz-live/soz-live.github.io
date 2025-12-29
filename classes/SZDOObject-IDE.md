@@ -24,9 +24,9 @@ IDE for DevOps
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | FILE | [File-LSP](File-LSP.html) |  |
-| --- | --- | --- |
-| Returns: | [SZDOObject-IDE](SZDOObject-IDE.html) |
-| Help: | Display a File |
+| | | |
+| Returns: | [SZDOObject-IDE](SZDOObject-IDE.html) | |
+| Help: | | Display a File |
 
 
 ## Functions:

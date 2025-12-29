@@ -26,9 +26,9 @@ SZCEAssyRef Class
 | PDEF | [SZCEModelDef](SZCEModelDef.html) |  |
 | DEF | [SZCEAssy](SZCEAssy.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEAssyRef](SZCEAssyRef.html) |
-| Help: | Basic Assy Reference |
+| | | |
+| Returns: | [SZCEAssyRef](SZCEAssyRef.html) | |
+| Help: | | Basic Assy Reference |
 
 
 ## Functions:

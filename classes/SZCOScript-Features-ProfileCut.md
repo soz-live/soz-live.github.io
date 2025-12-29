@@ -25,9 +25,9 @@ Profile Cuts
 | --------- | --------- | --------- |
 | CUTTO | [SZCEModelRef](SZCEModelRef.html) |  |
 | MREFS | [Set:SZCEModelRef](SZCEModelRef.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOScript-Features-ProfileCut](SZCOScript-Features-ProfileCut.html) |
-| Help: | Multiple ProfileCuts using one Cutter |
+| | | |
+| Returns: | [SZCOScript-Features-ProfileCut](SZCOScript-Features-ProfileCut.html) | |
+| Help: | | Multiple ProfileCuts using one Cutter |
 
 
 ## Functions:

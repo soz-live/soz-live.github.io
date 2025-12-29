@@ -23,9 +23,9 @@ ByLayer color
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZCOColor-ByLayer](SZCOColor-ByLayer.html) |
-| Help: | ByLayer color |
+| | | |
+| Returns: | [SZCOColor-ByLayer](SZCOColor-ByLayer.html) | |
+| Help: | | ByLayer color |
 
 
 ## Functions:

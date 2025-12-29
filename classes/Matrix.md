@@ -33,16 +33,16 @@ Matrix Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | TM | [TMatrix](TMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | TMatrix Determinant |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | TMatrix Determinant |
 
 ### Matrix-Orthogonal?
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | TM | [TMatrix](TMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | TMatrix Orthogonal? |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | TMatrix Orthogonal? |
 

@@ -25,9 +25,9 @@ SZGEVector-CrossProduct Class
 | --------- | --------- | --------- |
 | VECTOR0 | [SZGEVector](SZGEVector.html) |  |
 | VECTOR1 | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEVector-CrossProduct](SZGEVector-CrossProduct.html) |
-| Help: | Make a SZGEVector-CrossProduct |
+| | | |
+| Returns: | [SZGEVector-CrossProduct](SZGEVector-CrossProduct.html) | |
+| Help: | | Make a SZGEVector-CrossProduct |
 
 
 ## Functions:

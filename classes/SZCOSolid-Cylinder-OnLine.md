@@ -25,9 +25,9 @@ SZCOSolid-Cylinder-OnLine Class
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
 | RADIUS | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Cylinder-OnLine](SZCOSolid-Cylinder-OnLine.html) |
-| Help: | Make a SZCOSolid-Cylinder-OnLine |
+| | | |
+| Returns: | [SZCOSolid-Cylinder-OnLine](SZCOSolid-Cylinder-OnLine.html) | |
+| Help: | | Make a SZCOSolid-Cylinder-OnLine |
 
 
 ## Functions:
@@ -44,7 +44,7 @@ SZCOSolid-Cylinder-OnLine Class
 | --------- | --------- | --------- |
 | O | [SZCOSolid-Cylinder-OnLine](SZCOSolid-Cylinder-OnLine.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-Cylinder-OnLine |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-Cylinder-OnLine |
 

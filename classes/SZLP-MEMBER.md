@@ -25,9 +25,9 @@ MEMBER Function
 | --------- | --------- | --------- |
 | VAL | [SZOBObject](SZOBObject.html) |  |
 | LST | [SZLPList](SZLPList.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject](SZOBObject.html) |
-| Help: | MEMBER Function |
+| | | |
+| Returns: | [SZOBObject](SZOBObject.html) | |
+| Help: | | MEMBER Function |
 
 
 ## Functions:

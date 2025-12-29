@@ -24,9 +24,9 @@ SZLP-ATOI Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | STR | [SZLPString](SZLPString.html) |  |
-| --- | --- | --- |
-| Returns: | [Integer](Integer.html) |
-| Help: | New SZLP-ATOI |
+| | | |
+| Returns: | [Integer](Integer.html) | |
+| Help: | | New SZLP-ATOI |
 
 
 ## Functions:

@@ -24,9 +24,9 @@ ANDS Function
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ITEMS | [List:SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | AND Function for list of items |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | AND Function for list of items |
 
 
 ## Functions:

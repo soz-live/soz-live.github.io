@@ -26,9 +26,9 @@ DCL TreeFilter
 | KEY | [Key](Key.html) |  |
 | VALUE | [String](String.html) |  |
 | LABEL | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Cluster-TreeFilter](DCLS-Cluster-TreeFilter.html) |
-| Help: | Basic DCLS-Cluster-TreeFilter |
+| | | |
+| Returns: | [DCLS-Cluster-TreeFilter](DCLS-Cluster-TreeFilter.html) | |
+| Help: | | Basic DCLS-Cluster-TreeFilter |
 
 
 ## Functions:

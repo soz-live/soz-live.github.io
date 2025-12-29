@@ -34,7 +34,7 @@ AcDbLayout Class
 | --------- | --------- | --------- |
 | DOC | [AcDbDocument](AcDbDocument.html) |  |
 | NAME | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | Rename an AcDbLayout |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | Rename an AcDbLayout |
 

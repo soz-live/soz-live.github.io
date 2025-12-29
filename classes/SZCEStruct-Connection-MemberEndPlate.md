@@ -24,9 +24,9 @@ A Structural MemberEndPlate Connection
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | PLATE | [SZCEStruct-PlateDef](SZCEStruct-PlateDef.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-Connection-MemberEndPlate](SZCEStruct-Connection-MemberEndPlate.html) |
-| Help: | Make a Structural MemberEndPlate Connection |
+| | | |
+| Returns: | [SZCEStruct-Connection-MemberEndPlate](SZCEStruct-Connection-MemberEndPlate.html) | |
+| Help: | | Make a Structural MemberEndPlate Connection |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ SZGEPoint-TMatrix Class
 | --------- | --------- | --------- |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-TMatrix](SZGEPoint-TMatrix.html) |
-| Help: | Make a SZGEPoint-TMatrix |
+| | | |
+| Returns: | [SZGEPoint-TMatrix](SZGEPoint-TMatrix.html) | |
+| Help: | | Make a SZGEPoint-TMatrix |
 
 
 ## Functions:

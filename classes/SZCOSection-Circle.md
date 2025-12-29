@@ -24,9 +24,9 @@ SZCOSection-Circle Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | DIA | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSection-Circle](SZCOSection-Circle.html) |
-| Help: | Make a SZCOSection-Circle |
+| | | |
+| Returns: | [SZCOSection-Circle](SZCOSection-Circle.html) | |
+| Help: | | Make a SZCOSection-Circle |
 
 
 ## Functions:

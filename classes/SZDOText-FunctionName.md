@@ -25,9 +25,9 @@ FN Text
 | --------- | --------- | --------- |
 | TEXT | [SZMAFunctionName](SZMAFunctionName.html) |  |
 | POINT | [Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [SZDOText-FunctionName](SZDOText-FunctionName.html) |
-| Help: | Make a FunctionName |
+| | | |
+| Returns: | [SZDOText-FunctionName](SZDOText-FunctionName.html) | |
+| Help: | | Make a FunctionName |
 
 
 ## Functions:

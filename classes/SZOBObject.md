@@ -33,9 +33,9 @@ Abstract Base Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [SOZFile](SOZFile.html) |
-| Help: | Converts Object to SOZFile Format |
+| | | |
+| Returns: | [SOZFile](SOZFile.html) | |
+| Help: | | Converts Object to SOZFile Format |
 
 ### SZOBObject-AddIOBJ
 
@@ -43,9 +43,9 @@ Abstract Base Class
 | --------- | --------- | --------- |
 | PARENT | [SZOBObject](SZOBObject.html) |  |
 | IOBJ | [SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject](SZOBObject.html) |
-| Help: | Add IOBJ |
+| | | |
+| Returns: | [SZOBObject](SZOBObject.html) | |
+| Help: | | Add IOBJ |
 
 ### SZOBObject-IndexOfXOBJS
 
@@ -53,7 +53,7 @@ Abstract Base Class
 | --------- | --------- | --------- |
 | OWNER | [SZOBObject](SZOBObject.html) |  |
 | INDEX | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject-IndexOfXOBJS](SZOBObject-IndexOfXOBJS.html) |
-| Help: | Return an Object from an IndexOfXOBJS |
+| | | |
+| Returns: | [SZOBObject-IndexOfXOBJS](SZOBObject-IndexOfXOBJS.html) | |
+| Help: | | Return an Object from an IndexOfXOBJS |
 

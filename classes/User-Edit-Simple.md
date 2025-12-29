@@ -26,9 +26,9 @@ User EditObject Structure
 | OBJECT | [SZOBObject](SZOBObject.html) |  |
 | LABEL | [Label](Label.html) |  |
 | SIMPLE | [Logical](Logical.html) |  |
-| --- | --- | --- |
-| Returns: | [User-Edit-Simple](User-Edit-Simple.html) |
-| Help: | Basic User-Edit-Simple Constructor |
+| | | |
+| Returns: | [User-Edit-Simple](User-Edit-Simple.html) | |
+| Help: | | Basic User-Edit-Simple Constructor |
 
 
 ## Functions:

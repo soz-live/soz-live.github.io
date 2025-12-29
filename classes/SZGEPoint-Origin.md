@@ -23,9 +23,9 @@ SZGEPoint-Origin Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-Origin](SZGEPoint-Origin.html) |
-| Help: | Make a SZGEPoint-Origin |
+| | | |
+| Returns: | [SZGEPoint-Origin](SZGEPoint-Origin.html) | |
+| Help: | | Make a SZGEPoint-Origin |
 
 
 ## Functions:

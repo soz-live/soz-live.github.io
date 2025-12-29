@@ -26,9 +26,9 @@ AcDb3dSolid-Cube Class
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | SIDE | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid-Cube](AcDb3dSolid-Cube.html) |
-| Help: | Make an AcDb3dSolid-Cube |
+| | | |
+| Returns: | [AcDb3dSolid-Cube](AcDb3dSolid-Cube.html) | |
+| Help: | | Make an AcDb3dSolid-Cube |
 
 
 ## Functions:

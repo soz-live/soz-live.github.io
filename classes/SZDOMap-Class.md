@@ -25,9 +25,9 @@ Class Map
 | --------- | --------- | --------- |
 | BC | [SZMAClassName](SZMAClassName.html) |  |
 | BPT | [Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [SZDOMap-Class](SZDOMap-Class.html) |
-| Help: | Development ClassName Map |
+| | | |
+| Returns: | [SZDOMap-Class](SZDOMap-Class.html) | |
+| Help: | | Development ClassName Map |
 
 
 ## Functions:

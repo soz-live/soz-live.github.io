@@ -25,9 +25,9 @@ SZGEPlane-ItemofPlanes Class
 | --------- | --------- | --------- |
 | ARRAY | [SZGEPlanes](SZGEPlanes.html) |  |
 | INDEX | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane-ItemofPlanes](SZGEPlane-ItemofPlanes.html) |
-| Help: | Make a SZGEPlane-ItemofPlanes |
+| | | |
+| Returns: | [SZGEPlane-ItemofPlanes](SZGEPlane-ItemofPlanes.html) | |
+| Help: | | Make a SZGEPlane-ItemofPlanes |
 
 
 ## Functions:

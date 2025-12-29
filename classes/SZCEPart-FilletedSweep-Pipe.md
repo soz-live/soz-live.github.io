@@ -27,9 +27,9 @@ Pipe Run Model
 | CURVE | [AcDb3dPolyline](AcDb3dPolyline.html) |  |
 | RADIUS | [Real](Real.html) |  |
 | IOBJS | [List:SZCOFeature-Part](SZCOFeature-Part.html) | Features |
-| --- | --- | --- |
-| Returns: | [SZCEPart-FilletedSweep-Pipe](SZCEPart-FilletedSweep-Pipe.html) |
-| Help: | Make Pipe Run |
+| | | |
+| Returns: | [SZCEPart-FilletedSweep-Pipe](SZCEPart-FilletedSweep-Pipe.html) | |
+| Help: | | Make Pipe Run |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ SZLPReal-Reals-Index Class
 | --------- | --------- | --------- |
 | ARRAY | [SZLPReals](SZLPReals.html) |  |
 | INDEX | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReal-Reals-Index](SZLPReal-Reals-Index.html) |
-| Help: | Make a SZLPReal-Reals-Index |
+| | | |
+| Returns: | [SZLPReal-Reals-Index](SZLPReal-Reals-Index.html) | |
+| Help: | | Make a SZLPReal-Reals-Index |
 
 
 ## Functions:

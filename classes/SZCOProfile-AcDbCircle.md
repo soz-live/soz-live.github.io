@@ -24,9 +24,9 @@ SZCOProfile-AcDbCircle Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbCircle](AcDbCircle.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOProfile-AcDbCircle](SZCOProfile-AcDbCircle.html) |
-| Help: | Make a SZCOProfile-AcDbCircle |
+| | | |
+| Returns: | [SZCOProfile-AcDbCircle](SZCOProfile-AcDbCircle.html) | |
+| Help: | | Make a SZCOProfile-AcDbCircle |
 
 
 ## Functions:

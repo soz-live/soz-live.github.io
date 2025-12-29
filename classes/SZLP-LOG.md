@@ -24,9 +24,9 @@ SZLP-LOG Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NUM | [Number](Number.html) |  |
-| --- | --- | --- |
-| Returns: | [Number](Number.html) |
-| Help: | New SZLP-LOG |
+| | | |
+| Returns: | [Number](Number.html) | |
+| Help: | | New SZLP-LOG |
 
 
 ## Functions:

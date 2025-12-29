@@ -24,9 +24,9 @@ Axes Vectors Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ZAXIS | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Axes](Axes.html) |
-| Help: | Make Axes Vectors |
+| | | |
+| Returns: | [Axes](Axes.html) | |
+| Help: | | Make Axes Vectors |
 
 
 ## Functions:
@@ -42,25 +42,25 @@ Axes Vectors Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [Axes](Axes.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | X Axis of Axes |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | X Axis of Axes |
 
 ### Axes-YAxis
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [Axes](Axes.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Y Axis of Axes |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Y Axis of Axes |
 
 ### Axes-ZAxis
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [Axes](Axes.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Z Axis of Axes |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Z Axis of Axes |
 

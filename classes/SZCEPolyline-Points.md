@@ -25,9 +25,9 @@ SZCEPolyline-Points Class
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | LOOP | [SZGELoop-Points](SZGELoop-Points.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPolyline-Points](SZCEPolyline-Points.html) |
-| Help: | Make a SZCEPolyline-Points |
+| | | |
+| Returns: | [SZCEPolyline-Points](SZCEPolyline-Points.html) | |
+| Help: | | Make a SZCEPolyline-Points |
 
 
 ## Functions:

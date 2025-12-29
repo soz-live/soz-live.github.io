@@ -25,9 +25,9 @@ SZGEPoint-2D Class
 | --------- | --------- | --------- |
 | X | [Real](Real.html) |  |
 | Y | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-2D](SZGEPoint-2D.html) |
-| Help: | Make a SZGEPoint-2D |
+| | | |
+| Returns: | [SZGEPoint-2D](SZGEPoint-2D.html) | |
+| Help: | | Make a SZGEPoint-2D |
 
 
 ## Functions:

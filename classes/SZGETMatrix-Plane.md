@@ -24,9 +24,9 @@ SZGETMatrix-Plane Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | PLANE | [SZGEPlane](SZGEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-Plane](SZGETMatrix-Plane.html) |
-| Help: | Make a SZGETMatrix-Plane |
+| | | |
+| Returns: | [SZGETMatrix-Plane](SZGETMatrix-Plane.html) | |
+| Help: | | Make a SZGETMatrix-Plane |
 
 
 ## Functions:

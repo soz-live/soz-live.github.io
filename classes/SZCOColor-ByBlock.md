@@ -23,9 +23,9 @@ ByBlock color
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZCOColor-ByBlock](SZCOColor-ByBlock.html) |
-| Help: | ByBlock color |
+| | | |
+| Returns: | [SZCOColor-ByBlock](SZCOColor-ByBlock.html) | |
+| Help: | | ByBlock color |
 
 
 ## Functions:

@@ -29,9 +29,9 @@ MemberToMember-OnPlane Linear Structural Member
 | PLANE | [SZGEPlane](SZGEPlane.html) |  |
 | CONN0 | [SZCEStruct-Connection-ToMember](SZCEStruct-Connection-ToMember.html) |  |
 | CONN1 | [SZCEStruct-Connection-ToMember](SZCEStruct-Connection-ToMember.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-Member-MemberToMember-OnPlane](SZCEStruct-Member-MemberToMember-OnPlane.html) |
-| Help: | MemberToMember-OnPlane Linear Structural Member |
+| | | |
+| Returns: | [SZCEStruct-Member-MemberToMember-OnPlane](SZCEStruct-Member-MemberToMember-OnPlane.html) | |
+| Help: | | MemberToMember-OnPlane Linear Structural Member |
 
 
 ## Functions:

@@ -28,9 +28,9 @@ CPurlin
 | THICK | [Real](Real.html) |  |
 | RADIUS | [Real](Real.html) |  |
 | LIP | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-CPurlin](SZGEShape-CPurlin.html) |
-| Help: | CPurlin |
+| | | |
+| Returns: | [SZGEShape-CPurlin](SZGEShape-CPurlin.html) | |
+| Help: | | CPurlin |
 
 
 ## Functions:

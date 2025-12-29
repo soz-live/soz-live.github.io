@@ -26,9 +26,9 @@ SZCEPolyline-Loop Class
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | LOOP | [SZGE2dCurve](SZGE2dCurve.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPolyline-Loop](SZCEPolyline-Loop.html) |
-| Help: | Make a SZCEPolyline-Loop |
+| | | |
+| Returns: | [SZCEPolyline-Loop](SZCEPolyline-Loop.html) | |
+| Help: | | Make a SZCEPolyline-Loop |
 
 
 ## Functions:

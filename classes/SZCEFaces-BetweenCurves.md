@@ -27,9 +27,9 @@ SZCEFaces-BetweenCurves Class
 | CURVE1 | [AcDbCurve](AcDbCurve.html) |  |
 | FLIP1 | [Boolean](Boolean.html) |  |
 | QTY | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEFaces-BetweenCurves](SZCEFaces-BetweenCurves.html) |
-| Help: | Make a SZCEFaces-BetweenCurves |
+| | | |
+| Returns: | [SZCEFaces-BetweenCurves](SZCEFaces-BetweenCurves.html) | |
+| Help: | | Make a SZCEFaces-BetweenCurves |
 
 
 ## Functions:

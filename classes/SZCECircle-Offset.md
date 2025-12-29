@@ -26,9 +26,9 @@ SZCECircle-Offset Class
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | ENTITY | [AcDbCircle](AcDbCircle.html) |  |
 | OFFSET | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbCircle](AcDbCircle.html) |
-| Help: | Make a SZCECircle-Offset |
+| | | |
+| Returns: | [AcDbCircle](AcDbCircle.html) | |
+| Help: | | Make a SZCECircle-Offset |
 
 
 ## Functions:

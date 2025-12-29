@@ -26,9 +26,9 @@ SZCOProfile-Loop-Aligned Class
 | LOOP | [SZGELoop](SZGELoop.html) |  |
 | ALIGN | [Enum-AcDbAlignment](Enum-AcDbAlignment.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOProfile-Loop-Aligned](SZCOProfile-Loop-Aligned.html) |
-| Help: | Make a SZCOProfile-Loop-Aligned |
+| | | |
+| Returns: | [SZCOProfile-Loop-Aligned](SZCOProfile-Loop-Aligned.html) | |
+| Help: | | Make a SZCOProfile-Loop-Aligned |
 
 
 ## Functions:

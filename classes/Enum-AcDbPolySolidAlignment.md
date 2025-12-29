@@ -24,12 +24,12 @@ PolySolid alignment value
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-AcDbPolySolidAlignment](Enum-AcDbPolySolidAlignment.html) |  |
-| --- | --- | --- |
-| Returns: | [Enum-AcDbPolySolidAlignment](Enum-AcDbPolySolidAlignment.html) |
-| Help: | PolySolid  AcDbAlignment |
+| | | |
+| Returns: | [Enum-AcDbPolySolidAlignment](Enum-AcDbPolySolidAlignment.html) | |
+| Help: | | PolySolid  AcDbAlignment |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

@@ -29,9 +29,9 @@ SZGEShape-HotAngle Class
 | FLANGETHICK | [Real](Real.html) |  |
 | ROOTRADIUS | [Real](Real.html) |  |
 | TOERADIUS | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-HotAngle](SZGEShape-HotAngle.html) |
-| Help: | Make a SZGEShape-HotAngle |
+| | | |
+| Returns: | [SZGEShape-HotAngle](SZGEShape-HotAngle.html) | |
+| Help: | | Make a SZGEShape-HotAngle |
 
 
 ## Functions:

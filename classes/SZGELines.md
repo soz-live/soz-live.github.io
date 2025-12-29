@@ -24,9 +24,9 @@ SZGELines Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINES | [List:SZGELine](SZGELine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELines](SZGELines.html) |
-| Help: | Make a SZGELines |
+| | | |
+| Returns: | [SZGELines](SZGELines.html) | |
+| Help: | | Make a SZGELines |
 
 
 ## Functions:

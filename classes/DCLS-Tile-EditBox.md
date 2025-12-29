@@ -27,9 +27,9 @@ DCL EditBox
 | VALUE | [String](String.html) |  |
 | LABEL | [String](String.html) |  |
 | ATTS | [List:DCLS-Attribute](DCLS-Attribute.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Tile-EditBox](DCLS-Tile-EditBox.html) |
-| Help: | Basic DCLS-EditBox Constructor |
+| | | |
+| Returns: | [DCLS-Tile-EditBox](DCLS-Tile-EditBox.html) | |
+| Help: | | Basic DCLS-EditBox Constructor |
 
 
 ## Functions:

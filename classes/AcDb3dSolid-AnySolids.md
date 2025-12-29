@@ -23,9 +23,9 @@ AcDb3dSolid-AnySolids Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: |  |
-| Help: |  |
+| | | |
+| Returns: |  | |
+| Help: | |  |
 
 
 ## Functions:

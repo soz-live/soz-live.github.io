@@ -26,9 +26,9 @@ SZCELines-Fractal-Triangular Class
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
 | SIDE | [Real](Real.html) |  |
 | DEPTH | [Option-FractalDepth](Option-FractalDepth.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCELines-Fractal-Triangular](SZCELines-Fractal-Triangular.html) |
-| Help: | Make a SZCELines-Fractal-Triangular |
+| | | |
+| Returns: | [SZCELines-Fractal-Triangular](SZCELines-Fractal-Triangular.html) | |
+| Help: | | Make a SZCELines-Fractal-Triangular |
 
 
 ## Functions:

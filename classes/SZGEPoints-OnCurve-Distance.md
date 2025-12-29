@@ -27,9 +27,9 @@ SZGEPoints-OnCurve-Distance Class
 | DIST | [Real](Real.html) |  |
 | START | [Boolean](Boolean.html) |  |
 | FLIPPED | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoints-OnCurve-Distance](SZGEPoints-OnCurve-Distance.html) |
-| Help: | Make a SZGEPoints-OnCurve-Distance |
+| | | |
+| Returns: | [SZGEPoints-OnCurve-Distance](SZGEPoints-OnCurve-Distance.html) | |
+| Help: | | Make a SZGEPoints-OnCurve-Distance |
 
 
 ## Functions:

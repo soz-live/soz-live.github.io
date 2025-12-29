@@ -24,9 +24,9 @@ SZCEUCSs-OnCurve-Divide Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ARRAY | [SZGEPattern-AcDbCurve-Divide](SZGEPattern-AcDbCurve-Divide.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEUCSs-OnCurve-Divide](SZCEUCSs-OnCurve-Divide.html) |
-| Help: | Make a SZCEUCSs-OnCurve-Divide |
+| | | |
+| Returns: | [SZCEUCSs-OnCurve-Divide](SZCEUCSs-OnCurve-Divide.html) | |
+| Help: | | Make a SZCEUCSs-OnCurve-Divide |
 
 
 ## Functions:

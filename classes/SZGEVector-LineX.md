@@ -24,9 +24,9 @@ SZGEVector-LineX Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEVector-LineX](SZGEVector-LineX.html) |
-| Help: | Make a SZGEVector-LineX |
+| | | |
+| Returns: | [SZGEVector-LineX](SZGEVector-LineX.html) | |
+| Help: | | Make a SZGEVector-LineX |
 
 
 ## Functions:

@@ -26,9 +26,9 @@ SZCE3dCurve-SubCurve-BaryComb Class
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | START | [Real](Real.html) |  |
 | END | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) |
-| Help: | SubCurve of a Curve |
+| | | |
+| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) | |
+| Help: | | SubCurve of a Curve |
 
 
 ## Functions:

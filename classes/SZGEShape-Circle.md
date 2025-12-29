@@ -24,9 +24,9 @@ SZGEShape-Circle Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | RADIUS | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-Circle](SZGEShape-Circle.html) |
-| Help: | Circle Shape |
+| | | |
+| Returns: | [SZGEShape-Circle](SZGEShape-Circle.html) | |
+| Help: | | Circle Shape |
 
 
 ## Functions:

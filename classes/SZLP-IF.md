@@ -26,9 +26,9 @@ IF Function
 | CND | [SZLPLogical](SZLPLogical.html) |  |
 | THS | [SZOBObject](SZOBObject.html) |  |
 | ELS | [SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject](SZOBObject.html) |
-| Help: | IF Statement |
+| | | |
+| Returns: | [SZOBObject](SZOBObject.html) | |
+| Help: | | IF Statement |
 
 
 ## Functions:

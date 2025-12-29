@@ -24,9 +24,9 @@ SZGETMatrix-AcDbPolyline Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbPolyline](AcDbPolyline.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-AcDbPolyline](SZGETMatrix-AcDbPolyline.html) |
-| Help: | Make a SZGETMatrix-AcDbPolyline |
+| | | |
+| Returns: | [SZGETMatrix-AcDbPolyline](SZGETMatrix-AcDbPolyline.html) | |
+| Help: | | Make a SZGETMatrix-AcDbPolyline |
 
 
 ## Functions:

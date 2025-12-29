@@ -24,9 +24,9 @@ SZGELoop-AcDbPolyline-OnStart Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbPolyline](AcDbPolyline.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELoop-AcDbPolyline-OnStart](SZGELoop-AcDbPolyline-OnStart.html) |
-| Help: | Polyline Shape |
+| | | |
+| Returns: | [SZGELoop-AcDbPolyline-OnStart](SZGELoop-AcDbPolyline-OnStart.html) | |
+| Help: | | Polyline Shape |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ Orientation Class
 | --------- | --------- | --------- |
 | POINT0 | [Point](Point.html) |  |
 | POINT1 | [Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [Orientation](Orientation.html) |
-| Help: | Make a Orientation |
+| | | |
+| Returns: | [Orientation](Orientation.html) | |
+| Help: | | Make a Orientation |
 
 
 ## Functions:
@@ -43,7 +43,7 @@ Orientation Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [Orientation](Orientation.html) |  |
-| --- | --- | --- |
-| Returns: | [Orientation](Orientation.html) |
-| Help: | Rounded Orientation |
+| | | |
+| Returns: | [Orientation](Orientation.html) | |
+| Help: | | Rounded Orientation |
 

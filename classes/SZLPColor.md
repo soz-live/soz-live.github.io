@@ -24,9 +24,9 @@ SZLPColor Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | COLOR | [RGB](RGB.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPColor](SZLPColor.html) |
-| Help: | Make a SZLPColor |
+| | | |
+| Returns: | [SZLPColor](SZLPColor.html) | |
+| Help: | | Make a SZLPColor |
 
 
 ## Functions:

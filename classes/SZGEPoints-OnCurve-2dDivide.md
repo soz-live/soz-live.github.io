@@ -27,9 +27,9 @@ SZGEPoints-OnCurve-2dDivide Class
 | NO | [Integer](Integer.html) |  |
 | START | [Boolean](Boolean.html) |  |
 | END | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoints-OnCurve-2dDivide](SZGEPoints-OnCurve-2dDivide.html) |
-| Help: | Make a SZGEPoints-OnCurve-2dDivide |
+| | | |
+| Returns: | [SZGEPoints-OnCurve-2dDivide](SZGEPoints-OnCurve-2dDivide.html) | |
+| Help: | | Make a SZGEPoints-OnCurve-2dDivide |
 
 
 ## Functions:

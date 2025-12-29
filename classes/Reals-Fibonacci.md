@@ -24,9 +24,9 @@ Real Array using Fibonacci sequence
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NO | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [Reals](Reals.html) |
-| Help: | Creates a Real Array using Fibonacci sequence |
+| | | |
+| Returns: | [Reals](Reals.html) | |
+| Help: | | Creates a Real Array using Fibonacci sequence |
 
 
 ## Functions:

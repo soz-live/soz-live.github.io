@@ -23,9 +23,9 @@ SZGEVector-WX Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZGEVector-WX](SZGEVector-WX.html) |
-| Help: | Make a SZGEVector-WX |
+| | | |
+| Returns: | [SZGEVector-WX](SZGEVector-WX.html) | |
+| Help: | | Make a SZGEVector-WX |
 
 
 ## Functions:

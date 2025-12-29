@@ -27,9 +27,9 @@ Basic TMatrix creation class
 | Y | [Vector](Vector.html) | YAxis Vector |
 | Z | [Vector](Vector.html) | ZAxis Vector |
 | POINT | [Point](Point.html) | Origin |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | TMatrix Creation Routine |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | TMatrix Creation Routine |
 
 
 ## Functions:

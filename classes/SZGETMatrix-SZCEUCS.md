@@ -24,9 +24,9 @@ SZGETMatrix-SZCEUCS Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [SZCEUCS](SZCEUCS.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-SZCEUCS](SZGETMatrix-SZCEUCS.html) |
-| Help: | Make a SZGETMatrix-SZCEUCS |
+| | | |
+| Returns: | [SZGETMatrix-SZCEUCS](SZGETMatrix-SZCEUCS.html) | |
+| Help: | | Make a SZGETMatrix-SZCEUCS |
 
 
 ## Functions:

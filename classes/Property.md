@@ -25,9 +25,9 @@ Property Class
 | --------- | --------- | --------- |
 | A | [Key](Key.html) |  |
 | D | [SZOBBase](SZOBBase.html) |  |
-| --- | --- | --- |
-| Returns: | [Property](Property.html) |
-| Help: | Make a Property |
+| | | |
+| Returns: | [Property](Property.html) | |
+| Help: | | Make a Property |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ SZGELine-PointToPlane-Vertical Class
 | --------- | --------- | --------- |
 | POINT | [AcDbPoint](AcDbPoint.html) |  |
 | PLANE | [SZCEPlane](SZCEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELine](SZGELine.html) |
-| Help: | Make a SZGELine-PointToPlane-Vertical |
+| | | |
+| Returns: | [SZGELine](SZGELine.html) | |
+| Help: | | Make a SZGELine-PointToPlane-Vertical |
 
 
 ## Functions:

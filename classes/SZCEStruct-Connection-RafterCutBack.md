@@ -23,9 +23,9 @@ A Structural RafterCutBack Connection
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-Connection-RafterCutBack](SZCEStruct-Connection-RafterCutBack.html) |
-| Help: | Make a Structural RafterCutBack Connection |
+| | | |
+| Returns: | [SZCEStruct-Connection-RafterCutBack](SZCEStruct-Connection-RafterCutBack.html) | |
+| Help: | | Make a Structural RafterCutBack Connection |
 
 
 ## Functions:

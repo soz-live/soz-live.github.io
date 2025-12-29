@@ -26,9 +26,9 @@ SUBST Function
 | LST | [SZLPList](SZLPList.html) |  |
 | NEW | [SZLP-T](SZLP-T.html) |  |
 | OLD | [SZLP-T](SZLP-T.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | SUBST Function |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | SUBST Function |
 
 
 ## Functions:

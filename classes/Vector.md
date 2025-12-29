@@ -26,9 +26,9 @@ Vector Class
 | X | [Real](Real.html) |  |
 | Y | [Real](Real.html) |  |
 | Z | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Creates a Vector of X Y Z values |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Creates a Vector of X Y Z values |
 
 
 ## Functions:
@@ -44,36 +44,36 @@ Vector Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ZAXIS | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Axes](Axes.html) |
-| Help: | Convert to Axes |
+| | | |
+| Returns: | [Axes](Axes.html) | |
+| Help: | | Convert to Axes |
 
 ### Vector->Vector2D
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | V | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector2D](Vector2D.html) |
-| Help: | Convert Vector to Vector2D |
+| | | |
+| Returns: | [Vector2D](Vector2D.html) | |
+| Help: | | Convert Vector to Vector2D |
 
 ### Vector->Vector3D
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | V | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Convert Vector to Vector3D |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Convert Vector to Vector3D |
 
 ### Vector-Angle
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | U | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Rad](Rad.html) |
-| Help: | Vector Angle |
+| | | |
+| Returns: | [Rad](Rad.html) | |
+| Help: | | Vector Angle |
 
 ### Vector-CrossProduct
 
@@ -81,9 +81,9 @@ Vector Class
 | --------- | --------- | --------- |
 | U | [Vector](Vector.html) |  |
 | V | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Vector CrossProduct |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Vector CrossProduct |
 
 ### Vector-DotProduct
 
@@ -91,9 +91,9 @@ Vector Class
 | --------- | --------- | --------- |
 | U | [Vector](Vector.html) |  |
 | V | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Vector DotProduct |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Vector DotProduct |
 
 ### Vector-Equal?
 
@@ -101,45 +101,45 @@ Vector Class
 | --------- | --------- | --------- |
 | U | [Vector](Vector.html) |  |
 | V | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | Vector Equal? |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | Vector Equal? |
 
 ### Vector-Length
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | U | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Vector Length |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Vector Length |
 
 ### Vector-Negate
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | U | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Vector Negate |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Vector Negate |
 
 ### Vector-Normal
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | U | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Vector Normal |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Vector Normal |
 
 ### Vector-OrthoVector
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | U | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | OrthoVector |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | OrthoVector |
 
 ### Vector-Product
 
@@ -147,9 +147,9 @@ Vector Class
 | --------- | --------- | --------- |
 | U | [Vector](Vector.html) |  |
 | V | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Vector Product |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Vector Product |
 
 ### Vector-Scalar
 
@@ -157,9 +157,9 @@ Vector Class
 | --------- | --------- | --------- |
 | U | [Vector](Vector.html) |  |
 | V | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Vector Scalar |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Vector Scalar |
 
 ### Vector-Subtract
 
@@ -167,9 +167,9 @@ Vector Class
 | --------- | --------- | --------- |
 | U | [Vector](Vector.html) |  |
 | V | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Vector Subtract |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Vector Subtract |
 
 ### Vector-Sum
 
@@ -177,9 +177,9 @@ Vector Class
 | --------- | --------- | --------- |
 | U | [Vector](Vector.html) |  |
 | V | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Vector Sum |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Vector Sum |
 
 ### Vector-TransformBy
 
@@ -187,75 +187,75 @@ Vector Class
 | --------- | --------- | --------- |
 | V | [Vector](Vector.html) |  |
 | TM | [TMatrix](TMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Vector TransformBy |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Vector TransformBy |
 
 ### Vector-User_Edit
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Edit a Vector |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Edit a Vector |
 
 ### Vector-X
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | X Coord of Vector |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | X Coord of Vector |
 
 ### Vector-XAxis
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | XAxis Vector |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | XAxis Vector |
 
 ### Vector-Y
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Y Coord of Vector |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Y Coord of Vector |
 
 ### Vector-YAxis
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | YAxis Vector |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | YAxis Vector |
 
 ### Vector-Z
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Z Coord of Vector |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Z Coord of Vector |
 
 ### Vector-ZAxis
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | ZAxis Vector |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | ZAxis Vector |
 
 ### Vector-Zero
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Zero Vector |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Zero Vector |
 

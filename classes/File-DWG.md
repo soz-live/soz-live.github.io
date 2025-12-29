@@ -23,9 +23,9 @@ DWG File
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: |  |
-| Help: |  |
+| | | |
+| Returns: |  | |
+| Help: | |  |
 
 
 ## Functions:

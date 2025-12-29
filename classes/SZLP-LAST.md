@@ -24,9 +24,9 @@ LAST Function
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LST | [SZLPList](SZLPList.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject](SZOBObject.html) |
-| Help: | LAST Function |
+| | | |
+| Returns: | [SZOBObject](SZOBObject.html) | |
+| Help: | | LAST Function |
 
 
 ## Functions:

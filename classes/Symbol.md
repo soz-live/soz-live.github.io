@@ -24,9 +24,9 @@ Symbol Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Key](Key.html) |  |
-| --- | --- | --- |
-| Returns: | [Symbol](Symbol.html) |
-| Help: | New Symbol |
+| | | |
+| Returns: | [Symbol](Symbol.html) | |
+| Help: | | New Symbol |
 
 
 ## Functions:

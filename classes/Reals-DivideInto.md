@@ -27,9 +27,9 @@ Reals-DivideInto Class
 | NO | [Integer](Integer.html) |  |
 | START | [Boolean](Boolean.html) |  |
 | END | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [Reals](Reals.html) |
-| Help: | Creates a Real Array by dividing a DIST into NO parts |
+| | | |
+| Returns: | [Reals](Reals.html) | |
+| Help: | | Creates a Real Array by dividing a DIST into NO parts |
 
 
 ## Functions:

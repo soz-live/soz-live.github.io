@@ -24,9 +24,9 @@ SZCEPlanes-Line Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINE | [AcDbLine](AcDbLine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPlanes-Line](SZCEPlanes-Line.html) |
-| Help: | Make a SZCEPlanes-Line |
+| | | |
+| Returns: | [SZCEPlanes-Line](SZCEPlanes-Line.html) | |
+| Help: | | Make a SZCEPlanes-Line |
 
 
 ## Functions:

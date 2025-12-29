@@ -24,9 +24,9 @@ Set Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
-| --- | --- | --- |
-| Returns: | [Set](Set.html) |
-| Help: | Makes a set from a List |
+| | | |
+| Returns: | [Set](Set.html) | |
+| Help: | | Makes a set from a List |
 
 
 ## Functions:

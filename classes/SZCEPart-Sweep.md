@@ -26,9 +26,9 @@ SZCEPart-Sweep Class
 | PROFILE | [SZCOProfile](SZCOProfile.html) |  |
 | ENTITY | [AcDbCurve](AcDbCurve.html) |  |
 | IOBJS | [List:SZCOFeature-Part](SZCOFeature-Part.html) | Features |
-| --- | --- | --- |
-| Returns: | [SZCEPart-Sweep](SZCEPart-Sweep.html) |
-| Help: | Make a SZCEPart-Sweep |
+| | | |
+| Returns: | [SZCEPart-Sweep](SZCEPart-Sweep.html) | |
+| Help: | | Make a SZCEPart-Sweep |
 
 
 ## Functions:

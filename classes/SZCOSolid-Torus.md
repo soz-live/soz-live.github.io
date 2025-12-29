@@ -26,9 +26,9 @@ Torus
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | TORUS | [Real](Real.html) |  |
 | TUBE | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Torus](SZCOSolid-Torus.html) |
-| Help: | Torus |
+| | | |
+| Returns: | [SZCOSolid-Torus](SZCOSolid-Torus.html) | |
+| Help: | | Torus |
 
 
 ## Functions:
@@ -45,7 +45,7 @@ Torus
 | --------- | --------- | --------- |
 | O | [SZCOSolid-Torus](SZCOSolid-Torus.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-Torus |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-Torus |
 

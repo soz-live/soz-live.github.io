@@ -26,9 +26,9 @@ SZCEFaces-BetweenPoints Class
 | POINTS0 | [List:AcDbPoint](AcDbPoint.html) |  |
 | POINTS1 | [List:AcDbPoint](AcDbPoint.html) |  |
 | FLIP1 | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEFaces-BetweenPoints](SZCEFaces-BetweenPoints.html) |
-| Help: | Make a SZCEFaces-BetweenPoints |
+| | | |
+| Returns: | [SZCEFaces-BetweenPoints](SZCEFaces-BetweenPoints.html) | |
+| Help: | | Make a SZCEFaces-BetweenPoints |
 
 
 ## Functions:

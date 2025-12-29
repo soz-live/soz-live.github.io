@@ -26,9 +26,9 @@ User Make-FixedClass Structure
 | CN | [SZMAClass](SZMAClass.html) |  |
 | LABEL | [Label](Label.html) |  |
 | FIXED | [Logical](Logical.html) |  |
-| --- | --- | --- |
-| Returns: | [User-Make-FixedClass](User-Make-FixedClass.html) |
-| Help: | User-Make-FixedClass Constructor |
+| | | |
+| Returns: | [User-Make-FixedClass](User-Make-FixedClass.html) | |
+| Help: | | User-Make-FixedClass Constructor |
 
 
 ## Functions:

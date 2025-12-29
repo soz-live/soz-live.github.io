@@ -26,9 +26,9 @@ SZGELine-PointVector-Dist Class
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
 | VECTOR | [SZGEVector](SZGEVector.html) |  |
 | DIST | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELine-PointVector-Dist](SZGELine-PointVector-Dist.html) |
-| Help: | Make a SZGELine-PointVector-Dist |
+| | | |
+| Returns: | [SZGELine-PointVector-Dist](SZGELine-PointVector-Dist.html) | |
+| Help: | | Make a SZGELine-PointVector-Dist |
 
 
 ## Functions:

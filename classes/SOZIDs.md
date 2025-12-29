@@ -24,9 +24,9 @@ SOZIDs Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [List:SOZID](SOZID.html) |  |
-| --- | --- | --- |
-| Returns: | [SOZIDs](SOZIDs.html) |
-| Help: | Make SOZIDs |
+| | | |
+| Returns: | [SOZIDs](SOZIDs.html) | |
+| Help: | | Make SOZIDs |
 
 
 ## Functions:

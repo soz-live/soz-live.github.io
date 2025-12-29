@@ -24,9 +24,9 @@ SZCOProfile-Circle Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | SECTION | [SZCOSection-Circle](SZCOSection-Circle.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOProfile-Circle](SZCOProfile-Circle.html) |
-| Help: | Make a SZCOProfile-Circle |
+| | | |
+| Returns: | [SZCOProfile-Circle](SZCOProfile-Circle.html) | |
+| Help: | | Make a SZCOProfile-Circle |
 
 
 ## Functions:

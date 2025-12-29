@@ -25,9 +25,9 @@ SOZDCLDialog Strings
 | --------- | --------- | --------- |
 | TITLE | [Key](Key.html) |  |
 | LINES | [List:String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Dialog-Docment-Reader](DCLS-Dialog-Docment-Reader.html) |
-| Help: | DCLS-Dialog-Docment-Reader |
+| | | |
+| Returns: | [DCLS-Dialog-Docment-Reader](DCLS-Dialog-Docment-Reader.html) | |
+| Help: | | DCLS-Dialog-Docment-Reader |
 
 
 ## Functions:

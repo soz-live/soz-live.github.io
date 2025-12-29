@@ -25,9 +25,9 @@ Sweep Parts
 | --------- | --------- | --------- |
 | PROFILE | [SZCOProfile](SZCOProfile.html) |  |
 | CURVES | [Set:AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEScript-Parts-Sweep](SZCEScript-Parts-Sweep.html) |
-| Help: | Sweep on Multiple Curves |
+| | | |
+| Returns: | [SZCEScript-Parts-Sweep](SZCEScript-Parts-Sweep.html) | |
+| Help: | | Sweep on Multiple Curves |
 
 
 ## Functions:

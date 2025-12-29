@@ -24,12 +24,12 @@ AcDbBoolean value of Union, Subtract or Intersect.
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |  |
-| --- | --- | --- |
-| Returns: | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |
-| Help: | Enum-AcDbBoolean |
+| | | |
+| Returns: | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) | |
+| Help: | | Enum-AcDbBoolean |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

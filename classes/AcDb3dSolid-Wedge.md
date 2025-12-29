@@ -28,9 +28,9 @@ AcDb3dSolid-Wedge Class
 | LEN | [Real](Real.html) |  |
 | WIDTH | [Real](Real.html) |  |
 | HEIGHT | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid-Wedge](AcDb3dSolid-Wedge.html) |
-| Help: | Make an AcDb3dSolid-Wedge |
+| | | |
+| Returns: | [AcDb3dSolid-Wedge](AcDb3dSolid-Wedge.html) | |
+| Help: | | Make an AcDb3dSolid-Wedge |
 
 
 ## Functions:

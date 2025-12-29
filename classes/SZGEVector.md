@@ -26,9 +26,9 @@ SZGEVector Class
 | X | [Real](Real.html) |  |
 | Y | [Real](Real.html) |  |
 | Z | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEVector](SZGEVector.html) |
-| Help: | Make a SZGEVector |
+| | | |
+| Returns: | [SZGEVector](SZGEVector.html) | |
+| Help: | | Make a SZGEVector |
 
 
 ## Functions:
@@ -45,9 +45,9 @@ SZGEVector Class
 | --------- | --------- | --------- |
 | U | [SZGEVector](SZGEVector.html) |  |
 | V | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Vector CrossProduct of a SZGEVector Object |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Vector CrossProduct of a SZGEVector Object |
 
 ### SZGEVector-DotProduct
 
@@ -55,27 +55,27 @@ SZGEVector Class
 | --------- | --------- | --------- |
 | U | [SZGEVector](SZGEVector.html) |  |
 | V | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Vector DotProduct of a SZGEVector Object |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Vector DotProduct of a SZGEVector Object |
 
 ### SZGEVector-Length
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Length of a SZGEVector Object |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Length of a SZGEVector Object |
 
 ### SZGEVector-Normal
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Normal of a SZGEVector Object |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Normal of a SZGEVector Object |
 
 ### SZGEVector-Scalar
 
@@ -83,9 +83,9 @@ SZGEVector Class
 | --------- | --------- | --------- |
 | U | [SZGEVector](SZGEVector.html) |  |
 | V | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Vector Scalar of a SZGEVector Object |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Vector Scalar of a SZGEVector Object |
 
 ### SZGEVector-Subtract
 
@@ -93,9 +93,9 @@ SZGEVector Class
 | --------- | --------- | --------- |
 | U | [SZGEVector](SZGEVector.html) |  |
 | V | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Vector Subtract of a SZGEVector Object |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Vector Subtract of a SZGEVector Object |
 
 ### SZGEVector-Sum
 
@@ -103,70 +103,70 @@ SZGEVector Class
 | --------- | --------- | --------- |
 | U | [SZGEVector](SZGEVector.html) |  |
 | V | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Vector Sum of a SZGEVector Object |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Vector Sum of a SZGEVector Object |
 
 ### SZGEVector-User_WX
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEVector](SZGEVector.html) |
-| Help: | User_WX |
+| | | |
+| Returns: | [SZGEVector](SZGEVector.html) | |
+| Help: | | User_WX |
 
 ### SZGEVector-User_WY
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEVector](SZGEVector.html) |
-| Help: | User_WY |
+| | | |
+| Returns: | [SZGEVector](SZGEVector.html) | |
+| Help: | | User_WY |
 
 ### SZGEVector-User_WZ
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEVector](SZGEVector.html) |
-| Help: | User_WZ |
+| | | |
+| Returns: | [SZGEVector](SZGEVector.html) | |
+| Help: | | User_WZ |
 
 ### SZGEVector-Value
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Value of a SZGEVector Object |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Value of a SZGEVector Object |
 
 ### SZGEVector-X
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | X Value of a SZGEVector Object |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | X Value of a SZGEVector Object |
 
 ### SZGEVector-Y
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Y Value of a SZGEVector Object |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Y Value of a SZGEVector Object |
 
 ### SZGEVector-Z
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Z Value of a SZGEVector Object |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Z Value of a SZGEVector Object |
 

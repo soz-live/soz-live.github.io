@@ -27,9 +27,9 @@ SZLPReals-DivideInto-AcDbCurve Class
 | NO | [Integer](Integer.html) |  |
 | START | [Boolean](Boolean.html) |  |
 | END | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReals-DivideInto-AcDbCurve](SZLPReals-DivideInto-AcDbCurve.html) |
-| Help: | Make a SZLPReals-DivideInto-AcDbCurve |
+| | | |
+| Returns: | [SZLPReals-DivideInto-AcDbCurve](SZLPReals-DivideInto-AcDbCurve.html) | |
+| Help: | | Make a SZLPReals-DivideInto-AcDbCurve |
 
 
 ## Functions:

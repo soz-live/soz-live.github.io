@@ -25,9 +25,9 @@ Polyline Offset
 | --------- | --------- | --------- |
 | ENTITY | [AcDbPolyline](AcDbPolyline.html) |  |
 | OFFSET | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPolyline-Offset](SZCEPolyline-Offset.html) |
-| Help: | Polyline Offset Make Method |
+| | | |
+| Returns: | [SZCEPolyline-Offset](SZCEPolyline-Offset.html) | |
+| Help: | | Polyline Offset Make Method |
 
 
 ## Functions:

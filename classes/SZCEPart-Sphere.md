@@ -26,9 +26,9 @@ SZCEPart-Sphere Class
 | CENTER | [SZGEPoint](SZGEPoint.html) |  |
 | RADIUS | [Real](Real.html) |  |
 | IOBJS | [List:SZCOFeature-Part](SZCOFeature-Part.html) | Features |
-| --- | --- | --- |
-| Returns: | [SZCEPart-Sphere](SZCEPart-Sphere.html) |
-| Help: | Make a SZCEPart-Sphere |
+| | | |
+| Returns: | [SZCEPart-Sphere](SZCEPart-Sphere.html) | |
+| Help: | | Make a SZCEPart-Sphere |
 
 
 ## Functions:

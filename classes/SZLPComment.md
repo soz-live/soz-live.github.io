@@ -24,9 +24,9 @@ SZLPComment Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Comment](Comment.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPComment](SZLPComment.html) |
-| Help: | Make a SZLPComment |
+| | | |
+| Returns: | [SZLPComment](SZLPComment.html) | |
+| Help: | | Make a SZLPComment |
 
 
 ## Functions:

@@ -24,9 +24,9 @@ SZLP-ATOF Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | STR | [SZLPString](SZLPString.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | New SZLP-ATOF |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | New SZLP-ATOF |
 
 
 ## Functions:

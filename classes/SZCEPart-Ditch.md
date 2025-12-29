@@ -27,9 +27,9 @@ Ditch Part Class
 | ALIGN | [Enum-AcDbAlignment](Enum-AcDbAlignment.html) |  |
 | WIDTH | [Real](Real.html) |  |
 | DEPTHS | [List:Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPart-Ditch](SZCEPart-Ditch.html) |
-| Help: | Make method for Ditch Part Class |
+| | | |
+| Returns: | [SZCEPart-Ditch](SZCEPart-Ditch.html) | |
+| Help: | | Make method for Ditch Part Class |
 
 
 ## Functions:

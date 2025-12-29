@@ -24,9 +24,9 @@ DCL tabs Attribute
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [List:Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Attribute-Tabs](DCLS-Attribute-Tabs.html) |
-| Help: | Basic DCLS-Attribute-Tabs Constructor |
+| | | |
+| Returns: | [DCLS-Attribute-Tabs](DCLS-Attribute-Tabs.html) | |
+| Help: | | Basic DCLS-Attribute-Tabs Constructor |
 
 
 ## Functions:

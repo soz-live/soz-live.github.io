@@ -24,9 +24,9 @@ SZLPEnum-AcDb3dPolylineType Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-AcDb3dPolylineType](Enum-AcDb3dPolylineType.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPEnum-AcDb3dPolylineType](SZLPEnum-AcDb3dPolylineType.html) |
-| Help: | Make a SZLPEnum-AcDb3dPolylineType |
+| | | |
+| Returns: | [SZLPEnum-AcDb3dPolylineType](SZLPEnum-AcDb3dPolylineType.html) | |
+| Help: | | Make a SZLPEnum-AcDb3dPolylineType |
 
 
 ## Functions:

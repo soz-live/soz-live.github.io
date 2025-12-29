@@ -25,9 +25,9 @@ SZCE3dCurves-HelicalCurves Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | DEFN | [SZGECurves-HelicalCurves](SZGECurves-HelicalCurves.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCE3dCurves-HelicalCurves](SZCE3dCurves-HelicalCurves.html) |
-| Help: | Make a SZCE3dCurves-HelicalCurves |
+| | | |
+| Returns: | [SZCE3dCurves-HelicalCurves](SZCE3dCurves-HelicalCurves.html) | |
+| Help: | | Make a SZCE3dCurves-HelicalCurves |
 
 
 ## Functions:

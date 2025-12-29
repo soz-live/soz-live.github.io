@@ -25,9 +25,9 @@ Rigging Link Class
 | --------- | --------- | --------- |
 | LABEL | [Comment](Comment.html) |  |
 | MODEL | [SZCERiggingDef-Link](SZCERiggingDef-Link.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-Link](SZCERigging-Link.html) |
-| Help: | Make Link |
+| | | |
+| Returns: | [SZCERigging-Link](SZCERigging-Link.html) | |
+| Help: | | Make Link |
 
 
 ## Functions:

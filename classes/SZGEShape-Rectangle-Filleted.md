@@ -26,9 +26,9 @@ SZGEShape-Rectangle-Filleted Class
 | WIDTH | [Real](Real.html) |  |
 | DEPTH | [Real](Real.html) |  |
 | RADIUS | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-Rectangle-Filleted](SZGEShape-Rectangle-Filleted.html) |
-| Help: | Make a SZGEShape-Rectangle-Filleted |
+| | | |
+| Returns: | [SZGEShape-Rectangle-Filleted](SZGEShape-Rectangle-Filleted.html) | |
+| Help: | | Make a SZGEShape-Rectangle-Filleted |
 
 
 ## Functions:

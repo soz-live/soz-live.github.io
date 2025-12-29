@@ -28,9 +28,9 @@ SZCEPart-Faces Class
 | HEIGHT | [Real](Real.html) |  |
 | EXTRUDE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
 | IOBJS | [List:SZCOFeature-Part](SZCOFeature-Part.html) | Features |
-| --- | --- | --- |
-| Returns: | [SZCEPart-Faces](SZCEPart-Faces.html) |
-| Help: | Make a SZCEPart-Faces |
+| | | |
+| Returns: | [SZCEPart-Faces](SZCEPart-Faces.html) | |
+| Help: | | Make a SZCEPart-Faces |
 
 
 ## Functions:

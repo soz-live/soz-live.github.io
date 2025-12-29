@@ -27,9 +27,9 @@ SZGELine-PointVector-PlaneToPlane Class
 | VECTOR | [SZGEVector](SZGEVector.html) |  |
 | PLANE0 | [SZGEPlane](SZGEPlane.html) |  |
 | PLANE1 | [SZGEPlane](SZGEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELine-PointVector-PlaneToPlane](SZGELine-PointVector-PlaneToPlane.html) |
-| Help: | Make a SZGELine-PointVector-PlaneToPlane |
+| | | |
+| Returns: | [SZGELine-PointVector-PlaneToPlane](SZGELine-PointVector-PlaneToPlane.html) | |
+| Help: | | Make a SZGELine-PointVector-PlaneToPlane |
 
 
 ## Functions:

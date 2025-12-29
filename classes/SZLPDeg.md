@@ -24,9 +24,9 @@ SZLPDeg Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPDeg](SZLPDeg.html) |
-| Help: | New Degree Angle |
+| | | |
+| Returns: | [SZLPDeg](SZLPDeg.html) | |
+| Help: | | New Degree Angle |
 
 
 ## Functions:

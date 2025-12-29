@@ -28,9 +28,9 @@ SZGEShape-UniversalI Class
 | WEBTHICK | [Real](Real.html) |  |
 | FLANGETHICK | [Real](Real.html) |  |
 | ROOTRADIUS | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-UniversalI](SZGEShape-UniversalI.html) |
-| Help: | Universal I Shape |
+| | | |
+| Returns: | [SZGEShape-UniversalI](SZGEShape-UniversalI.html) | |
+| Help: | | Universal I Shape |
 
 
 ## Functions:

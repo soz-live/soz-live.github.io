@@ -24,9 +24,9 @@ SZCEPlanes-Levels Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LEVELS | [SZLPReals](SZLPReals.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPlanes-Levels](SZCEPlanes-Levels.html) |
-| Help: | Make a SZCEPlanes-Levels |
+| | | |
+| Returns: | [SZCEPlanes-Levels](SZCEPlanes-Levels.html) | |
+| Help: | | Make a SZCEPlanes-Levels |
 
 
 ## Functions:

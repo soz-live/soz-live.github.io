@@ -24,12 +24,12 @@ AcDbTextAlignment value
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-AcDbTextAlignment](Enum-AcDbTextAlignment.html) |  |
-| --- | --- | --- |
-| Returns: | [Enum-AcDbTextAlignment](Enum-AcDbTextAlignment.html) |
-| Help: | Enum-AcDbTextAlignment |
+| | | |
+| Returns: | [Enum-AcDbTextAlignment](Enum-AcDbTextAlignment.html) | |
+| Help: | | Enum-AcDbTextAlignment |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

@@ -25,9 +25,9 @@ SZGEPoints-OnCurve-PlaneIntersects Class
 | --------- | --------- | --------- |
 | CURVE | [AcDb3dPolyline](AcDb3dPolyline.html) |  |
 | PLANES | [SZGEPlanes](SZGEPlanes.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoints-OnCurve-PlaneIntersects](SZGEPoints-OnCurve-PlaneIntersects.html) |
-| Help: | Make a SZGEPoints-OnCurve-PlaneIntersects |
+| | | |
+| Returns: | [SZGEPoints-OnCurve-PlaneIntersects](SZGEPoints-OnCurve-PlaneIntersects.html) | |
+| Help: | | Make a SZGEPoints-OnCurve-PlaneIntersects |
 
 
 ## Functions:

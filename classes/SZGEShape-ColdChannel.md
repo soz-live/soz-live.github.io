@@ -27,9 +27,9 @@ SZGEShape-ColdChannel Class
 | DEPTH | [Real](Real.html) |  |
 | WEBTHICK | [Real](Real.html) |  |
 | ROOTRADIUS | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-ColdChannel](SZGEShape-ColdChannel.html) |
-| Help: | Make a SZGEShape-ColdChannel |
+| | | |
+| Returns: | [SZGEShape-ColdChannel](SZGEShape-ColdChannel.html) | |
+| Help: | | Make a SZGEShape-ColdChannel |
 
 
 ## Functions:

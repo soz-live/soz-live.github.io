@@ -25,9 +25,9 @@ CN Text
 | --------- | --------- | --------- |
 | TEXT | [SZMAClassName](SZMAClassName.html) |  |
 | POINT | [Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [SZDOText-ClassName](SZDOText-ClassName.html) |
-| Help: | Make a ClassName |
+| | | |
+| Returns: | [SZDOText-ClassName](SZDOText-ClassName.html) | |
+| Help: | | Make a ClassName |
 
 
 ## Functions:

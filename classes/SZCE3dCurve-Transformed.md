@@ -27,9 +27,9 @@ SZCE3dCurve-Transformed Class
 | DEFN | [SZGE3dCurve-Transformed](SZGE3dCurve-Transformed.html) |  |
 | CLOSED | [Boolean](Boolean.html) |  |
 | POLYTYPE | [Enum-AcDb3dPolylineType](Enum-AcDb3dPolylineType.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) |
-| Help: | Make a SZCE3dCurve-Transformed |
+| | | |
+| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) | |
+| Help: | | Make a SZCE3dCurve-Transformed |
 
 
 ## Functions:

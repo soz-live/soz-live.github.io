@@ -25,9 +25,9 @@ SZGEVector-OnCurve-Tangent Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEVector-OnCurve-Tangent](SZGEVector-OnCurve-Tangent.html) |
-| Help: | Make a SZGEVector-OnCurve-Tangent |
+| | | |
+| Returns: | [SZGEVector-OnCurve-Tangent](SZGEVector-OnCurve-Tangent.html) | |
+| Help: | | Make a SZGEVector-OnCurve-Tangent |
 
 
 ## Functions:

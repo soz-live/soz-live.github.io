@@ -24,9 +24,9 @@ CAR Function
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LST | [SZLPList](SZLPList.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject](SZOBObject.html) |
-| Help: | CAR Function |
+| | | |
+| Returns: | [SZOBObject](SZOBObject.html) | |
+| Help: | | CAR Function |
 
 
 ## Functions:

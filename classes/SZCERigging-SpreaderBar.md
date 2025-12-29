@@ -24,9 +24,9 @@ Rigging SpreaderBar Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | MODEL | [SZCORigging-SpreaderBar](SZCORigging-SpreaderBar.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-SpreaderBar](SZCERigging-SpreaderBar.html) |
-| Help: | Make External SpreaderBar |
+| | | |
+| Returns: | [SZCERigging-SpreaderBar](SZCERigging-SpreaderBar.html) | |
+| Help: | | Make External SpreaderBar |
 
 
 ## Functions:

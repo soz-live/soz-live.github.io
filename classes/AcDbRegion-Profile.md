@@ -26,9 +26,9 @@ AcDbRegion-Profile Class
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | PROFILE | [SZCOProfile](SZCOProfile.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbRegion-Profile](AcDbRegion-Profile.html) |
-| Help: | Make an AcDbRegion-Profile |
+| | | |
+| Returns: | [AcDbRegion-Profile](AcDbRegion-Profile.html) | |
+| Help: | | Make an AcDbRegion-Profile |
 
 
 ## Functions:

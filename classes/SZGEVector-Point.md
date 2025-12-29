@@ -24,9 +24,9 @@ SZGEVector-Point Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEVector-Point](SZGEVector-Point.html) |
-| Help: | Make a SZGEVector-Point |
+| | | |
+| Returns: | [SZGEVector-Point](SZGEVector-Point.html) | |
+| Help: | | Make a SZGEVector-Point |
 
 
 ## Functions:

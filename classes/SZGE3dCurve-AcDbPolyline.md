@@ -24,9 +24,9 @@ SZGE3dCurve-AcDbPolyline Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbPolyline](AcDbPolyline.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGE3dCurve-AcDbPolyline](SZGE3dCurve-AcDbPolyline.html) |
-| Help: | Make a SZGE3dCurve-AcDbPolyline |
+| | | |
+| Returns: | [SZGE3dCurve-AcDbPolyline](SZGE3dCurve-AcDbPolyline.html) | |
+| Help: | | Make a SZGE3dCurve-AcDbPolyline |
 
 
 ## Functions:

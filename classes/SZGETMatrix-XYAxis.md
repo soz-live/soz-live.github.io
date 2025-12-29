@@ -26,9 +26,9 @@ SZGETMatrix-XYAxis Class
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
 | XAXIS | [SZGEVector](SZGEVector.html) |  |
 | YAXIS | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-XYAxis](SZGETMatrix-XYAxis.html) |
-| Help: | Make a SZGETMatrix-XYAxis |
+| | | |
+| Returns: | [SZGETMatrix-XYAxis](SZGETMatrix-XYAxis.html) | |
+| Help: | | Make a SZGETMatrix-XYAxis |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ EQ Function
 | --------- | --------- | --------- |
 | A | [SZOBObject](SZOBObject.html) |  |
 | B | [SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | EQ Function |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | EQ Function |
 
 
 ## Functions:

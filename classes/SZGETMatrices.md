@@ -24,9 +24,9 @@ SZGETMatrices Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | MATRICES | [List:SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrices](SZGETMatrices.html) |
-| Help: | Make a SZGETMatrices |
+| | | |
+| Returns: | [SZGETMatrices](SZGETMatrices.html) | |
+| Help: | | Make a SZGETMatrices |
 
 
 ## Functions:
@@ -42,7 +42,7 @@ SZGETMatrices Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGETMatrices](SZGETMatrices.html) |  |
-| --- | --- | --- |
-| Returns: | [List:TMatrix](TMatrix.html) |
-| Help: | Value of a SZGETMatrices Object |
+| | | |
+| Returns: | [List:TMatrix](TMatrix.html) | |
+| Help: | | Value of a SZGETMatrices Object |
 

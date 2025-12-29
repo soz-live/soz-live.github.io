@@ -25,9 +25,9 @@ Equal Function
 | --------- | --------- | --------- |
 | A | [SZOBObject](SZOBObject.html) |  |
 | B | [SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | Equal Function |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | Equal Function |
 
 
 ## Functions:

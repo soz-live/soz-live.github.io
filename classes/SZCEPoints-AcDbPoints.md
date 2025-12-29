@@ -24,9 +24,9 @@ SZCEPoints-AcDbPoints Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | POINTS | [List:AcDbPoint](AcDbPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPoints-AcDbPoints](SZCEPoints-AcDbPoints.html) |
-| Help: | Make a SZCEPoints-AcDbPoints |
+| | | |
+| Returns: | [SZCEPoints-AcDbPoints](SZCEPoints-AcDbPoints.html) | |
+| Help: | | Make a SZCEPoints-AcDbPoints |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ Plane-PointNormal Class
 | --------- | --------- | --------- |
 | POINT | [Point](Point.html) |  |
 | NORMAL | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Plane](Plane.html) |
-| Help: | Make a Plane-PointNormal |
+| | | |
+| Returns: | [Plane](Plane.html) | |
+| Help: | | Make a Plane-PointNormal |
 
 
 ## Functions:

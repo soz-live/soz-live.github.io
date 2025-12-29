@@ -24,9 +24,9 @@ SZLPAngle Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Angle](Angle.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPAngle](SZLPAngle.html) |
-| Help: | Make a SZLPAngle |
+| | | |
+| Returns: | [SZLPAngle](SZLPAngle.html) | |
+| Help: | | Make a SZLPAngle |
 
 
 ## Functions:

@@ -33,88 +33,88 @@ SZGETMatrix Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Origin of a SZGETMatrix Object |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Origin of a SZGETMatrix Object |
 
 ### SZGETMatrix-User_CurrentUCS
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix](SZGETMatrix.html) |
-| Help: | User_CurrentUCS |
+| | | |
+| Returns: | [SZGETMatrix](SZGETMatrix.html) | |
+| Help: | | User_CurrentUCS |
 
 ### SZGETMatrix-User_PickPosn
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix](SZGETMatrix.html) |
-| Help: | User_PickPosn |
+| | | |
+| Returns: | [SZGETMatrix](SZGETMatrix.html) | |
+| Help: | | User_PickPosn |
 
 ### SZGETMatrix-User_PickREF
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix](SZGETMatrix.html) |
-| Help: | User_PickREF |
+| | | |
+| Returns: | [SZGETMatrix](SZGETMatrix.html) | |
+| Help: | | User_PickREF |
 
 ### SZGETMatrix-User_PickUCS
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix](SZGETMatrix.html) |
-| Help: | User_PickUCS |
+| | | |
+| Returns: | [SZGETMatrix](SZGETMatrix.html) | |
+| Help: | | User_PickUCS |
 
 ### SZGETMatrix-User_WCS
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix](SZGETMatrix.html) |
-| Help: | User_WCS |
+| | | |
+| Returns: | [SZGETMatrix](SZGETMatrix.html) | |
+| Help: | | User_WCS |
 
 ### SZGETMatrix-Value
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | Value of a SZGETMatrix Object |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | Value of a SZGETMatrix Object |
 
 ### SZGETMatrix-XAxis
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | XAxis of a SZGETMatrix Object |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | XAxis of a SZGETMatrix Object |
 
 ### SZGETMatrix-YAxis
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | YAxis of a SZGETMatrix Object |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | YAxis of a SZGETMatrix Object |
 
 ### SZGETMatrix-ZAxis
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | ZAxis of a SZGETMatrix Object |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | ZAxis of a SZGETMatrix Object |
 

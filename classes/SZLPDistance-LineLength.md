@@ -24,9 +24,9 @@ SZLPDistance-LineLength Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPDistance-LineLength](SZLPDistance-LineLength.html) |
-| Help: | Make a SZLPDistance-LineLength |
+| | | |
+| Returns: | [SZLPDistance-LineLength](SZLPDistance-LineLength.html) | |
+| Help: | | Make a SZLPDistance-LineLength |
 
 
 ## Functions:

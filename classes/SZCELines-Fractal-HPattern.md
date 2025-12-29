@@ -26,9 +26,9 @@ SZCELines-Fractal-HPattern Class
 | LINE | [AcDbLine](AcDbLine.html) |  |
 | FACT | [Real](Real.html) |  |
 | DEPTH | [Option-FractalDepth](Option-FractalDepth.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCELines-Fractal-HPattern](SZCELines-Fractal-HPattern.html) |
-| Help: | Make a SZCELines-Fractal-HPattern |
+| | | |
+| Returns: | [SZCELines-Fractal-HPattern](SZCELines-Fractal-HPattern.html) | |
+| Help: | | Make a SZCELines-Fractal-HPattern |
 
 
 ## Functions:

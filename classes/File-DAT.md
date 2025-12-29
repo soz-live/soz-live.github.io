@@ -23,9 +23,9 @@ File-SOZ Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: |  |
-| Help: |  |
+| | | |
+| Returns: |  | |
+| Help: | |  |
 
 
 ## Functions:

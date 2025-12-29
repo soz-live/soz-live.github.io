@@ -24,9 +24,9 @@ Loop Bulge Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [Bulge](Bulge.html) |
-| Help: | Creates a Bulge |
+| | | |
+| Returns: | [Bulge](Bulge.html) | |
+| Help: | | Creates a Bulge |
 
 
 ## Functions:
@@ -42,16 +42,16 @@ Loop Bulge Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | B | [Bulge](Bulge.html) |  |
-| --- | --- | --- |
-| Returns: | [Deg](Deg.html) |
-| Help: | Convert a Bulge to a Deg |
+| | | |
+| Returns: | [Deg](Deg.html) | |
+| Help: | | Convert a Bulge to a Deg |
 
 ### Bulge->Rad
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | B | [Bulge](Bulge.html) |  |
-| --- | --- | --- |
-| Returns: | [Rad](Rad.html) |
-| Help: | Convert a Bulge to a Rad |
+| | | |
+| Returns: | [Rad](Rad.html) | |
+| Help: | | Convert a Bulge to a Rad |
 

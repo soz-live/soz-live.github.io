@@ -25,9 +25,9 @@ AcDb3dSolid-BsysTinSurface-BetweenSurfaces
 | --------- | --------- | --------- |
 | TIN0 | [BsysTinSurface](BsysTinSurface.html) |  |
 | TIN1 | [BsysTinSurface](BsysTinSurface.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid-BsysTinSurface](AcDb3dSolid-BsysTinSurface.html) |
-| Help: | Creates a TIN based Solid |
+| | | |
+| Returns: | [AcDb3dSolid-BsysTinSurface](AcDb3dSolid-BsysTinSurface.html) | |
+| Help: | | Creates a TIN based Solid |
 
 
 ## Functions:

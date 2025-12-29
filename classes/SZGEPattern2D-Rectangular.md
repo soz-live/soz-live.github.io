@@ -25,9 +25,9 @@ SZGEPattern2D-Rectangular Class
 | --------- | --------- | --------- |
 | XARRAY | [SZLPReals](SZLPReals.html) |  |
 | YARRAY | [SZLPReals](SZLPReals.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPattern2D-Rectangular](SZGEPattern2D-Rectangular.html) |
-| Help: | Make a SZGEPattern2D-Rectangular |
+| | | |
+| Returns: | [SZGEPattern2D-Rectangular](SZGEPattern2D-Rectangular.html) | |
+| Help: | | Make a SZGEPattern2D-Rectangular |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ SZGETMatrix-Curve-AtDist Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | DIST | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-Curve-AtDist](SZGETMatrix-Curve-AtDist.html) |
-| Help: | Make a SZGETMatrix-Curve-AtDist |
+| | | |
+| Returns: | [SZGETMatrix-Curve-AtDist](SZGETMatrix-Curve-AtDist.html) | |
+| Help: | | Make a SZGETMatrix-Curve-AtDist |
 
 
 ## Functions:

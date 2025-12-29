@@ -24,9 +24,9 @@ SZLPReals-Offsets-CSV Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CSV | [String-CSV](String-CSV.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReals-Offsets-CSV](SZLPReals-Offsets-CSV.html) |
-| Help: | Make a SZLPReals-Offsets-CSV |
+| | | |
+| Returns: | [SZLPReals-Offsets-CSV](SZLPReals-Offsets-CSV.html) | |
+| Help: | | Make a SZLPReals-Offsets-CSV |
 
 
 ## Functions:

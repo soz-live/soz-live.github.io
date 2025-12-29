@@ -25,9 +25,9 @@ SZGE3dCurve-Transformed Class
 | --------- | --------- | --------- |
 | POINTS | [SZGEPoints](SZGEPoints.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGE3dCurve-Transformed](SZGE3dCurve-Transformed.html) |
-| Help: | Make a SZGE3dCurve-Transformed |
+| | | |
+| Returns: | [SZGE3dCurve-Transformed](SZGE3dCurve-Transformed.html) | |
+| Help: | | Make a SZGE3dCurve-Transformed |
 
 
 ## Functions:

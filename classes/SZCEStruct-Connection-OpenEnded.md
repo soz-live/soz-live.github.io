@@ -23,9 +23,9 @@ A Structural Connection
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-Connection-OpenEnd](SZCEStruct-Connection-OpenEnd.html) |
-| Help: | Make a Structural Connection |
+| | | |
+| Returns: | [SZCEStruct-Connection-OpenEnd](SZCEStruct-Connection-OpenEnd.html) | |
+| Help: | | Make a Structural Connection |
 
 
 ## Functions:

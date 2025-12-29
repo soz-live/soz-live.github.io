@@ -24,9 +24,9 @@ Key
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Key](Key.html) |  |
-| --- | --- | --- |
-| Returns: | [Key](Key.html) |
-| Help: | Make Key |
+| | | |
+| Returns: | [Key](Key.html) | |
+| Help: | | Make Key |
 
 
 ## Functions:

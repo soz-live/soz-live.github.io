@@ -26,9 +26,9 @@ User SelectValue Structure
 | VALUES | [List:SZOBObject](SZOBObject.html) |  |
 | LABEL | [Label](Label.html) |  |
 | VALUE | [SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [User-SelectValue](User-SelectValue.html) |
-| Help: | Basic User-SelectValue Constructor |
+| | | |
+| Returns: | [User-SelectValue](User-SelectValue.html) | |
+| Help: | | Basic User-SelectValue Constructor |
 
 
 ## Functions:

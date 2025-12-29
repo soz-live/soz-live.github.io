@@ -26,9 +26,9 @@ User KeyMake Structure
 | CN | [SZMAClass](SZMAClass.html) |  |
 | LABEL | [Label](Label.html) |  |
 | KEY | [Key](Key.html) |  |
-| --- | --- | --- |
-| Returns: | [User-Make-Key](User-Make-Key.html) |
-| Help: | User-Make-Key Constructor |
+| | | |
+| Returns: | [User-Make-Key](User-Make-Key.html) | |
+| Help: | | User-Make-Key Constructor |
 
 
 ## Functions:

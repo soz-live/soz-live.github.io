@@ -26,9 +26,9 @@ Filleted Sweep
 | PROFILE | [SZCOProfile](SZCOProfile.html) |  |
 | CURVE | [AcDb3dPolyline](AcDb3dPolyline.html) |  |
 | RADIUS | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEModelGroup-Solids-FilletedSweep](SZCEModelGroup-Solids-FilletedSweep.html) |
-| Help: | Make Filleted Sweep |
+| | | |
+| Returns: | [SZCEModelGroup-Solids-FilletedSweep](SZCEModelGroup-Solids-FilletedSweep.html) | |
+| Help: | | Make Filleted Sweep |
 
 
 ## Functions:

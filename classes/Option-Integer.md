@@ -20,7 +20,7 @@ Integer Options
 | isValue?: | Yes |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

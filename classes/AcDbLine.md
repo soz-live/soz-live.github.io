@@ -25,9 +25,9 @@ AcDbLine Class
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | LINE | [SZGELine](SZGELine.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbLine](AcDbLine.html) |
-| Help: | Make an AcDbLine |
+| | | |
+| Returns: | [AcDbLine](AcDbLine.html) | |
+| Help: | | Make an AcDbLine |
 
 
 ## Functions:
@@ -43,70 +43,70 @@ AcDbLine Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | E | [AcDbLine](AcDbLine.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | EndPoint of an AcDbLine |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | EndPoint of an AcDbLine |
 
 ### AcDbLine-Length
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | E | [AcDbLine](AcDbLine.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Length of an AcDbLine |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Length of an AcDbLine |
 
 ### AcDbLine-Line
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbLine](AcDbLine.html) |  |
-| --- | --- | --- |
-| Returns: | [Line](Line.html) |
-| Help: | Line of an AcDbLine |
+| | | |
+| Returns: | [Line](Line.html) | |
+| Help: | | Line of an AcDbLine |
 
 ### AcDbLine-Points
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | E | [AcDbLine](AcDbLine.html) |  |
-| --- | --- | --- |
-| Returns: | [List:Point](Point.html) |
-| Help: | Line of an AcDbLine |
+| | | |
+| Returns: | [List:Point](Point.html) | |
+| Help: | | Line of an AcDbLine |
 
 ### AcDbLine-StartPoint
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | E | [AcDbLine](AcDbLine.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | StartPoint of an AcDbLine |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | StartPoint of an AcDbLine |
 
 ### AcDbLine-TMatrix
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | E | [AcDbLine](AcDbLine.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | TMatrix of an AcDbLine |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | TMatrix of an AcDbLine |
 
 ### AcDbLine-User_PickMember
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbLine](AcDbLine.html) |
-| Help: | User_PickMember |
+| | | |
+| Returns: | [AcDbLine](AcDbLine.html) | |
+| Help: | | User_PickMember |
 
 ### AcDbLine-Vector
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | E | [AcDbLine](AcDbLine.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Vector of an AcDbLine |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Vector of an AcDbLine |
 

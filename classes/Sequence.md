@@ -26,9 +26,9 @@ Sequence Class
 | LOW | [Real](Real.html) |  |
 | HIGH | [Real](Real.html) |  |
 | STEP | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Reals](Reals.html) |
-| Help: | Creates a Real Array |
+| | | |
+| Returns: | [Reals](Reals.html) | |
+| Help: | | Creates a Real Array |
 
 
 ## Functions:

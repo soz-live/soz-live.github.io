@@ -27,9 +27,9 @@ User Method Structure
 | MN | [SZMAMethod](SZMAMethod.html) |  |
 | OBJECT | [SZOBObject](SZOBObject.html) |  |
 | LABEL | [Label](Label.html) |  |
-| --- | --- | --- |
-| Returns: | [User-Method](User-Method.html) |
-| Help: | Basic User-Method Constructor |
+| | | |
+| Returns: | [User-Method](User-Method.html) | |
+| Help: | | Basic User-Method Constructor |
 
 
 ## Functions:

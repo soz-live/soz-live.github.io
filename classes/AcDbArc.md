@@ -28,9 +28,9 @@ AcDbArc Class
 | RADIUS | [Real](Real.html) |  |
 | STARTANG | [Deg](Deg.html) |  |
 | ENDANG | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbArc](AcDbArc.html) |
-| Help: | Make an AcDbArc |
+| | | |
+| Returns: | [AcDbArc](AcDbArc.html) | |
+| Help: | | Make an AcDbArc |
 
 
 ## Functions:
@@ -46,25 +46,25 @@ AcDbArc Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbArc](AcDbArc.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Area of an AcDbArc |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Area of an AcDbArc |
 
 ### AcDbArc-Center
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbArc](AcDbArc.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Center of an AcDbArc |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Center of an AcDbArc |
 
 ### AcDbArc-Normal
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbArc](AcDbArc.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Normal of an AcDbArc |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Normal of an AcDbArc |
 

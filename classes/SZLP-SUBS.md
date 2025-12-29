@@ -24,9 +24,9 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NUMS | [List:Number](Number.html) |  |
-| --- | --- | --- |
-| Returns: | [Number](Number.html) |
-| Help: | -s Function |
+| | | |
+| Returns: | [Number](Number.html) | |
+| Help: | | -s Function |
 
 
 ## Functions:

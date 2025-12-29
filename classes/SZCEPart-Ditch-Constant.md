@@ -27,9 +27,9 @@ Constant Depth Ditch
 | ALIGN | [Enum-AcDbAlignment](Enum-AcDbAlignment.html) |  |
 | WIDTH | [Real](Real.html) |  |
 | DEPTH | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPart-Ditch](SZCEPart-Ditch.html) |
-| Help: | Make method for Constant Depth Ditch |
+| | | |
+| Returns: | [SZCEPart-Ditch](SZCEPart-Ditch.html) | |
+| Help: | | Make method for Constant Depth Ditch |
 
 
 ## Functions:

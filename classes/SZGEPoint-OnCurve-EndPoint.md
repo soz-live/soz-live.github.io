@@ -24,9 +24,9 @@ SZGEPoint-OnCurve-EndPoint Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-OnCurve-EndPoint](SZGEPoint-OnCurve-EndPoint.html) |
-| Help: | Make a SZGEPoint-OnCurve-EndPoint |
+| | | |
+| Returns: | [SZGEPoint-OnCurve-EndPoint](SZGEPoint-OnCurve-EndPoint.html) | |
+| Help: | | Make a SZGEPoint-OnCurve-EndPoint |
 
 
 ## Functions:

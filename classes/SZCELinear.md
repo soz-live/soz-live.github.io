@@ -26,9 +26,9 @@ SZCELinear Class
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | LINE | [SZGELine](SZGELine.html) |  |
 | TYP | [Enum-SZCELinearType](Enum-SZCELinearType.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCELinear](SZCELinear.html) |
-| Help: | Make a SZCELinear |
+| | | |
+| Returns: | [SZCELinear](SZCELinear.html) | |
+| Help: | | Make a SZCELinear |
 
 
 ## Functions:

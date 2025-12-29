@@ -26,9 +26,9 @@ SZGEPattern2D-Polar Class
 | NO | [Integer](Integer.html) |  |
 | RADIUS | [Real](Real.html) |  |
 | ROTATED | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPattern2D-Polar](SZGEPattern2D-Polar.html) |
-| Help: | Make a SZGEPattern2D-Polar |
+| | | |
+| Returns: | [SZGEPattern2D-Polar](SZGEPattern2D-Polar.html) | |
+| Help: | | Make a SZGEPattern2D-Polar |
 
 
 ## Functions:

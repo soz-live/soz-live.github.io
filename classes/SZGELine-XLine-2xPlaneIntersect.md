@@ -26,9 +26,9 @@ SZGELine-XLine-2xPlaneIntersect Class
 | XLINE | [AcDbXline](AcDbXline.html) |  |
 | PLANE0 | [SZCEPlane](SZCEPlane.html) |  |
 | PLANE1 | [SZCEPlane](SZCEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELine](SZGELine.html) |
-| Help: | Make a SZGELine-XLine-2xPlaneIntersect |
+| | | |
+| Returns: | [SZGELine](SZGELine.html) | |
+| Help: | | Make a SZGELine-XLine-2xPlaneIntersect |
 
 
 ## Functions:

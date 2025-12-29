@@ -24,9 +24,9 @@ SZLPNumber Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Number](Number.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPNumber](SZLPNumber.html) |
-| Help: | Make a SZLPNumber |
+| | | |
+| Returns: | [SZLPNumber](SZLPNumber.html) | |
+| Help: | | Make a SZLPNumber |
 
 
 ## Functions:
@@ -42,7 +42,7 @@ SZLPNumber Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPNumber](SZLPNumber.html) |
-| Help: | User_Equation |
+| | | |
+| Returns: | [SZLPNumber](SZLPNumber.html) | |
+| Help: | | User_Equation |
 

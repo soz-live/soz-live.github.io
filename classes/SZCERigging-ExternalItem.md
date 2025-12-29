@@ -24,9 +24,9 @@ Rigging ExternalItem Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | FILENAME | [File-DWG](File-DWG.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-ExternalItem](SZCERigging-ExternalItem.html) |
-| Help: | Make ExternalItem |
+| | | |
+| Returns: | [SZCERigging-ExternalItem](SZCERigging-ExternalItem.html) | |
+| Help: | | Make ExternalItem |
 
 
 ## Functions:

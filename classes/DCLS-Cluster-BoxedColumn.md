@@ -26,9 +26,9 @@ DCL Column Structure
 | NAME | [Key](Key.html) |  |
 | ATTS | [Set:DCLS-Attribute](DCLS-Attribute.html) |  |
 | TILES | [List:DCLS-BaseTile](DCLS-BaseTile.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Cluster-BoxedColumn](DCLS-Cluster-BoxedColumn.html) |
-| Help: | Basic DCLS-Cluster-BoxedColumn |
+| | | |
+| Returns: | [DCLS-Cluster-BoxedColumn](DCLS-Cluster-BoxedColumn.html) | |
+| Help: | | Basic DCLS-Cluster-BoxedColumn |
 
 
 ## Functions:

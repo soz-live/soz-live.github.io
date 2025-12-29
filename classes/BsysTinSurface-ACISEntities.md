@@ -24,9 +24,9 @@ BsysTinSurface-ACISEntities
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITIES | [Set:ACISEntity](ACISEntity.html) |  |
-| --- | --- | --- |
-| Returns: | [BsysTinSurface](BsysTinSurface.html) |
-| Help: | Creates a TIN Surface |
+| | | |
+| Returns: | [BsysTinSurface](BsysTinSurface.html) | |
+| Help: | | Creates a TIN Surface |
 
 
 ## Functions:

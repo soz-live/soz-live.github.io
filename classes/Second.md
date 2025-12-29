@@ -24,9 +24,9 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [Second](Second.html) |
-| Help: | SS |
+| | | |
+| Returns: | [Second](Second.html) | |
+| Help: | | SS |
 
 
 ## Functions:

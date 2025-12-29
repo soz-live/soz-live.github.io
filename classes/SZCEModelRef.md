@@ -26,9 +26,9 @@ SZCEModelRef Class
 | PDEF | [SZCEModelDef](SZCEModelDef.html) |  |
 | DEF | [SZCEModelDef](SZCEModelDef.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEModelRef](SZCEModelRef.html) |
-| Help: | Base Model Reference |
+| | | |
+| Returns: | [SZCEModelRef](SZCEModelRef.html) | |
+| Help: | | Base Model Reference |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ SZGEPlane-FlipNormal Class
 | --------- | --------- | --------- |
 | PLANE | [SZGEPlane](SZGEPlane.html) |  |
 | FLIP | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane-FlipNormal](SZGEPlane-FlipNormal.html) |
-| Help: | Make a SZGEPlane-FlipNormal |
+| | | |
+| Returns: | [SZGEPlane-FlipNormal](SZGEPlane-FlipNormal.html) | |
+| Help: | | Make a SZGEPlane-FlipNormal |
 
 
 ## Functions:

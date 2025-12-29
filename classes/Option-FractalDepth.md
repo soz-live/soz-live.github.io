@@ -24,12 +24,12 @@ FractalDepth Options
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Option-FractalDepth](Option-FractalDepth.html) |  |
-| --- | --- | --- |
-| Returns: | [Option-FractalDepth](Option-FractalDepth.html) |
-| Help: | Option-FractalDepth |
+| | | |
+| Returns: | [Option-FractalDepth](Option-FractalDepth.html) | |
+| Help: | | Option-FractalDepth |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

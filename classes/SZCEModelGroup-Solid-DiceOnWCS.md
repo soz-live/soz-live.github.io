@@ -27,9 +27,9 @@ SZCEModelGroup-Solid-DiceOnWCS Class
 | XDIST | [Real](Real.html) |  |
 | YDIST | [Real](Real.html) |  |
 | ZDIST | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEModelGroup-Solid-DiceOnWCS](SZCEModelGroup-Solid-DiceOnWCS.html) |
-| Help: | Make a SZCEModelGroup-Solid-DiceOnWCS |
+| | | |
+| Returns: | [SZCEModelGroup-Solid-DiceOnWCS](SZCEModelGroup-Solid-DiceOnWCS.html) | |
+| Help: | | Make a SZCEModelGroup-Solid-DiceOnWCS |
 
 
 ## Functions:

@@ -27,9 +27,9 @@ Loop Region Object
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | COMBINE | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |  |
 | DEL | [Enum-SZCORegion-Loop](Enum-SZCORegion-Loop.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCORegion-Loop](SZCORegion-Loop.html) |
-| Help: | Region of Loop |
+| | | |
+| Returns: | [SZCORegion-Loop](SZCORegion-Loop.html) | |
+| Help: | | Region of Loop |
 
 
 ## Functions:

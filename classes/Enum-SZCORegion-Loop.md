@@ -24,12 +24,12 @@ Enum-SZCORegion-Loop Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-SZCORegion-Loop](Enum-SZCORegion-Loop.html) |  |
-| --- | --- | --- |
-| Returns: | [Enum-SZCORegion-Loop](Enum-SZCORegion-Loop.html) |
-| Help: | Enum-SZCORegion-Loop |
+| | | |
+| Returns: | [Enum-SZCORegion-Loop](Enum-SZCORegion-Loop.html) | |
+| Help: | | Enum-SZCORegion-Loop |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

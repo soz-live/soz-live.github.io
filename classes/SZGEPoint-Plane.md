@@ -24,9 +24,9 @@ SZGEPoint-Plane Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | PLANE | [SZGEPlane](SZGEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-Plane](SZGEPoint-Plane.html) |
-| Help: | Make a SZGEPoint-Plane |
+| | | |
+| Returns: | [SZGEPoint-Plane](SZGEPoint-Plane.html) | |
+| Help: | | Make a SZGEPoint-Plane |
 
 
 ## Functions:

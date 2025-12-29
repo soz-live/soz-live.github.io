@@ -26,9 +26,9 @@ DCL Text
 | KEY | [Key](Key.html) |  |
 | LABEL | [String](String.html) |  |
 | ATTS | [List:DCLS-Attribute](DCLS-Attribute.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Tile-Text](DCLS-Tile-Text.html) |
-| Help: | Basic DCLS-Text Constructor |
+| | | |
+| Returns: | [DCLS-Tile-Text](DCLS-Tile-Text.html) | |
+| Help: | | Basic DCLS-Text Constructor |
 
 
 ## Functions:

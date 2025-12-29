@@ -27,9 +27,9 @@ SZCELines-Fractal-Tree Class
 | FACT | [Real](Real.html) |  |
 | ANG | [Deg](Deg.html) |  |
 | DEPTH | [Option-FractalDepth](Option-FractalDepth.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCELines-Fractal-Tree](SZCELines-Fractal-Tree.html) |
-| Help: | Make a SZCELines-Fractal-Tree |
+| | | |
+| Returns: | [SZCELines-Fractal-Tree](SZCELines-Fractal-Tree.html) | |
+| Help: | | Make a SZCELines-Fractal-Tree |
 
 
 ## Functions:

@@ -24,9 +24,9 @@ MAX Function
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NUMS | [List:Number](Number.html) |  |
-| --- | --- | --- |
-| Returns: | [Number](Number.html) |
-| Help: | MAX Function |
+| | | |
+| Returns: | [Number](Number.html) | |
+| Help: | | MAX Function |
 
 
 ## Functions:

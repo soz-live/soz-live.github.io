@@ -25,9 +25,9 @@ SZGEPlane-PointNormal Class
 | --------- | --------- | --------- |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
 | NORMAL | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane-PointNormal](SZGEPlane-PointNormal.html) |
-| Help: | Make a SZGEPlane-PointNormal |
+| | | |
+| Returns: | [SZGEPlane-PointNormal](SZGEPlane-PointNormal.html) | |
+| Help: | | Make a SZGEPlane-PointNormal |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ SOZIDs-Editor
 | --------- | --------- | --------- |
 | TITLE | [Key](Key.html) |  |
 | IDS | [List:SOZID](SOZID.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Dialog-SOZIDs-Editor](DCLS-Dialog-SOZIDs-Editor.html) |
-| Help: | SOZIDs-Editor |
+| | | |
+| Returns: | [DCLS-Dialog-SOZIDs-Editor](DCLS-Dialog-SOZIDs-Editor.html) | |
+| Help: | | SOZIDs-Editor |
 
 
 ## Functions:

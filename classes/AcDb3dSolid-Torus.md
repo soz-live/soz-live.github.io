@@ -27,9 +27,9 @@ Torus
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | TORUS | [Real](Real.html) |  |
 | TUBE | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid-Torus](AcDb3dSolid-Torus.html) |
-| Help: | Torus |
+| | | |
+| Returns: | [AcDb3dSolid-Torus](AcDb3dSolid-Torus.html) | |
+| Help: | | Torus |
 
 
 ## Functions:

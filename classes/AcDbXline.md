@@ -25,9 +25,9 @@ AcDbXline Class
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | LINE | [SZGELine](SZGELine.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbXline](AcDbXline.html) |
-| Help: | Make an AcDbXline |
+| | | |
+| Returns: | [AcDbXline](AcDbXline.html) | |
+| Help: | | Make an AcDbXline |
 
 
 ## Functions:
@@ -43,16 +43,16 @@ AcDbXline Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbXline](AcDbXline.html) |  |
-| --- | --- | --- |
-| Returns: | [Line](Line.html) |
-| Help: | Line of an AcDbXline |
+| | | |
+| Returns: | [Line](Line.html) | |
+| Help: | | Line of an AcDbXline |
 
 ### AcDbXline-User_SZCEGridLine
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbXline](AcDbXline.html) |
-| Help: | User_SZCEGridLine |
+| | | |
+| Returns: | [AcDbXline](AcDbXline.html) | |
+| Help: | | User_SZCEGridLine |
 

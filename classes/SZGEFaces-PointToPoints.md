@@ -26,9 +26,9 @@ SZGEFaces-PointToPoints Class
 | POINT | [AcDbPoint](AcDbPoint.html) |  |
 | POINTS | [List:AcDbPoint](AcDbPoint.html) |  |
 | FLIPPED | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEFaces-PointToPoints](SZGEFaces-PointToPoints.html) |
-| Help: | Make a SZGEFaces-PointToPoints |
+| | | |
+| Returns: | [SZGEFaces-PointToPoints](SZGEFaces-PointToPoints.html) | |
+| Help: | | Make a SZGEFaces-PointToPoints |
 
 
 ## Functions:

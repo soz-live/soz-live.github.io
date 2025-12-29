@@ -23,9 +23,9 @@ SZLPRange-Phi Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZLPRange-Phi](SZLPRange-Phi.html) |
-| Help: | Make a SZLPRange-Phi |
+| | | |
+| Returns: | [SZLPRange-Phi](SZLPRange-Phi.html) | |
+| Help: | | Make a SZLPRange-Phi |
 
 
 ## Functions:

@@ -24,9 +24,9 @@ curve using x and sin
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlanarCurve](SZGEPlanarCurve.html) |
-| Help: | curve using x and sin |
+| | | |
+| Returns: | [SZGEPlanarCurve](SZGEPlanarCurve.html) | |
+| Help: | | curve using x and sin |
 
 
 ## Functions:

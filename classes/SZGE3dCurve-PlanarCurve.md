@@ -24,9 +24,9 @@ SZGE3dCurve-PlanarCurve Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [SZGE2dCurve](SZGE2dCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGE3dCurve-PlanarCurve](SZGE3dCurve-PlanarCurve.html) |
-| Help: | Make a SZGE3dCurve-PlanarCurve |
+| | | |
+| Returns: | [SZGE3dCurve-PlanarCurve](SZGE3dCurve-PlanarCurve.html) | |
+| Help: | | Make a SZGE3dCurve-PlanarCurve |
 
 
 ## Functions:

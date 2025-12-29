@@ -24,9 +24,9 @@ DCL Strings
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Tile-PopUp-UserMethods](DCLS-Tile-PopUp-UserMethods.html) |
-| Help: | Basic UserOption Constructor |
+| | | |
+| Returns: | [DCLS-Tile-PopUp-UserMethods](DCLS-Tile-PopUp-UserMethods.html) | |
+| Help: | | Basic UserOption Constructor |
 
 
 ## Functions:

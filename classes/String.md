@@ -24,9 +24,9 @@ String
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | New String Value |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | New String Value |
 
 
 ## Functions:
@@ -42,18 +42,18 @@ String
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [Integer](Integer.html) |
-| Help: | String to Integer |
+| | | |
+| Returns: | [Integer](Integer.html) | |
+| Help: | | String to Integer |
 
 ### String->Real
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | String to Real |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | String to Real |
 
 ### String->Strings
 
@@ -61,9 +61,9 @@ String
 | --------- | --------- | --------- |
 | STR | [String](String.html) |  |
 | DELIM | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [Strings](Strings.html) |
-| Help: | Convert String to Strings using Delim |
+| | | |
+| Returns: | [Strings](Strings.html) | |
+| Help: | | Convert String to Strings using Delim |
 
 ### String-AddToFront
 
@@ -72,9 +72,9 @@ String
 | STR | [String](String.html) |  |
 | NO | [Integer](Integer.html) |  |
 | PAD | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | AddToFront of a String to a given Number |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | AddToFront of a String to a given Number |
 
 ### String-AddToRear
 
@@ -83,9 +83,9 @@ String
 | STR | [String](String.html) |  |
 | NO | [Integer](Integer.html) |  |
 | PAD | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | AddToRear of a String to a given Number |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | AddToRear of a String to a given Number |
 
 ### String-CountAscii
 
@@ -93,9 +93,9 @@ String
 | --------- | --------- | --------- |
 | STR | [String](String.html) |  |
 | CHAR | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [Integer](Integer.html) |
-| Help: | Number of Ascii Char matching in String |
+| | | |
+| Returns: | [Integer](Integer.html) | |
+| Help: | | Number of Ascii Char matching in String |
 
 ### String-CountChar
 
@@ -103,9 +103,9 @@ String
 | --------- | --------- | --------- |
 | STR | [String](String.html) |  |
 | CHAR | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [Integer](Integer.html) |
-| Help: | Number of characters matching in String |
+| | | |
+| Returns: | [Integer](Integer.html) | |
+| Help: | | Number of characters matching in String |
 
 ### String-CountLeading
 
@@ -113,9 +113,9 @@ String
 | --------- | --------- | --------- |
 | STR | [String](String.html) |  |
 | CHAR | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [Integer](Integer.html) |
-| Help: | Number of leading characters matching |
+| | | |
+| Returns: | [Integer](Integer.html) | |
+| Help: | | Number of leading characters matching |
 
 ### String-FindPosition
 
@@ -125,27 +125,27 @@ String
 | CHAR | [Integer](Integer.html) |  |
 | POSN | [Integer](Integer.html) |  |
 | END | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [Integer](Integer.html) |
-| Help: | Position in String of char |
+| | | |
+| Returns: | [Integer](Integer.html) | |
+| Help: | | Position in String of char |
 
 ### String-Length
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [Integer](Integer.html) |
-| Help: | Length of a String |
+| | | |
+| Returns: | [Integer](Integer.html) | |
+| Help: | | Length of a String |
 
 ### String-LowerCase
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | o | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | LowerCase String |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | LowerCase String |
 
 ### String-PadFront
 
@@ -154,9 +154,9 @@ String
 | STR | [String](String.html) |  |
 | LEN | [Integer](Integer.html) |  |
 | PAD | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | Pad the Front of a String to a given Length |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | Pad the Front of a String to a given Length |
 
 ### String-PadRear
 
@@ -165,9 +165,9 @@ String
 | STR | [String](String.html) |  |
 | LEN | [Integer](Integer.html) |  |
 | PAD | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | Pad the Rear of a String to a given Length |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | Pad the Rear of a String to a given Length |
 
 ### String-RemoveChar
 
@@ -175,9 +175,9 @@ String
 | --------- | --------- | --------- |
 | STR | [String](String.html) |  |
 | CHAR | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [Integer](Integer.html) |
-| Help: | Number of characters matching in String |
+| | | |
+| Returns: | [Integer](Integer.html) | |
+| Help: | | Number of characters matching in String |
 
 ### String-SwapDelim
 
@@ -186,18 +186,18 @@ String
 | STR | [String](String.html) |  |
 | FROM | [String](String.html) |  |
 | TO | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | Swap Delim of a String |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | Swap Delim of a String |
 
 ### String-UpperCase
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | o | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | UpperCase String |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | UpperCase String |
 
 ### String-WCMatch
 
@@ -205,7 +205,7 @@ String
 | --------- | --------- | --------- |
 | O | [String](String.html) |  |
 | PAT | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | WCMatch of a String |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | WCMatch of a String |
 

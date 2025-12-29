@@ -25,9 +25,9 @@ SZLPDistance-DivideBy Class
 | --------- | --------- | --------- |
 | DIST | [SZLPReal](SZLPReal.html) |  |
 | NO | [SZLPReal](SZLPReal.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPDistance-DivideBy](SZLPDistance-DivideBy.html) |
-| Help: | Make a SZLPDistance-DivideBy |
+| | | |
+| Returns: | [SZLPDistance-DivideBy](SZLPDistance-DivideBy.html) | |
+| Help: | | Make a SZLPDistance-DivideBy |
 
 
 ## Functions:

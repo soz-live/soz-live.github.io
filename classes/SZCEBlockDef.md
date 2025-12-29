@@ -34,9 +34,9 @@ SZCEBlockDef Class
 | --------- | --------- | --------- |
 | PARENT | [SZCEBlockDef](SZCEBlockDef.html) |  |
 | ENTITY | [AcDbEntity](AcDbEntity.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEntity](AcDbEntity.html) |
-| Help: | Add Entity |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | Add Entity |
 
 ### SZCEBlockDef-AddEntitys
 
@@ -44,16 +44,16 @@ SZCEBlockDef Class
 | --------- | --------- | --------- |
 | PARENT | [SZCEBlockDef](SZCEBlockDef.html) |  |
 | ENTITYS | [Set:AcDbEntity](AcDbEntity.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEntitys](AcDbEntitys.html) |
-| Help: | Add Entitys |
+| | | |
+| Returns: | [AcDbEntitys](AcDbEntitys.html) | |
+| Help: | | Add Entitys |
 
 ### SZCEBlockDef-User_Pick
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEBlockDef](SZCEBlockDef.html) |
-| Help: | User_Pick |
+| | | |
+| Returns: | [SZCEBlockDef](SZCEBlockDef.html) | |
+| Help: | | User_Pick |
 

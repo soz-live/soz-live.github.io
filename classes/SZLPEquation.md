@@ -24,9 +24,9 @@ SZLPEquation Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | STR | [Equation](Equation.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPEquation](SZLPEquation.html) |
-| Help: | Make a SZLPEquation |
+| | | |
+| Returns: | [SZLPEquation](SZLPEquation.html) | |
+| Help: | | Make a SZLPEquation |
 
 
 ## Functions:

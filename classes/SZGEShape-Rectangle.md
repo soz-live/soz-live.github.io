@@ -25,9 +25,9 @@ SZGEShape-Rectangle Class
 | --------- | --------- | --------- |
 | WIDTH | [Real](Real.html) |  |
 | DEPTH | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-Rectangle](SZGEShape-Rectangle.html) |
-| Help: | Rectangle Shape |
+| | | |
+| Returns: | [SZGEShape-Rectangle](SZGEShape-Rectangle.html) | |
+| Help: | | Rectangle Shape |
 
 
 ## Functions:

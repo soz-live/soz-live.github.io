@@ -24,9 +24,9 @@ SZGETMatrix-Scale Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | SCALE | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-Scale](SZGETMatrix-Scale.html) |
-| Help: | Make a SZGETMatrix-Scale |
+| | | |
+| Returns: | [SZGETMatrix-Scale](SZGETMatrix-Scale.html) | |
+| Help: | | Make a SZGETMatrix-Scale |
 
 
 ## Functions:

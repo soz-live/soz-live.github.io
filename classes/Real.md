@@ -24,9 +24,9 @@ Real Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | New Real Number |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | New Real Number |
 
 
 ## Functions:
@@ -42,16 +42,16 @@ Real Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Integer](Integer.html) |
-| Help: | >Integer |
+| | | |
+| Returns: | [Integer](Integer.html) | |
+| Help: | | >Integer |
 
 ### Real->String
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | >String |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | >String |
 

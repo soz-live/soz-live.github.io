@@ -34,7 +34,7 @@ Model Group
 | --------- | --------- | --------- |
 | ENTITY | [SZCEModelGroup](SZCEModelGroup.html) |  |
 | BOOL | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [Boolean](Boolean.html) |
-| Help: | Set SZCEModelGroup Highlight |
+| | | |
+| Returns: | [Boolean](Boolean.html) | |
+| Help: | | Set SZCEModelGroup Highlight |
 

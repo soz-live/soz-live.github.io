@@ -26,9 +26,9 @@ SZCE3dCurve-HelicalCurve Class
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | DEFN | [SZGE3dCurve-HelicalCurve](SZGE3dCurve-HelicalCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) |
-| Help: | Make a SZCE3dCurve-HelicalCurve |
+| | | |
+| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) | |
+| Help: | | Make a SZCE3dCurve-HelicalCurve |
 
 
 ## Functions:

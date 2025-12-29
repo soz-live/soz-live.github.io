@@ -26,9 +26,9 @@ Base Solid Feature
 | SOLID | [SZCOSolid](SZCOSolid.html) |  |
 | OPERATION | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
-| --- | --- | --- |
-| Returns: | [SZCOFeature-3dSolid](SZCOFeature-3dSolid.html) |
-| Help: | Make a SZCOFeature-3dSolid |
+| | | |
+| Returns: | [SZCOFeature-3dSolid](SZCOFeature-3dSolid.html) | |
+| Help: | | Make a SZCOFeature-3dSolid |
 
 
 ## Functions:

@@ -23,9 +23,9 @@ SZLPReal-PI Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZLPReal-PI](SZLPReal-PI.html) |
-| Help: | The value of PI |
+| | | |
+| Returns: | [SZLPReal-PI](SZLPReal-PI.html) | |
+| Help: | | The value of PI |
 
 
 ## Functions:

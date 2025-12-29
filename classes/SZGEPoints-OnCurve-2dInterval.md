@@ -26,9 +26,9 @@ SZGEPoints-OnCurve-2dInterval Class
 | CURVE | [AcDb3dPolyline](AcDb3dPolyline.html) |  |
 | DIST | [Real](Real.html) |  |
 | START | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoints-OnCurve-2dInterval](SZGEPoints-OnCurve-2dInterval.html) |
-| Help: | Make a SZGEPoints-OnCurve-2dInterval |
+| | | |
+| Returns: | [SZGEPoints-OnCurve-2dInterval](SZGEPoints-OnCurve-2dInterval.html) | |
+| Help: | | Make a SZGEPoints-OnCurve-2dInterval |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ Cons Class
 | --------- | --------- | --------- |
 | A | [SZOBBase](SZOBBase.html) |  |
 | D | [SZOBBase](SZOBBase.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Make a Cons |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Make a Cons |
 
 
 ## Functions:

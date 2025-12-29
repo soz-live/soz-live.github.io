@@ -24,9 +24,9 @@ A Structural Connection
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CUT | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-Connection-CutBack](SZCEStruct-Connection-CutBack.html) |
-| Help: | Make a Structural Connection |
+| | | |
+| Returns: | [SZCEStruct-Connection-CutBack](SZCEStruct-Connection-CutBack.html) | |
+| Help: | | Make a Structural Connection |
 
 
 ## Functions:

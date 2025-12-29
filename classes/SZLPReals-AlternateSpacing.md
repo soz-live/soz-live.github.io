@@ -26,9 +26,9 @@ SZLPReals-AlternateSpacing Class
 | DIST | [Real](Real.html) |  |
 | SPACE0 | [Real](Real.html) |  |
 | SPACE1 | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReals-AlternateSpacing](SZLPReals-AlternateSpacing.html) |
-| Help: | Make a SZLPReals-AlternateSpacing |
+| | | |
+| Returns: | [SZLPReals-AlternateSpacing](SZLPReals-AlternateSpacing.html) | |
+| Help: | | Make a SZLPReals-AlternateSpacing |
 
 
 ## Functions:

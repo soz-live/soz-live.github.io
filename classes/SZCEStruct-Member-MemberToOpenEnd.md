@@ -28,9 +28,9 @@ MemberToOpenEnd Linear Structural Member
 | CONN0 | [SZCEStruct-Connection-ToMember](SZCEStruct-Connection-ToMember.html) |  |
 | MEM0 | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
 | CONN1 | [SZCEStruct-Connection-OpenEnd](SZCEStruct-Connection-OpenEnd.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-Member-MemberToOpenEnd](SZCEStruct-Member-MemberToOpenEnd.html) |
-| Help: | MemberToOpenEnd Linear Structural Member |
+| | | |
+| Returns: | [SZCEStruct-Member-MemberToOpenEnd](SZCEStruct-Member-MemberToOpenEnd.html) | |
+| Help: | | MemberToOpenEnd Linear Structural Member |
 
 
 ## Functions:

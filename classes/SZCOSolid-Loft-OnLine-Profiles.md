@@ -26,9 +26,9 @@ Loft-OnLine-Profiles
 | LINE | [SZGELine](SZGELine.html) |  |
 | PROFILE0 | [SZCOProfile](SZCOProfile.html) |  |
 | PROFILE1 | [SZCOProfile](SZCOProfile.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Loft-OnLine-Profiles](SZCOSolid-Loft-OnLine-Profiles.html) |
-| Help: | Loft OnLine Profiles |
+| | | |
+| Returns: | [SZCOSolid-Loft-OnLine-Profiles](SZCOSolid-Loft-OnLine-Profiles.html) | |
+| Help: | | Loft OnLine Profiles |
 
 
 ## Functions:
@@ -45,7 +45,7 @@ Loft-OnLine-Profiles
 | --------- | --------- | --------- |
 | O | [SZCOSolid-Loft-OnLine-Profiles](SZCOSolid-Loft-OnLine-Profiles.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-Loft-OnLine-Profiles |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-Loft-OnLine-Profiles |
 

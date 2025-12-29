@@ -27,9 +27,9 @@ Structural Profile
 | LOOP | [SZGELoop](SZGELoop.html) |  |
 | ALIGN | [Enum-AcDbAlignment](Enum-AcDbAlignment.html) |  |
 | ZAROT | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOProfile-Structural](SZCOProfile-Structural.html) |
-| Help: | Make a Structural Profile |
+| | | |
+| Returns: | [SZCOProfile-Structural](SZCOProfile-Structural.html) | |
+| Help: | | Make a Structural Profile |
 
 
 ## Functions:

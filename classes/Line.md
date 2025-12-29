@@ -25,9 +25,9 @@ Line Class
 | --------- | --------- | --------- |
 | POINT0 | [Point](Point.html) |  |
 | POINT1 | [Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [Line](Line.html) |
-| Help: | Make a Line |
+| | | |
+| Returns: | [Line](Line.html) | |
+| Help: | | Make a Line |
 
 
 ## Functions:
@@ -43,9 +43,9 @@ Line Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | L | [Line](Line.html) |  |
-| --- | --- | --- |
-| Returns: | [Axes](Axes.html) |
-| Help: | Line Axes |
+| | | |
+| Returns: | [Axes](Axes.html) | |
+| Help: | | Line Axes |
 
 ### Line-BaryComb
 
@@ -53,18 +53,18 @@ Line Class
 | --------- | --------- | --------- |
 | L | [Line](Line.html) |  |
 | COEFF | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Line BaryComb |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Line BaryComb |
 
 ### Line-EndPoint
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | L | [Line](Line.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Line EndPoint |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Line EndPoint |
 
 ### Line-FaceIntersect
 
@@ -72,36 +72,36 @@ Line Class
 | --------- | --------- | --------- |
 | L | [Line](Line.html) |  |
 | FACE | [Face](Face.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Line FaceIntersect |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Line FaceIntersect |
 
 ### Line-Flatten
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | L | [Line](Line.html) |  |
-| --- | --- | --- |
-| Returns: | [Line](Line.html) |
-| Help: | Line Flattened |
+| | | |
+| Returns: | [Line](Line.html) | |
+| Help: | | Line Flattened |
 
 ### Line-Length
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | L | [Line](Line.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Line Length |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Line Length |
 
 ### Line-MidPoint
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | L | [Line](Line.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Line MidPoint |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Line MidPoint |
 
 ### Line-PlaneIntersect
 
@@ -109,9 +109,9 @@ Line Class
 | --------- | --------- | --------- |
 | L | [Line](Line.html) |  |
 | PLANE | [Plane](Plane.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Line PlaneIntersect |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Line PlaneIntersect |
 
 ### Line-PointAtDistance
 
@@ -119,43 +119,43 @@ Line Class
 | --------- | --------- | --------- |
 | L | [Line](Line.html) |  |
 | D | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Line PointAtDistance |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Line PointAtDistance |
 
 ### Line-StartPoint
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | L | [Line](Line.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Line StartPoint |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Line StartPoint |
 
 ### Line-TMatrix
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | L | [Line](Line.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | Line TMatrix |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | Line TMatrix |
 
 ### Line-Value
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | L | [Line](Line.html) |  |
-| --- | --- | --- |
-| Returns: | [Line](Line.html) |
-| Help: | Line Value |
+| | | |
+| Returns: | [Line](Line.html) | |
+| Help: | | Line Value |
 
 ### Line-Vector
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | L | [Line](Line.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Line Vector |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Line Vector |
 

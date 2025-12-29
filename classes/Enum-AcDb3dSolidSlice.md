@@ -24,12 +24,12 @@ AcDb3dSolidSlice value - Below or Above
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-AcDb3dSolidSlice](Enum-AcDb3dSolidSlice.html) |  |
-| --- | --- | --- |
-| Returns: | [Enum-AcDb3dSolidSlice](Enum-AcDb3dSolidSlice.html) |
-| Help: | Enum-AcDb3dSolidSlice |
+| | | |
+| Returns: | [Enum-AcDb3dSolidSlice](Enum-AcDb3dSolidSlice.html) | |
+| Help: | | Enum-AcDb3dSolidSlice |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

@@ -26,9 +26,9 @@ SZCOSolid-Extrusion-AcDbPolyline-OnStart Class
 | ENTITY | [AcDbPolyline](AcDbPolyline.html) |  |
 | HEIGHT | [Real](Real.html) |  |
 | EXTRUDE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Extrusion-AcDbPolyline-OnStart](SZCOSolid-Extrusion-AcDbPolyline-OnStart.html) |
-| Help: | Make a SZCOSolid-Extrusion-AcDbPolyline-OnStart |
+| | | |
+| Returns: | [SZCOSolid-Extrusion-AcDbPolyline-OnStart](SZCOSolid-Extrusion-AcDbPolyline-OnStart.html) | |
+| Help: | | Make a SZCOSolid-Extrusion-AcDbPolyline-OnStart |
 
 
 ## Functions:
@@ -45,7 +45,7 @@ SZCOSolid-Extrusion-AcDbPolyline-OnStart Class
 | --------- | --------- | --------- |
 | O | [SZCOSolid-Extrusion-AcDbPolyline-OnStart](SZCOSolid-Extrusion-AcDbPolyline-OnStart.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-Extrusion-AcDbPolyline-OnStart |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-Extrusion-AcDbPolyline-OnStart |
 

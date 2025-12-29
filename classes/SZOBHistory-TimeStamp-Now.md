@@ -23,9 +23,9 @@ Now
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZOBHistory-TimeStamp](SZOBHistory-TimeStamp.html) |
-| Help: | Now |
+| | | |
+| Returns: | [SZOBHistory-TimeStamp](SZOBHistory-TimeStamp.html) | |
+| Help: | | Now |
 
 
 ## Functions:

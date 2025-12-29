@@ -24,9 +24,9 @@ DCL Strings
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Tile-PopUp-ListEditMethods](DCLS-Tile-PopUp-ListEditMethods.html) |
-| Help: | List Edit UserOption Constructor |
+| | | |
+| Returns: | [DCLS-Tile-PopUp-ListEditMethods](DCLS-Tile-PopUp-ListEditMethods.html) | |
+| Help: | | List Edit UserOption Constructor |
 
 
 ## Functions:

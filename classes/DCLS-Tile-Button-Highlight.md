@@ -24,9 +24,9 @@ DCL SubClass Button
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Tile-Button-Highlight](DCLS-Tile-Button-Highlight.html) |
-| Help: | SubClass Button Constructor |
+| | | |
+| Returns: | [DCLS-Tile-Button-Highlight](DCLS-Tile-Button-Highlight.html) | |
+| Help: | | SubClass Button Constructor |
 
 
 ## Functions:

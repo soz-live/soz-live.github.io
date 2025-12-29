@@ -27,9 +27,9 @@ SZCECircle-3xPoints Class
 | POINTA | [SZGEPoint](SZGEPoint.html) |  |
 | POINTB | [SZGEPoint](SZGEPoint.html) |  |
 | POINTC | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCECircle-3xPoints](SZCECircle-3xPoints.html) |
-| Help: | Make a SZCECircle-3xPoints |
+| | | |
+| Returns: | [SZCECircle-3xPoints](SZCECircle-3xPoints.html) | |
+| Help: | | Make a SZCECircle-3xPoints |
 
 
 ## Functions:

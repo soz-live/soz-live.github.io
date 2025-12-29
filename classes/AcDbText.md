@@ -28,9 +28,9 @@ Text Object
 | TEXT | [String](String.html) |  |
 | HEIGHT | [Real](Real.html) |  |
 | ALIGN | [Enum-AcDbTextAlignment](Enum-AcDbTextAlignment.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbText](AcDbText.html) |
-| Help: | Text Object |
+| | | |
+| Returns: | [AcDbText](AcDbText.html) | |
+| Help: | | Text Object |
 
 
 ## Functions:
@@ -46,7 +46,7 @@ Text Object
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbText](AcDbText.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | TMatrix of an AcDbText |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | TMatrix of an AcDbText |
 

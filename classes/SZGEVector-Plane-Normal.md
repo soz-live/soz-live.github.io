@@ -24,9 +24,9 @@ SZGEVector-Plane-Normal Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | PLANE | [SZGEPlane](SZGEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEVector-Plane-Normal](SZGEVector-Plane-Normal.html) |
-| Help: | Make a SZGEVector-Plane-Normal |
+| | | |
+| Returns: | [SZGEVector-Plane-Normal](SZGEVector-Plane-Normal.html) | |
+| Help: | | Make a SZGEVector-Plane-Normal |
 
 
 ## Functions:

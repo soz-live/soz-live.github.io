@@ -28,9 +28,9 @@ Twisted Sling Curve
 | TWIST | [Deg](Deg.html) |  |
 | STARTRAD | [Real](Real.html) |  |
 | ENDRAD | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGE3dCurve-TwistedSling](SZGE3dCurve-TwistedSling.html) |
-| Help: | Make Twisted Sling Curve |
+| | | |
+| Returns: | [SZGE3dCurve-TwistedSling](SZGE3dCurve-TwistedSling.html) | |
+| Help: | | Make Twisted Sling Curve |
 
 
 ## Functions:

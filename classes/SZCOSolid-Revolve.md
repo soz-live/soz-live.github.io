@@ -28,9 +28,9 @@ SZCOSolid-Revolve Class
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
 | VECTOR | [SZGEVector](SZGEVector.html) |  |
 | REVOLVE | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Revolve](SZCOSolid-Revolve.html) |
-| Help: | Make a SZCOSolid-Revolve |
+| | | |
+| Returns: | [SZCOSolid-Revolve](SZCOSolid-Revolve.html) | |
+| Help: | | Make a SZCOSolid-Revolve |
 
 
 ## Functions:
@@ -47,7 +47,7 @@ SZCOSolid-Revolve Class
 | --------- | --------- | --------- |
 | O | [SZCOSolid-Revolve](SZCOSolid-Revolve.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-Revolve |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-Revolve |
 

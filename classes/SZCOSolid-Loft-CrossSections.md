@@ -24,9 +24,9 @@ Loft using CrossSections
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | REGIONS | [List:AcDbRegion](AcDbRegion.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Loft-CrossSections](SZCOSolid-Loft-CrossSections.html) |
-| Help: | Loft |
+| | | |
+| Returns: | [SZCOSolid-Loft-CrossSections](SZCOSolid-Loft-CrossSections.html) | |
+| Help: | | Loft |
 
 
 ## Functions:
@@ -43,7 +43,7 @@ Loft using CrossSections
 | --------- | --------- | --------- |
 | O | [SZCOSolid-Loft-CrossSections](SZCOSolid-Loft-CrossSections.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-Loft-CrossSections |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-Loft-CrossSections |
 

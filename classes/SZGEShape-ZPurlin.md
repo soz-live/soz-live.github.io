@@ -29,9 +29,9 @@ ZPurlin
 | LIP | [Real](Real.html) |  |
 | FLANGE | [Real](Real.html) |  |
 | EXT | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-ZPurlin](SZGEShape-ZPurlin.html) |
-| Help: | ZPurlin |
+| | | |
+| Returns: | [SZGEShape-ZPurlin](SZGEShape-ZPurlin.html) | |
+| Help: | | ZPurlin |
 
 
 ## Functions:

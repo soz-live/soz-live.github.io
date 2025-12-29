@@ -32,15 +32,15 @@ Documentation of CSV Files
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [Strings](Strings.html) |
-| Help: | SOZ ClassHierarchy |
+| | | |
+| Returns: | [Strings](Strings.html) | |
+| Help: | | SOZ ClassHierarchy |
 
 ### SZDODocs-CSV-FunctionArray
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [Strings](Strings.html) |
-| Help: | SOZ FunctionArray |
+| | | |
+| Returns: | [Strings](Strings.html) | |
+| Help: | | SOZ FunctionArray |
 

@@ -27,9 +27,9 @@ SZCOSolid-PolySolid Class
 | HEIGHT | [Real](Real.html) |  |
 | WIDTH | [Real](Real.html) |  |
 | ALIGN | [Enum-AcDbPolySolidAlignment](Enum-AcDbPolySolidAlignment.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-PolySolid](SZCOSolid-PolySolid.html) |
-| Help: | Make a SZCOSolid-PolySolid |
+| | | |
+| Returns: | [SZCOSolid-PolySolid](SZCOSolid-PolySolid.html) | |
+| Help: | | Make a SZCOSolid-PolySolid |
 
 
 ## Functions:
@@ -46,7 +46,7 @@ SZCOSolid-PolySolid Class
 | --------- | --------- | --------- |
 | O | [SZCOSolid-PolySolid](SZCOSolid-PolySolid.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-PolySolid |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-PolySolid |
 

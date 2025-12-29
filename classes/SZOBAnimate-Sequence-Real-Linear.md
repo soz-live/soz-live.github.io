@@ -25,9 +25,9 @@ Linear Animation Sequence Class
 | --------- | --------- | --------- |
 | LOW | [Real](Real.html) |  |
 | HIGH | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBAnimate-Sequence-Real-Linear](SZOBAnimate-Sequence-Real-Linear.html) |
-| Help: | Make Animation Sequence-Linear |
+| | | |
+| Returns: | [SZOBAnimate-Sequence-Real-Linear](SZOBAnimate-Sequence-Real-Linear.html) | |
+| Help: | | Make Animation Sequence-Linear |
 
 
 ## Functions:

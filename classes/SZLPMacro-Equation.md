@@ -26,9 +26,9 @@ Equation Macro function
 | NAME | [String](String.html) |  |
 | EQUATION | [Equation](Equation.html) |  |
 | ARGS | [List:Key](Key.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPMacro-Equation](SZLPMacro-Equation.html) |
-| Help: | Macro Equation |
+| | | |
+| Returns: | [SZLPMacro-Equation](SZLPMacro-Equation.html) | |
+| Help: | | Macro Equation |
 
 
 ## Functions:

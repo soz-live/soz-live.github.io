@@ -24,9 +24,9 @@ SZLPReals-MiddleSplit Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | DIST | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReals-MiddleSplit](SZLPReals-MiddleSplit.html) |
-| Help: | Make a SZLPReals-MiddleSplit |
+| | | |
+| Returns: | [SZLPReals-MiddleSplit](SZLPReals-MiddleSplit.html) | |
+| Help: | | Make a SZLPReals-MiddleSplit |
 
 
 ## Functions:

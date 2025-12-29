@@ -25,9 +25,9 @@ SZCOSolid-Cone-OnLine Class
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
 | RADIUS | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Cone-OnLine](SZCOSolid-Cone-OnLine.html) |
-| Help: | Make a SZCOSolid-Cone-OnLine |
+| | | |
+| Returns: | [SZCOSolid-Cone-OnLine](SZCOSolid-Cone-OnLine.html) | |
+| Help: | | Make a SZCOSolid-Cone-OnLine |
 
 
 ## Functions:
@@ -44,7 +44,7 @@ SZCOSolid-Cone-OnLine Class
 | --------- | --------- | --------- |
 | O | [SZCOSolid-Cone-OnLine](SZCOSolid-Cone-OnLine.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-Cone-OnLine |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-Cone-OnLine |
 

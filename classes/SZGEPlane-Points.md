@@ -26,9 +26,9 @@ SZGEPlane-Points Class
 | POINT0 | [SZGEPoint](SZGEPoint.html) |  |
 | POINT1 | [SZGEPoint](SZGEPoint.html) |  |
 | POINT2 | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane-Points](SZGEPlane-Points.html) |
-| Help: | Make a SZGEPlane-Points |
+| | | |
+| Returns: | [SZGEPlane-Points](SZGEPlane-Points.html) | |
+| Help: | | Make a SZGEPlane-Points |
 
 
 ## Functions:

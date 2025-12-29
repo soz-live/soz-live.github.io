@@ -25,9 +25,9 @@
 | --------- | --------- | --------- |
 | A | [SZLPNumber](SZLPNumber.html) |  |
 | B | [SZLPNumber](SZLPNumber.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | = Function |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | = Function |
 
 
 ## Functions:

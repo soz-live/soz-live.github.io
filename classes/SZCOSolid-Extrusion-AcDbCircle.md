@@ -26,9 +26,9 @@ SZCOSolid-Extrusion-AcDbCircle Class
 | ENTITY | [AcDbCircle](AcDbCircle.html) |  |
 | HEIGHT | [Real](Real.html) |  |
 | EXTRUDE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Extrusion-AcDbCircle](SZCOSolid-Extrusion-AcDbCircle.html) |
-| Help: | Make a SZCOSolid-Extrusion-AcDbCircle |
+| | | |
+| Returns: | [SZCOSolid-Extrusion-AcDbCircle](SZCOSolid-Extrusion-AcDbCircle.html) | |
+| Help: | | Make a SZCOSolid-Extrusion-AcDbCircle |
 
 
 ## Functions:
@@ -45,7 +45,7 @@ SZCOSolid-Extrusion-AcDbCircle Class
 | --------- | --------- | --------- |
 | O | [SZCOSolid-Extrusion-AcDbCircle](SZCOSolid-Extrusion-AcDbCircle.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-Extrusion-AcDbCircle |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-Extrusion-AcDbCircle |
 

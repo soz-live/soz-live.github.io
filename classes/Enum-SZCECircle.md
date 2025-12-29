@@ -24,12 +24,12 @@ Enum-SZCECircle Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-SZCECircle](Enum-SZCECircle.html) |  |
-| --- | --- | --- |
-| Returns: | [Enum-SZCECircle](Enum-SZCECircle.html) |
-| Help: | Enum-SZCECircle |
+| | | |
+| Returns: | [Enum-SZCECircle](Enum-SZCECircle.html) | |
+| Help: | | Enum-SZCECircle |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

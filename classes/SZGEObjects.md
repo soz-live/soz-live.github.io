@@ -33,7 +33,7 @@ SZGEObjects Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGEObjects](SZGEObjects.html) |  |
-| --- | --- | --- |
-| Returns: | [List:SZGEObject](SZGEObject.html) |
-| Help: | List of SZGEObject |
+| | | |
+| Returns: | [List:SZGEObject](SZGEObject.html) | |
+| Help: | | List of SZGEObject |
 

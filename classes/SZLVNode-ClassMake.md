@@ -27,9 +27,9 @@ LIVE Class Node
 | CN | [SZMAClassName](SZMAClassName.html) |  |
 | ARGS | [List:SZOBBase](SZOBBase.html) |  |
 | RETURNS | [SZOBBase](SZOBBase.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLVNode](SZLVNode.html) |
-| Help: | SZLVNode using a class |
+| | | |
+| Returns: | [SZLVNode](SZLVNode.html) | |
+| Help: | | SZLVNode using a class |
 
 
 ## Functions:

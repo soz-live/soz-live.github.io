@@ -33,7 +33,7 @@ AcDbRegion Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbRegion](AcDbRegion.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Area of an AcDbRegion |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Area of an AcDbRegion |
 

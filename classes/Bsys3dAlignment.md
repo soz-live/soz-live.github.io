@@ -25,9 +25,9 @@ Bsys3dAlignment Class
 | --------- | --------- | --------- |
 | TIN | [BsysTinSurface](BsysTinSurface.html) |  |
 | POLY | [AcDb3dPolyline](AcDb3dPolyline.html) |  |
-| --- | --- | --- |
-| Returns: | [Bsys3dAlignment](Bsys3dAlignment.html) |
-| Help: | Creates an 3dAlignment |
+| | | |
+| Returns: | [Bsys3dAlignment](Bsys3dAlignment.html) | |
+| Help: | | Creates an 3dAlignment |
 
 
 ## Functions:

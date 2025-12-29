@@ -24,9 +24,9 @@ SZGEPlane-GridLine-Online Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane](SZGEPlane.html) |
-| Help: | Make a SZGEPlane-GridLine-Online |
+| | | |
+| Returns: | [SZGEPlane](SZGEPlane.html) | |
+| Help: | | Make a SZGEPlane-GridLine-Online |
 
 
 ## Functions:

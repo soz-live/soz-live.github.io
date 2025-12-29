@@ -27,9 +27,9 @@ AcDb3dSolid-Cone Class
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | RADIUS | [Real](Real.html) |  |
 | HEIGHT | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid-Cone](AcDb3dSolid-Cone.html) |
-| Help: | Make an AcDb3dSolid-Cone |
+| | | |
+| Returns: | [AcDb3dSolid-Cone](AcDb3dSolid-Cone.html) | |
+| Help: | | Make an AcDb3dSolid-Cone |
 
 
 ## Functions:

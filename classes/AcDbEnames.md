@@ -24,9 +24,9 @@ AcDbEnames Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [List:AcDbEname](AcDbEname.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEnames](AcDbEnames.html) |
-| Help: | Make Enames |
+| | | |
+| Returns: | [AcDbEnames](AcDbEnames.html) | |
+| Help: | | Make Enames |
 
 
 ## Functions:

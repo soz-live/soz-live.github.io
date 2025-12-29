@@ -24,9 +24,9 @@ SZLPSymbol Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | SYMB | [Key](Key.html) |  |
-| --- | --- | --- |
-| Returns: | [Symbol](Symbol.html) |
-| Help: | New SZLPSymbol |
+| | | |
+| Returns: | [Symbol](Symbol.html) | |
+| Help: | | New SZLPSymbol |
 
 
 ## Functions:

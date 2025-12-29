@@ -24,9 +24,9 @@ SZLPEnum-AcDbExtrudeType Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPEnum-AcDbExtrudeType](SZLPEnum-AcDbExtrudeType.html) |
-| Help: | Make a SZLPEnum-AcDbExtrudeType |
+| | | |
+| Returns: | [SZLPEnum-AcDbExtrudeType](SZLPEnum-AcDbExtrudeType.html) | |
+| Help: | | Make a SZLPEnum-AcDbExtrudeType |
 
 
 ## Functions:

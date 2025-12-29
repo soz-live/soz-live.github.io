@@ -24,9 +24,9 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [Minute](Minute.html) |
-| Help: | MM |
+| | | |
+| Returns: | [Minute](Minute.html) | |
+| Help: | | MM |
 
 
 ## Functions:

@@ -28,9 +28,9 @@ SZCOFeature-Slice-Plane Class
 | OFFSET | [Real](Real.html) |  |
 | KEEP | [Enum-AcDb3dSolidSlice](Enum-AcDb3dSolidSlice.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
-| --- | --- | --- |
-| Returns: | [SZCOFeature-Slice-Plane](SZCOFeature-Slice-Plane.html) |
-| Help: | Make a SZCOFeature-Slice-Plane |
+| | | |
+| Returns: | [SZCOFeature-Slice-Plane](SZCOFeature-Slice-Plane.html) | |
+| Help: | | Make a SZCOFeature-Slice-Plane |
 
 
 ## Functions:

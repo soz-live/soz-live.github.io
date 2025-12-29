@@ -25,9 +25,9 @@ DCL BooleanAttribute
 | --------- | --------- | --------- |
 | NAME | [Key](Key.html) |  |
 | VALUE | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Attribute-Boolean](DCLS-Attribute-Boolean.html) |
-| Help: | Basic DCLS-Attribute-Boolean Constructor |
+| | | |
+| Returns: | [DCLS-Attribute-Boolean](DCLS-Attribute-Boolean.html) | |
+| Help: | | Basic DCLS-Attribute-Boolean Constructor |
 
 
 ## Functions:

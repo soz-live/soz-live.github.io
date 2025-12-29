@@ -26,9 +26,9 @@ SZCOFeature-Toolbody Class
 | TOOL | [SZCEModelRef](SZCEModelRef.html) |  |
 | OPERATION | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
-| --- | --- | --- |
-| Returns: | [SZCOFeature-Toolbody](SZCOFeature-Toolbody.html) |
-| Help: | Make SZCOFeature-Toolbody |
+| | | |
+| Returns: | [SZCOFeature-Toolbody](SZCOFeature-Toolbody.html) | |
+| Help: | | Make SZCOFeature-Toolbody |
 
 
 ## Functions:

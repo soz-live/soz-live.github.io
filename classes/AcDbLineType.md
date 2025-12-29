@@ -24,12 +24,12 @@ AcDbLineTypes
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [AcDbLineType](AcDbLineType.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbLineType](AcDbLineType.html) |
-| Help: | AcDbLineType |
+| | | |
+| Returns: | [AcDbLineType](AcDbLineType.html) | |
+| Help: | | AcDbLineType |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

@@ -28,9 +28,9 @@ Rigging 2xL Class
 | BASE0 | [SZGEPoint](SZGEPoint.html) |  |
 | BASE1 | [SZGEPoint](SZGEPoint.html) |  |
 | STARTANG | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-Arrgt-2xL](SZCERigging-Arrgt-2xL.html) |
-| Help: | Rigging 2xL |
+| | | |
+| Returns: | [SZCERigging-Arrgt-2xL](SZCERigging-Arrgt-2xL.html) | |
+| Help: | | Rigging 2xL |
 
 
 ## Functions:

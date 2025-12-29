@@ -34,9 +34,9 @@ Deep List Class
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
 | BRANCH | [List](List.html) |  |
-| --- | --- | --- |
-| Returns: | [Tree](Tree.html) |
-| Help: | Tree Substitution using the first element |
+| | | |
+| Returns: | [Tree](Tree.html) | |
+| Help: | | Tree Substitution using the first element |
 
 ### Tree-LastSubst
 
@@ -44,9 +44,9 @@ Deep List Class
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
 | BRANCH | [List](List.html) |  |
-| --- | --- | --- |
-| Returns: | [Tree](Tree.html) |
-| Help: | Tree Substitution using the last element |
+| | | |
+| Returns: | [Tree](Tree.html) | |
+| Help: | | Tree Substitution using the last element |
 
 ### Tree-isSubTree?
 
@@ -54,7 +54,7 @@ Deep List Class
 | --------- | --------- | --------- |
 | TREE | [Tree](Tree.html) |  |
 | SUBTREE | [Tree](Tree.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | Tree Subtree predicate function |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | Tree Subtree predicate function |
 

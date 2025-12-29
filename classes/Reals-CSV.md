@@ -24,9 +24,9 @@ Reals-CSV Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [String-CSV](String-CSV.html) |  |
-| --- | --- | --- |
-| Returns: | [Reals](Reals.html) |
-| Help: | Creates a Real Array from a CSV String |
+| | | |
+| Returns: | [Reals](Reals.html) | |
+| Help: | | Creates a Real Array from a CSV String |
 
 
 ## Functions:

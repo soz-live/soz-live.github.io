@@ -26,9 +26,9 @@ Lines from projecting points to plane
 | POINTS | [SZCEPoints](SZCEPoints.html) |  |
 | PLANE | [SZGEPlane](SZGEPlane.html) |  |
 | VECTOR | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCELines-Project-PointsToPlane](SZCELines-Project-PointsToPlane.html) |
-| Help: | Lines from projecting points to plane |
+| | | |
+| Returns: | [SZCELines-Project-PointsToPlane](SZCELines-Project-PointsToPlane.html) | |
+| Help: | | Lines from projecting points to plane |
 
 
 ## Functions:

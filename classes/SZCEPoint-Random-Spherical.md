@@ -27,9 +27,9 @@ Random Spherical Point in Ranges
 | R | [SZLPRange](SZLPRange.html) |  |
 | THETA | [SZLPRange-Theta](SZLPRange-Theta.html) |  |
 | PHI | [SZLPRange-Phi](SZLPRange-Phi.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbPoint](AcDbPoint.html) |
-| Help: | Make a Random Spherical Point in Ranges |
+| | | |
+| Returns: | [AcDbPoint](AcDbPoint.html) | |
+| Help: | | Make a Random Spherical Point in Ranges |
 
 
 ## Functions:

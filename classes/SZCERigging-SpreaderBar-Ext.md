@@ -24,9 +24,9 @@ External SpreaderBar Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | MODEL | [SZCERigging-ExternalItem](SZCERigging-ExternalItem.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-SpreaderBar-Ext](SZCERigging-SpreaderBar-Ext.html) |
-| Help: | Make External SpreaderBar-Ext |
+| | | |
+| Returns: | [SZCERigging-SpreaderBar-Ext](SZCERigging-SpreaderBar-Ext.html) | |
+| Help: | | Make External SpreaderBar-Ext |
 
 
 ## Functions:

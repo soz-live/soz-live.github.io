@@ -26,9 +26,9 @@ SZCE3dCurve-PlanarCurve Class
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | DEFN | [SZGE3dCurve-PlanarCurve](SZGE3dCurve-PlanarCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) |
-| Help: | Make a SZCE3dCurve-PlanarCurve |
+| | | |
+| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) | |
+| Help: | | Make a SZCE3dCurve-PlanarCurve |
 
 
 ## Functions:

@@ -27,9 +27,9 @@ SZCEModelGroup-Solid-DicedOnCurve Class
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | PITCH | [Real](Real.html) |  |
 | DEPTH | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEModelGroup-Solid-DicedOnCurve](SZCEModelGroup-Solid-DicedOnCurve.html) |
-| Help: | Make a SZCEModelGroup-Solid-DicedOnCurve |
+| | | |
+| Returns: | [SZCEModelGroup-Solid-DicedOnCurve](SZCEModelGroup-Solid-DicedOnCurve.html) | |
+| Help: | | Make a SZCEModelGroup-Solid-DicedOnCurve |
 
 
 ## Functions:

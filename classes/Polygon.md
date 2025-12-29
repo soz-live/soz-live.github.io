@@ -25,9 +25,9 @@ Polygon Class
 | --------- | --------- | --------- |
 | R | [Real](Real.html) |  |
 | NO | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [2dCurve](2dCurve.html) |
-| Help: | Make a Polygon |
+| | | |
+| Returns: | [2dCurve](2dCurve.html) | |
+| Help: | | Make a Polygon |
 
 
 ## Functions:

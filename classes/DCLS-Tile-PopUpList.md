@@ -28,9 +28,9 @@ DCLS-Tile PopUpList
 | VALUE | [String](String.html) |  |
 | ATTS | [Set:DCLS-Attribute](DCLS-Attribute.html) |  |
 | ACTION | [DCLS-Action](DCLS-Action.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-PopUpList](DCLS-PopUpList.html) |
-| Help: | Basic DCLS-PopUpList Constructor |
+| | | |
+| Returns: | [DCLS-PopUpList](DCLS-PopUpList.html) | |
+| Help: | | Basic DCLS-PopUpList Constructor |
 
 
 ## Functions:

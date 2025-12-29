@@ -25,9 +25,9 @@ Create an Object from an Index
 | --------- | --------- | --------- |
 | OBJ | [SZOBObject](SZOBObject.html) |  |
 | INDEX | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject-IndexOf](SZOBObject-IndexOf.html) |
-| Help: | Create an Object from an Index |
+| | | |
+| Returns: | [SZOBObject-IndexOf](SZOBObject-IndexOf.html) | |
+| Help: | | Create an Object from an Index |
 
 
 ## Functions:

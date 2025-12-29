@@ -24,12 +24,12 @@ Boolean values - True and False
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [Boolean](Boolean.html) |
-| Help: | Boolean |
+| | | |
+| Returns: | [Boolean](Boolean.html) | |
+| Help: | | Boolean |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

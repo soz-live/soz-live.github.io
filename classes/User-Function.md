@@ -25,9 +25,9 @@ User Function Structure
 | --------- | --------- | --------- |
 | FN | [SZMAFunction](SZMAFunction.html) |  |
 | LABEL | [Label](Label.html) |  |
-| --- | --- | --- |
-| Returns: | [User-Function](User-Function.html) |
-| Help: | Basic User-Function Constructor |
+| | | |
+| Returns: | [User-Function](User-Function.html) | |
+| Help: | | Basic User-Function Constructor |
 
 
 ## Functions:

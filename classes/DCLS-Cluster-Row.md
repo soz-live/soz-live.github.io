@@ -26,9 +26,9 @@ DCL Row Structure
 | NAME | [Key](Key.html) |  |
 | ATTS | [Set:DCLS-Attribute](DCLS-Attribute.html) |  |
 | TILES | [List:DCLS-BaseTile](DCLS-BaseTile.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Cluster-Row](DCLS-Cluster-Row.html) |
-| Help: | Basic DCLS-Cluster-Row |
+| | | |
+| Returns: | [DCLS-Cluster-Row](DCLS-Cluster-Row.html) | |
+| Help: | | Basic DCLS-Cluster-Row |
 
 
 ## Functions:

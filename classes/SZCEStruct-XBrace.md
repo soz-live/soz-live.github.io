@@ -28,9 +28,9 @@ XBrace Structural Member
 | CONN0 | [SZCEStruct-Connection-ToMembers](SZCEStruct-Connection-ToMembers.html) |  |
 | UPPER | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
 | CONN1 | [SZCEStruct-Connection-ToMembers](SZCEStruct-Connection-ToMembers.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-XBrace](SZCEStruct-XBrace.html) |
-| Help: | XBrace Structural Member |
+| | | |
+| Returns: | [SZCEStruct-XBrace](SZCEStruct-XBrace.html) | |
+| Help: | | XBrace Structural Member |
 
 
 ## Functions:

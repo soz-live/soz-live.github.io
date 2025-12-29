@@ -28,9 +28,9 @@ EllipticalCone
 | MAJOR | [Real](Real.html) |  |
 | MINOR | [Real](Real.html) |  |
 | HEIGHT | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid-EllipticalCone](AcDb3dSolid-EllipticalCone.html) |
-| Help: | Elliptical Cone |
+| | | |
+| Returns: | [AcDb3dSolid-EllipticalCone](AcDb3dSolid-EllipticalCone.html) | |
+| Help: | | Elliptical Cone |
 
 
 ## Functions:

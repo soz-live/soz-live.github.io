@@ -25,9 +25,9 @@ Union Solid Feature
 | --------- | --------- | --------- |
 | SOLID | [SZCOSolid](SZCOSolid.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
-| --- | --- | --- |
-| Returns: | [SZCOFeature-3dSolid-Union](SZCOFeature-3dSolid-Union.html) |
-| Help: | Union Feature |
+| | | |
+| Returns: | [SZCOFeature-3dSolid-Union](SZCOFeature-3dSolid-Union.html) | |
+| Help: | | Union Feature |
 
 
 ## Functions:

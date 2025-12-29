@@ -25,9 +25,9 @@ SZGEPlane-TMatrix Class
 | --------- | --------- | --------- |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | NORMAL | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane-TMatrix](SZGEPlane-TMatrix.html) |
-| Help: | Make a SZGEPlane-TMatrix |
+| | | |
+| Returns: | [SZGEPlane-TMatrix](SZGEPlane-TMatrix.html) | |
+| Help: | | Make a SZGEPlane-TMatrix |
 
 
 ## Functions:

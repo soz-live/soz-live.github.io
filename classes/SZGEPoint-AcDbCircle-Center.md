@@ -24,9 +24,9 @@ SZGEPoint-AcDbCircle-Center Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbCircle](AcDbCircle.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-AcDbCircle-Center](SZGEPoint-AcDbCircle-Center.html) |
-| Help: | Center of Circle |
+| | | |
+| Returns: | [SZGEPoint-AcDbCircle-Center](SZGEPoint-AcDbCircle-Center.html) | |
+| Help: | | Center of Circle |
 
 
 ## Functions:

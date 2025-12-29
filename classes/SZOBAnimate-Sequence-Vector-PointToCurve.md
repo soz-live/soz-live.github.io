@@ -25,9 +25,9 @@ PointToCurve Animation Sequence Class
 | --------- | --------- | --------- |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
 | SEQUENCE | [SZOBAnimate-Sequence-Point-OnCurve](SZOBAnimate-Sequence-Point-OnCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBAnimate-Sequence-Vector-PointToCurve](SZOBAnimate-Sequence-Vector-PointToCurve.html) |
-| Help: | Make Animation Sequence-PointToCurve |
+| | | |
+| Returns: | [SZOBAnimate-Sequence-Vector-PointToCurve](SZOBAnimate-Sequence-Vector-PointToCurve.html) | |
+| Help: | | Make Animation Sequence-PointToCurve |
 
 
 ## Functions:

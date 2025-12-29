@@ -27,9 +27,9 @@ Exported sections on chainage
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | START | [Real](Real.html) |  |
 | PITCH | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCESections-OnCurve-Chainage-Exported](SZCESections-OnCurve-Chainage-Exported.html) |
-| Help: | Make Sections on Curve |
+| | | |
+| Returns: | [SZCESections-OnCurve-Chainage-Exported](SZCESections-OnCurve-Chainage-Exported.html) | |
+| Help: | | Make Sections on Curve |
 
 
 ## Functions:

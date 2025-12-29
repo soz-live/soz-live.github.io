@@ -24,9 +24,9 @@ SZGEPoint-OnCurve-StartPoint Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-OnCurve-StartPoint](SZGEPoint-OnCurve-StartPoint.html) |
-| Help: | Make a SZGEPoint-OnCurve-StartPoint |
+| | | |
+| Returns: | [SZGEPoint-OnCurve-StartPoint](SZGEPoint-OnCurve-StartPoint.html) | |
+| Help: | | Make a SZGEPoint-OnCurve-StartPoint |
 
 
 ## Functions:

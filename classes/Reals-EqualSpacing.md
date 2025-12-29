@@ -26,9 +26,9 @@ Reals-EqualSpacing Class
 | DIST | [Real](Real.html) |  |
 | NO | [Integer](Integer.html) |  |
 | START | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [Reals](Reals.html) |
-| Help: | Creates a Real Array of NO parts multiplied by the DIST value |
+| | | |
+| Returns: | [Reals](Reals.html) | |
+| Help: | | Creates a Real Array of NO parts multiplied by the DIST value |
 
 
 ## Functions:

@@ -23,9 +23,9 @@ Current color
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZCOColor](SZCOColor.html) |
-| Help: | Current color |
+| | | |
+| Returns: | [SZCOColor](SZCOColor.html) | |
+| Help: | | Current color |
 
 
 ## Functions:

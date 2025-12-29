@@ -26,9 +26,9 @@ SZCEModelGroup-Solid-SliceOnCurve Class
 | BASE | [AcDb3dSolid](AcDb3dSolid.html) |  |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | PITCH | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEModelGroup-Solid-SliceOnCurve](SZCEModelGroup-Solid-SliceOnCurve.html) |
-| Help: | Make a SZCEModelGroup-Solid-SliceOnCurve |
+| | | |
+| Returns: | [SZCEModelGroup-Solid-SliceOnCurve](SZCEModelGroup-Solid-SliceOnCurve.html) | |
+| Help: | | Make a SZCEModelGroup-Solid-SliceOnCurve |
 
 
 ## Functions:

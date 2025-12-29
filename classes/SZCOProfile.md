@@ -24,9 +24,9 @@ Combined 2D Region used during modelling
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | REGIONS | [List:SZCORegion](SZCORegion.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOProfile](SZCOProfile.html) |
-| Help: | Make a SZCOProfile |
+| | | |
+| Returns: | [SZCOProfile](SZCOProfile.html) | |
+| Help: | | Make a SZCOProfile |
 
 
 ## Functions:
@@ -42,25 +42,25 @@ Combined 2D Region used during modelling
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZCOProfile](SZCOProfile.html) |  |
-| --- | --- | --- |
-| Returns: | [List:SZCORegion](SZCORegion.html) |
-| Help: | Regions of a SZCOProfile Object |
+| | | |
+| Returns: | [List:SZCORegion](SZCORegion.html) | |
+| Help: | | Regions of a SZCOProfile Object |
 
 ### SZCOProfile-User_PickFeature
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOProfile](SZCOProfile.html) |
-| Help: | User_PickFeature |
+| | | |
+| Returns: | [SZCOProfile](SZCOProfile.html) | |
+| Help: | | User_PickFeature |
 
 ### SZCOProfile-User_PickPart
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOProfile](SZCOProfile.html) |
-| Help: | User_PickPart |
+| | | |
+| Returns: | [SZCOProfile](SZCOProfile.html) | |
+| Help: | | User_PickPart |
 

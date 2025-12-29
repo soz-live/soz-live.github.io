@@ -27,9 +27,9 @@ Hat Shape
 | WIDTH | [Real](Real.html) |  |
 | LIP | [Real](Real.html) |  |
 | THICK | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-Hat](SZGEShape-Hat.html) |
-| Help: | Hat Shape |
+| | | |
+| Returns: | [SZGEShape-Hat](SZGEShape-Hat.html) | |
+| Help: | | Hat Shape |
 
 
 ## Functions:

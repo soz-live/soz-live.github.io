@@ -25,9 +25,9 @@ SZCOProfile-RHS-Filleted Class
 | --------- | --------- | --------- |
 | SECTION | [SZCOSection-FilletedRHS](SZCOSection-FilletedRHS.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOProfile-RHS-Filleted](SZCOProfile-RHS-Filleted.html) |
-| Help: | Make a SZCOProfile-RHS-Filleted |
+| | | |
+| Returns: | [SZCOProfile-RHS-Filleted](SZCOProfile-RHS-Filleted.html) | |
+| Help: | | Make a SZCOProfile-RHS-Filleted |
 
 
 ## Functions:

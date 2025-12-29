@@ -29,9 +29,9 @@ MemberToMember Linear Structural Member
 | MEM0 | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
 | CONN1 | [SZCEStruct-Connection-ToMember](SZCEStruct-Connection-ToMember.html) |  |
 | MEM1 | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-Member-MemberToMember](SZCEStruct-Member-MemberToMember.html) |
-| Help: | MemberToMember Linear Structural Member |
+| | | |
+| Returns: | [SZCEStruct-Member-MemberToMember](SZCEStruct-Member-MemberToMember.html) | |
+| Help: | | MemberToMember Linear Structural Member |
 
 
 ## Functions:

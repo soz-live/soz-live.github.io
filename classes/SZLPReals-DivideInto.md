@@ -27,9 +27,9 @@ SZLPReals-DivideInto Class
 | NO | [Integer](Integer.html) |  |
 | START | [Boolean](Boolean.html) |  |
 | END | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReals-DivideInto](SZLPReals-DivideInto.html) |
-| Help: | Make a SZLPReals-DivideInto |
+| | | |
+| Returns: | [SZLPReals-DivideInto](SZLPReals-DivideInto.html) | |
+| Help: | | Make a SZLPReals-DivideInto |
 
 
 ## Functions:

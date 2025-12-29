@@ -24,9 +24,9 @@ SZGETMatrix-Curve-StartPoint Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-Curve-StartPoint](SZGETMatrix-Curve-StartPoint.html) |
-| Help: | Make a SZGETMatrix-Curve-StartPoint |
+| | | |
+| Returns: | [SZGETMatrix-Curve-StartPoint](SZGETMatrix-Curve-StartPoint.html) | |
+| Help: | | Make a SZGETMatrix-Curve-StartPoint |
 
 
 ## Functions:

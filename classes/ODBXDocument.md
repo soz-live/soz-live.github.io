@@ -23,9 +23,9 @@ ODBXDocument Object
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: |  |
-| Help: |  |
+| | | |
+| Returns: |  | |
+| Help: | |  |
 
 
 ## Functions:
@@ -40,81 +40,81 @@ ODBXDocument Object
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [AcDbDocument](AcDbDocument.html) |
-| Help: | Active Document Method |
+| | | |
+| Returns: | [AcDbDocument](AcDbDocument.html) | |
+| Help: | | Active Document Method |
 
 ### ODBXDocument-Blocks
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [AcDbBlocks](AcDbBlocks.html) |
-| Help: | Active Blocks Method |
+| | | |
+| Returns: | [AcDbBlocks](AcDbBlocks.html) | |
+| Help: | | Active Blocks Method |
 
 ### ODBXDocument-Close
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [NIL](NIL.html) |
-| Help: | Close Method |
+| | | |
+| Returns: | [NIL](NIL.html) | |
+| Help: | | Close Method |
 
 ### ODBXDocument-Groups
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [AcDbGroups](AcDbGroups.html) |
-| Help: | Active Groups Method |
+| | | |
+| Returns: | [AcDbGroups](AcDbGroups.html) | |
+| Help: | | Active Groups Method |
 
 ### ODBXDocument-ModelSpace
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [AcDbBlock](AcDbBlock.html) |
-| Help: | ModelSpace Method |
+| | | |
+| Returns: | [AcDbBlock](AcDbBlock.html) | |
+| Help: | | ModelSpace Method |
 
 ### ODBXDocument-Open
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | FN | [FileName](FileName.html) |  |
-| --- | --- | --- |
-| Returns: | [FileName](FileName.html) |
-| Help: | Open Method |
+| | | |
+| Returns: | [FileName](FileName.html) | |
+| Help: | | Open Method |
 
 ### ODBXDocument-PaperSpace
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [AcDbBlock](AcDbBlock.html) |
-| Help: | PaperSpace Method |
+| | | |
+| Returns: | [AcDbBlock](AcDbBlock.html) | |
+| Help: | | PaperSpace Method |
 
 ### ODBXDocument-SZLVData
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | FN | [File-DWG](File-DWG.html) |  |
-| --- | --- | --- |
-| Returns: | [FileName](FileName.html) |
-| Help: | Get SZLVData from Doc |
+| | | |
+| Returns: | [FileName](FileName.html) | |
+| Help: | | Get SZLVData from Doc |
 
 ### ODBXDocument-Save
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [NIL](NIL.html) |
-| Help: | Save Method |
+| | | |
+| Returns: | [NIL](NIL.html) | |
+| Help: | | Save Method |
 
 ### ODBXDocument-UCSs
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [AcDbUCSs](AcDbUCSs.html) |
-| Help: | Active UCSs Method |
+| | | |
+| Returns: | [AcDbUCSs](AcDbUCSs.html) | |
+| Help: | | Active UCSs Method |
 

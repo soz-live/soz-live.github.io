@@ -25,9 +25,9 @@ SZGEPattern-AcDbCurve-Pitch Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | PITCH | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPattern-AcDbCurve-Pitch](SZGEPattern-AcDbCurve-Pitch.html) |
-| Help: | Make a SZGEPattern-AcDbCurve-Pitch |
+| | | |
+| Returns: | [SZGEPattern-AcDbCurve-Pitch](SZGEPattern-AcDbCurve-Pitch.html) | |
+| Help: | | Make a SZGEPattern-AcDbCurve-Pitch |
 
 
 ## Functions:

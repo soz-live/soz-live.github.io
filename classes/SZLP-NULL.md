@@ -24,9 +24,9 @@ SZLP-NULL Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | A | [SZLPLogical](SZLPLogical.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | New SZLP-NULL |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | New SZLP-NULL |
 
 
 ## Functions:

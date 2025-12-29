@@ -25,9 +25,9 @@ SZCOSolid-Sphere Class
 | --------- | --------- | --------- |
 | CENTER | [SZGEPoint](SZGEPoint.html) |  |
 | RADIUS | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Sphere](SZCOSolid-Sphere.html) |
-| Help: | Make a SZCOSolid-Sphere |
+| | | |
+| Returns: | [SZCOSolid-Sphere](SZCOSolid-Sphere.html) | |
+| Help: | | Make a SZCOSolid-Sphere |
 
 
 ## Functions:
@@ -44,7 +44,7 @@ SZCOSolid-Sphere Class
 | --------- | --------- | --------- |
 | O | [SZCOSolid-Sphere](SZCOSolid-Sphere.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-Sphere |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-Sphere |
 

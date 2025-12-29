@@ -24,9 +24,9 @@ String-CSV Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUES | [List:String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [String-CSV](String-CSV.html) |
-| Help: | New String-CSV |
+| | | |
+| Returns: | [String-CSV](String-CSV.html) | |
+| Help: | | New String-CSV |
 
 
 ## Functions:
@@ -42,7 +42,7 @@ String-CSV Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [Strings](Strings.html) |
-| Help: | Convert CSV String to Strings |
+| | | |
+| Returns: | [Strings](Strings.html) | |
+| Help: | | Convert CSV String to Strings |
 

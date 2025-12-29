@@ -24,9 +24,9 @@ SZGEPlane-XLine-Inline Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | XLINE | [AcDbXline](AcDbXline.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane](SZGEPlane.html) |
-| Help: | Make a SZGEPlane-XLine-Inline |
+| | | |
+| Returns: | [SZGEPlane](SZGEPlane.html) | |
+| Help: | | Make a SZGEPlane-XLine-Inline |
 
 
 ## Functions:

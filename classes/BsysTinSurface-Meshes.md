@@ -24,9 +24,9 @@ BsysTinSurface-Meshes
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITIES | [Set:AcDbMesh](AcDbMesh.html) |  |
-| --- | --- | --- |
-| Returns: | [BsysTinSurface](BsysTinSurface.html) |
-| Help: | Creates a TIN Surface |
+| | | |
+| Returns: | [BsysTinSurface](BsysTinSurface.html) | |
+| Help: | | Creates a TIN Surface |
 
 
 ## Functions:

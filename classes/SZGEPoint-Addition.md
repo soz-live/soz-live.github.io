@@ -25,9 +25,9 @@ SZGEPoint-Addition Class
 | --------- | --------- | --------- |
 | BASE | [SZGEPoint](SZGEPoint.html) |  |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-Addition](SZGEPoint-Addition.html) |
-| Help: | Make a SZGEPoint-Addition |
+| | | |
+| Returns: | [SZGEPoint-Addition](SZGEPoint-Addition.html) | |
+| Help: | | Make a SZGEPoint-Addition |
 
 
 ## Functions:

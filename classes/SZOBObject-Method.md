@@ -26,9 +26,9 @@ Create an Object of a Method
 | CN | [SZMAClassName](SZMAClassName.html) |  |
 | MN | [Key](Key.html) |  |
 | ARGS | [List:SZOBBase](SZOBBase.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject-Method](SZOBObject-Method.html) |
-| Help: | Create an Object of a Method |
+| | | |
+| Returns: | [SZOBObject-Method](SZOBObject-Method.html) | |
+| Help: | | Create an Object of a Method |
 
 
 ## Functions:
@@ -44,7 +44,7 @@ Create an Object of a Method
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject-Method](SZOBObject-Method.html) |
-| Help: | Edit a method Object |
+| | | |
+| Returns: | [SZOBObject-Method](SZOBObject-Method.html) | |
+| Help: | | Edit a method Object |
 

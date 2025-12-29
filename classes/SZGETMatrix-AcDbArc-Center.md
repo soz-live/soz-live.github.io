@@ -24,9 +24,9 @@ SZGETMatrix-AcDbArc-Center Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbArc](AcDbArc.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-AcDbArc-Center](SZGETMatrix-AcDbArc-Center.html) |
-| Help: | Make a SZGETMatrix-AcDbArc-Center |
+| | | |
+| Returns: | [SZGETMatrix-AcDbArc-Center](SZGETMatrix-AcDbArc-Center.html) | |
+| Help: | | Make a SZGETMatrix-AcDbArc-Center |
 
 
 ## Functions:

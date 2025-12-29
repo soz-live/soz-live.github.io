@@ -24,9 +24,9 @@ SZLPReal-Reals-Min Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ARRAY | [SZLPReals](SZLPReals.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReal-Reals-Min](SZLPReal-Reals-Min.html) |
-| Help: | Make a SZLPReal-Reals-Min |
+| | | |
+| Returns: | [SZLPReal-Reals-Min](SZLPReal-Reals-Min.html) | |
+| Help: | | Make a SZLPReal-Reals-Min |
 
 
 ## Functions:

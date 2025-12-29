@@ -26,9 +26,9 @@ User Auto Make Structure
 | CN | [SZMAClass](SZMAClass.html) |  |
 | LABEL | [Label](Label.html) |  |
 | UARGS | [List:SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [User-Make-Auto](User-Make-Auto.html) |
-| Help: | Basic User-Make-Auto Constructor |
+| | | |
+| Returns: | [User-Make-Auto](User-Make-Auto.html) | |
+| Help: | | Basic User-Make-Auto Constructor |
 
 
 ## Functions:

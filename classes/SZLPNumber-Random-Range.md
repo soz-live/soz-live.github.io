@@ -24,9 +24,9 @@ Random Number Object using Range
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | RANGE | [SZLPRange](SZLPRange.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPNumber](SZLPNumber.html) |
-| Help: | Make Random Number Object using Range |
+| | | |
+| Returns: | [SZLPNumber](SZLPNumber.html) | |
+| Help: | | Make Random Number Object using Range |
 
 
 ## Functions:

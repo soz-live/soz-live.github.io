@@ -26,9 +26,9 @@ SZCOSolid-Cylinder Class
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | RADIUS | [Real](Real.html) |  |
 | HEIGHT | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Cylinder](SZCOSolid-Cylinder.html) |
-| Help: | Make a SZCOSolid-Cylinder |
+| | | |
+| Returns: | [SZCOSolid-Cylinder](SZCOSolid-Cylinder.html) | |
+| Help: | | Make a SZCOSolid-Cylinder |
 
 
 ## Functions:
@@ -45,7 +45,7 @@ SZCOSolid-Cylinder Class
 | --------- | --------- | --------- |
 | O | [SZCOSolid-Cylinder](SZCOSolid-Cylinder.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-Cylinder |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-Cylinder |
 

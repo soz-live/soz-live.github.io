@@ -26,9 +26,9 @@ SZGELine-MidPoint-Vector-Dist Class
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
 | VECTOR | [SZGEVector](SZGEVector.html) |  |
 | DIST | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELine-MidPoint-Vector-Dist](SZGELine-MidPoint-Vector-Dist.html) |
-| Help: | Make a SZGELine-MidPoint-Vector-Dist |
+| | | |
+| Returns: | [SZGELine-MidPoint-Vector-Dist](SZGELine-MidPoint-Vector-Dist.html) | |
+| Help: | | Make a SZGELine-MidPoint-Vector-Dist |
 
 
 ## Functions:

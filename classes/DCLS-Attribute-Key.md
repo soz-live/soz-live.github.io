@@ -24,9 +24,9 @@ DCL Key Attribute
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Attribute-Key](DCLS-Attribute-Key.html) |
-| Help: | Basic DCLS-Attribute-Key Constructor |
+| | | |
+| Returns: | [DCLS-Attribute-Key](DCLS-Attribute-Key.html) | |
+| Help: | | Basic DCLS-Attribute-Key Constructor |
 
 
 ## Functions:

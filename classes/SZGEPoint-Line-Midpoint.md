@@ -24,9 +24,9 @@ SZGEPoint-Line-MidPoint Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-Line-MidPoint](SZGEPoint-Line-MidPoint.html) |
-| Help: | Make a SZGEPoint-Line-MidPoint |
+| | | |
+| Returns: | [SZGEPoint-Line-MidPoint](SZGEPoint-Line-MidPoint.html) | |
+| Help: | | Make a SZGEPoint-Line-MidPoint |
 
 
 ## Functions:

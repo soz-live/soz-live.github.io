@@ -26,9 +26,9 @@ Basic Block
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | MOBJS | [List:AcDbEntity](AcDbEntity.html) | Model Entities |
 | IOBJS | [List:AcDbEntity](AcDbEntity.html) | Internal Entities |
-| --- | --- | --- |
-| Returns: | [SZCEBlock](SZCEBlock.html) |
-| Help: | Make a Basic Block |
+| | | |
+| Returns: | [SZCEBlock](SZCEBlock.html) | |
+| Help: | | Make a Basic Block |
 
 
 ## Functions:

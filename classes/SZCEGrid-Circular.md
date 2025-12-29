@@ -26,9 +26,9 @@ SZCEGrid-Circular Class
 | MATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | RADII | [SZLPReals](SZLPReals.html) |  |
 | ANGLE | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEGrid-Circular](SZCEGrid-Circular.html) |
-| Help: | Make a SZCEGrid-Circular |
+| | | |
+| Returns: | [SZCEGrid-Circular](SZCEGrid-Circular.html) | |
+| Help: | | Make a SZCEGrid-Circular |
 
 
 ## Functions:

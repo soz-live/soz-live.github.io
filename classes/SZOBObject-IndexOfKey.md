@@ -26,9 +26,9 @@ Create an Object from an Index of a Key
 | OBJ | [SZOBObject](SZOBObject.html) |  |
 | KEY | [Key](Key.html) |  |
 | INDEX | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject-IndexOfKey](SZOBObject-IndexOfKey.html) |
-| Help: | Create an Object from an Index of a Key |
+| | | |
+| Returns: | [SZOBObject-IndexOfKey](SZOBObject-IndexOfKey.html) | |
+| Help: | | Create an Object from an Index of a Key |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ SZGECurves-HelicalCurves Class
 | --------- | --------- | --------- |
 | RIBS | [Integer](Integer.html) |  |
 | DEFN | [SZGE3dCurve-HelicalCurve](SZGE3dCurve-HelicalCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGECurves-HelicalCurves](SZGECurves-HelicalCurves.html) |
-| Help: | Make a SZGECurves-HelicalCurves |
+| | | |
+| Returns: | [SZGECurves-HelicalCurves](SZGECurves-HelicalCurves.html) | |
+| Help: | | Make a SZGECurves-HelicalCurves |
 
 
 ## Functions:

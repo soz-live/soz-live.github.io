@@ -24,9 +24,9 @@ SZLPBoolean Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPBoolean](SZLPBoolean.html) |
-| Help: | Make a SZLPBoolean |
+| | | |
+| Returns: | [SZLPBoolean](SZLPBoolean.html) | |
+| Help: | | Make a SZLPBoolean |
 
 
 ## Functions:

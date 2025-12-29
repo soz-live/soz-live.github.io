@@ -29,9 +29,9 @@ SZCELines-BetweenPointAndCurve Class
 | START | [Boolean](Boolean.html) |  |
 | END | [Boolean](Boolean.html) |  |
 | FLIPPED | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCELines-BetweenPointAndCurve](SZCELines-BetweenPointAndCurve.html) |
-| Help: | Make a SZCELines-BetweenPointAndCurve |
+| | | |
+| Returns: | [SZCELines-BetweenPointAndCurve](SZCELines-BetweenPointAndCurve.html) | |
+| Help: | | Make a SZCELines-BetweenPointAndCurve |
 
 
 ## Functions:

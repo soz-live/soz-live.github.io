@@ -27,9 +27,9 @@ SOZDCLDialog Strings
 | VALUES | [List:String](String.html) |  |
 | VALUE | [String](String.html) |  |
 | MULTI | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Dialog-List-ObjectKeySelect](DCLS-Dialog-List-ObjectKeySelect.html) |
-| Help: | DCLS-Dialog-List-ObjectKeySelect |
+| | | |
+| Returns: | [DCLS-Dialog-List-ObjectKeySelect](DCLS-Dialog-List-ObjectKeySelect.html) | |
+| Help: | | DCLS-Dialog-List-ObjectKeySelect |
 
 
 ## Functions:

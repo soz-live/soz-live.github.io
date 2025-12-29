@@ -25,9 +25,9 @@ SZGELine-AcDbCircle-Axis Class
 | --------- | --------- | --------- |
 | ENTITY | [AcDbCircle](AcDbCircle.html) |  |
 | DIST | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELine-AcDbCircle-Axis](SZGELine-AcDbCircle-Axis.html) |
-| Help: | Make a SZGELine-AcDbCircle-Axis |
+| | | |
+| Returns: | [SZGELine-AcDbCircle-Axis](SZGELine-AcDbCircle-Axis.html) | |
+| Help: | | Make a SZGELine-AcDbCircle-Axis |
 
 
 ## Functions:

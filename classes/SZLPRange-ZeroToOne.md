@@ -23,9 +23,9 @@ SZLPRange-ZeroToOne Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZLPRange-ZeroToOne](SZLPRange-ZeroToOne.html) |
-| Help: | Make a SZLPRange-ZeroToOne |
+| | | |
+| Returns: | [SZLPRange-ZeroToOne](SZLPRange-ZeroToOne.html) | |
+| Help: | | Make a SZLPRange-ZeroToOne |
 
 
 ## Functions:

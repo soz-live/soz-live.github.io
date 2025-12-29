@@ -25,9 +25,9 @@ SZLPRange Class
 | --------- | --------- | --------- |
 | LOW | [Real](Real.html) |  |
 | HIGH | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPRange](SZLPRange.html) |
-| Help: | Make a SZLPRange |
+| | | |
+| Returns: | [SZLPRange](SZLPRange.html) | |
+| Help: | | Make a SZLPRange |
 
 
 ## Functions:

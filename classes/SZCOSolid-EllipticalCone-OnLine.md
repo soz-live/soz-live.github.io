@@ -26,9 +26,9 @@ SZCOSolid-EllipticalCone-OnLine Class
 | LINE | [SZGELine](SZGELine.html) |  |
 | MAJOR | [Real](Real.html) |  |
 | MINOR | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-EllipticalCone-OnLine](SZCOSolid-EllipticalCone-OnLine.html) |
-| Help: | Make a SZCOSolid-EllipticalCone-OnLine |
+| | | |
+| Returns: | [SZCOSolid-EllipticalCone-OnLine](SZCOSolid-EllipticalCone-OnLine.html) | |
+| Help: | | Make a SZCOSolid-EllipticalCone-OnLine |
 
 
 ## Functions:
@@ -45,7 +45,7 @@ SZCOSolid-EllipticalCone-OnLine Class
 | --------- | --------- | --------- |
 | O | [SZCOSolid-EllipticalCone-OnLine](SZCOSolid-EllipticalCone-OnLine.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-EllipticalCone-OnLine |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-EllipticalCone-OnLine |
 

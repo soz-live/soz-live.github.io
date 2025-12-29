@@ -25,9 +25,9 @@ SZCOSolid-Sweep Class
 | --------- | --------- | --------- |
 | PROFILE | [SZCOProfile](SZCOProfile.html) |  |
 | ENTITY | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Sweep](SZCOSolid-Sweep.html) |
-| Help: | Make a SZCOSolid-Sweep |
+| | | |
+| Returns: | [SZCOSolid-Sweep](SZCOSolid-Sweep.html) | |
+| Help: | | Make a SZCOSolid-Sweep |
 
 
 ## Functions:
@@ -44,7 +44,7 @@ SZCOSolid-Sweep Class
 | --------- | --------- | --------- |
 | O | [SZCOSolid-Sweep](SZCOSolid-Sweep.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-Sweep |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-Sweep |
 

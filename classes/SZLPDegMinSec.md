@@ -26,9 +26,9 @@ Deg Min Sec
 | DEG | [Integer](Integer.html) |  |
 | MIN | [Integer](Integer.html) |  |
 | SEC | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPDegMinSec](SZLPDegMinSec.html) |
-| Help: | New SZLPDegMinSec Angle |
+| | | |
+| Returns: | [SZLPDegMinSec](SZLPDegMinSec.html) | |
+| Help: | | New SZLPDegMinSec Angle |
 
 
 ## Functions:

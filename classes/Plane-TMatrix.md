@@ -24,9 +24,9 @@ Plane-TMatrix Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | TMATRIX | [TMatrix](TMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [Plane](Plane.html) |
-| Help: | Make a Plane-TMatrix |
+| | | |
+| Returns: | [Plane](Plane.html) | |
+| Help: | | Make a Plane-TMatrix |
 
 
 ## Functions:

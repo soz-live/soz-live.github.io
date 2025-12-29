@@ -24,9 +24,9 @@ AcDb3dSolid-OnCorridor Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CORRIDOR | [BsysCvDbCorridor](BsysCvDbCorridor.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid-OnCorridor](AcDb3dSolid-OnCorridor.html) |
-| Help: | Creates a Corridor |
+| | | |
+| Returns: | [AcDb3dSolid-OnCorridor](AcDb3dSolid-OnCorridor.html) | |
+| Help: | | Creates a Corridor |
 
 
 ## Functions:

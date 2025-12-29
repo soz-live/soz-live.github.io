@@ -25,9 +25,9 @@ SZGELine-LineToPlane-Vertical Class
 | --------- | --------- | --------- |
 | LINE | [AcDbLine](AcDbLine.html) |  |
 | PLANE | [SZCEPlane](SZCEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELine](SZGELine.html) |
-| Help: | Make a SZGELine-LineToPlane-Vertical |
+| | | |
+| Returns: | [SZGELine](SZGELine.html) | |
+| Help: | | Make a SZGELine-LineToPlane-Vertical |
 
 
 ## Functions:

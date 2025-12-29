@@ -24,9 +24,9 @@ BsysTinSurface-Faces
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITIES | [Set:AcDbFace](AcDbFace.html) |  |
-| --- | --- | --- |
-| Returns: | [BsysTinSurface](BsysTinSurface.html) |
-| Help: | Creates a TIN Surface |
+| | | |
+| Returns: | [BsysTinSurface](BsysTinSurface.html) | |
+| Help: | | Creates a TIN Surface |
 
 
 ## Functions:

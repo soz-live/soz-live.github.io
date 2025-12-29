@@ -27,9 +27,9 @@ Filleted Rebar
 | CURVE | [AcDb3dPolyline](AcDb3dPolyline.html) |  |
 | RADIUS | [Real](Real.html) |  |
 | IOBJS | [List:SZCOFeature-Part](SZCOFeature-Part.html) | Features |
-| --- | --- | --- |
-| Returns: | [SZCEPart-FilletedSweep-Round](SZCEPart-FilletedSweep-Round.html) |
-| Help: | Make Filleted Rebar |
+| | | |
+| Returns: | [SZCEPart-FilletedSweep-Round](SZCEPart-FilletedSweep-Round.html) | |
+| Help: | | Make Filleted Rebar |
 
 
 ## Functions:

@@ -26,9 +26,9 @@ BsysCorridor Class
 | TIN | [BsysTinSurface](BsysTinSurface.html) |  |
 | TEMPLATE | [BsysCvDbCorridorTemplate](BsysCvDbCorridorTemplate.html) |  |
 | POLY | [AcDb3dPolyline](AcDb3dPolyline.html) |  |
-| --- | --- | --- |
-| Returns: | [BsysCorridor](BsysCorridor.html) |
-| Help: | Creates a Corridor |
+| | | |
+| Returns: | [BsysCorridor](BsysCorridor.html) | |
+| Help: | | Creates a Corridor |
 
 
 ## Functions:

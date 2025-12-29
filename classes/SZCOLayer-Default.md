@@ -23,9 +23,9 @@ SZCOLayer-Default Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZCOLayer-Default](SZCOLayer-Default.html) |
-| Help: | Make a SZCOLayer-Default |
+| | | |
+| Returns: | [SZCOLayer-Default](SZCOLayer-Default.html) | |
+| Help: | | Make a SZCOLayer-Default |
 
 
 ## Functions:

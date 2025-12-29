@@ -24,9 +24,9 @@ SZGETMatrix-Line-EndPoint Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-Line-EndPoint](SZGETMatrix-Line-EndPoint.html) |
-| Help: | Make a SZGETMatrix-Line-EndPoint |
+| | | |
+| Returns: | [SZGETMatrix-Line-EndPoint](SZGETMatrix-Line-EndPoint.html) | |
+| Help: | | Make a SZGETMatrix-Line-EndPoint |
 
 
 ## Functions:

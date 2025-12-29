@@ -24,9 +24,9 @@ TMatrix-Translation Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | POINT | [Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | Translation TMatrix Make |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | Translation TMatrix Make |
 
 
 ## Functions:

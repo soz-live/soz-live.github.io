@@ -26,9 +26,9 @@ SZCEArc-CircleSegment Class
 | ENTITY | [AcDbCircle](AcDbCircle.html) |  |
 | STARTANG | [Deg](Deg.html) |  |
 | ENDANG | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEArc-CircleSegment](SZCEArc-CircleSegment.html) |
-| Help: | Make a SZCEArc-CircleSegment |
+| | | |
+| Returns: | [SZCEArc-CircleSegment](SZCEArc-CircleSegment.html) | |
+| Help: | | Make a SZCEArc-CircleSegment |
 
 
 ## Functions:

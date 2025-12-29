@@ -24,12 +24,12 @@ AcDbAttributeMode
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-AcDbAttributeMode](Enum-AcDbAttributeMode.html) |  |
-| --- | --- | --- |
-| Returns: | [Enum-AcDbAttributeMode](Enum-AcDbAttributeMode.html) |
-| Help: | Enum-AcDbAttributeMode |
+| | | |
+| Returns: | [Enum-AcDbAttributeMode](Enum-AcDbAttributeMode.html) | |
+| Help: | | Enum-AcDbAttributeMode |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

@@ -25,9 +25,9 @@ Real Random Number between LOW and HIGH
 | --------- | --------- | --------- |
 | LOW | [Number](Number.html) |  |
 | HIGH | [Number](Number.html) |  |
-| --- | --- | --- |
-| Returns: | [Number](Number.html) |
-| Help: | Real Random Number between Low & High |
+| | | |
+| Returns: | [Number](Number.html) | |
+| Help: | | Real Random Number between Low & High |
 
 
 ## Functions:

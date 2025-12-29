@@ -27,9 +27,9 @@ User Auto Method Structure
 | LABEL | [Label](Label.html) |  |
 | MN | [SZMAMethod](SZMAMethod.html) |  |
 | UARGS | [List:SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [User-Method-Auto](User-Method-Auto.html) |
-| Help: | Basic User-Method-Auto Constructor |
+| | | |
+| Returns: | [User-Method-Auto](User-Method-Auto.html) | |
+| Help: | | Basic User-Method-Auto Constructor |
 
 
 ## Functions:

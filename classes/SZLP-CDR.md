@@ -24,9 +24,9 @@ CDR Function
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LST | [SZLPList](SZLPList.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject](SZOBObject.html) |
-| Help: | CDR Function |
+| | | |
+| Returns: | [SZOBObject](SZOBObject.html) | |
+| Help: | | CDR Function |
 
 
 ## Functions:

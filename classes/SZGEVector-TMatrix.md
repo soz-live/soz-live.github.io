@@ -25,9 +25,9 @@ SZGEVector-TMatrix Class
 | --------- | --------- | --------- |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | VECTOR | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEVector-TMatrix](SZGEVector-TMatrix.html) |
-| Help: | Make a SZGEVector-TMatrix |
+| | | |
+| Returns: | [SZGEVector-TMatrix](SZGEVector-TMatrix.html) | |
+| Help: | | Make a SZGEVector-TMatrix |
 
 
 ## Functions:

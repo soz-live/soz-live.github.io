@@ -24,9 +24,9 @@ RGB Color
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [SZLPColor](SZLPColor.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOColor-RGB](SZCOColor-RGB.html) |
-| Help: | RGB Color |
+| | | |
+| Returns: | [SZCOColor-RGB](SZCOColor-RGB.html) | |
+| Help: | | RGB Color |
 
 
 ## Functions:

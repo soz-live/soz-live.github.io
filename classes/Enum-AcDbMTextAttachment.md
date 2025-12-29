@@ -24,12 +24,12 @@ AcDbMTextAttachment value
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-AcDbMTextAttachment](Enum-AcDbMTextAttachment.html) |  |
-| --- | --- | --- |
-| Returns: | [Enum-AcDbMTextAttachment](Enum-AcDbMTextAttachment.html) |
-| Help: | Enum-AcDbMTextAttachment |
+| | | |
+| Returns: | [Enum-AcDbMTextAttachment](Enum-AcDbMTextAttachment.html) | |
+| Help: | | Enum-AcDbMTextAttachment |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

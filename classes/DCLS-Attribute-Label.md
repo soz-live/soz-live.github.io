@@ -24,9 +24,9 @@ DCL Label Attribute
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Attribute-Label](DCLS-Attribute-Label.html) |
-| Help: | Basic DCLS-Attribute-Label Constructor |
+| | | |
+| Returns: | [DCLS-Attribute-Label](DCLS-Attribute-Label.html) | |
+| Help: | | Basic DCLS-Attribute-Label Constructor |
 
 
 ## Functions:

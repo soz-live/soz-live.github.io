@@ -25,9 +25,9 @@ SZCOSection-Pipe Class
 | --------- | --------- | --------- |
 | OD | [Real](Real.html) |  |
 | THICK | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSection-Pipe](SZCOSection-Pipe.html) |
-| Help: | CHS Centred on the Curve |
+| | | |
+| Returns: | [SZCOSection-Pipe](SZCOSection-Pipe.html) | |
+| Help: | | CHS Centred on the Curve |
 
 
 ## Functions:

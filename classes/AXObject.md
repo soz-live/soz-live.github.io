@@ -33,7 +33,7 @@ AXObject Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [AXObject](AXObject.html) |  |
-| --- | --- | --- |
-| Returns: | [SOZID](SOZID.html) |
-| Help: | Converts an AXObject to SOZID |
+| | | |
+| Returns: | [SOZID](SOZID.html) | |
+| Help: | | Converts an AXObject to SOZID |
 

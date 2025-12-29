@@ -27,9 +27,9 @@ Base Animation Effect-Real Class
 | START | [Integer](Integer.html) |  |
 | FINISH | [Integer](Integer.html) |  |
 | SEQUENCE | [SZOBAnimate-Sequence-Real](SZOBAnimate-Sequence-Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBAnimate-Effect-Real](SZOBAnimate-Effect-Real.html) |
-| Help: | Make Animation Effect-Real |
+| | | |
+| Returns: | [SZOBAnimate-Effect-Real](SZOBAnimate-Effect-Real.html) | |
+| Help: | | Make Animation Effect-Real |
 
 
 ## Functions:

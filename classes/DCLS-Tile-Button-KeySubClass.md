@@ -24,9 +24,9 @@ DCL KeySubClass Button
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Tile-Button-KeySubClass](DCLS-Tile-Button-KeySubClass.html) |
-| Help: | KeySubClass Button Constructor |
+| | | |
+| Returns: | [DCLS-Tile-Button-KeySubClass](DCLS-Tile-Button-KeySubClass.html) | |
+| Help: | | KeySubClass Button Constructor |
 
 
 ## Functions:

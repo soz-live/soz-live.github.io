@@ -24,9 +24,9 @@ Integer
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [Integer](Integer.html) |
-| Help: | New Integer |
+| | | |
+| Returns: | [Integer](Integer.html) | |
+| Help: | | New Integer |
 
 
 ## Functions:
@@ -42,16 +42,16 @@ Integer
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Convert Integer to Real |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Convert Integer to Real |
 
 ### Integer->String
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | Convert Integer to String |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | Convert Integer to String |
 

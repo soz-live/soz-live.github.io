@@ -26,9 +26,9 @@ TwistedChain Model
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | LINK | [SZCESling-TwistedLink](SZCESling-TwistedLink.html) |  |
 | STARTANG | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCESling-TwistedChain](SZCESling-TwistedChain.html) |
-| Help: | Make TwistedChain Model |
+| | | |
+| Returns: | [SZCESling-TwistedChain](SZCESling-TwistedChain.html) | |
+| Help: | | Make TwistedChain Model |
 
 
 ## Functions:

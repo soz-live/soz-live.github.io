@@ -28,9 +28,9 @@ PointCloud Random
 | XRANGE | [SZLPRange](SZLPRange.html) |  |
 | YRANGE | [SZLPRange](SZLPRange.html) |  |
 | ZRANGE | [SZLPRange](SZLPRange.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPointCloud-Random](SZCEPointCloud-Random.html) |
-| Help: | Make PointCloud Random |
+| | | |
+| Returns: | [SZCEPointCloud-Random](SZCEPointCloud-Random.html) | |
+| Help: | | Make PointCloud Random |
 
 
 ## Functions:

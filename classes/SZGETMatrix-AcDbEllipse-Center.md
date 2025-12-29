@@ -24,9 +24,9 @@ SZGETMatrix-AcDbEllipse-Center Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbEllipse](AcDbEllipse.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-AcDbEllipse-Center](SZGETMatrix-AcDbEllipse-Center.html) |
-| Help: | Make a SZGETMatrix-AcDbEllipse-Center |
+| | | |
+| Returns: | [SZGETMatrix-AcDbEllipse-Center](SZGETMatrix-AcDbEllipse-Center.html) | |
+| Help: | | Make a SZGETMatrix-AcDbEllipse-Center |
 
 
 ## Functions:

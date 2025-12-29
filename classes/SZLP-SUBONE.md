@@ -24,9 +24,9 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NUM | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [Integer](Integer.html) |
-| Help: | 1- Function |
+| | | |
+| Returns: | [Integer](Integer.html) | |
+| Help: | | 1- Function |
 
 
 ## Functions:

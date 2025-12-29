@@ -24,9 +24,9 @@ SZGEVector-Negate Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VECTOR | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEVector-Negate](SZGEVector-Negate.html) |
-| Help: | Make a SZGEVector-Negate |
+| | | |
+| Returns: | [SZGEVector-Negate](SZGEVector-Negate.html) | |
+| Help: | | Make a SZGEVector-Negate |
 
 
 ## Functions:

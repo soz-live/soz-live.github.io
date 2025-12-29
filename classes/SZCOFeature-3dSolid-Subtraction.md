@@ -25,9 +25,9 @@ Subtraction Solid Feature
 | --------- | --------- | --------- |
 | SOLID | [SZCOSolid](SZCOSolid.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
-| --- | --- | --- |
-| Returns: | [SZCOFeature-3dSolid-Subtraction](SZCOFeature-3dSolid-Subtraction.html) |
-| Help: | Subtraction Feature |
+| | | |
+| Returns: | [SZCOFeature-3dSolid-Subtraction](SZCOFeature-3dSolid-Subtraction.html) | |
+| Help: | | Subtraction Feature |
 
 
 ## Functions:

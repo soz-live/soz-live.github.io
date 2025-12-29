@@ -25,9 +25,9 @@ Member End Point
 | --------- | --------- | --------- |
 | MEM | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
 | END | [Enum-Member-End](Enum-Member-End.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-Member-End](SZGEPoint-Member-End.html) |
-| Help: | Make a Member End Point |
+| | | |
+| Returns: | [SZGEPoint-Member-End](SZGEPoint-Member-End.html) | |
+| Help: | | Make a Member End Point |
 
 
 ## Functions:

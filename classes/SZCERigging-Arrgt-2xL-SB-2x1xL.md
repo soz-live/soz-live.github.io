@@ -29,9 +29,9 @@ Rigging 2xL-SB-2x1xL Class
 | LLEG | [SZCERigging-Leg](SZCERigging-Leg.html) |  |
 | BASE0 | [SZGEPoint](SZGEPoint.html) |  |
 | BASE1 | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-Arrgt-2xL-SB-2x1xL](SZCERigging-Arrgt-2xL-SB-2x1xL.html) |
-| Help: | Rigging 2xL-SB-2x1xL |
+| | | |
+| Returns: | [SZCERigging-Arrgt-2xL-SB-2x1xL](SZCERigging-Arrgt-2xL-SB-2x1xL.html) | |
+| Help: | | Rigging 2xL-SB-2x1xL |
 
 
 ## Functions:

@@ -26,9 +26,9 @@ SZCEBlockRef Class
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | DEF | [SZCEBlockDef](SZCEBlockDef.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEBlockRef](SZCEBlockRef.html) |
-| Help: | Base Model Reference |
+| | | |
+| Returns: | [SZCEBlockRef](SZCEBlockRef.html) | |
+| Help: | | Base Model Reference |
 
 
 ## Functions:

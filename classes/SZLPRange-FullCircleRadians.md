@@ -23,9 +23,9 @@ SZLPRange-FullCircleRadians Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZLPRange-FullCircleRadians](SZLPRange-FullCircleRadians.html) |
-| Help: | Make a SZLPRange-FullCircleRadians |
+| | | |
+| Returns: | [SZLPRange-FullCircleRadians](SZLPRange-FullCircleRadians.html) | |
+| Help: | | Make a SZLPRange-FullCircleRadians |
 
 
 ## Functions:

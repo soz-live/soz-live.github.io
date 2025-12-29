@@ -26,9 +26,9 @@ WorldRef Reference Feature
 | MODEL | [SZCEModelRef](SZCEModelRef.html) |  |
 | WMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
-| --- | --- | --- |
-| Returns: | [SZCOFeature-Assy-WorldRef](SZCOFeature-Assy-WorldRef.html) |
-| Help: | Make a SZCOFeature-Assy-WorldRef |
+| | | |
+| Returns: | [SZCOFeature-Assy-WorldRef](SZCOFeature-Assy-WorldRef.html) | |
+| Help: | | Make a SZCOFeature-Assy-WorldRef |
 
 
 ## Functions:

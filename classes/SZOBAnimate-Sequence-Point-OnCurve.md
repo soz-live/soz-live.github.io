@@ -25,9 +25,9 @@ OnCurve Animation Sequence Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | SEQUENCE | [SZOBAnimate-Sequence-Real](SZOBAnimate-Sequence-Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBAnimate-Sequence-Point-OnCurve](SZOBAnimate-Sequence-Point-OnCurve.html) |
-| Help: | Make Animation Sequence-Point |
+| | | |
+| Returns: | [SZOBAnimate-Sequence-Point-OnCurve](SZOBAnimate-Sequence-Point-OnCurve.html) | |
+| Help: | | Make Animation Sequence-Point |
 
 
 ## Functions:

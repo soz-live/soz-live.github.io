@@ -24,9 +24,9 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NUMS | [List:SZLP-Number](SZLP-Number.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | =S Function |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | =S Function |
 
 
 ## Functions:

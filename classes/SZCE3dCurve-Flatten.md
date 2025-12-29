@@ -24,9 +24,9 @@ SZCE3dCurve-Flatten Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDb3dPolyline](AcDb3dPolyline.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) |
-| Help: | Flattened AcDb3dPolyline |
+| | | |
+| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) | |
+| Help: | | Flattened AcDb3dPolyline |
 
 
 ## Functions:

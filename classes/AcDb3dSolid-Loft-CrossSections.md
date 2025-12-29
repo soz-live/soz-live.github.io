@@ -25,9 +25,9 @@ Loft-CrossSections
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | REGIONS | [List:AcDbRegion](AcDbRegion.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid-Loft-CrossSections](AcDb3dSolid-Loft-CrossSections.html) |
-| Help: | Make Loft-CrossSections |
+| | | |
+| Returns: | [AcDb3dSolid-Loft-CrossSections](AcDb3dSolid-Loft-CrossSections.html) | |
+| Help: | | Make Loft-CrossSections |
 
 
 ## Functions:

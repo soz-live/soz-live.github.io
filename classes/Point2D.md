@@ -25,9 +25,9 @@ Point2D Class
 | --------- | --------- | --------- |
 | X | [Real](Real.html) |  |
 | Y | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Point2D](Point2D.html) |
-| Help: | Creates a Point2D of X Y values |
+| | | |
+| Returns: | [Point2D](Point2D.html) | |
+| Help: | | Creates a Point2D of X Y values |
 
 
 ## Functions:

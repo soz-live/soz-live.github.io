@@ -26,9 +26,9 @@ Offset Plane
 | POINT | [Point](Point.html) |  |
 | NORMAL | [Vector](Vector.html) |  |
 | OFFSET | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Plane](Plane.html) |
-| Help: | Offset Plane |
+| | | |
+| Returns: | [Plane](Plane.html) | |
+| Help: | | Offset Plane |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ SZCOSolid-Cube Class
 | --------- | --------- | --------- |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | SIDE | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Cube](SZCOSolid-Cube.html) |
-| Help: | Make a SZCOSolid-Cube |
+| | | |
+| Returns: | [SZCOSolid-Cube](SZCOSolid-Cube.html) | |
+| Help: | | Make a SZCOSolid-Cube |
 
 
 ## Functions:
@@ -44,7 +44,7 @@ SZCOSolid-Cube Class
 | --------- | --------- | --------- |
 | O | [SZCOSolid-Cube](SZCOSolid-Cube.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-Cube |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-Cube |
 

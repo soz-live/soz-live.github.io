@@ -25,9 +25,9 @@ Rigging WireGrommet Class
 | --------- | --------- | --------- |
 | LABEL | [Comment](Comment.html) |  |
 | MODEL | [SZCERiggingDef-Link](SZCERiggingDef-Link.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-WireGrommet](SZCERigging-WireGrommet.html) |
-| Help: | Make Wire Grommet |
+| | | |
+| Returns: | [SZCERigging-WireGrommet](SZCERigging-WireGrommet.html) | |
+| Help: | | Make Wire Grommet |
 
 
 ## Functions:

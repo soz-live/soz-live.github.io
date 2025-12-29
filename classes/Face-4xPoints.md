@@ -27,9 +27,9 @@ Face-4xPoints Class
 | POINT1 | [Point](Point.html) |  |
 | POINT2 | [Point](Point.html) |  |
 | POINT3 | [Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [Face-4xPoints](Face-4xPoints.html) |
-| Help: | Make a Face-4xPoints |
+| | | |
+| Returns: | [Face-4xPoints](Face-4xPoints.html) | |
+| Help: | | Make a Face-4xPoints |
 
 
 ## Functions:

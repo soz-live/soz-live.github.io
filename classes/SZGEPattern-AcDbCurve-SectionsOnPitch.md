@@ -25,9 +25,9 @@ SZGEPattern-AcDbCurve-SectionsOnPitch Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | PITCH | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPattern-AcDbCurve-SectionsOnPitch](SZGEPattern-AcDbCurve-SectionsOnPitch.html) |
-| Help: | Make a SZGEPattern-AcDbCurve-SectionsOnPitch |
+| | | |
+| Returns: | [SZGEPattern-AcDbCurve-SectionsOnPitch](SZGEPattern-AcDbCurve-SectionsOnPitch.html) | |
+| Help: | | Make a SZGEPattern-AcDbCurve-SectionsOnPitch |
 
 
 ## Functions:

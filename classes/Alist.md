@@ -34,9 +34,9 @@ Basic Alist - key value pairs
 | --------- | --------- | --------- |
 | AL | [Alist](Alist.html) |  |
 | K | [Atom](Atom.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBBase](SZOBBase.html) |
-| Help: | Get an Alist Key |
+| | | |
+| Returns: | [SZOBBase](SZOBBase.html) | |
+| Help: | | Get an Alist Key |
 
 ### Alist-SetKey
 
@@ -45,7 +45,7 @@ Basic Alist - key value pairs
 | AL | [Alist](Alist.html) |  |
 | K | [Atom](Atom.html) |  |
 | V | [SZOBBase](SZOBBase.html) |  |
-| --- | --- | --- |
-| Returns: | [Alist](Alist.html) |
-| Help: | Set an Alist Key |
+| | | |
+| Returns: | [Alist](Alist.html) | |
+| Help: | | Set an Alist Key |
 

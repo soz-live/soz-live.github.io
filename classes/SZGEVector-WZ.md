@@ -23,9 +23,9 @@ SZGEVector-WZ Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZGEVector-WZ](SZGEVector-WZ.html) |
-| Help: | Make a SZGEVector-WZ |
+| | | |
+| Returns: | [SZGEVector-WZ](SZGEVector-WZ.html) | |
+| Help: | | Make a SZGEVector-WZ |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ SZGEPoint-OnCurve-DistFromStart Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | DIST | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-OnCurve-DistFromStart](SZGEPoint-OnCurve-DistFromStart.html) |
-| Help: | Make a SZGEPoint-OnCurve-DistFromStart |
+| | | |
+| Returns: | [SZGEPoint-OnCurve-DistFromStart](SZGEPoint-OnCurve-DistFromStart.html) | |
+| Help: | | Make a SZGEPoint-OnCurve-DistFromStart |
 
 
 ## Functions:

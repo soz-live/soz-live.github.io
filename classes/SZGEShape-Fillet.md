@@ -25,9 +25,9 @@ Fillet Shape
 | --------- | --------- | --------- |
 | RADIUS | [Real](Real.html) |  |
 | ANG | [Deg](Deg.html) | Included Angle |
-| --- | --- | --- |
-| Returns: | [SZGEShape-Fillet](SZGEShape-Fillet.html) |
-| Help: | Fillet Shape |
+| | | |
+| Returns: | [SZGEShape-Fillet](SZGEShape-Fillet.html) | |
+| Help: | | Fillet Shape |
 
 
 ## Functions:

@@ -29,9 +29,9 @@ Spreader Bar Object
 | UWIDTH | [Real](Real.html) |  |
 | LWIDTH | [Real](Real.html) |  |
 | DEPTH | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCORigging-SpreaderBar](SZCORigging-SpreaderBar.html) |
-| Help: | SpreaderBar |
+| | | |
+| Returns: | [SZCORigging-SpreaderBar](SZCORigging-SpreaderBar.html) | |
+| Help: | | SpreaderBar |
 
 
 ## Functions:

@@ -24,9 +24,9 @@ SZLP-LISTP Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | A | [SZLPList](SZLPList.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | New SZLP-LISTP |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | New SZLP-LISTP |
 
 
 ## Functions:

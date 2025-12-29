@@ -34,25 +34,25 @@ Face Class
 | --------- | --------- | --------- |
 | O | [Face](Face.html) |  |
 | L | [Line](Line.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Face LineIntersect |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Face LineIntersect |
 
 ### Face-Plane
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [Face](Face.html) |  |
-| --- | --- | --- |
-| Returns: | [Plane](Plane.html) |
-| Help: | Face Plane |
+| | | |
+| Returns: | [Plane](Plane.html) | |
+| Help: | | Face Plane |
 
 ### Face-TMatrix
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | FACE | [Face](Face.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | Face TMatrix |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | Face TMatrix |
 

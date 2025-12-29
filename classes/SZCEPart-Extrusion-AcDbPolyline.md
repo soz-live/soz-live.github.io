@@ -27,9 +27,9 @@ SZCEPart-Extrusion-AcDbPolyline Class
 | HEIGHT | [Real](Real.html) |  |
 | EXTRUDE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
 | IOBJS | [List:SZCOFeature-Part](SZCOFeature-Part.html) | Features |
-| --- | --- | --- |
-| Returns: | [SZCEPart-Extrusion-AcDbPolyline](SZCEPart-Extrusion-AcDbPolyline.html) |
-| Help: | Make a SZCEPart-Extrusion-AcDbPolyline |
+| | | |
+| Returns: | [SZCEPart-Extrusion-AcDbPolyline](SZCEPart-Extrusion-AcDbPolyline.html) | |
+| Help: | | Make a SZCEPart-Extrusion-AcDbPolyline |
 
 
 ## Functions:

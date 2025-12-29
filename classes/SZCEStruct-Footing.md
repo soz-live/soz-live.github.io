@@ -27,9 +27,9 @@ Structural Footing
 | XPLANE | [SZCEPlane](SZCEPlane.html) |  |
 | YPLANE | [SZCEPlane](SZCEPlane.html) |  |
 | ZPLANE | [SZCEPlane](SZCEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-Footing](SZCEStruct-Footing.html) |
-| Help: | Linear Structural Footing |
+| | | |
+| Returns: | [SZCEStruct-Footing](SZCEStruct-Footing.html) | |
+| Help: | | Linear Structural Footing |
 
 
 ## Functions:

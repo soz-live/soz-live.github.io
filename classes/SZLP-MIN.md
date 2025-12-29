@@ -24,9 +24,9 @@ MIN Function
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NUMS | [List:Number](Number.html) |  |
-| --- | --- | --- |
-| Returns: | [Number](Number.html) |
-| Help: | MIN Function |
+| | | |
+| Returns: | [Number](Number.html) | |
+| Help: | | MIN Function |
 
 
 ## Functions:

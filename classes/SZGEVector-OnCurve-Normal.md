@@ -25,9 +25,9 @@ SZGEVector-OnCurve-Normal Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEVector-OnCurve-Normal](SZGEVector-OnCurve-Normal.html) |
-| Help: | Make a SZGEVector-OnCurve-Normal |
+| | | |
+| Returns: | [SZGEVector-OnCurve-Normal](SZGEVector-OnCurve-Normal.html) | |
+| Help: | | Make a SZGEVector-OnCurve-Normal |
 
 
 ## Functions:

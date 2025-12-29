@@ -26,9 +26,9 @@ SZCEPartRef Class
 | PDEF | [SZCEModelDef](SZCEModelDef.html) |  |
 | DEF | [SZCEPart](SZCEPart.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPartRef](SZCEPartRef.html) |
-| Help: | Basic Part Reference |
+| | | |
+| Returns: | [SZCEPartRef](SZCEPartRef.html) | |
+| Help: | | Basic Part Reference |
 
 
 ## Functions:

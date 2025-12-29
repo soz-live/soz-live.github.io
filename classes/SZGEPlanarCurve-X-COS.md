@@ -24,9 +24,9 @@ curve using x and cos
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlanarCurve](SZGEPlanarCurve.html) |
-| Help: | curve using x and cos |
+| | | |
+| Returns: | [SZGEPlanarCurve](SZGEPlanarCurve.html) | |
+| Help: | | curve using x and cos |
 
 
 ## Functions:

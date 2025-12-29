@@ -23,9 +23,9 @@ SZGETMatrix-Unit Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-Unit](SZGETMatrix-Unit.html) |
-| Help: | Make a SZGETMatrix-Unit |
+| | | |
+| Returns: | [SZGETMatrix-Unit](SZGETMatrix-Unit.html) | |
+| Help: | | Make a SZGETMatrix-Unit |
 
 
 ## Functions:

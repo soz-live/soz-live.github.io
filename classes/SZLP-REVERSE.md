@@ -24,9 +24,9 @@ REVERSE Function
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LST | [SZLPList](SZLPList.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | REVERSE Function |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | REVERSE Function |
 
 
 ## Functions:

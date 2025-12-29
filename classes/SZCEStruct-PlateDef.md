@@ -26,9 +26,9 @@ Plate Definition
 | PROFILE | [SZCOProfile](SZCOProfile.html) |  |
 | HEIGHT | [Real](Real.html) |  |
 | IOBJS | [List:SZCOFeature-Part](SZCOFeature-Part.html) | Features |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-PlateDef](SZCEStruct-PlateDef.html) |
-| Help: | Make a Plate Definition |
+| | | |
+| Returns: | [SZCEStruct-PlateDef](SZCEStruct-PlateDef.html) | |
+| Help: | | Make a Plate Definition |
 
 
 ## Functions:

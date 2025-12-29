@@ -23,9 +23,9 @@ A Structural MemberCutBack Connection
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-Connection-MemberCutBack](SZCEStruct-Connection-MemberCutBack.html) |
-| Help: | Make a Structural MemberCutBack Connection |
+| | | |
+| Returns: | [SZCEStruct-Connection-MemberCutBack](SZCEStruct-Connection-MemberCutBack.html) | |
+| Help: | | Make a Structural MemberCutBack Connection |
 
 
 ## Functions:

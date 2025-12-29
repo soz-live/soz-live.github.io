@@ -27,9 +27,9 @@ AcDbCircle Class
 | CENTER | [SZGEPoint](SZGEPoint.html) |  |
 | NORMAL | [SZGEVector](SZGEVector.html) |  |
 | RADIUS | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbCircle](AcDbCircle.html) |
-| Help: | Make an AcDbCircle |
+| | | |
+| Returns: | [AcDbCircle](AcDbCircle.html) | |
+| Help: | | Make an AcDbCircle |
 
 
 ## Functions:
@@ -45,52 +45,52 @@ AcDbCircle Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbCircle](AcDbCircle.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Area of an AcDbCircle |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Area of an AcDbCircle |
 
 ### AcDbCircle-Center
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbCircle](AcDbCircle.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Center of an AcDbCircle |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Center of an AcDbCircle |
 
 ### AcDbCircle-Circumference
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbCircle](AcDbCircle.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Circumference of an AcDbCircle |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Circumference of an AcDbCircle |
 
 ### AcDbCircle-Diameter
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbCircle](AcDbCircle.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Diameter of an AcDbCircle |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Diameter of an AcDbCircle |
 
 ### AcDbCircle-Normal
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbCircle](AcDbCircle.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Normal of an AcDbCircle |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Normal of an AcDbCircle |
 
 ### AcDbCircle-Radius
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbCircle](AcDbCircle.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Radius of an AcDbCircle |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Radius of an AcDbCircle |
 

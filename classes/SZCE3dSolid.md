@@ -25,9 +25,9 @@
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | SOLID | [SZCOSolid](SZCOSolid.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCE3dSolid](SZCE3dSolid.html) |
-| Help: | Make a 3dSolid using a SZCOSolid |
+| | | |
+| Returns: | [SZCE3dSolid](SZCE3dSolid.html) | |
+| Help: | | Make a 3dSolid using a SZCOSolid |
 
 
 ## Functions:

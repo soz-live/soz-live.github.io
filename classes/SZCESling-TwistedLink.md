@@ -24,9 +24,9 @@ TwistedLink Block
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LOOP | [SZGE3dCurve-TwistedSling](SZGE3dCurve-TwistedSling.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCESling-TwistedLink](SZCESling-TwistedLink.html) |
-| Help: | Make TwistedLink Block |
+| | | |
+| Returns: | [SZCESling-TwistedLink](SZCESling-TwistedLink.html) | |
+| Help: | | Make TwistedLink Block |
 
 
 ## Functions:

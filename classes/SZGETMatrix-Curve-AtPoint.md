@@ -25,9 +25,9 @@ SZGETMatrix-Curve-AtPoint Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-Curve-AtPoint](SZGETMatrix-Curve-AtPoint.html) |
-| Help: | Make a SZGETMatrix-Curve-AtPoint |
+| | | |
+| Returns: | [SZGETMatrix-Curve-AtPoint](SZGETMatrix-Curve-AtPoint.html) | |
+| Help: | | Make a SZGETMatrix-Curve-AtPoint |
 
 
 ## Functions:

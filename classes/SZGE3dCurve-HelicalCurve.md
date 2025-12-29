@@ -27,9 +27,9 @@ SZGE3dCurve-HelicalCurve Class
 | TURNS | [Real](Real.html) |  |
 | START | [Deg](Deg.html) |  |
 | CCW | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGE3dCurve-HelicalCurve](SZGE3dCurve-HelicalCurve.html) |
-| Help: | Make a SZGE3dCurve-HelicalCurve |
+| | | |
+| Returns: | [SZGE3dCurve-HelicalCurve](SZGE3dCurve-HelicalCurve.html) | |
+| Help: | | Make a SZGE3dCurve-HelicalCurve |
 
 
 ## Functions:

@@ -27,9 +27,9 @@ SZCOSection-FilletedRHS Class
 | DEPTH | [Real](Real.html) |  |
 | THICK | [Real](Real.html) |  |
 | OUTRAD | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSection-FilletedRHS](SZCOSection-FilletedRHS.html) |
-| Help: | Make a SZCOSection-FilletedRHS |
+| | | |
+| Returns: | [SZCOSection-FilletedRHS](SZCOSection-FilletedRHS.html) | |
+| Help: | | Make a SZCOSection-FilletedRHS |
 
 
 ## Functions:

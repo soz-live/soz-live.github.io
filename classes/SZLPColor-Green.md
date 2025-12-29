@@ -23,9 +23,9 @@ SZLPColor-Green Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZLPColor](SZLPColor.html) |
-| Help: | Make a SZLPColor-Green |
+| | | |
+| Returns: | [SZLPColor](SZLPColor.html) | |
+| Help: | | Make a SZLPColor-Green |
 
 
 ## Functions:

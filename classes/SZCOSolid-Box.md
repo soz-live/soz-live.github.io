@@ -27,9 +27,9 @@ SZCOSolid-Box Class
 | LEN | [Real](Real.html) |  |
 | WIDTH | [Real](Real.html) |  |
 | HEIGHT | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Box](SZCOSolid-Box.html) |
-| Help: | Make a SZCOSolid-Box |
+| | | |
+| Returns: | [SZCOSolid-Box](SZCOSolid-Box.html) | |
+| Help: | | Make a SZCOSolid-Box |
 
 
 ## Functions:
@@ -46,7 +46,7 @@ SZCOSolid-Box Class
 | --------- | --------- | --------- |
 | O | [SZCOSolid-Box](SZCOSolid-Box.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-Box |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-Box |
 

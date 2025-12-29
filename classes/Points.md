@@ -24,9 +24,9 @@ Points Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | POINTS | [List:Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [Points](Points.html) |
-| Help: | Make a Points |
+| | | |
+| Returns: | [Points](Points.html) | |
+| Help: | | Make a Points |
 
 
 ## Functions:
@@ -42,45 +42,45 @@ Points Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | POINTS | [Points](Points.html) |  |
-| --- | --- | --- |
-| Returns: | [AxPoint3Ds](AxPoint3Ds.html) |
-| Help: | Points >AxPoint3Ds |
+| | | |
+| Returns: | [AxPoint3Ds](AxPoint3Ds.html) | |
+| Help: | | Points >AxPoint3Ds |
 
 ### Points->Lines
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | POINTS | [Points](Points.html) |  |
-| --- | --- | --- |
-| Returns: | [Lines](Lines.html) |
-| Help: | Points >Lines |
+| | | |
+| Returns: | [Lines](Lines.html) | |
+| Help: | | Points >Lines |
 
 ### Points-Extents
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | POINTS | [Points](Points.html) |  |
-| --- | --- | --- |
-| Returns: | [Points](Points.html) |
-| Help: | Points Extents |
+| | | |
+| Returns: | [Points](Points.html) | |
+| Help: | | Points Extents |
 
 ### Points-Flatten
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | POINTS | [Points](Points.html) |  |
-| --- | --- | --- |
-| Returns: | [Points](Points.html) |
-| Help: | Flatten Points |
+| | | |
+| Returns: | [Points](Points.html) | |
+| Help: | | Flatten Points |
 
 ### Points-RadiallySorted
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | POINTS | [Points](Points.html) |  |
-| --- | --- | --- |
-| Returns: | [Points](Points.html) |
-| Help: | Points RadiallySorted |
+| | | |
+| Returns: | [Points](Points.html) | |
+| Help: | | Points RadiallySorted |
 
 ### Points-TransformBy
 
@@ -88,7 +88,7 @@ Points Class
 | --------- | --------- | --------- |
 | POINTS | [Points](Points.html) |  |
 | TM | [TMatrix](TMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [Points](Points.html) |
-| Help: | Points TransformBy |
+| | | |
+| Returns: | [Points](Points.html) | |
+| Help: | | Points TransformBy |
 

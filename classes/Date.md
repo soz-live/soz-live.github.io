@@ -29,9 +29,9 @@
 | HOUR | [Hour](Hour.html) |  |
 | MINUTE | [Minute](Minute.html) |  |
 | SECOND | [Second](Second.html) |  |
-| --- | --- | --- |
-| Returns: | [Date](Date.html) |
-| Help: | YYYYMMDD.HHMMSS |
+| | | |
+| Returns: | [Date](Date.html) | |
+| Help: | | YYYYMMDD.HHMMSS |
 
 
 ## Functions:

@@ -24,9 +24,9 @@ NOT Function
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | A | [SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | Not Function |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | Not Function |
 
 
 ## Functions:

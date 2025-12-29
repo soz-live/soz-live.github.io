@@ -23,9 +23,9 @@ Current Visual
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZCOVisual-Current](SZCOVisual-Current.html) |
-| Help: | Current Visual Settings |
+| | | |
+| Returns: | [SZCOVisual-Current](SZCOVisual-Current.html) | |
+| Help: | | Current Visual Settings |
 
 
 ## Functions:

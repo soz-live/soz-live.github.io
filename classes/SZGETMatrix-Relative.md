@@ -25,9 +25,9 @@ SZGETMatrix-Relative Class
 | --------- | --------- | --------- |
 | TMATRIX0 | [SZGETMatrix](SZGETMatrix.html) |  |
 | TMATRIX1 | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-Relative](SZGETMatrix-Relative.html) |
-| Help: | Make a SZGETMatrix-Relative |
+| | | |
+| Returns: | [SZGETMatrix-Relative](SZGETMatrix-Relative.html) | |
+| Help: | | Make a SZGETMatrix-Relative |
 
 
 ## Functions:

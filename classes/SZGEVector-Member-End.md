@@ -25,9 +25,9 @@ Member End Vector
 | --------- | --------- | --------- |
 | MEM | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
 | END | [Enum-Member-End](Enum-Member-End.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEVector-Member-End](SZGEVector-Member-End.html) |
-| Help: | Make a Member End Vector |
+| | | |
+| Returns: | [SZGEVector-Member-End](SZGEVector-Member-End.html) | |
+| Help: | | Make a Member End Vector |
 
 
 ## Functions:

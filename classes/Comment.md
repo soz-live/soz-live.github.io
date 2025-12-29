@@ -24,9 +24,9 @@ Comment
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Comment](Comment.html) |  |
-| --- | --- | --- |
-| Returns: | [Comment](Comment.html) |
-| Help: | New Comment |
+| | | |
+| Returns: | [Comment](Comment.html) | |
+| Help: | | New Comment |
 
 
 ## Functions:

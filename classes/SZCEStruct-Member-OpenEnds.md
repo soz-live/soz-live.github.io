@@ -27,9 +27,9 @@ OpenEnds Linear Structural Member
 | ENTITY | [AcDbLine](AcDbLine.html) |  |
 | CONN0 | [SZCEStruct-Connection-OpenEnd](SZCEStruct-Connection-OpenEnd.html) |  |
 | CONN1 | [SZCEStruct-Connection-OpenEnd](SZCEStruct-Connection-OpenEnd.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-Member-OpenEnds](SZCEStruct-Member-OpenEnds.html) |
-| Help: | OpenEnds Linear Structural Member |
+| | | |
+| Returns: | [SZCEStruct-Member-OpenEnds](SZCEStruct-Member-OpenEnds.html) | |
+| Help: | | OpenEnds Linear Structural Member |
 
 
 ## Functions:

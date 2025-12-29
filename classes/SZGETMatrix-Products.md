@@ -24,9 +24,9 @@ SZGETMatrix-Products Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | MATRICES | [List:SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-Products](SZGETMatrix-Products.html) |
-| Help: | Make a SZGETMatrix-Products |
+| | | |
+| Returns: | [SZGETMatrix-Products](SZGETMatrix-Products.html) | |
+| Help: | | Make a SZGETMatrix-Products |
 
 
 ## Functions:
@@ -42,7 +42,7 @@ SZGETMatrix-Products Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGETMatrix-Products](SZGETMatrix-Products.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | Value |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | Value |
 

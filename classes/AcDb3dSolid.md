@@ -35,9 +35,9 @@ AcDb3dSolid Class
 | BASE | [AcDb3dSolid](AcDb3dSolid.html) |  |
 | SOLID | [AcDb3dSolid](AcDb3dSolid.html) |  |
 | OPERATION | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Boolean Operation on Solids |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Boolean Operation on Solids |
 
 ### AcDb3dSolid-CubedOnCurve
 
@@ -48,9 +48,9 @@ AcDb3dSolid Class
 | PITCH | [Real](Real.html) |  |
 | ACROSS | [Real](Real.html) |  |
 | UPWARDS | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [List:AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make an AcDb3dSolid |
+| | | |
+| Returns: | [List:AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make an AcDb3dSolid |
 
 ### AcDb3dSolid-DicedOnCurve
 
@@ -60,9 +60,9 @@ AcDb3dSolid Class
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | PITCH | [Real](Real.html) |  |
 | DOWN | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [List:AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make an AcDb3dSolid |
+| | | |
+| Returns: | [List:AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make an AcDb3dSolid |
 
 ### AcDb3dSolid-DicedOnWorld
 
@@ -72,9 +72,9 @@ AcDb3dSolid Class
 | XDIST | [Real](Real.html) |  |
 | YDIST | [Real](Real.html) |  |
 | ZDIST | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [List:AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make an AcDb3dSolid |
+| | | |
+| Returns: | [List:AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make an AcDb3dSolid |
 
 ### AcDb3dSolid-Section
 
@@ -84,9 +84,9 @@ AcDb3dSolid Class
 | POINT1 | [SZGEPoint](SZGEPoint.html) |  |
 | POINT2 | [SZGEPoint](SZGEPoint.html) |  |
 | POINT3 | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbRegion](AcDbRegion.html) |
-| Help: | Section of a Solid |
+| | | |
+| Returns: | [AcDbRegion](AcDbRegion.html) | |
+| Help: | | Section of a Solid |
 
 ### AcDb3dSolid-SectionPlane
 
@@ -94,9 +94,9 @@ AcDb3dSolid Class
 | --------- | --------- | --------- |
 | BASE | [AcDb3dSolid](AcDb3dSolid.html) |  |
 | PLANE | [SZGEPlane](SZGEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbRegion](AcDbRegion.html) |
-| Help: | Section of a Solid using a Plane |
+| | | |
+| Returns: | [AcDbRegion](AcDbRegion.html) | |
+| Help: | | Section of a Solid using a Plane |
 
 ### AcDb3dSolid-SectionTMatrix
 
@@ -104,9 +104,9 @@ AcDb3dSolid Class
 | --------- | --------- | --------- |
 | BASE | [AcDb3dSolid](AcDb3dSolid.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbRegion](AcDbRegion.html) |
-| Help: | Section of a Solid using a TMatrix |
+| | | |
+| Returns: | [AcDbRegion](AcDbRegion.html) | |
+| Help: | | Section of a Solid using a TMatrix |
 
 ### AcDb3dSolid-Slice
 
@@ -117,9 +117,9 @@ AcDb3dSolid Class
 | POINT2 | [SZGEPoint](SZGEPoint.html) |  |
 | POINT3 | [SZGEPoint](SZGEPoint.html) |  |
 | KEEP | [Enum-AcDb3dSolidSlice](Enum-AcDb3dSolidSlice.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Slice an AcDb3dSolid |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Slice an AcDb3dSolid |
 
 ### AcDb3dSolid-SlicePlane
 
@@ -129,9 +129,9 @@ AcDb3dSolid Class
 | PLANE | [SZGEPlane](SZGEPlane.html) |  |
 | OFFSET | [Real](Real.html) |  |
 | KEEP | [Enum-AcDb3dSolidSlice](Enum-AcDb3dSolidSlice.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Slice an AcDb3dSolid |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Slice an AcDb3dSolid |
 
 ### AcDb3dSolid-SliceTMatrix
 
@@ -141,9 +141,9 @@ AcDb3dSolid Class
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | OFFSET | [Real](Real.html) |  |
 | KEEP | [Enum-AcDb3dSolidSlice](Enum-AcDb3dSolidSlice.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Slice an AcDb3dSolid |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Slice an AcDb3dSolid |
 
 ### AcDb3dSolid-SlicesOnCurve
 
@@ -152,9 +152,9 @@ AcDb3dSolid Class
 | BASE | [AcDb3dSolid](AcDb3dSolid.html) |  |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | PITCH | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [List:AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make an AcDb3dSolid |
+| | | |
+| Returns: | [List:AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make an AcDb3dSolid |
 
 ### AcDb3dSolid-SlicesOnVector
 
@@ -163,16 +163,16 @@ AcDb3dSolid Class
 | BASE | [AcDb3dSolid](AcDb3dSolid.html) |  |
 | DIR | [SZGEVector](SZGEVector.html) |  |
 | DIST | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [List:AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make an AcDb3dSolid |
+| | | |
+| Returns: | [List:AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make an AcDb3dSolid |
 
 ### AcDb3dSolid-Volume
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDb3dSolid](AcDb3dSolid.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Volume of a Solid |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Volume of a Solid |
 

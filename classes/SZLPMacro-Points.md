@@ -26,9 +26,9 @@ Points Macro function
 | NAME | [String](String.html) |  |
 | POINT | [SZLPMacro-Point](SZLPMacro-Point.html) |  |
 | KEY | [Key](Key.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPMacro-Points](SZLPMacro-Points.html) |
-| Help: | Macro Points |
+| | | |
+| Returns: | [SZLPMacro-Points](SZLPMacro-Points.html) | |
+| Help: | | Macro Points |
 
 
 ## Functions:

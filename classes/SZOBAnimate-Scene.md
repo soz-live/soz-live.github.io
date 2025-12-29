@@ -25,9 +25,9 @@ Base Animation Scene Class
 | --------- | --------- | --------- |
 | FRAMES | [Integer](Integer.html) |  |
 | ENTITIES | [Set:AcDbEntity](AcDbEntity.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBAnimate-Scene](SZOBAnimate-Scene.html) |
-| Help: | Make Animation Scene |
+| | | |
+| Returns: | [SZOBAnimate-Scene](SZOBAnimate-Scene.html) | |
+| Help: | | Make Animation Scene |
 
 
 ## Functions:

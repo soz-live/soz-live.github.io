@@ -25,9 +25,9 @@ SZCEPlane Class
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | PLANE | [SZGEPlane](SZGEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPlane](SZCEPlane.html) |
-| Help: | Creates a Plane Object in DWG |
+| | | |
+| Returns: | [SZCEPlane](SZCEPlane.html) | |
+| Help: | | Creates a Plane Object in DWG |
 
 
 ## Functions:
@@ -43,34 +43,34 @@ SZCEPlane Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZCEPlane](SZCEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Normal of a SZCEPlane |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Normal of a SZCEPlane |
 
 ### SZCEPlane-Plane
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZCEPlane](SZCEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [Plane](Plane.html) |
-| Help: | Plane of a SZCEPlane |
+| | | |
+| Returns: | [Plane](Plane.html) | |
+| Help: | | Plane of a SZCEPlane |
 
 ### SZCEPlane-Point
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZCEPlane](SZCEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Point of a SZCEPlane |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Point of a SZCEPlane |
 
 ### SZCEPlane-User_SZCEGridLine
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPlane](SZCEPlane.html) |
-| Help: | User_SZCEGridLine |
+| | | |
+| Returns: | [SZCEPlane](SZCEPlane.html) | |
+| Help: | | User_SZCEGridLine |
 

@@ -25,9 +25,9 @@ SZCE3dSolids-BetweenTINs-OnCorridor Class
 | --------- | --------- | --------- |
 | TINS | [Set:BsysTinSurface](BsysTinSurface.html) |  |
 | CORRIDOR | [BsysCvDbCorridor](BsysCvDbCorridor.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCE3dSolids-BetweenTINs-OnCorridor](SZCE3dSolids-BetweenTINs-OnCorridor.html) |
-| Help: | Creates Corridor Solids from different TINs |
+| | | |
+| Returns: | [SZCE3dSolids-BetweenTINs-OnCorridor](SZCE3dSolids-BetweenTINs-OnCorridor.html) | |
+| Help: | | Creates Corridor Solids from different TINs |
 
 
 ## Functions:

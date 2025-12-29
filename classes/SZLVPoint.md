@@ -25,9 +25,9 @@ LIVE Point
 | --------- | --------- | --------- |
 | NODE | [SZLVNode](SZLVNode.html) |  |
 | KEY | [Key](Key.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLVPoint](SZLVPoint.html) |
-| Help: | Make LIVE Point |
+| | | |
+| Returns: | [SZLVPoint](SZLVPoint.html) | |
+| Help: | | Make LIVE Point |
 
 
 ## Functions:

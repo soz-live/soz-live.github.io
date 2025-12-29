@@ -29,9 +29,9 @@ Rigging RoundSling Class
 | WLL | [Real](Real.html) |  |
 | DIA | [Real](Real.html) |  |
 | TWIST | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-RoundSling](SZCERigging-RoundSling.html) |
-| Help: | Make Round Sling |
+| | | |
+| Returns: | [SZCERigging-RoundSling](SZCERigging-RoundSling.html) | |
+| Help: | | Make Round Sling |
 
 
 ## Functions:

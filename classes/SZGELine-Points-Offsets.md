@@ -27,9 +27,9 @@ SZGELine-Points-Offsets Class
 | OS0 | [Real](Real.html) |  |
 | POINT1 | [SZGEPoint](SZGEPoint.html) |  |
 | OS1 | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELine-Points-Offsets](SZGELine-Points-Offsets.html) |
-| Help: | Make a SZGELine-Points-Offsets |
+| | | |
+| Returns: | [SZGELine-Points-Offsets](SZGELine-Points-Offsets.html) | |
+| Help: | | Make a SZGELine-Points-Offsets |
 
 
 ## Functions:

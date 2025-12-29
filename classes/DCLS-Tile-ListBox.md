@@ -28,9 +28,9 @@ DCLS-Tile ListBox
 | VALUE | [String](String.html) |  |
 | ATTS | [Set:DCLS-Attribute](DCLS-Attribute.html) |  |
 | ACTION | [DCLS-Action](DCLS-Action.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-ListBox](DCLS-ListBox.html) |
-| Help: | Basic DCLS-ListBox Constructor |
+| | | |
+| Returns: | [DCLS-ListBox](DCLS-ListBox.html) | |
+| Help: | | Basic DCLS-ListBox Constructor |
 
 
 ## Functions:

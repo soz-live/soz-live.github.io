@@ -28,9 +28,9 @@ SZCECircle Class
 | NORMAL | [SZGEVector](SZGEVector.html) |  |
 | VALUE | [Real](Real.html) |  |
 | ENUM | [Enum-SZCECircle](Enum-SZCECircle.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCECircle](SZCECircle.html) |
-| Help: | Make a SZCECircle |
+| | | |
+| Returns: | [SZCECircle](SZCECircle.html) | |
+| Help: | | Make a SZCECircle |
 
 
 ## Functions:

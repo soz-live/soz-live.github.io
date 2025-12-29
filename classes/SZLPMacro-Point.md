@@ -27,9 +27,9 @@ Point Macro function
 | XEQUATION | [SZLPMacro-Equation](SZLPMacro-Equation.html) |  |
 | YEQUATION | [SZLPMacro-Equation](SZLPMacro-Equation.html) |  |
 | ZEQUATION | [SZLPMacro-Equation](SZLPMacro-Equation.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint](SZGEPoint.html) |
-| Help: | Macro Point |
+| | | |
+| Returns: | [SZGEPoint](SZGEPoint.html) | |
+| Help: | | Macro Point |
 
 
 ## Functions:

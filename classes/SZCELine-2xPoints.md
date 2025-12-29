@@ -26,9 +26,9 @@ A Line using 2x Points
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | POINT0 | [SZGEPoint](SZGEPoint.html) |  |
 | POINT1 | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbLine](AcDbLine.html) |
-| Help: | Makes a Line using 2x Points |
+| | | |
+| Returns: | [AcDbLine](AcDbLine.html) | |
+| Help: | | Makes a Line using 2x Points |
 
 
 ## Functions:

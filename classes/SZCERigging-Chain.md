@@ -28,9 +28,9 @@ Rigging ChainSling Class
 | WOR | [Real](Real.html) |  |
 | WLL | [Real](Real.html) |  |
 | LINK | [SZCESlingDef-ChainLink](SZCESlingDef-ChainLink.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-Chain](SZCERigging-Chain.html) |
-| Help: | Length of Chain |
+| | | |
+| Returns: | [SZCERigging-Chain](SZCERigging-Chain.html) | |
+| Help: | | Length of Chain |
 
 
 ## Functions:

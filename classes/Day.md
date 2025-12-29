@@ -24,9 +24,9 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [Day](Day.html) |
-| Help: | DD |
+| | | |
+| Returns: | [Day](Day.html) | |
+| Help: | | DD |
 
 
 ## Functions:

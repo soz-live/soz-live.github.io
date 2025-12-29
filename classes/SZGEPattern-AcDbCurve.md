@@ -25,9 +25,9 @@ SZGEPattern-AcDbCurve Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | ARRAY | [SZLPReals](SZLPReals.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPattern-AcDbCurve](SZGEPattern-AcDbCurve.html) |
-| Help: | Make a SZGEPattern-AcDbCurve |
+| | | |
+| Returns: | [SZGEPattern-AcDbCurve](SZGEPattern-AcDbCurve.html) | |
+| Help: | | Make a SZGEPattern-AcDbCurve |
 
 
 ## Functions:

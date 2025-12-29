@@ -24,9 +24,9 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [Year](Year.html) |
-| Help: | YYYY |
+| | | |
+| Returns: | [Year](Year.html) | |
+| Help: | | YYYY |
 
 
 ## Functions:

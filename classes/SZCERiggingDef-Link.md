@@ -28,9 +28,9 @@ Link Def
 | LOR | [Real](Real.html) |  |
 | DIA | [Real](Real.html) |  |
 | INWIDTH | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-Link](SZCERigging-Link.html) |
-| Help: | Make Link |
+| | | |
+| Returns: | [SZCERigging-Link](SZCERigging-Link.html) | |
+| Help: | | Make Link |
 
 
 ## Functions:

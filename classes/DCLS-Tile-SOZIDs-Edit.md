@@ -28,9 +28,9 @@ DCL SOZIDs Edit
 | MS | [Boolean](Boolean.html) |  |
 | W | [Integer](Integer.html) |  |
 | H | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Tile-SOZIDs-Edit](DCLS-Tile-SOZIDs-Edit.html) |
-| Help: | Basic SOZIDs Edit |
+| | | |
+| Returns: | [DCLS-Tile-SOZIDs-Edit](DCLS-Tile-SOZIDs-Edit.html) | |
+| Help: | | Basic SOZIDs Edit |
 
 
 ## Functions:

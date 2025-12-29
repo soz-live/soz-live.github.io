@@ -24,9 +24,9 @@ SZCEUCS-Curve-Start Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEUCS-Curve-Start](SZCEUCS-Curve-Start.html) |
-| Help: | Make a SZCEUCS-Curve-Start |
+| | | |
+| Returns: | [SZCEUCS-Curve-Start](SZCEUCS-Curve-Start.html) | |
+| Help: | | Make a SZCEUCS-Curve-Start |
 
 
 ## Functions:

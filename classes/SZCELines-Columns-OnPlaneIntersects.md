@@ -27,9 +27,9 @@ SZCELines-Columns-OnPlaneIntersects Class
 | UPPER | [SZCEPlane](SZCEPlane.html) |  |
 | XS | [Set:SZCEPlane](SZCEPlane.html) |  |
 | YS | [Set:SZCEPlane](SZCEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCELines-Columns-OnPlaneIntersects](SZCELines-Columns-OnPlaneIntersects.html) |
-| Help: | Make a SZCELines-Columns-OnPlaneIntersects |
+| | | |
+| Returns: | [SZCELines-Columns-OnPlaneIntersects](SZCELines-Columns-OnPlaneIntersects.html) | |
+| Help: | | Make a SZCELines-Columns-OnPlaneIntersects |
 
 
 ## Functions:

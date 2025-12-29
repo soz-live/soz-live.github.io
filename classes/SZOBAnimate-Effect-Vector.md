@@ -27,9 +27,9 @@ Base Animation Effect-Vector Class
 | START | [Integer](Integer.html) |  |
 | FINISH | [Integer](Integer.html) |  |
 | SEQUENCE | [SZOBAnimate-Sequence-Vector](SZOBAnimate-Sequence-Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBAnimate-Effect-Vector](SZOBAnimate-Effect-Vector.html) |
-| Help: | Make Animation Effect-Vector |
+| | | |
+| Returns: | [SZOBAnimate-Effect-Vector](SZOBAnimate-Effect-Vector.html) | |
+| Help: | | Make Animation Effect-Vector |
 
 
 ## Functions:

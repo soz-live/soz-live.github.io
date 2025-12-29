@@ -24,9 +24,9 @@ SZLPReals-FullCircleRadians Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NUM | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReals-FullCircleRadians](SZLPReals-FullCircleRadians.html) |
-| Help: | Make a SZLPReals-FullCircleRadians |
+| | | |
+| Returns: | [SZLPReals-FullCircleRadians](SZLPReals-FullCircleRadians.html) | |
+| Help: | | Make a SZLPReals-FullCircleRadians |
 
 
 ## Functions:

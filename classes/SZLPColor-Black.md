@@ -23,9 +23,9 @@ SZLPColor-Black Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZLPColor](SZLPColor.html) |
-| Help: | Black |
+| | | |
+| Returns: | [SZLPColor](SZLPColor.html) | |
+| Help: | | Black |
 
 
 ## Functions:

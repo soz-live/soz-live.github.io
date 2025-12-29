@@ -23,9 +23,9 @@ AcDbCurve-PlanarClosed Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: |  |
-| Help: |  |
+| | | |
+| Returns: |  | |
+| Help: | |  |
 
 
 ## Functions:

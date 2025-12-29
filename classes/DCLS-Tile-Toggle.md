@@ -26,9 +26,9 @@ DCL Toggle
 | KEY | [Key](Key.html) |  |
 | VALUE | [Boolean](Boolean.html) |  |
 | LABEL | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Tile-Toggle](DCLS-Tile-Toggle.html) |
-| Help: | Basic DCLS-Toggle Constructor |
+| | | |
+| Returns: | [DCLS-Tile-Toggle](DCLS-Tile-Toggle.html) | |
+| Help: | | Basic DCLS-Toggle Constructor |
 
 
 ## Functions:

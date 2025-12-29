@@ -26,9 +26,9 @@ SZGEPoint Class
 | X | [Real](Real.html) |  |
 | Y | [Real](Real.html) |  |
 | Z | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint](SZGEPoint.html) |
-| Help: | Make a SZGEPoint |
+| | | |
+| Returns: | [SZGEPoint](SZGEPoint.html) | |
+| Help: | | Make a SZGEPoint |
 
 
 ## Functions:
@@ -44,34 +44,34 @@ SZGEPoint Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint](SZGEPoint.html) |
-| Help: | User_Origin |
+| | | |
+| Returns: | [SZGEPoint](SZGEPoint.html) | |
+| Help: | | User_Origin |
 
 ### SZGEPoint-User_Pick
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint](SZGEPoint.html) |
-| Help: | User_Pick |
+| | | |
+| Returns: | [SZGEPoint](SZGEPoint.html) | |
+| Help: | | User_Pick |
 
 ### SZGEPoint-User_Prompt
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint](SZGEPoint.html) |
-| Help: | User_Prompt |
+| | | |
+| Returns: | [SZGEPoint](SZGEPoint.html) | |
+| Help: | | User_Prompt |
 
 ### SZGEPoint-Value
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Value of a SZGEPoint |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Value of a SZGEPoint |
 

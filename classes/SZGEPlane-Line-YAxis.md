@@ -24,9 +24,9 @@ SZGEPlane-Line-YAxis Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINE | [AcDbLine](AcDbLine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane](SZGEPlane.html) |
-| Help: | Make a SZGEPlane-Line-YAxis |
+| | | |
+| Returns: | [SZGEPlane](SZGEPlane.html) | |
+| Help: | | Make a SZGEPlane-Line-YAxis |
 
 
 ## Functions:

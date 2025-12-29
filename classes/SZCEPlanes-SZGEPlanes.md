@@ -24,9 +24,9 @@ SZCEPlanes-SZGEPlanes Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ARRAY | [SZGEPlanes](SZGEPlanes.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPlanes-SZGEPlanes](SZCEPlanes-SZGEPlanes.html) |
-| Help: | Make a SZCEPlanes-SZGEPlanes |
+| | | |
+| Returns: | [SZCEPlanes-SZGEPlanes](SZCEPlanes-SZGEPlanes.html) | |
+| Help: | | Make a SZCEPlanes-SZGEPlanes |
 
 
 ## Functions:

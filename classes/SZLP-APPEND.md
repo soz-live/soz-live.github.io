@@ -25,9 +25,9 @@ APPEND Function
 | --------- | --------- | --------- |
 | LST0 | [SZLPList](SZLPList.html) |  |
 | LST1 | [SZLPList](SZLPList.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | APPEND Function |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | APPEND Function |
 
 
 ## Functions:

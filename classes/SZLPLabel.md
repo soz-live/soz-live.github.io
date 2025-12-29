@@ -24,9 +24,9 @@ SZLPLabel Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPLabel](SZLPLabel.html) |
-| Help: | Make a SZLPLabel |
+| | | |
+| Returns: | [SZLPLabel](SZLPLabel.html) | |
+| Help: | | Make a SZLPLabel |
 
 
 ## Functions:

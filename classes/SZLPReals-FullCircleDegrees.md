@@ -24,9 +24,9 @@ SZLPReals-FullCircleDegrees Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | STEP | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReals-FullCircleDegrees](SZLPReals-FullCircleDegrees.html) |
-| Help: | Make a SZLPReals-FullCircleDegrees |
+| | | |
+| Returns: | [SZLPReals-FullCircleDegrees](SZLPReals-FullCircleDegrees.html) | |
+| Help: | | Make a SZLPReals-FullCircleDegrees |
 
 
 ## Functions:

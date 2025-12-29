@@ -26,9 +26,9 @@ SZCEModelGroup-Solids-Faces Class
 | FACES | [SZCEFaces](SZCEFaces.html) |  |
 | HEIGHT | [Real](Real.html) |  |
 | EXTRUDE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEModelGroup-Solids-Faces](SZCEModelGroup-Solids-Faces.html) |
-| Help: | Make a SZCEModelGroup-Solids-Faces |
+| | | |
+| Returns: | [SZCEModelGroup-Solids-Faces](SZCEModelGroup-Solids-Faces.html) | |
+| Help: | | Make a SZCEModelGroup-Solids-Faces |
 
 
 ## Functions:

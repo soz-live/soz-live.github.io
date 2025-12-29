@@ -23,9 +23,9 @@
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [Date](Date.html) |
-| Help: |  |
+| | | |
+| Returns: | [Date](Date.html) | |
+| Help: | |  |
 
 
 ## Functions:

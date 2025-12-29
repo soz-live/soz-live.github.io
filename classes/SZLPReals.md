@@ -24,9 +24,9 @@ SZLPReals Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [List:Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReals](SZLPReals.html) |
-| Help: | Make a SZLPReals |
+| | | |
+| Returns: | [SZLPReals](SZLPReals.html) | |
+| Help: | | Make a SZLPReals |
 
 
 ## Functions:

@@ -23,9 +23,9 @@ AcDbLinetypeTableRecord Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: |  |
-| Help: |  |
+| | | |
+| Returns: |  | |
+| Help: | |  |
 
 
 ## Functions:
@@ -41,16 +41,16 @@ AcDbLinetypeTableRecord Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbLinetypeTableRecord](AcDbLinetypeTableRecord.html) |
-| Help: | User_Continuous |
+| | | |
+| Returns: | [AcDbLinetypeTableRecord](AcDbLinetypeTableRecord.html) | |
+| Help: | | User_Continuous |
 
 ### AcDbLinetypeTableRecord-User_Select
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbLinetypeTableRecord](AcDbLinetypeTableRecord.html) |
-| Help: | User_Select |
+| | | |
+| Returns: | [AcDbLinetypeTableRecord](AcDbLinetypeTableRecord.html) | |
+| Help: | | User_Select |
 

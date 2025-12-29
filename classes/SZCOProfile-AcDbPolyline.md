@@ -24,9 +24,9 @@ SZCOProfile-AcDbPolyline Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LOOP | [SZGELoop-AcDbPolyline](SZGELoop-AcDbPolyline.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOProfile-AcDbPolyline](SZCOProfile-AcDbPolyline.html) |
-| Help: | Make a SZCOProfile-AcDbPolyline |
+| | | |
+| Returns: | [SZCOProfile-AcDbPolyline](SZCOProfile-AcDbPolyline.html) | |
+| Help: | | Make a SZCOProfile-AcDbPolyline |
 
 
 ## Functions:

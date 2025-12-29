@@ -28,9 +28,9 @@ AcDb3dSolid-Extrusion Class
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | HEIGHT | [Real](Real.html) |  |
 | EXTRUDE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid-Extrusion](AcDb3dSolid-Extrusion.html) |
-| Help: | Make AcDb3dSolid-Extrusion |
+| | | |
+| Returns: | [AcDb3dSolid-Extrusion](AcDb3dSolid-Extrusion.html) | |
+| Help: | | Make AcDb3dSolid-Extrusion |
 
 
 ## Functions:

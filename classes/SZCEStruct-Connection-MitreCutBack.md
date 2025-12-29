@@ -23,9 +23,9 @@ A Structural MitreCutBack Connection
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-Connection-MitreCutBack](SZCEStruct-Connection-MitreCutBack.html) |
-| Help: | Make a Structural MitreCutBack Connection |
+| | | |
+| Returns: | [SZCEStruct-Connection-MitreCutBack](SZCEStruct-Connection-MitreCutBack.html) | |
+| Help: | | Make a Structural MitreCutBack Connection |
 
 
 ## Functions:

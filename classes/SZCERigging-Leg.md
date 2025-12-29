@@ -25,9 +25,9 @@ Rigging Leg Class - Top to Bottom
 | --------- | --------- | --------- |
 | LABEL | [Comment](Comment.html) |  |
 | ITEMS | [List:SZCERigging-Item](SZCERigging-Item.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-Leg](SZCERigging-Leg.html) |
-| Help: | Make a rigging Leg. |
+| | | |
+| Returns: | [SZCERigging-Leg](SZCERigging-Leg.html) | |
+| Help: | | Make a rigging Leg. |
 
 
 ## Functions:

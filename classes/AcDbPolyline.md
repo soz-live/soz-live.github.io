@@ -23,9 +23,9 @@ AcDbPolyline Class - LWPolyline
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: |  |
-| Help: |  |
+| | | |
+| Returns: |  | |
+| Help: | |  |
 
 
 ## Functions:
@@ -42,43 +42,43 @@ AcDbPolyline Class - LWPolyline
 | --------- | --------- | --------- |
 | O | [AcDbPolyline](AcDbPolyline.html) |  |
 | POINT | [Point](Point.html) | Origin Point |
-| --- | --- | --- |
-| Returns: | [SZGELoop](SZGELoop.html) |
-| Help: | Loop of an AcDbPolyline |
+| | | |
+| Returns: | [SZGELoop](SZGELoop.html) | |
+| Help: | | Loop of an AcDbPolyline |
 
 ### AcDbPolyline-Area
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbPolyline](AcDbPolyline.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Area of an AcDbPolyline |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Area of an AcDbPolyline |
 
 ### AcDbPolyline-Plane
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | E | [AcDbPolyline](AcDbPolyline.html) |  |
-| --- | --- | --- |
-| Returns: | [Plane](Plane.html) |
-| Help: | Plane of an AcDbPolyline |
+| | | |
+| Returns: | [Plane](Plane.html) | |
+| Help: | | Plane of an AcDbPolyline |
 
 ### AcDbPolyline-Points
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbPolyline](AcDbPolyline.html) |  |
-| --- | --- | --- |
-| Returns: | [Points](Points.html) |
-| Help: | Points of an AcDbPolyline |
+| | | |
+| Returns: | [Points](Points.html) | |
+| Help: | | Points of an AcDbPolyline |
 
 ### AcDbPolyline-TMatrix
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | E | [AcDbPolyline](AcDbPolyline.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | TMatrix of an AcDbPolyline |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | TMatrix of an AcDbPolyline |
 

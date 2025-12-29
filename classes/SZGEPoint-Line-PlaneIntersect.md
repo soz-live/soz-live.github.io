@@ -25,9 +25,9 @@ SZGEPoint-Line-PlaneIntersect Class
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
 | PLANE | [SZGEPlane](SZGEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-Line-PlaneIntersect](SZGEPoint-Line-PlaneIntersect.html) |
-| Help: | Make a SZGEPoint-Line-PlaneIntersect |
+| | | |
+| Returns: | [SZGEPoint-Line-PlaneIntersect](SZGEPoint-Line-PlaneIntersect.html) | |
+| Help: | | Make a SZGEPoint-Line-PlaneIntersect |
 
 
 ## Functions:

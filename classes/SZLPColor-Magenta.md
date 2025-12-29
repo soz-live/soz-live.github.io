@@ -23,9 +23,9 @@ SZLPColor-Magenta Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZLPColor](SZLPColor.html) |
-| Help: | Make a SZLPColor-Magenta |
+| | | |
+| Returns: | [SZLPColor](SZLPColor.html) | |
+| Help: | | Make a SZLPColor-Magenta |
 
 
 ## Functions:

@@ -27,9 +27,9 @@ SZCEPart-Extrusion-AcDbCircle Class
 | HEIGHT | [Real](Real.html) |  |
 | EXTRUDE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
 | IOBJS | [List:SZCOFeature-Part](SZCOFeature-Part.html) | Features |
-| --- | --- | --- |
-| Returns: | [SZCEPart-Extrusion-AcDbCircle](SZCEPart-Extrusion-AcDbCircle.html) |
-| Help: | Make a SZCEPart-Extrusion-AcDbCircle |
+| | | |
+| Returns: | [SZCEPart-Extrusion-AcDbCircle](SZCEPart-Extrusion-AcDbCircle.html) | |
+| Help: | | Make a SZCEPart-Extrusion-AcDbCircle |
 
 
 ## Functions:

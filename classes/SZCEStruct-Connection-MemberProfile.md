@@ -23,9 +23,9 @@ A Structural MemberProfile Connection
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-Connection-MemberProfile](SZCEStruct-Connection-MemberProfile.html) |
-| Help: | Make a Structural MemberProfile Connection |
+| | | |
+| Returns: | [SZCEStruct-Connection-MemberProfile](SZCEStruct-Connection-MemberProfile.html) | |
+| Help: | | Make a Structural MemberProfile Connection |
 
 
 ## Functions:

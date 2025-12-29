@@ -23,9 +23,9 @@ SZLPColor-Blue Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZLPColor](SZLPColor.html) |
-| Help: | Make a SZLPColor-Blue |
+| | | |
+| Returns: | [SZLPColor](SZLPColor.html) | |
+| Help: | | Make a SZLPColor-Blue |
 
 
 ## Functions:

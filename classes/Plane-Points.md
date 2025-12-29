@@ -26,9 +26,9 @@ Plane-Points Class
 | POINT0 | [Point](Point.html) |  |
 | POINT1 | [Point](Point.html) |  |
 | POINT2 | [Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [Plane](Plane.html) |
-| Help: | Make a Plane-Points |
+| | | |
+| Returns: | [Plane](Plane.html) | |
+| Help: | | Make a Plane-Points |
 
 
 ## Functions:

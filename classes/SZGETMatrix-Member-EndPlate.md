@@ -26,9 +26,9 @@ Member EndPlate Matrix
 | MEM | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
 | END | [Enum-Member-End](Enum-Member-End.html) |  |
 | CLEAR | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-Member-EndPlate](SZGETMatrix-Member-EndPlate.html) |
-| Help: | Make a Member EndPlate Matrix |
+| | | |
+| Returns: | [SZGETMatrix-Member-EndPlate](SZGETMatrix-Member-EndPlate.html) | |
+| Help: | | Make a Member EndPlate Matrix |
 
 
 ## Functions:

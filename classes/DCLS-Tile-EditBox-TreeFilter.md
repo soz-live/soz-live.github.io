@@ -26,9 +26,9 @@ DCL Filter
 | KEY | [Key](Key.html) |  |
 | VALUE | [String](String.html) |  |
 | LABEL | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Tile-EditBox-TreeFilter](DCLS-Tile-EditBox-TreeFilter.html) |
-| Help: | Basic DCLS-Filter Constructor |
+| | | |
+| Returns: | [DCLS-Tile-EditBox-TreeFilter](DCLS-Tile-EditBox-TreeFilter.html) | |
+| Help: | | Basic DCLS-Filter Constructor |
 
 
 ## Functions:

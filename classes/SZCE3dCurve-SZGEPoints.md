@@ -27,9 +27,9 @@ SZCE3dCurve-SZGEPoints Class
 | POINTS | [SZGEPoints](SZGEPoints.html) |  |
 | CLOSED | [Boolean](Boolean.html) |  |
 | POLYTYPE | [Enum-AcDb3dPolylineType](Enum-AcDb3dPolylineType.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) |
-| Help: | Make a SZCE3dCurve-SZGEPoints |
+| | | |
+| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) | |
+| Help: | | Make a SZCE3dCurve-SZGEPoints |
 
 
 ## Functions:

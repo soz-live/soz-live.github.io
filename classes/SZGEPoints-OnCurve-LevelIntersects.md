@@ -27,9 +27,9 @@ SZGEPoints-OnCurve-LevelIntersects Class
 | LOW | [Real](Real.html) |  |
 | HIGH | [Real](Real.html) |  |
 | STEP | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoints-OnCurve-LevelIntersects](SZGEPoints-OnCurve-LevelIntersects.html) |
-| Help: | Make a SZGEPoints-OnCurve-LevelIntersects |
+| | | |
+| Returns: | [SZGEPoints-OnCurve-LevelIntersects](SZGEPoints-OnCurve-LevelIntersects.html) | |
+| Help: | | Make a SZGEPoints-OnCurve-LevelIntersects |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ Create an Object from a Key
 | --------- | --------- | --------- |
 | OBJ | [SZOBObject](SZOBObject.html) |  |
 | KEY | [Key](Key.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject-KeyOf](SZOBObject-KeyOf.html) |
-| Help: | Create an Object from a Key |
+| | | |
+| Returns: | [SZOBObject-KeyOf](SZOBObject-KeyOf.html) | |
+| Help: | | Create an Object from a Key |
 
 
 ## Functions:
@@ -43,7 +43,7 @@ Create an Object from a Key
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject-KeyOf](SZOBObject-KeyOf.html) |
-| Help: | Edit a KeyOf Object |
+| | | |
+| Returns: | [SZOBObject-KeyOf](SZOBObject-KeyOf.html) | |
+| Help: | | Edit a KeyOf Object |
 

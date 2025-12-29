@@ -25,9 +25,9 @@ AcDbPoint Class
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | POINT | [SZGEPoint](SZGEPoint.html) | Point |
-| --- | --- | --- |
-| Returns: | [AcDbPoint](AcDbPoint.html) |
-| Help: | Make an AcDbPoint |
+| | | |
+| Returns: | [AcDbPoint](AcDbPoint.html) | |
+| Help: | | Make an AcDbPoint |
 
 
 ## Functions:
@@ -43,7 +43,7 @@ AcDbPoint Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbPoint](AcDbPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Point of an AcDbPoint |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Point of an AcDbPoint |
 

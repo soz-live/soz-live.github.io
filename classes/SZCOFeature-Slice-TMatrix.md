@@ -28,9 +28,9 @@ SZCOFeature-Slice-TMatrix Class
 | OFFSET | [Real](Real.html) |  |
 | KEEP | [Enum-AcDb3dSolidSlice](Enum-AcDb3dSolidSlice.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
-| --- | --- | --- |
-| Returns: | [SZCOFeature-Slice-TMatrix](SZCOFeature-Slice-TMatrix.html) |
-| Help: | Make a SZCOFeature-Slice-TMatrix |
+| | | |
+| Returns: | [SZCOFeature-Slice-TMatrix](SZCOFeature-Slice-TMatrix.html) | |
+| Help: | | Make a SZCOFeature-Slice-TMatrix |
 
 
 ## Functions:

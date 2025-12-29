@@ -26,9 +26,9 @@ AcDbBlockReference Class
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | BLOCK | [AcDbBlock](AcDbBlock.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbBlockReference](AcDbBlockReference.html) |
-| Help: | Make an AcDbBlockReference |
+| | | |
+| Returns: | [AcDbBlockReference](AcDbBlockReference.html) | |
+| Help: | | Make an AcDbBlockReference |
 
 
 ## Functions:
@@ -44,27 +44,27 @@ AcDbBlockReference Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbBlockReference](AcDbBlockReference.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbBlock](AcDbBlock.html) |
-| Help: | the AcDbBlock of an AcDbBlockReference |
+| | | |
+| Returns: | [AcDbBlock](AcDbBlock.html) | |
+| Help: | | the AcDbBlock of an AcDbBlockReference |
 
 ### AcDbBlockReference-GetAttributes
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbBlockReference](AcDbBlockReference.html) |  |
-| --- | --- | --- |
-| Returns: | [Structure](Structure.html) |
-| Help: | Get Attributes of an AcDbBlockReference |
+| | | |
+| Returns: | [Structure](Structure.html) | |
+| Help: | | Get Attributes of an AcDbBlockReference |
 
 ### AcDbBlockReference-Point
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbBlockReference](AcDbBlockReference.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Point of an AcDbBlockReference |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Point of an AcDbBlockReference |
 
 ### AcDbBlockReference-SetAttributes
 
@@ -72,16 +72,16 @@ AcDbBlockReference Class
 | --------- | --------- | --------- |
 | O | [AcDbBlockReference](AcDbBlockReference.html) |  |
 | AL | [Structure](Structure.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbBlockReference](AcDbBlockReference.html) |
-| Help: | Set Attributes of an AcDbBlockReference |
+| | | |
+| Returns: | [AcDbBlockReference](AcDbBlockReference.html) | |
+| Help: | | Set Attributes of an AcDbBlockReference |
 
 ### AcDbBlockReference-TMatrix
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbBlockReference](AcDbBlockReference.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | TMatrix of an AcDbBlockReference |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | TMatrix of an AcDbBlockReference |
 

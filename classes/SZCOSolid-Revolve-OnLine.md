@@ -27,9 +27,9 @@ SZCOSolid-Revolve-OnLine Class
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | LINE | [SZGELine](SZGELine.html) |  |
 | REVOLVE | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Revolve-OnLine](SZCOSolid-Revolve-OnLine.html) |
-| Help: | Make a SZCOSolid-Revolve-OnLine |
+| | | |
+| Returns: | [SZCOSolid-Revolve-OnLine](SZCOSolid-Revolve-OnLine.html) | |
+| Help: | | Make a SZCOSolid-Revolve-OnLine |
 
 
 ## Functions:

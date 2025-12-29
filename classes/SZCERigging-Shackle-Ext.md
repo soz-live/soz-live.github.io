@@ -27,9 +27,9 @@ Rigging Shackle-Ext Class
 | MODEL | [SZCERigging-ExternalItem](SZCERigging-ExternalItem.html) |  |
 | ENDFLIP | [Boolean](Boolean.html) |  |
 | SIDEFLIP | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-Shackle-Ext](SZCERigging-Shackle-Ext.html) |
-| Help: | Make Shackle-Ext |
+| | | |
+| Returns: | [SZCERigging-Shackle-Ext](SZCERigging-Shackle-Ext.html) | |
+| Help: | | Make Shackle-Ext |
 
 
 ## Functions:

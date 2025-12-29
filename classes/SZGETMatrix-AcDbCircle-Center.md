@@ -24,9 +24,9 @@ SZGETMatrix-AcDbCircle-Center Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbCircle](AcDbCircle.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-AcDbCircle-Center](SZGETMatrix-AcDbCircle-Center.html) |
-| Help: | Make a SZGETMatrix-AcDbCircle-Center |
+| | | |
+| Returns: | [SZGETMatrix-AcDbCircle-Center](SZGETMatrix-AcDbCircle-Center.html) | |
+| Help: | | Make a SZGETMatrix-AcDbCircle-Center |
 
 
 ## Functions:

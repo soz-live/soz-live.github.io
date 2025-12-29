@@ -34,25 +34,25 @@ A Modelling Element
 | --------- | --------- | --------- |
 | ENTITY | [SZCEElement](SZCEElement.html) |  |
 | BOOL | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [Boolean](Boolean.html) |
-| Help: | Set SZCEElement Highlight |
+| | | |
+| Returns: | [Boolean](Boolean.html) | |
+| Help: | | Set SZCEElement Highlight |
 
 ### SZCEElement-User_Pick
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEElement](SZCEElement.html) |
-| Help: | User_Pick |
+| | | |
+| Returns: | [SZCEElement](SZCEElement.html) | |
+| Help: | | User_Pick |
 
 ### SZCEElement-User_PickSet
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [Set:SZCEElement](SZCEElement.html) |
-| Help: | User_PickSet |
+| | | |
+| Returns: | [Set:SZCEElement](SZCEElement.html) | |
+| Help: | | User_PickSet |
 

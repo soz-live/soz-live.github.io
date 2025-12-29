@@ -27,9 +27,9 @@ SOZDCLDialog Strings
 | VALUES | [List:String](String.html) |  |
 | VALUE | [String](String.html) |  |
 | MULTI | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Dialog-List-SelectItem](DCLS-Dialog-List-SelectItem.html) |
-| Help: | DCLS-Dialog-List-SelectItem |
+| | | |
+| Returns: | [DCLS-Dialog-List-SelectItem](DCLS-Dialog-List-SelectItem.html) | |
+| Help: | | DCLS-Dialog-List-SelectItem |
 
 
 ## Functions:

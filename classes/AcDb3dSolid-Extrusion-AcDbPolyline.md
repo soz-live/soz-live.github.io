@@ -27,9 +27,9 @@ AcDb3dSolid-Extrusion-AcDbPolyline Class
 | ENTITY | [AcDbPolyline](AcDbPolyline.html) |  |
 | HEIGHT | [Real](Real.html) |  |
 | EXTRUDE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
-| --- | --- | --- |
-| Returns: | [](.html) |
-| Help: | Make an AcDb3dSolid-Extrusion-AcDbPolyline |
+| | | |
+| Returns: | [](.html) | |
+| Help: | | Make an AcDb3dSolid-Extrusion-AcDbPolyline |
 
 
 ## Functions:

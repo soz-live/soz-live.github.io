@@ -24,9 +24,9 @@ BsysTinSurface-Points
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | POINTS | [SZCEPoints](SZCEPoints.html) |  |
-| --- | --- | --- |
-| Returns: | [BsysTinSurface](BsysTinSurface.html) |
-| Help: | Creates a TIN Surface |
+| | | |
+| Returns: | [BsysTinSurface](BsysTinSurface.html) | |
+| Help: | | Creates a TIN Surface |
 
 
 ## Functions:

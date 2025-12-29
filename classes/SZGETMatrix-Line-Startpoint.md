@@ -24,9 +24,9 @@ SZGETMatrix-Line-StartPoint Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-Line-StartPoint](SZGETMatrix-Line-StartPoint.html) |
-| Help: | Make a SZGETMatrix-Line-StartPoint |
+| | | |
+| Returns: | [SZGETMatrix-Line-StartPoint](SZGETMatrix-Line-StartPoint.html) | |
+| Help: | | Make a SZGETMatrix-Line-StartPoint |
 
 
 ## Functions:

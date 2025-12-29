@@ -24,9 +24,9 @@ ChainLink Block
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LOOP | [SZGEShape-ChainLink](SZGEShape-ChainLink.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCESlingDef-ChainLink](SZCESlingDef-ChainLink.html) |
-| Help: | Make ChainLink Block |
+| | | |
+| Returns: | [SZCESlingDef-ChainLink](SZCESlingDef-ChainLink.html) | |
+| Help: | | Make ChainLink Block |
 
 
 ## Functions:

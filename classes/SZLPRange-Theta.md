@@ -23,9 +23,9 @@ SZLPRange-Theta Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZLPRange-Theta](SZLPRange-Theta.html) |
-| Help: | Make a SZLPRange-Theta |
+| | | |
+| Returns: | [SZLPRange-Theta](SZLPRange-Theta.html) | |
+| Help: | | Make a SZLPRange-Theta |
 
 
 ## Functions:

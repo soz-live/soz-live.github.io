@@ -29,9 +29,9 @@ Twisted Sling Model
 | TWIST | [Deg](Deg.html) |  |
 | STARTRAD | [Real](Real.html) |  |
 | ENDRAD | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCESling-TwistedSling](SZCESling-TwistedSling.html) |
-| Help: | Make Twisted Sling |
+| | | |
+| Returns: | [SZCESling-TwistedSling](SZCESling-TwistedSling.html) | |
+| Help: | | Make Twisted Sling |
 
 
 ## Functions:

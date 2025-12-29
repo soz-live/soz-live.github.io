@@ -25,9 +25,9 @@ SZGEPlanes-OnCurve-Normal Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | NO | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlanes-OnCurve-Normal](SZGEPlanes-OnCurve-Normal.html) |
-| Help: | Make a SZGEPlanes-OnCurve-Normal |
+| | | |
+| Returns: | [SZGEPlanes-OnCurve-Normal](SZGEPlanes-OnCurve-Normal.html) | |
+| Help: | | Make a SZGEPlanes-OnCurve-Normal |
 
 
 ## Functions:

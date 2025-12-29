@@ -27,9 +27,9 @@ Footings
 | XPLANES | [Set:SZCEPlane](SZCEPlane.html) |  |
 | YPLANES | [Set:SZCEPlane](SZCEPlane.html) |  |
 | ZPLANE | [SZCEPlane](SZCEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [Set:SZCEStruct-Footing](SZCEStruct-Footing.html) |
-| Help: | Footings |
+| | | |
+| Returns: | [Set:SZCEStruct-Footing](SZCEStruct-Footing.html) | |
+| Help: | | Footings |
 
 
 ## Functions:

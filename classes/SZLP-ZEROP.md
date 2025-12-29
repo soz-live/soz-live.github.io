@@ -24,9 +24,9 @@ SZLP-ZEROP Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | A | [SZLPNumber](SZLPNumber.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | New SZLP-ZEROP |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | New SZLP-ZEROP |
 
 
 ## Functions:

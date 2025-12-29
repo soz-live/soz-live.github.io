@@ -28,9 +28,9 @@ SZCEModelGroup-BlockRef-Rotation Class
 | PITCH | [Real](Real.html) |  |
 | STARTANG | [Deg](Deg.html) |  |
 | ROTATION | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEModelGroup-BlockRef-Rotation](SZCEModelGroup-BlockRef-Rotation.html) |
-| Help: | Make a SZCEModelGroup-BlockRef-Rotation |
+| | | |
+| Returns: | [SZCEModelGroup-BlockRef-Rotation](SZCEModelGroup-BlockRef-Rotation.html) | |
+| Help: | | Make a SZCEModelGroup-BlockRef-Rotation |
 
 
 ## Functions:

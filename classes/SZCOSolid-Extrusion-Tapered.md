@@ -28,9 +28,9 @@ SZCOSolid-Extrusion-Tapered Class
 | HEIGHT | [Real](Real.html) |  |
 | EXTRUDE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
 | TAPER | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Extrusion-Tapered](SZCOSolid-Extrusion-Tapered.html) |
-| Help: | Make a SZCOSolid-Extrusion-Tapered |
+| | | |
+| Returns: | [SZCOSolid-Extrusion-Tapered](SZCOSolid-Extrusion-Tapered.html) | |
+| Help: | | Make a SZCOSolid-Extrusion-Tapered |
 
 
 ## Functions:
@@ -47,7 +47,7 @@ SZCOSolid-Extrusion-Tapered Class
 | --------- | --------- | --------- |
 | O | [SZCOSolid-Extrusion-Tapered](SZCOSolid-Extrusion-Tapered.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-Extrusion-Tapered |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-Extrusion-Tapered |
 

@@ -24,9 +24,9 @@ SZLPDistance-SumOfCurveLengths Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVES | [Set:AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPDistance-SumOfCurveLengths](SZLPDistance-SumOfCurveLengths.html) |
-| Help: | Make a SZLPDistance-SumOfCurveLengths |
+| | | |
+| Returns: | [SZLPDistance-SumOfCurveLengths](SZLPDistance-SumOfCurveLengths.html) | |
+| Help: | | Make a SZLPDistance-SumOfCurveLengths |
 
 
 ## Functions:

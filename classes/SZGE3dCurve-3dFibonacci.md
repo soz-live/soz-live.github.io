@@ -26,9 +26,9 @@ SZGE3dCurve-3dFibonacci Class
 | NO | [Integer](Integer.html) |  |
 | STEP | [Deg](Deg.html) |  |
 | CCW | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGE3dCurve-3dFibonacci](SZGE3dCurve-3dFibonacci.html) |
-| Help: | Make a SZGE3dCurve-3dFibonacci |
+| | | |
+| Returns: | [SZGE3dCurve-3dFibonacci](SZGE3dCurve-3dFibonacci.html) | |
+| Help: | | Make a SZGE3dCurve-3dFibonacci |
 
 
 ## Functions:

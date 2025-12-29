@@ -24,9 +24,9 @@ SZLPEnum-AcDbBoolean Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPEnum-AcDbBoolean](SZLPEnum-AcDbBoolean.html) |
-| Help: | Make a SZLPEnum-AcDbBoolean |
+| | | |
+| Returns: | [SZLPEnum-AcDbBoolean](SZLPEnum-AcDbBoolean.html) | |
+| Help: | | Make a SZLPEnum-AcDbBoolean |
 
 
 ## Functions:

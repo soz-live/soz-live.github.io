@@ -25,9 +25,9 @@ SZLPString-Concat Class
 | --------- | --------- | --------- |
 | STR0 | [String](String.html) |  |
 | STR1 | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPString](SZLPString.html) |
-| Help: | Concat String |
+| | | |
+| Returns: | [SZLPString](SZLPString.html) | |
+| Help: | | Concat String |
 
 
 ## Functions:

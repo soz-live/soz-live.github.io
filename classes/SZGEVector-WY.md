@@ -23,9 +23,9 @@ SZGEVector-WY Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZGEVector-WY](SZGEVector-WY.html) |
-| Help: | Make a SZGEVector-WY |
+| | | |
+| Returns: | [SZGEVector-WY](SZGEVector-WY.html) | |
+| Help: | | Make a SZGEVector-WY |
 
 
 ## Functions:

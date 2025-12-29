@@ -25,9 +25,9 @@ Make Sections on TMatrixs
 | --------- | --------- | --------- |
 | ENTITIES | [Set:AcDb3dSolid-AnySolids](AcDb3dSolid-AnySolids.html) |  |
 | TMATRIXS | [SZGETMatrices](SZGETMatrices.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCESections-TMatrixs](SZCESections-TMatrixs.html) |
-| Help: | Make Sections on TMatrixs |
+| | | |
+| Returns: | [SZCESections-TMatrixs](SZCESections-TMatrixs.html) | |
+| Help: | | Make Sections on TMatrixs |
 
 
 ## Functions:

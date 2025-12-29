@@ -25,9 +25,9 @@ Intersection Solid Feature
 | --------- | --------- | --------- |
 | SOLID | [SZCOSolid](SZCOSolid.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
-| --- | --- | --- |
-| Returns: | [SZCOFeature-3dSolid-Intersection](SZCOFeature-3dSolid-Intersection.html) |
-| Help: | Intersection Feature |
+| | | |
+| Returns: | [SZCOFeature-3dSolid-Intersection](SZCOFeature-3dSolid-Intersection.html) | |
+| Help: | | Intersection Feature |
 
 
 ## Functions:

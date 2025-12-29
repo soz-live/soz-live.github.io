@@ -26,9 +26,9 @@ User SelectIndex Structure
 | VALUES | [List:SZOBObject](SZOBObject.html) |  |
 | LABEL | [Label](Label.html) |  |
 | VALUE | [SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [User-SelectIndex](User-SelectIndex.html) |
-| Help: | Basic User-SelectIndex Constructor |
+| | | |
+| Returns: | [User-SelectIndex](User-SelectIndex.html) | |
+| Help: | | Basic User-SelectIndex Constructor |
 
 
 ## Functions:

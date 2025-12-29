@@ -27,9 +27,9 @@ SZGELoop-Wall Class
 | LOWER | [SZCEPlane](SZCEPlane.html) |  |
 | UPPER | [SZCEPlane](SZCEPlane.html) |  |
 | FLIPPED | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELoop-Wall](SZGELoop-Wall.html) |
-| Help: | Make a SZGELoop-Wall |
+| | | |
+| Returns: | [SZGELoop-Wall](SZGELoop-Wall.html) | |
+| Help: | | Make a SZGELoop-Wall |
 
 
 ## Functions:

@@ -24,9 +24,9 @@ TMatrix-Scale Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | REAL | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | Scale TMatrix Make |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | Scale TMatrix Make |
 
 
 ## Functions:

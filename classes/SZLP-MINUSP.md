@@ -24,9 +24,9 @@ SZLP-MINUSP Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | A | [SZLPNumber](SZLPNumber.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | New SZLP-MINUSP |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | New SZLP-MINUSP |
 
 
 ## Functions:

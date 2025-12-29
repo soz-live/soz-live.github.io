@@ -34,7 +34,7 @@ SZCEEntities Class
 | --------- | --------- | --------- |
 | O | [SZCEEntities](SZCEEntities.html) |  |
 | INDEX | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEntity](AcDbEntity.html) |
-| Help: | Returns an Entity |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | Returns an Entity |
 

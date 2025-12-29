@@ -25,9 +25,9 @@ Basic Part
 | --------- | --------- | --------- |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | IOBJS | [List:SZCOFeature-Part](SZCOFeature-Part.html) | Features |
-| --- | --- | --- |
-| Returns: | [SZCEPart](SZCEPart.html) |
-| Help: | Make Basic Part |
+| | | |
+| Returns: | [SZCEPart](SZCEPart.html) | |
+| Help: | | Make Basic Part |
 
 
 ## Functions:
@@ -44,7 +44,7 @@ Basic Part
 | --------- | --------- | --------- |
 | DEF | [SZCEPart](SZCEPart.html) |  |
 | FEATURE | [SZCOFeature-Part](SZCOFeature-Part.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOFeature-Part](SZCOFeature-Part.html) |
-| Help: | Part - Add Feature Method |
+| | | |
+| Returns: | [SZCOFeature-Part](SZCOFeature-Part.html) | |
+| Help: | | Part - Add Feature Method |
 

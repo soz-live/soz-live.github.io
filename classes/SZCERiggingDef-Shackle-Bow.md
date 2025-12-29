@@ -36,9 +36,9 @@ Shackle Def
 | BOLTLEN | [Real](Real.html) |  |
 | WIDTH | [Real](Real.html) |  |
 | NUTTHICK | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERiggingDef-Shackle-Bow](SZCERiggingDef-Shackle-Bow.html) |
-| Help: | Make BowShackle |
+| | | |
+| Returns: | [SZCERiggingDef-Shackle-Bow](SZCERiggingDef-Shackle-Bow.html) | |
+| Help: | | Make BowShackle |
 
 
 ## Functions:

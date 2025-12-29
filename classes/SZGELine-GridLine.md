@@ -26,9 +26,9 @@ SZGELine-GridLine Class
 | MATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | ROTATION | [Deg](Deg.html) |  |
 | OFFSET | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELine](SZGELine.html) |
-| Help: | Make a SZGELine-GridLine |
+| | | |
+| Returns: | [SZGELine](SZGELine.html) | |
+| Help: | | Make a SZGELine-GridLine |
 
 
 ## Functions:

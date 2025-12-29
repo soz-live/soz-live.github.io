@@ -27,9 +27,9 @@ Wedge
 | LEN | [Real](Real.html) |  |
 | WIDTH | [Real](Real.html) |  |
 | HEIGHT | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Wedge](SZCOSolid-Wedge.html) |
-| Help: | Wedge |
+| | | |
+| Returns: | [SZCOSolid-Wedge](SZCOSolid-Wedge.html) | |
+| Help: | | Wedge |
 
 
 ## Functions:
@@ -46,7 +46,7 @@ Wedge
 | --------- | --------- | --------- |
 | O | [SZCOSolid-Wedge](SZCOSolid-Wedge.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-Wedge |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-Wedge |
 

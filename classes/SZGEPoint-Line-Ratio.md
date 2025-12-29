@@ -25,9 +25,9 @@ SZGEPoint-Line-Ratio Class
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
 | BARY | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-Line-Ratio](SZGEPoint-Line-Ratio.html) |
-| Help: | Make a SZGEPoint-Line-Ratio |
+| | | |
+| Returns: | [SZGEPoint-Line-Ratio](SZGEPoint-Line-Ratio.html) | |
+| Help: | | Make a SZGEPoint-Line-Ratio |
 
 
 ## Functions:

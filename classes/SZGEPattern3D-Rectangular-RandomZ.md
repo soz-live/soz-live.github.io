@@ -26,9 +26,9 @@ SZGEPattern3D-Rectangular-RandomZ Class
 | XARRAY | [SZLPReals](SZLPReals.html) |  |
 | YARRAY | [SZLPReals](SZLPReals.html) |  |
 | ZRANGE | [SZLPRange](SZLPRange.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPattern3D-Rectangular-RandomZ](SZGEPattern3D-Rectangular-RandomZ.html) |
-| Help: | Make a SZGEPattern3D-Rectangular-RandomZ |
+| | | |
+| Returns: | [SZGEPattern3D-Rectangular-RandomZ](SZGEPattern3D-Rectangular-RandomZ.html) | |
+| Help: | | Make a SZGEPattern3D-Rectangular-RandomZ |
 
 
 ## Functions:

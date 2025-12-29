@@ -24,9 +24,9 @@ SZCELines-AcDbLines Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINES | [List:AcDbLine](AcDbLine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCELines-AcDbLines](SZCELines-AcDbLines.html) |
-| Help: | Make a SZCELines-AcDbLines |
+| | | |
+| Returns: | [SZCELines-AcDbLines](SZCELines-AcDbLines.html) | |
+| Help: | | Make a SZCELines-AcDbLines |
 
 
 ## Functions:

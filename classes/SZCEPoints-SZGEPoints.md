@@ -24,9 +24,9 @@ SZCEPoints-SZGEPoints Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | POINTS | [SZGEPoints](SZGEPoints.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPoints-SZGEPoints](SZCEPoints-SZGEPoints.html) |
-| Help: | Make a SZCEPoints-SZGEPoints |
+| | | |
+| Returns: | [SZCEPoints-SZGEPoints](SZCEPoints-SZGEPoints.html) | |
+| Help: | | Make a SZCEPoints-SZGEPoints |
 
 
 ## Functions:

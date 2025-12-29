@@ -26,9 +26,9 @@ User SelectClass Structure
 | ALIST | [Alist](Alist.html) |  |
 | LABEL | [Label](Label.html) |  |
 | VALUE | [SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [User-SelectClass](User-SelectClass.html) |
-| Help: | Basic User-SelectClass Constructor |
+| | | |
+| Returns: | [User-SelectClass](User-SelectClass.html) | |
+| Help: | | Basic User-SelectClass Constructor |
 
 
 ## Functions:

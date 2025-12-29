@@ -24,9 +24,9 @@ SZGEVector-TMatrix-YAxis Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEVector-TMatrix-YAxis](SZGEVector-TMatrix-YAxis.html) |
-| Help: | Make a SZGEVector-TMatrix-YAxis |
+| | | |
+| Returns: | [SZGEVector-TMatrix-YAxis](SZGEVector-TMatrix-YAxis.html) | |
+| Help: | | Make a SZGEVector-TMatrix-YAxis |
 
 
 ## Functions:

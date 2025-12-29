@@ -24,9 +24,9 @@ Lines Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | POINTS | [Points](Points.html) |  |
-| --- | --- | --- |
-| Returns: | [Lines](Lines.html) |
-| Help: | Make Lines |
+| | | |
+| Returns: | [Lines](Lines.html) | |
+| Help: | | Make Lines |
 
 
 ## Functions:

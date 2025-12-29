@@ -25,9 +25,9 @@
 | --------- | --------- | --------- |
 | A | [Number](Number.html) |  |
 | B | [Number](Number.html) |  |
-| --- | --- | --- |
-| Returns: | [Number](Number.html) |
-| Help: | / Function |
+| | | |
+| Returns: | [Number](Number.html) | |
+| Help: | | / Function |
 
 
 ## Functions:

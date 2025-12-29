@@ -28,9 +28,9 @@ Face Loop Class
 | LOWER | [SZCEPlane](SZCEPlane.html) |  |
 | UPPER | [SZCEPlane](SZCEPlane.html) |  |
 | FLIPPED | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELoop-Face](SZGELoop-Face.html) |
-| Help: | Make a SZGELoop-Face |
+| | | |
+| Returns: | [SZGELoop-Face](SZGELoop-Face.html) | |
+| Help: | | Make a SZGELoop-Face |
 
 
 ## Functions:

@@ -28,9 +28,9 @@ SZCEPart-PolySolid Class
 | WIDTH | [Real](Real.html) |  |
 | ALIGN | [Enum-AcDbPolySolidAlignment](Enum-AcDbPolySolidAlignment.html) |  |
 | IOBJS | [List:SZCOFeature-Part](SZCOFeature-Part.html) | Features |
-| --- | --- | --- |
-| Returns: | [SZCEPart-PolySolid](SZCEPart-PolySolid.html) |
-| Help: | Make a SZCEPart-PolySolid |
+| | | |
+| Returns: | [SZCEPart-PolySolid](SZCEPart-PolySolid.html) | |
+| Help: | | Make a SZCEPart-PolySolid |
 
 
 ## Functions:

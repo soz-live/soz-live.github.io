@@ -25,9 +25,9 @@ SET Function
 | --------- | --------- | --------- |
 | SYMB | [SZLPSymbol](SZLPSymbol.html) |  |
 | VAL | [SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject](SZOBObject.html) |
-| Help: | assign Statement |
+| | | |
+| Returns: | [SZOBObject](SZOBObject.html) | |
+| Help: | | assign Statement |
 
 
 ## Functions:

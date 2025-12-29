@@ -26,9 +26,9 @@ Side of Member Plane
 | MEM | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
 | END | [Enum-Member-End](Enum-Member-End.html) |  |
 | MEM0 | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane-Member-MemberSide](SZGEPlane-Member-MemberSide.html) |
-| Help: | Make a Side of Member Plane |
+| | | |
+| Returns: | [SZGEPlane-Member-MemberSide](SZGEPlane-Member-MemberSide.html) | |
+| Help: | | Make a Side of Member Plane |
 
 
 ## Functions:

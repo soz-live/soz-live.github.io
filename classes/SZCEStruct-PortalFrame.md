@@ -29,9 +29,9 @@ PortalFrame Structural Members
 | PEAK | [SZGEPlane](SZGEPlane.html) |  |
 | CONN0 | [SZCEStruct-Connection-ToMember](SZCEStruct-Connection-ToMember.html) |  |
 | CONN1 | [SZCEStruct-Connection-Mitre](SZCEStruct-Connection-Mitre.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-PortalFrame](SZCEStruct-PortalFrame.html) |
-| Help: | PortalFrame Structural Members |
+| | | |
+| Returns: | [SZCEStruct-PortalFrame](SZCEStruct-PortalFrame.html) | |
+| Help: | | PortalFrame Structural Members |
 
 
 ## Functions:

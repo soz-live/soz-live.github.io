@@ -24,9 +24,9 @@ Color
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | COLOR | [SZCOColor](SZCOColor.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOVisual-Color](SZCOVisual-Color.html) |
-| Help: | Color |
+| | | |
+| Returns: | [SZCOVisual-Color](SZCOVisual-Color.html) | |
+| Help: | | Color |
 
 
 ## Functions:

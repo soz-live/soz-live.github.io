@@ -24,9 +24,9 @@ SZGEPlane-TMatrix-ZAxis Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane-TMatrix-ZAxis](SZGEPlane-TMatrix-ZAxis.html) |
-| Help: | Make a SZGEPlane-TMatrix-ZAxis |
+| | | |
+| Returns: | [SZGEPlane-TMatrix-ZAxis](SZGEPlane-TMatrix-ZAxis.html) | |
+| Help: | | Make a SZGEPlane-TMatrix-ZAxis |
 
 
 ## Functions:

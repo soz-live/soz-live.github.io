@@ -25,9 +25,9 @@ Random Integer Object using Range
 | --------- | --------- | --------- |
 | LOW | [Number](Number.html) |  |
 | HIGH | [Number](Number.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPInteger](SZLPInteger.html) |
-| Help: | Random Integer Object using Range |
+| | | |
+| Returns: | [SZLPInteger](SZLPInteger.html) | |
+| Help: | | Random Integer Object using Range |
 
 
 ## Functions:

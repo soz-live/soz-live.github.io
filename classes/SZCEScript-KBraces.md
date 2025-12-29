@@ -27,9 +27,9 @@ KBraces Structural Members
 | BEAMS | [Set:SZCEStruct-Member](SZCEStruct-Member.html) |  |
 | CONN0 | [SZCEStruct-Connection-ToMembers](SZCEStruct-Connection-ToMembers.html) |  |
 | CONN1 | [SZCEStruct-Connection-ToMember](SZCEStruct-Connection-ToMember.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-KBrace](SZCEStruct-KBrace.html) |
-| Help: | KBrace Structural Member |
+| | | |
+| Returns: | [SZCEStruct-KBrace](SZCEStruct-KBrace.html) | |
+| Help: | | KBrace Structural Member |
 
 
 ## Functions:

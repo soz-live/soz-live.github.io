@@ -29,9 +29,9 @@ DCL Alist Tree View
 | W | [Integer](Integer.html) |  |
 | H | [Integer](Integer.html) |  |
 | TABS | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Tile-AlistTree-Select](DCLS-Tile-AlistTree-Select.html) |
-| Help: | Basic DCLS-Tile-AlistTree-Select |
+| | | |
+| Returns: | [DCLS-Tile-AlistTree-Select](DCLS-Tile-AlistTree-Select.html) | |
+| Help: | | Basic DCLS-Tile-AlistTree-Select |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ SZGETMatrix-ZAxis Class
 | --------- | --------- | --------- |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
 | ZAXIS | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-ZAxis](SZGETMatrix-ZAxis.html) |
-| Help: | Make a SZGETMatrix-ZAxis |
+| | | |
+| Returns: | [SZGETMatrix-ZAxis](SZGETMatrix-ZAxis.html) | |
+| Help: | | Make a SZGETMatrix-ZAxis |
 
 
 ## Functions:

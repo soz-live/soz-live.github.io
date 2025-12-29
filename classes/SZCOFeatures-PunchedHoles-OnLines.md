@@ -26,9 +26,9 @@ Holes on Lines
 | LINES | [SZCELines](SZCELines.html) |  |
 | DIA | [SZLPNumber](SZLPNumber.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
-| --- | --- | --- |
-| Returns: | [SZCOFeatures-PunchedHoles-OnLines](SZCOFeatures-PunchedHoles-OnLines.html) |
-| Help: | Holes on Multiple Lines |
+| | | |
+| Returns: | [SZCOFeatures-PunchedHoles-OnLines](SZCOFeatures-PunchedHoles-OnLines.html) | |
+| Help: | | Holes on Multiple Lines |
 
 
 ## Functions:

@@ -23,9 +23,9 @@ ODBXApplication Object
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: |  |
-| Help: |  |
+| | | |
+| Returns: |  | |
+| Help: | |  |
 
 
 ## Functions:
@@ -40,23 +40,23 @@ ODBXApplication Object
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [ObjectDbx-Application](ObjectDbx-Application.html) |
-| Help: | Application Method |
+| | | |
+| Returns: | [ObjectDbx-Application](ObjectDbx-Application.html) | |
+| Help: | | Application Method |
 
 ### ODBXApplication-Documents
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [ODBXDocuments](ODBXDocuments.html) |
-| Help: | Documents Method |
+| | | |
+| Returns: | [ODBXDocuments](ODBXDocuments.html) | |
+| Help: | | Documents Method |
 
 ### ODBXApplication-Quit
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [NIL](NIL.html) |
-| Help: | Quit Method |
+| | | |
+| Returns: | [NIL](NIL.html) | |
+| Help: | | Quit Method |
 

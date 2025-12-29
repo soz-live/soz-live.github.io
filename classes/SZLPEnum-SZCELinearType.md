@@ -24,9 +24,9 @@ SZLPEnum-SZCELinearType Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-SZCELinearType](Enum-SZCELinearType.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPEnum-SZCELinearType](SZLPEnum-SZCELinearType.html) |
-| Help: | Make a SZLPEnum-SZCELinearType |
+| | | |
+| Returns: | [SZLPEnum-SZCELinearType](SZLPEnum-SZCELinearType.html) | |
+| Help: | | Make a SZLPEnum-SZCELinearType |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ SZGEVector-Relative Class
 | --------- | --------- | --------- |
 | POINT0 | [SZGEPoint](SZGEPoint.html) |  |
 | POINT1 | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEVector-Relative](SZGEVector-Relative.html) |
-| Help: | Make a SZGEVector-Relative |
+| | | |
+| Returns: | [SZGEVector-Relative](SZGEVector-Relative.html) | |
+| Help: | | Make a SZGEVector-Relative |
 
 
 ## Functions:

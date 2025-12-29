@@ -25,9 +25,9 @@ SZCOProfile-RHS Class
 | --------- | --------- | --------- |
 | SECTION | [SZCOSection-RHS](SZCOSection-RHS.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOProfile-RHS](SZCOProfile-RHS.html) |
-| Help: | Make a SZCOProfile-RHS |
+| | | |
+| Returns: | [SZCOProfile-RHS](SZCOProfile-RHS.html) | |
+| Help: | | Make a SZCOProfile-RHS |
 
 
 ## Functions:

@@ -27,9 +27,9 @@ Base Animation Effect-Point Class
 | START | [Integer](Integer.html) |  |
 | FINISH | [Integer](Integer.html) |  |
 | SEQUENCE | [SZOBAnimate-Sequence-Point](SZOBAnimate-Sequence-Point.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBAnimate-Effect-Point](SZOBAnimate-Effect-Point.html) |
-| Help: | Make Animation Effect-Point |
+| | | |
+| Returns: | [SZOBAnimate-Effect-Point](SZOBAnimate-Effect-Point.html) | |
+| Help: | | Make Animation Effect-Point |
 
 
 ## Functions:

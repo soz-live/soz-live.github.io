@@ -25,9 +25,9 @@ SZGETMatrix-Mitre Class
 | --------- | --------- | --------- |
 | LINE0 | [SZGELine](SZGELine.html) |  |
 | LINE1 | [SZGELine](SZGELine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-Mitre](SZGETMatrix-Mitre.html) |
-| Help: | Make a SZGETMatrix-Mitre |
+| | | |
+| Returns: | [SZGETMatrix-Mitre](SZGETMatrix-Mitre.html) | |
+| Help: | | Make a SZGETMatrix-Mitre |
 
 
 ## Functions:

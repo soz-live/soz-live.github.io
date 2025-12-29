@@ -28,9 +28,9 @@ Rigging Arrgt OnLine Class
 | LINE | [AcDbLine](AcDbLine.html) |  |
 | FLIP | [Boolean](Boolean.html) |  |
 | STARTANG | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-Arrgt-OnLine](SZCERigging-Arrgt-OnLine.html) |
-| Help: | Make Rigging OnLine |
+| | | |
+| Returns: | [SZCERigging-Arrgt-OnLine](SZCERigging-Arrgt-OnLine.html) | |
+| Help: | | Make Rigging OnLine |
 
 
 ## Functions:

@@ -33,16 +33,16 @@ AcDbBlock Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbBlock](AcDbBlock.html) |
-| Help: | User_ModelSpace |
+| | | |
+| Returns: | [AcDbBlock](AcDbBlock.html) | |
+| Help: | | User_ModelSpace |
 
 ### AcDbBlock-User_PaperSpace
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbBlock](AcDbBlock.html) |
-| Help: | User_PaperSpace |
+| | | |
+| Returns: | [AcDbBlock](AcDbBlock.html) | |
+| Help: | | User_PaperSpace |
 

@@ -25,9 +25,9 @@ SZGEShape-Slot Class
 | --------- | --------- | --------- |
 | WIDTH | [Real](Real.html) |  |
 | DIA | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-Slot](SZGEShape-Slot.html) |
-| Help: | Slot Shape |
+| | | |
+| Returns: | [SZGEShape-Slot](SZGEShape-Slot.html) | |
+| Help: | | Slot Shape |
 
 
 ## Functions:

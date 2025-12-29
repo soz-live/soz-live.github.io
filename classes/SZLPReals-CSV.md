@@ -24,9 +24,9 @@ SZLPReals-CSV Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CSV | [String-CSV](String-CSV.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReals-CSV](SZLPReals-CSV.html) |
-| Help: | Make a SZLPReals-CSV |
+| | | |
+| Returns: | [SZLPReals-CSV](SZLPReals-CSV.html) | |
+| Help: | | Make a SZLPReals-CSV |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ Pair Class
 | --------- | --------- | --------- |
 | A | [Atom](Atom.html) |  |
 | D | [SZOBBase](SZOBBase.html) |  |
-| --- | --- | --- |
-| Returns: | [Pair](Pair.html) |
-| Help: | Make a Pair |
+| | | |
+| Returns: | [Pair](Pair.html) | |
+| Help: | | Make a Pair |
 
 
 ## Functions:

@@ -26,9 +26,9 @@ Spherical Point
 | RADIUS | [Real](Real.html) |  |
 | THETA | [Rad](Rad.html) |  |
 | PHI | [Rad](Rad.html) |  |
-| --- | --- | --- |
-| Returns: | [Point-Spherical](Point-Spherical.html) |
-| Help: | Make a Point-Spherical |
+| | | |
+| Returns: | [Point-Spherical](Point-Spherical.html) | |
+| Help: | | Make a Point-Spherical |
 
 
 ## Functions:

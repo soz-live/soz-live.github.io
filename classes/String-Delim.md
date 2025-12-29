@@ -25,9 +25,9 @@ String-Delim Class
 | --------- | --------- | --------- |
 | VALUES | [List:String](String.html) |  |
 | DELIM | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [String-Delim](String-Delim.html) |
-| Help: | New Delim String |
+| | | |
+| Returns: | [String-Delim](String-Delim.html) | |
+| Help: | | New Delim String |
 
 
 ## Functions:
@@ -44,7 +44,7 @@ String-Delim Class
 | --------- | --------- | --------- |
 | VALUE | [String](String.html) |  |
 | DELIM | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [Strings](Strings.html) |
-| Help: | Convert Delim String to Strings |
+| | | |
+| Returns: | [Strings](Strings.html) | |
+| Help: | | Convert Delim String to Strings |
 

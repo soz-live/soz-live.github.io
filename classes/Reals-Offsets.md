@@ -24,9 +24,9 @@ Reals-Offsets Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | OFFSETS | [List:Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Reals](Reals.html) |
-| Help: | Creates a Real Array |
+| | | |
+| Returns: | [Reals](Reals.html) | |
+| Help: | | Creates a Real Array |
 
 
 ## Functions:

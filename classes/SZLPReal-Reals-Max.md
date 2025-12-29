@@ -24,9 +24,9 @@ SZLPReal-Reals-Max Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ARRAY | [SZLPReals](SZLPReals.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReal-Reals-Max](SZLPReal-Reals-Max.html) |
-| Help: | Make a SZLPReal-Reals-Max |
+| | | |
+| Returns: | [SZLPReal-Reals-Max](SZLPReal-Reals-Max.html) | |
+| Help: | | Make a SZLPReal-Reals-Max |
 
 
 ## Functions:

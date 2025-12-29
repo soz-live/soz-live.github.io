@@ -28,9 +28,9 @@ KBrace Structural Member
 | CONN0 | [SZCEStruct-Connection-ToMembers](SZCEStruct-Connection-ToMembers.html) |  |
 | UPPER | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
 | CONN1 | [SZCEStruct-Connection-ToMember](SZCEStruct-Connection-ToMember.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-KBrace](SZCEStruct-KBrace.html) |
-| Help: | KBrace Structural Member |
+| | | |
+| Returns: | [SZCEStruct-KBrace](SZCEStruct-KBrace.html) | |
+| Help: | | KBrace Structural Member |
 
 
 ## Functions:

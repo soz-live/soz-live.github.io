@@ -27,9 +27,9 @@ LIVE Value Args Node
 | CN | [SZMAClassName](SZMAClassName.html) |  |
 | MN | [SZMAMethodName](SZMAMethodName.html) |  |
 | ARGS | [List:SZOBBase](SZOBBase.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLVNode](SZLVNode.html) |
-| Help: | SZLVNode using Value Args |
+| | | |
+| Returns: | [SZLVNode](SZLVNode.html) | |
+| Help: | | SZLVNode using Value Args |
 
 
 ## Functions:

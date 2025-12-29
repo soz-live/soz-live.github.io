@@ -27,9 +27,9 @@ SZGELine-Planes-Intersect Class
 | PLANE1 | [SZGEPlane](SZGEPlane.html) |  |
 | STARTPL | [SZGEPlane](SZGEPlane.html) |  |
 | ENDPL | [SZGEPlane](SZGEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELine-Planes-Intersect](SZGELine-Planes-Intersect.html) |
-| Help: | Make a SZGELine-Planes-Intersect |
+| | | |
+| Returns: | [SZGELine-Planes-Intersect](SZGELine-Planes-Intersect.html) | |
+| Help: | | Make a SZGELine-Planes-Intersect |
 
 
 ## Functions:

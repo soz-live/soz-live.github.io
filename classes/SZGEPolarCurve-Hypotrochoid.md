@@ -26,9 +26,9 @@ Inside rolling curve
 | RA | [Real](Real.html) |  |
 | RB | [Real](Real.html) |  |
 | H | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPolarCurve-Hypotrochoid](SZGEPolarCurve-Hypotrochoid.html) |
-| Help: | Inside rolling curve |
+| | | |
+| Returns: | [SZGEPolarCurve-Hypotrochoid](SZGEPolarCurve-Hypotrochoid.html) | |
+| Help: | | Inside rolling curve |
 
 
 ## Functions:

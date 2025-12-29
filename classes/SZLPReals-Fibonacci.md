@@ -24,9 +24,9 @@ Real Array using Fibonacci sequence
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NO | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReals-Fibonacci](SZLPReals-Fibonacci.html) |
-| Help: | Real Array using the Fibonacci sequence |
+| | | |
+| Returns: | [SZLPReals-Fibonacci](SZLPReals-Fibonacci.html) | |
+| Help: | | Real Array using the Fibonacci sequence |
 
 
 ## Functions:

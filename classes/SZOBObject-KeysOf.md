@@ -25,9 +25,9 @@ Create an Object from a list of Keys
 | --------- | --------- | --------- |
 | OBJ | [SZOBObject](SZOBObject.html) |  |
 | KEYS | [List:Key](Key.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject-KeysOf](SZOBObject-KeysOf.html) |
-| Help: | Create an Object from a list of Keys |
+| | | |
+| Returns: | [SZOBObject-KeysOf](SZOBObject-KeysOf.html) | |
+| Help: | | Create an Object from a list of Keys |
 
 
 ## Functions:

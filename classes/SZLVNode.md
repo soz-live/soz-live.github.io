@@ -27,9 +27,9 @@ LIVE Node
 | FUNC | [SZMAFunctionName](SZMAFunctionName.html) |  |
 | ARGS | [List:SZOBBase](SZOBBase.html) |  |
 | RETURNS | [SZOBBase](SZOBBase.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLVNode](SZLVNode.html) |
-| Help: | Make a LIVE Node |
+| | | |
+| Returns: | [SZLVNode](SZLVNode.html) | |
+| Help: | | Make a LIVE Node |
 
 
 ## Functions:

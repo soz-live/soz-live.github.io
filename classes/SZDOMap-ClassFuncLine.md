@@ -24,9 +24,9 @@ Class Map
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | REPO | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [SZDOMap-ClassFuncLine](SZDOMap-ClassFuncLine.html) |
-| Help: | Development ClassFuncLine Map |
+| | | |
+| Returns: | [SZDOMap-ClassFuncLine](SZDOMap-ClassFuncLine.html) | |
+| Help: | | Development ClassFuncLine Map |
 
 
 ## Functions:

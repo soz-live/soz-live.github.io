@@ -27,9 +27,9 @@ SZCE3dCurve-AcDbPoints Class
 | POINTS | [List:AcDbPoint](AcDbPoint.html) |  |
 | CLOSED | [Boolean](Boolean.html) |  |
 | POLYTYPE | [Enum-AcDb3dPolylineType](Enum-AcDb3dPolylineType.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCE3dCurve-AcDbPoints](SZCE3dCurve-AcDbPoints.html) |
-| Help: | Make a SZCE3dCurve-AcDbPoints |
+| | | |
+| Returns: | [SZCE3dCurve-AcDbPoints](SZCE3dCurve-AcDbPoints.html) | |
+| Help: | | Make a SZCE3dCurve-AcDbPoints |
 
 
 ## Functions:

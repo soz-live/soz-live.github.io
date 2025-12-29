@@ -25,9 +25,9 @@ Brace Line
 | --------- | --------- | --------- |
 | MEM | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
 | BEAM | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELine-Brace](SZGELine-Brace.html) |
-| Help: | Brace Line |
+| | | |
+| Returns: | [SZGELine-Brace](SZGELine-Brace.html) | |
+| Help: | | Brace Line |
 
 
 ## Functions:

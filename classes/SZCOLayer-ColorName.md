@@ -25,9 +25,9 @@ SZCOLayer-ColorName Class
 | --------- | --------- | --------- |
 | COLOR | [SZCOColor-RGB](SZCOColor-RGB.html) |  |
 | LWEIGHT | [Enum-AcDbLineWeight](Enum-AcDbLineWeight.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOLayer](SZCOLayer.html) |
-| Help: | Make a SZCOLayer-ColorName |
+| | | |
+| Returns: | [SZCOLayer](SZCOLayer.html) | |
+| Help: | | Make a SZCOLayer-ColorName |
 
 
 ## Functions:

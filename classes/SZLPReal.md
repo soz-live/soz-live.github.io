@@ -24,9 +24,9 @@ SZLPReal Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReal](SZLPReal.html) |
-| Help: | Make a SZLPReal |
+| | | |
+| Returns: | [SZLPReal](SZLPReal.html) | |
+| Help: | | Make a SZLPReal |
 
 
 ## Functions:
@@ -42,16 +42,16 @@ SZLPReal Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReal](SZLPReal.html) |
-| Help: | User_2xPI |
+| | | |
+| Returns: | [SZLPReal](SZLPReal.html) | |
+| Help: | | User_2xPI |
 
 ### SZLPReal-User_PI
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReal](SZLPReal.html) |
-| Help: | User_PI |
+| | | |
+| Returns: | [SZLPReal](SZLPReal.html) | |
+| Help: | | User_PI |
 

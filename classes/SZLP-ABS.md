@@ -24,9 +24,9 @@ ABS Function
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NUM | [Number](Number.html) |  |
-| --- | --- | --- |
-| Returns: | [Number](Number.html) |
-| Help: | ABS Function |
+| | | |
+| Returns: | [Number](Number.html) | |
+| Help: | | ABS Function |
 
 
 ## Functions:

@@ -24,12 +24,12 @@ AcDbLineWeight
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-AcDbLineWeight](Enum-AcDbLineWeight.html) |  |
-| --- | --- | --- |
-| Returns: | [Enum-AcDbLineWeight](Enum-AcDbLineWeight.html) |
-| Help: | Enum-AcDbLineWeight |
+| | | |
+| Returns: | [Enum-AcDbLineWeight](Enum-AcDbLineWeight.html) | |
+| Help: | | Enum-AcDbLineWeight |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

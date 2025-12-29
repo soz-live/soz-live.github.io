@@ -24,9 +24,9 @@ SZCEUCS-Circle-Centre Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CIRCLE | [AcDbCircle](AcDbCircle.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEUCS-Circle-Centre](SZCEUCS-Circle-Centre.html) |
-| Help: | Make a SZCEUCS-Circle-Centre |
+| | | |
+| Returns: | [SZCEUCS-Circle-Centre](SZCEUCS-Circle-Centre.html) | |
+| Help: | | Make a SZCEUCS-Circle-Centre |
 
 
 ## Functions:

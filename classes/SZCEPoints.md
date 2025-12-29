@@ -33,7 +33,7 @@ List of Points
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZCEPoints](SZCEPoints.html) |  |
-| --- | --- | --- |
-| Returns: | [List:Point](Point.html) |
-| Help: | List of Points |
+| | | |
+| Returns: | [List:Point](Point.html) | |
+| Help: | | List of Points |
 

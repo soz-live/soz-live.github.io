@@ -24,9 +24,9 @@ SZGEPoint-Line-EndPoint Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-Line-EndPoint](SZGEPoint-Line-EndPoint.html) |
-| Help: | Make a SZGEPoint-Line-EndPoint |
+| | | |
+| Returns: | [SZGEPoint-Line-EndPoint](SZGEPoint-Line-EndPoint.html) | |
+| Help: | | Make a SZGEPoint-Line-EndPoint |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ DCL StringAttribute
 | --------- | --------- | --------- |
 | NAME | [Key](Key.html) |  |
 | VALUE | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Attribute-String](DCLS-Attribute-String.html) |
-| Help: | Basic DCLS-Attribute-String Constructor |
+| | | |
+| Returns: | [DCLS-Attribute-String](DCLS-Attribute-String.html) | |
+| Help: | | Basic DCLS-Attribute-String Constructor |
 
 
 ## Functions:

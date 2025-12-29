@@ -24,9 +24,9 @@ Byte
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Byte](Byte.html) |  |
-| --- | --- | --- |
-| Returns: | [Byte](Byte.html) |
-| Help: | New Byte |
+| | | |
+| Returns: | [Byte](Byte.html) | |
+| Help: | | New Byte |
 
 
 ## Functions:

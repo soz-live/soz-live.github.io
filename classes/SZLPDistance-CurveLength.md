@@ -24,9 +24,9 @@ SZLPDistance-CurveLength Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPDistance-CurveLength](SZLPDistance-CurveLength.html) |
-| Help: | Make a SZLPDistance-CurveLength |
+| | | |
+| Returns: | [SZLPDistance-CurveLength](SZLPDistance-CurveLength.html) | |
+| Help: | | Make a SZLPDistance-CurveLength |
 
 
 ## Functions:

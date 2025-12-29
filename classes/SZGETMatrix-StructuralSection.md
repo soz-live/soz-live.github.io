@@ -26,9 +26,9 @@ Strutural Profile Matrix
 | LOOP | [SZGELoop](SZGELoop.html) |  |
 | ALIGN | [Enum-AcDbAlignment](Enum-AcDbAlignment.html) |  |
 | ZAROT | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-StructuralSection](SZGETMatrix-StructuralSection.html) |
-| Help: | Make a Strutural Profile Matrix |
+| | | |
+| Returns: | [SZGETMatrix-StructuralSection](SZGETMatrix-StructuralSection.html) | |
+| Help: | | Make a Strutural Profile Matrix |
 
 
 ## Functions:

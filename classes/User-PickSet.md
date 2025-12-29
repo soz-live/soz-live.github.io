@@ -25,9 +25,9 @@ User PickSet Structure
 | --------- | --------- | --------- |
 | CN | [SZMAClass](SZMAClass.html) |  |
 | LABEL | [Label](Label.html) |  |
-| --- | --- | --- |
-| Returns: | [User-PickSet](User-PickSet.html) |
-| Help: | Basic User-PickSet Constructor |
+| | | |
+| Returns: | [User-PickSet](User-PickSet.html) | |
+| Help: | | Basic User-PickSet Constructor |
 
 
 ## Functions:

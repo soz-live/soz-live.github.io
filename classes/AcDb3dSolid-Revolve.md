@@ -29,9 +29,9 @@ AcDb3dSolid-Revolve Class
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
 | VECTOR | [SZGEVector](SZGEVector.html) |  |
 | REVOLVE | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid-Revolve](AcDb3dSolid-Revolve.html) |
-| Help: | Make AcDb3dSolid-Revolve |
+| | | |
+| Returns: | [AcDb3dSolid-Revolve](AcDb3dSolid-Revolve.html) | |
+| Help: | | Make AcDb3dSolid-Revolve |
 
 
 ## Functions:

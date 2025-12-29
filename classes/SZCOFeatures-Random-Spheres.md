@@ -27,9 +27,9 @@ SZCOFeatures Random Spheres
 | RANGE | [SZLPRange](SZLPRange.html) |  |
 | OPERATION | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
-| --- | --- | --- |
-| Returns: | [SZCOFeatures-Random-Spheres](SZCOFeatures-Random-Spheres.html) |
-| Help: | Make SZCOFeatures-Random-Spheres |
+| | | |
+| Returns: | [SZCOFeatures-Random-Spheres](SZCOFeatures-Random-Spheres.html) | |
+| Help: | | Make SZCOFeatures-Random-Spheres |
 
 
 ## Functions:

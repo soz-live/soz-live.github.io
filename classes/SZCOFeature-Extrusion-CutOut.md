@@ -25,9 +25,9 @@ Extruded Face, Cut Out Class
 | --------- | --------- | --------- |
 | PLANES | [List:SZCEPlane](SZCEPlane.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
-| --- | --- | --- |
-| Returns: | [SZCOFeature-Extrusion-CutOut](SZCOFeature-Extrusion-CutOut.html) |
-| Help: | Make a Face Cut out |
+| | | |
+| Returns: | [SZCOFeature-Extrusion-CutOut](SZCOFeature-Extrusion-CutOut.html) | |
+| Help: | | Make a Face Cut out |
 
 
 ## Functions:

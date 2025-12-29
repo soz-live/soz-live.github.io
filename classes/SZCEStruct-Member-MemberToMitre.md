@@ -29,9 +29,9 @@ MemberToMitre Linear Structural Member
 | CONN0 | [SZCEStruct-Connection-ToMember](SZCEStruct-Connection-ToMember.html) |  |
 | MEM0 | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
 | CONN1 | [SZCEStruct-Connection-Mitre](SZCEStruct-Connection-Mitre.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-Member-MemberToMitre](SZCEStruct-Member-MemberToMitre.html) |
-| Help: | MemberToMitre Linear Structural Member |
+| | | |
+| Returns: | [SZCEStruct-Member-MemberToMitre](SZCEStruct-Member-MemberToMitre.html) | |
+| Help: | | MemberToMitre Linear Structural Member |
 
 
 ## Functions:

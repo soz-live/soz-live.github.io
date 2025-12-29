@@ -25,9 +25,9 @@ LESSTHANEQ Function
 | --------- | --------- | --------- |
 | A | [SZLPNumber](SZLPNumber.html) |  |
 | B | [SZLPNumber](SZLPNumber.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | LESSTHANEQ Function |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | LESSTHANEQ Function |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ User Pick Structure
 | --------- | --------- | --------- |
 | CN | [SZMAClass](SZMAClass.html) |  |
 | LABEL | [Label](Label.html) |  |
-| --- | --- | --- |
-| Returns: | [User-PickNode](User-PickNode.html) |
-| Help: | Basic User-PickNode Constructor |
+| | | |
+| Returns: | [User-PickNode](User-PickNode.html) | |
+| Help: | | Basic User-PickNode Constructor |
 
 
 ## Functions:

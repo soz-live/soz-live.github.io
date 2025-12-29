@@ -25,9 +25,9 @@ DCL IntegerAttribute
 | --------- | --------- | --------- |
 | NAME | [Key](Key.html) |  |
 | VALUE | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Attribute-Integer](DCLS-Attribute-Integer.html) |
-| Help: | Basic DCLS-Attribute-Integer Constructor |
+| | | |
+| Returns: | [DCLS-Attribute-Integer](DCLS-Attribute-Integer.html) | |
+| Help: | | Basic DCLS-Attribute-Integer Constructor |
 
 
 ## Functions:

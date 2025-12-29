@@ -25,9 +25,9 @@ NestedHypocycloid Script
 | --------- | --------- | --------- |
 | SIZE | [Real](Real.html) |  |
 | NO | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEScript-NestedHypocycloid](SZCEScript-NestedHypocycloid.html) |
-| Help: | Nested Hypocycloid |
+| | | |
+| Returns: | [SZCEScript-NestedHypocycloid](SZCEScript-NestedHypocycloid.html) | |
+| Help: | | Nested Hypocycloid |
 
 
 ## Functions:

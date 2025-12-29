@@ -34,18 +34,18 @@ Base Logical Class
 | --------- | --------- | --------- |
 | A | [SZOBBase](SZOBBase.html) |  |
 | B | [SZOBBase](SZOBBase.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | And Function |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | And Function |
 
 ### Logical-NOT
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | A | [SZOBBase](SZOBBase.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | Not Function |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | Not Function |
 
 ### Logical-OR
 
@@ -53,9 +53,9 @@ Base Logical Class
 | --------- | --------- | --------- |
 | A | [SZOBBase](SZOBBase.html) |  |
 | B | [SZOBBase](SZOBBase.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | Or Function |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | Or Function |
 
 ### Logical-XOR
 
@@ -63,7 +63,7 @@ Base Logical Class
 | --------- | --------- | --------- |
 | A | [SZOBBase](SZOBBase.html) |  |
 | B | [SZOBBase](SZOBBase.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | XOR Function |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | XOR Function |
 

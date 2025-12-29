@@ -26,9 +26,9 @@ SZCOSection-RHS Class
 | WIDTH | [Real](Real.html) |  |
 | DEPTH | [Real](Real.html) |  |
 | THICK | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSection-RHS](SZCOSection-RHS.html) |
-| Help: | Make a SZCOSection-RHS |
+| | | |
+| Returns: | [SZCOSection-RHS](SZCOSection-RHS.html) | |
+| Help: | | Make a SZCOSection-RHS |
 
 
 ## Functions:

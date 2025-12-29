@@ -25,9 +25,9 @@ SZGELine-PlaneToPlane-Vertical Class
 | --------- | --------- | --------- |
 | LOWER | [SZGEPlane](SZGEPlane.html) |  |
 | UPPER | [SZGEPlane](SZGEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELine](SZGELine.html) |
-| Help: | Make a SZGELine-PlaneToPlane-Vertical |
+| | | |
+| Returns: | [SZGELine](SZGELine.html) | |
+| Help: | | Make a SZGELine-PlaneToPlane-Vertical |
 
 
 ## Functions:

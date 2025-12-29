@@ -24,9 +24,9 @@ Documentation
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [List:Comment](Comment.html) |  |
-| --- | --- | --- |
-| Returns: | [Documentation](Documentation.html) |
-| Help: | New Documentation Strings |
+| | | |
+| Returns: | [Documentation](Documentation.html) | |
+| Help: | | New Documentation Strings |
 
 
 ## Functions:

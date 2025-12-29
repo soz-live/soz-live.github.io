@@ -25,9 +25,9 @@ SZLPReal-Curve-BaryComb Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | DIST | [SZLPReal](SZLPReal.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReal-Curve-BaryComb](SZLPReal-Curve-BaryComb.html) |
-| Help: | Make a SZLPReal-Curve-BaryComb |
+| | | |
+| Returns: | [SZLPReal-Curve-BaryComb](SZLPReal-Curve-BaryComb.html) | |
+| Help: | | Make a SZLPReal-Curve-BaryComb |
 
 
 ## Functions:

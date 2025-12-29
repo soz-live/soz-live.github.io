@@ -23,9 +23,9 @@ TMatrix-Mirror-X Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | Mirror X TMatrix Make |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | Mirror X TMatrix Make |
 
 
 ## Functions:

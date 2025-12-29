@@ -29,9 +29,9 @@ AcDb3dSolid-Extrusion-Tapered Class
 | HEIGHT | [Real](Real.html) |  |
 | EXTRUDE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
 | TAPER | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid-Extrusion-Tapered](AcDb3dSolid-Extrusion-Tapered.html) |
-| Help: | Make AcDb3dSolid-Extrusion-Tapered |
+| | | |
+| Returns: | [AcDb3dSolid-Extrusion-Tapered](AcDb3dSolid-Extrusion-Tapered.html) | |
+| Help: | | Make AcDb3dSolid-Extrusion-Tapered |
 
 
 ## Functions:

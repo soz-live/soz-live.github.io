@@ -25,9 +25,9 @@ SZLPString-Concats-Delim Class
 | --------- | --------- | --------- |
 | STRINGS | [List:String](String.html) |  |
 | DELIM | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPString](SZLPString.html) |
-| Help: | Concat Strings with Deliminator |
+| | | |
+| Returns: | [SZLPString](SZLPString.html) | |
+| Help: | | Concat Strings with Deliminator |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ AcDbRay Class
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | LINE | [SZGELine](SZGELine.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbRay](AcDbRay.html) |
-| Help: | Make an AcDbRay |
+| | | |
+| Returns: | [AcDbRay](AcDbRay.html) | |
+| Help: | | Make an AcDbRay |
 
 
 ## Functions:
@@ -43,7 +43,7 @@ AcDbRay Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbRay](AcDbRay.html) |  |
-| --- | --- | --- |
-| Returns: | [Line](Line.html) |
-| Help: | Line of an AcDbRay |
+| | | |
+| Returns: | [Line](Line.html) | |
+| Help: | | Line of an AcDbRay |
 

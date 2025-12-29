@@ -24,9 +24,9 @@ SZGETMatrix-SZCEPosn Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [SZCEPosn](SZCEPosn.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-SZCEPosn](SZGETMatrix-SZCEPosn.html) |
-| Help: | Make a SZGETMatrix-SZCEPosn |
+| | | |
+| Returns: | [SZGETMatrix-SZCEPosn](SZGETMatrix-SZCEPosn.html) | |
+| Help: | | Make a SZGETMatrix-SZCEPosn |
 
 
 ## Functions:

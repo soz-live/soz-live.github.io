@@ -24,9 +24,9 @@ Loop Bulges Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [List:Rad](Rad.html) |  |
-| --- | --- | --- |
-| Returns: | [Bulges](Bulges.html) |
-| Help: | Creates a list of Bulges |
+| | | |
+| Returns: | [Bulges](Bulges.html) | |
+| Help: | | Creates a list of Bulges |
 
 
 ## Functions:

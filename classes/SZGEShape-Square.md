@@ -24,9 +24,9 @@ SZGEShape-Square Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | SIDE | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-Square](SZGEShape-Square.html) |
-| Help: | Make a SZGEShape-Square |
+| | | |
+| Returns: | [SZGEShape-Square](SZGEShape-Square.html) | |
+| Help: | | Make a SZGEShape-Square |
 
 
 ## Functions:

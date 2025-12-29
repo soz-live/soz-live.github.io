@@ -28,9 +28,9 @@ FootingToOpenEnd Structural Column
 | TOP | [SZGEPlane](SZGEPlane.html) |  |
 | CONN0 | [SZCEStruct-Connection-OpenEnd](SZCEStruct-Connection-OpenEnd.html) |  |
 | CONN1 | [SZCEStruct-Connection-OpenEnd](SZCEStruct-Connection-OpenEnd.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-Column-FootingToOpenEnd](SZCEStruct-Column-FootingToOpenEnd.html) |
-| Help: | FootingToOpenEnd Structural Column |
+| | | |
+| Returns: | [SZCEStruct-Column-FootingToOpenEnd](SZCEStruct-Column-FootingToOpenEnd.html) | |
+| Help: | | FootingToOpenEnd Structural Column |
 
 
 ## Functions:

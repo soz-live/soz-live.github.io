@@ -31,9 +31,9 @@ AcDbAttributeDefinition Class
 | VALUE | [String](String.html) |  |
 | HEIGHT | [Real](Real.html) |  |
 | ALIGNMENT | [Enum-AcDbTextAlignment](Enum-AcDbTextAlignment.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbAttributeDefinition](AcDbAttributeDefinition.html) |
-| Help: | Attribute Definition |
+| | | |
+| Returns: | [AcDbAttributeDefinition](AcDbAttributeDefinition.html) | |
+| Help: | | Attribute Definition |
 
 
 ## Functions:

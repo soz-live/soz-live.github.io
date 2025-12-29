@@ -24,12 +24,12 @@ Shape alignment value
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-AcDbAlignment](Enum-AcDbAlignment.html) |  |
-| --- | --- | --- |
-| Returns: | [Enum-AcDbAlignment](Enum-AcDbAlignment.html) |
-| Help: | Enum-AcDbAlignment |
+| | | |
+| Returns: | [Enum-AcDbAlignment](Enum-AcDbAlignment.html) | |
+| Help: | | Enum-AcDbAlignment |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

@@ -26,9 +26,9 @@ Member Side Vector
 | MEM | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
 | END | [Enum-Member-End](Enum-Member-End.html) |  |
 | MEM0 | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEVector-Member-MemberSide](SZGEVector-Member-MemberSide.html) |
-| Help: | Make a Member Side Vector |
+| | | |
+| Returns: | [SZGEVector-Member-MemberSide](SZGEVector-Member-MemberSide.html) | |
+| Help: | | Make a Member Side Vector |
 
 
 ## Functions:

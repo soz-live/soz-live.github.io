@@ -27,9 +27,9 @@ SZCOVisual
 | COLOR | [SZCOColor](SZCOColor.html) |  |
 | LTYPE | [AcDbLineType](AcDbLineType.html) |  |
 | LWEIGHT | [Enum-AcDbLineWeight](Enum-AcDbLineWeight.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOVisual](SZCOVisual.html) |
-| Help: | SZCOVisual |
+| | | |
+| Returns: | [SZCOVisual](SZCOVisual.html) | |
+| Help: | | SZCOVisual |
 
 
 ## Functions:
@@ -46,9 +46,9 @@ SZCOVisual
 | --------- | --------- | --------- |
 | VIZ | [SZCOVisual](SZCOVisual.html) | Visual Settings |
 | ENTS | [Set:AcDbEntity](AcDbEntity.html) |  |
-| --- | --- | --- |
-| Returns: | [Set:AcDbEntity](AcDbEntity.html) |
-| Help: | Sets the Visual Settings for the Entity |
+| | | |
+| Returns: | [Set:AcDbEntity](AcDbEntity.html) | |
+| Help: | | Sets the Visual Settings for the Entity |
 
 ### SZCOVisual-SetEntity
 
@@ -56,7 +56,7 @@ SZCOVisual
 | --------- | --------- | --------- |
 | VIZ | [SZCOVisual](SZCOVisual.html) | Visual Settings |
 | ENT | [AcDbEntity](AcDbEntity.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEntity](AcDbEntity.html) |
-| Help: | Sets the Visual Settings for the Entity |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | Sets the Visual Settings for the Entity |
 

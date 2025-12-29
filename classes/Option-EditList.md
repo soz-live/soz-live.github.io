@@ -24,12 +24,12 @@ EditList Options
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Option-EditList](Option-EditList.html) |  |
-| --- | --- | --- |
-| Returns: | [Option-EditList](Option-EditList.html) |
-| Help: | Option-EditList |
+| | | |
+| Returns: | [Option-EditList](Option-EditList.html) | |
+| Help: | | Option-EditList |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

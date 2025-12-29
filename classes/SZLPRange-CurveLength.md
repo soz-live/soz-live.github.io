@@ -24,9 +24,9 @@ SZLPRange-CurveLength Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPRange-CurveLength](SZLPRange-CurveLength.html) |
-| Help: | Make a SZLPRange-CurveLength |
+| | | |
+| Returns: | [SZLPRange-CurveLength](SZLPRange-CurveLength.html) | |
+| Help: | | Make a SZLPRange-CurveLength |
 
 
 ## Functions:

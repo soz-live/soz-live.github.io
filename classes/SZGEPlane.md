@@ -27,9 +27,9 @@ SZGEPlane Class
 | B | [Real](Real.html) |  |
 | C | [Real](Real.html) |  |
 | D | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane](SZGEPlane.html) |
-| Help: | Make a SZGEPlane |
+| | | |
+| Returns: | [SZGEPlane](SZGEPlane.html) | |
+| Help: | | Make a SZGEPlane |
 
 
 ## Functions:
@@ -45,52 +45,52 @@ SZGEPlane Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGEPlane](SZGEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [Line](Line.html) |
-| Help: | Line of a SZGEPlane |
+| | | |
+| Returns: | [Line](Line.html) | |
+| Help: | | Line of a SZGEPlane |
 
 ### SZGEPlane-Elevation
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGEPlane](SZGEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Elevation of a SZGEPlane |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Elevation of a SZGEPlane |
 
 ### SZGEPlane-Normal
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGEPlane](SZGEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Normal of a SZGEPlane |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Normal of a SZGEPlane |
 
 ### SZGEPlane-Point
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGEPlane](SZGEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Point of a SZGEPlane |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Point of a SZGEPlane |
 
 ### SZGEPlane-User_Pick
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane](SZGEPlane.html) |
-| Help: | User_Pick |
+| | | |
+| Returns: | [SZGEPlane](SZGEPlane.html) | |
+| Help: | | User_Pick |
 
 ### SZGEPlane-Value
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZGEPlane](SZGEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [Plane](Plane.html) |
-| Help: | Value of a SZGEPlane |
+| | | |
+| Returns: | [Plane](Plane.html) | |
+| Help: | | Value of a SZGEPlane |
 

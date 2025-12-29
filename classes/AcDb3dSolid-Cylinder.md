@@ -27,9 +27,9 @@ AcDb3dSolid-Cylinder Class
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | RADIUS | [Real](Real.html) |  |
 | HEIGHT | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid-Cylinder](AcDb3dSolid-Cylinder.html) |
-| Help: | Make an AcDb3dSolid-Cylinder |
+| | | |
+| Returns: | [AcDb3dSolid-Cylinder](AcDb3dSolid-Cylinder.html) | |
+| Help: | | Make an AcDb3dSolid-Cylinder |
 
 
 ## Functions:

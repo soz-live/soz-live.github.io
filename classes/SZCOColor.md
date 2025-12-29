@@ -24,9 +24,9 @@ Base color
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOColor](SZCOColor.html) |
-| Help: | Basic color |
+| | | |
+| Returns: | [SZCOColor](SZCOColor.html) | |
+| Help: | | Basic color |
 
 
 ## Functions:
@@ -43,25 +43,25 @@ Base color
 | --------- | --------- | --------- |
 | COLOR | [SZCOColor](SZCOColor.html) |  |
 | O | [AcDbEntity](AcDbEntity.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEntity](AcDbEntity.html) |
-| Help: | Sets the TrueColor for the Entity |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | Sets the TrueColor for the Entity |
 
 ### SZCOColor-User_ByBlock
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOColor-ByBlock](SZCOColor-ByBlock.html) |
-| Help: | User_ByBlock |
+| | | |
+| Returns: | [SZCOColor-ByBlock](SZCOColor-ByBlock.html) | |
+| Help: | | User_ByBlock |
 
 ### SZCOColor-User_ByLayer
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOColor-ByLayer](SZCOColor-ByLayer.html) |
-| Help: | User_ByLayer |
+| | | |
+| Returns: | [SZCOColor-ByLayer](SZCOColor-ByLayer.html) | |
+| Help: | | User_ByLayer |
 

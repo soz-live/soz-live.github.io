@@ -25,9 +25,9 @@ SZCOProfile-Loop Class
 | --------- | --------- | --------- |
 | LOOP | [SZGELoop](SZGELoop.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOProfile-Loop](SZCOProfile-Loop.html) |
-| Help: | Make a SZCOProfile-Loop |
+| | | |
+| Returns: | [SZCOProfile-Loop](SZCOProfile-Loop.html) | |
+| Help: | | Make a SZCOProfile-Loop |
 
 
 ## Functions:

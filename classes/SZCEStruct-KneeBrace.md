@@ -30,9 +30,9 @@ KneeBrace Structural Member
 | TOPLANE | [SZGEPlane](SZGEPlane.html) |  |
 | CONN0 | [SZCEStruct-Connection-ToMember](SZCEStruct-Connection-ToMember.html) |  |
 | CONN1 | [SZCEStruct-Connection-ToMember](SZCEStruct-Connection-ToMember.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-KneeBrace](SZCEStruct-KneeBrace.html) |
-| Help: | KneeBrace Structural Member |
+| | | |
+| Returns: | [SZCEStruct-KneeBrace](SZCEStruct-KneeBrace.html) | |
+| Help: | | KneeBrace Structural Member |
 
 
 ## Functions:

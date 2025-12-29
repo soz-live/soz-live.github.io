@@ -25,9 +25,9 @@ RelativeRef Reference Feature
 | --------- | --------- | --------- |
 | MODEL | [SZCEModelRef](SZCEModelRef.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
-| --- | --- | --- |
-| Returns: | [SZCOFeature-Assy-RelativeRef](SZCOFeature-Assy-RelativeRef.html) |
-| Help: | Make a SZCOFeature-Assy-RelativeRef |
+| | | |
+| Returns: | [SZCOFeature-Assy-RelativeRef](SZCOFeature-Assy-RelativeRef.html) | |
+| Help: | | Make a SZCOFeature-Assy-RelativeRef |
 
 
 ## Functions:

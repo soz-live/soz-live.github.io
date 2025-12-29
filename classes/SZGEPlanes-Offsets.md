@@ -25,9 +25,9 @@ SZGEPlanes-Offsets Class
 | --------- | --------- | --------- |
 | PLANE | [SZCEPlane](SZCEPlane.html) |  |
 | OFFSETS | [SZLPReals](SZLPReals.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlanes-Offsets](SZGEPlanes-Offsets.html) |
-| Help: | Make a SZGEPlanes-Offsets |
+| | | |
+| Returns: | [SZGEPlanes-Offsets](SZGEPlanes-Offsets.html) | |
+| Help: | | Make a SZGEPlanes-Offsets |
 
 
 ## Functions:

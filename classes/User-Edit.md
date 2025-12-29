@@ -26,9 +26,9 @@ User Edit Structure
 | CN | [SZMAClass](SZMAClass.html) |  |
 | OBJECT | [SZOBObject](SZOBObject.html) |  |
 | LABEL | [Label](Label.html) |  |
-| --- | --- | --- |
-| Returns: | [User-Edit](User-Edit.html) |
-| Help: | Basic User-Edit Constructor |
+| | | |
+| Returns: | [User-Edit](User-Edit.html) | |
+| Help: | | Basic User-Edit Constructor |
 
 
 ## Functions:

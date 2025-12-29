@@ -24,9 +24,9 @@ SZGETMatrix-Loop-Points Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LOOP | [SZGELoop-Points](SZGELoop-Points.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-Loop-Points](SZGETMatrix-Loop-Points.html) |
-| Help: | Make a SZGETMatrix-Loop-Points |
+| | | |
+| Returns: | [SZGETMatrix-Loop-Points](SZGETMatrix-Loop-Points.html) | |
+| Help: | | Make a SZGETMatrix-Loop-Points |
 
 
 ## Functions:

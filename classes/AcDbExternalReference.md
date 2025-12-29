@@ -27,9 +27,9 @@ External Reference
 | FNAME | [File-DWG](File-DWG.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | OVERLAY | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbExternalReference](AcDbExternalReference.html) |
-| Help: | Make an External Reference |
+| | | |
+| Returns: | [AcDbExternalReference](AcDbExternalReference.html) | |
+| Help: | | Make an External Reference |
 
 
 ## Functions:

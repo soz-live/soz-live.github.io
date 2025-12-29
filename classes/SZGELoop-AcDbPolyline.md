@@ -25,9 +25,9 @@ SZGELoop-AcDbPolyline Class
 | --------- | --------- | --------- |
 | ENTITY | [AcDbPolyline](AcDbPolyline.html) |  |
 | ORIGIN | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELoop-AcDbPolyline](SZGELoop-AcDbPolyline.html) |
-| Help: | Polyline Shape with Origin |
+| | | |
+| Returns: | [SZGELoop-AcDbPolyline](SZGELoop-AcDbPolyline.html) | |
+| Help: | | Polyline Shape with Origin |
 
 
 ## Functions:

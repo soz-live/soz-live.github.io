@@ -26,9 +26,9 @@ SZGEPattern-Linear Class
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
 | VECTOR | [SZGEVector](SZGEVector.html) |  |
 | ARRAY | [SZLPReals](SZLPReals.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPattern-Linear](SZGEPattern-Linear.html) |
-| Help: | Make a SZGEPattern-Linear |
+| | | |
+| Returns: | [SZGEPattern-Linear](SZGEPattern-Linear.html) | |
+| Help: | | Make a SZGEPattern-Linear |
 
 
 ## Functions:

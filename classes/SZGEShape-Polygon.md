@@ -26,9 +26,9 @@ SZGEShape-Polygon Class
 | DIA | [Real](Real.html) |  |
 | SIDES | [Integer](Integer.html) |  |
 | INSCRIBED | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-Polygon](SZGEShape-Polygon.html) |
-| Help: | Polygon Shape |
+| | | |
+| Returns: | [SZGEShape-Polygon](SZGEShape-Polygon.html) | |
+| Help: | | Polygon Shape |
 
 
 ## Functions:

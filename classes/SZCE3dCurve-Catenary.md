@@ -26,9 +26,9 @@ SZCE3dCurve-Catenary Class
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | LINE | [SZGELine](SZGELine.html) |  |
 | DEFN | [SZGE3dCurve-Catenary](SZGE3dCurve-Catenary.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) |
-| Help: | Make a SZCE3dCurve-Catenary |
+| | | |
+| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) | |
+| Help: | | Make a SZCE3dCurve-Catenary |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ SZCEGrid-OnLines Class
 | --------- | --------- | --------- |
 | LINES | [Set:AcDbLine](AcDbLine.html) |  |
 | TYP | [Enum-SZCELinearType](Enum-SZCELinearType.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEGrid-OnLines](SZCEGrid-OnLines.html) |
-| Help: | Grids on Multiple Lines |
+| | | |
+| Returns: | [SZCEGrid-OnLines](SZCEGrid-OnLines.html) | |
+| Help: | | Grids on Multiple Lines |
 
 
 ## Functions:

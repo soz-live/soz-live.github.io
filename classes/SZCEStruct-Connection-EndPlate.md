@@ -25,9 +25,9 @@ A Structural EndPlate Connection
 | --------- | --------- | --------- |
 | PLATE | [SZCEStruct-PlateDef](SZCEStruct-PlateDef.html) |  |
 | CLEAR | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-Connection-EndPlate](SZCEStruct-Connection-EndPlate.html) |
-| Help: | Make a Structural EndPlate Connection |
+| | | |
+| Returns: | [SZCEStruct-Connection-EndPlate](SZCEStruct-Connection-EndPlate.html) | |
+| Help: | | Make a Structural EndPlate Connection |
 
 
 ## Functions:

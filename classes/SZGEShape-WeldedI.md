@@ -28,9 +28,9 @@ SZGEShape-WeldedI Class
 | WEBTHICK | [Real](Real.html) |  |
 | FLANGETHICK | [Real](Real.html) |  |
 | ROOTCHAMFER | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-WeldedI](SZGEShape-WeldedI.html) |
-| Help: | Welded I Shape |
+| | | |
+| Returns: | [SZGEShape-WeldedI](SZGEShape-WeldedI.html) | |
+| Help: | | Welded I Shape |
 
 
 ## Functions:

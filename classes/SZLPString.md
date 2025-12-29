@@ -24,9 +24,9 @@ SZLPString Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPString](SZLPString.html) |
-| Help: | Make a SZLPString |
+| | | |
+| Returns: | [SZLPString](SZLPString.html) | |
+| Help: | | Make a SZLPString |
 
 
 ## Functions:

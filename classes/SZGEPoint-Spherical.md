@@ -26,9 +26,9 @@ SZGEPoint-Spherical Class
 | RADIUS | [Real](Real.html) |  |
 | THETA | [Rad](Rad.html) |  |
 | PHI | [Rad](Rad.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-Spherical](SZGEPoint-Spherical.html) |
-| Help: | Make a SZGEPoint-Spherical |
+| | | |
+| Returns: | [SZGEPoint-Spherical](SZGEPoint-Spherical.html) | |
+| Help: | | Make a SZGEPoint-Spherical |
 
 
 ## Functions:

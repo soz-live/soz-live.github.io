@@ -23,9 +23,9 @@ Default Visual
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZCOVisual-Default](SZCOVisual-Default.html) |
-| Help: | Default |
+| | | |
+| Returns: | [SZCOVisual-Default](SZCOVisual-Default.html) | |
+| Help: | | Default |
 
 
 ## Functions:

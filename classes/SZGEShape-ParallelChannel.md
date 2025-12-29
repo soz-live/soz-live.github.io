@@ -28,9 +28,9 @@ SZGEShape-ParallelChannel Class
 | WEBTHICK | [Real](Real.html) |  |
 | FLANGETHICK | [Real](Real.html) |  |
 | ROOTRADIUS | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-ParallelChannel](SZGEShape-ParallelChannel.html) |
-| Help: | PFC Shape |
+| | | |
+| Returns: | [SZGEShape-ParallelChannel](SZGEShape-ParallelChannel.html) | |
+| Help: | | PFC Shape |
 
 
 ## Functions:

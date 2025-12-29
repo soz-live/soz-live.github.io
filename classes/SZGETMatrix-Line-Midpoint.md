@@ -24,9 +24,9 @@ SZGETMatrix-Line-MidPoint Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-Line-MidPoint](SZGETMatrix-Line-MidPoint.html) |
-| Help: | Make a SZGETMatrix-Line-MidPoint |
+| | | |
+| Returns: | [SZGETMatrix-Line-MidPoint](SZGETMatrix-Line-MidPoint.html) | |
+| Help: | | Make a SZGETMatrix-Line-MidPoint |
 
 
 ## Functions:

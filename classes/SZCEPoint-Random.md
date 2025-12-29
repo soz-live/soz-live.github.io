@@ -27,9 +27,9 @@ Random Point in Ranges
 | XRANGE | [SZLPRange](SZLPRange.html) |  |
 | YRANGE | [SZLPRange](SZLPRange.html) |  |
 | ZRANGE | [SZLPRange](SZLPRange.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbPoint](AcDbPoint.html) |
-| Help: | Make a Random Point in Ranges |
+| | | |
+| Returns: | [AcDbPoint](AcDbPoint.html) | |
+| Help: | | Make a Random Point in Ranges |
 
 
 ## Functions:

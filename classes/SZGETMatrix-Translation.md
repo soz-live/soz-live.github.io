@@ -24,9 +24,9 @@ SZGETMatrix-Translation Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-Translation](SZGETMatrix-Translation.html) |
-| Help: | Make a SZGETMatrix-Translation |
+| | | |
+| Returns: | [SZGETMatrix-Translation](SZGETMatrix-Translation.html) | |
+| Help: | | Make a SZGETMatrix-Translation |
 
 
 ## Functions:

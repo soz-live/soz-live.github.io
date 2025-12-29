@@ -28,9 +28,9 @@ AcDb3dSolid-Box Class
 | LEN | [Real](Real.html) |  |
 | WIDTH | [Real](Real.html) |  |
 | HEIGHT | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid-Box](AcDb3dSolid-Box.html) |
-| Help: | Make an AcDb3dSolid-Box |
+| | | |
+| Returns: | [AcDb3dSolid-Box](AcDb3dSolid-Box.html) | |
+| Help: | | Make an AcDb3dSolid-Box |
 
 
 ## Functions:

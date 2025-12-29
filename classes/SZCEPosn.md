@@ -25,9 +25,9 @@ SZCEPosn Class
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPosn](SZCEPosn.html) |
-| Help: | Make a SZCEPosn |
+| | | |
+| Returns: | [SZCEPosn](SZCEPosn.html) | |
+| Help: | | Make a SZCEPosn |
 
 
 ## Functions:
@@ -43,7 +43,7 @@ SZCEPosn Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZCEPosn](SZCEPosn.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | TMatrix of a SZCEPosn |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | TMatrix of a SZCEPosn |
 

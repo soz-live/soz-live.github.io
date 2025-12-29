@@ -27,9 +27,9 @@ User Edit Structure
 | OBJECT | [SZOBObject](SZOBObject.html) |  |
 | LABEL | [Label](Label.html) |  |
 | KEYS | [List:SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [User-Edit-Keys](User-Edit-Keys.html) |
-| Help: | Basic User-Edit-Keys Constructor |
+| | | |
+| Returns: | [User-Edit-Keys](User-Edit-Keys.html) | |
+| Help: | | Basic User-Edit-Keys Constructor |
 
 
 ## Functions:

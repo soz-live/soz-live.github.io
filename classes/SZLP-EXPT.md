@@ -25,9 +25,9 @@ EXPT Function
 | --------- | --------- | --------- |
 | BASE | [Number](Number.html) |  |
 | POW | [Number](Number.html) |  |
-| --- | --- | --- |
-| Returns: | [Number](Number.html) |
-| Help: | EXPT Function |
+| | | |
+| Returns: | [Number](Number.html) | |
+| Help: | | EXPT Function |
 
 
 ## Functions:

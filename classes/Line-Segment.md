@@ -23,9 +23,9 @@ Line-Segment Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: |  |
-| Help: |  |
+| | | |
+| Returns: |  | |
+| Help: | |  |
 
 
 ## Functions:
@@ -42,7 +42,7 @@ Line-Segment Class
 | --------- | --------- | --------- |
 | L | [Line](Line.html) |  |
 | PLANE | [Plane](Plane.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Line-Segment PlaneIntersect |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Line-Segment PlaneIntersect |
 

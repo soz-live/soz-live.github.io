@@ -25,9 +25,9 @@ Planar Curve
 | --------- | --------- | --------- |
 | FN | [Equation](Equation.html) |  |
 | VALUE | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlanarCurve](SZGEPlanarCurve.html) |
-| Help: | Planar Curve |
+| | | |
+| Returns: | [SZGEPlanarCurve](SZGEPlanarCurve.html) | |
+| Help: | | Planar Curve |
 
 
 ## Functions:

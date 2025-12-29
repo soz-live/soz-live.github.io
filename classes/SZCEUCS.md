@@ -25,9 +25,9 @@ SZCEUCS Class
 | --------- | --------- | --------- |
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEUCS](SZCEUCS.html) |
-| Help: | Make a SZCEUCS |
+| | | |
+| Returns: | [SZCEUCS](SZCEUCS.html) | |
+| Help: | | Make a SZCEUCS |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ User Select Structure
 | --------- | --------- | --------- |
 | CN | [SZMAClass](SZMAClass.html) |  |
 | LABEL | [Label](Label.html) |  |
-| --- | --- | --- |
-| Returns: | [User-Select](User-Select.html) |
-| Help: | Basic User-Select Constructor |
+| | | |
+| Returns: | [User-Select](User-Select.html) | |
+| Help: | | Basic User-Select Constructor |
 
 
 ## Functions:

@@ -26,9 +26,9 @@ SZCECircle-OnLine Class
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | LINE | [SZGELine](SZGELine.html) |  |
 | NORMAL | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbCircle](AcDbCircle.html) |
-| Help: | Make a SZCECircle-OnLine |
+| | | |
+| Returns: | [AcDbCircle](AcDbCircle.html) | |
+| Help: | | Make a SZCECircle-OnLine |
 
 
 ## Functions:

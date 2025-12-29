@@ -27,9 +27,9 @@ MemberToMember-OnPlane Linear Structural Member
 | MEM0 | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
 | MEM1 | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
 | CONN0 | [SZCEStruct-Connection-Rafter](SZCEStruct-Connection-Rafter.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEStruct-Rafter-ColumnToColumn](SZCEStruct-Rafter-ColumnToColumn.html) |
-| Help: | Rafter-ColumnToColumn Linear Structural Member |
+| | | |
+| Returns: | [SZCEStruct-Rafter-ColumnToColumn](SZCEStruct-Rafter-ColumnToColumn.html) | |
+| Help: | | Rafter-ColumnToColumn Linear Structural Member |
 
 
 ## Functions:

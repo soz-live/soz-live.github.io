@@ -26,9 +26,9 @@ SZGEPattern3D-Spherical Class
 | RADIUS | [Real](Real.html) |  |
 | THETA | [Integer](Integer.html) |  |
 | PHI | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPattern3D-Spherical](SZGEPattern3D-Spherical.html) |
-| Help: | Make a SZGEPattern3D-Spherical |
+| | | |
+| Returns: | [SZGEPattern3D-Spherical](SZGEPattern3D-Spherical.html) | |
+| Help: | | Make a SZGEPattern3D-Spherical |
 
 
 ## Functions:

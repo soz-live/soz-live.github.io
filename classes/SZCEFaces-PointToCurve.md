@@ -26,9 +26,9 @@ SZCEFaces-PointToCurve Class
 | POINT | [AcDbPoint](AcDbPoint.html) |  |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | QTY | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEFaces-PointToCurve](SZCEFaces-PointToCurve.html) |
-| Help: | Make a SZCEFaces-PointToCurve |
+| | | |
+| Returns: | [SZCEFaces-PointToCurve](SZCEFaces-PointToCurve.html) | |
+| Help: | | Make a SZCEFaces-PointToCurve |
 
 
 ## Functions:

@@ -24,9 +24,9 @@ SZGETMatrix-YAxisRotation Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ANG | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGETMatrix-YAxisRotation](SZGETMatrix-YAxisRotation.html) |
-| Help: | Make a SZGETMatrix-YAxisRotation |
+| | | |
+| Returns: | [SZGETMatrix-YAxisRotation](SZGETMatrix-YAxisRotation.html) | |
+| Help: | | Make a SZGETMatrix-YAxisRotation |
 
 
 ## Functions:

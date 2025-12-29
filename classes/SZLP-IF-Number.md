@@ -26,9 +26,9 @@ IF-Number Function
 | CND | [SZLPLogical](SZLPLogical.html) |  |
 | THS | [SZLPNumber](SZLPNumber.html) |  |
 | ELS | [SZLPNumber](SZLPNumber.html) |  |
-| --- | --- | --- |
-| Returns: | [Number](Number.html) |
-| Help: | IF-Number Statement |
+| | | |
+| Returns: | [Number](Number.html) | |
+| Help: | | IF-Number Statement |
 
 
 ## Functions:

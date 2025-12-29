@@ -26,9 +26,9 @@ DCL Strings
 | KEY | [Key](Key.html) |  |
 | VALUES | [List:String](String.html) |  |
 | VALUE | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Tile-PopUp-Select](DCLS-Tile-PopUp-Select.html) |
-| Help: | Basic DCLS-PopUp Constructor |
+| | | |
+| Returns: | [DCLS-Tile-PopUp-Select](DCLS-Tile-PopUp-Select.html) | |
+| Help: | | Basic DCLS-PopUp Constructor |
 
 
 ## Functions:

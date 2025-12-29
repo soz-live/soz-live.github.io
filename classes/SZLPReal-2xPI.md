@@ -23,9 +23,9 @@ SZLPReal-2xPI Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [SZLPReal-PI](SZLPReal-PI.html) |
-| Help: | The value of 2xPI |
+| | | |
+| Returns: | [SZLPReal-PI](SZLPReal-PI.html) | |
+| Help: | | The value of 2xPI |
 
 
 ## Functions:

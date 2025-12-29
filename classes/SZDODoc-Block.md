@@ -25,9 +25,9 @@ Doc Block Object
 | --------- | --------- | --------- |
 | BLOCK | [File-MD](File-MD.html) |  |
 | SUBS | [List:SZDODoc-Block](SZDODoc-Block.html) |  |
-| --- | --- | --- |
-| Returns: | [SZDODoc-Block](SZDODoc-Block.html) |
-| Help: | Make a Document Block Object |
+| | | |
+| Returns: | [SZDODoc-Block](SZDODoc-Block.html) | |
+| Help: | | Make a Document Block Object |
 
 
 ## Functions:

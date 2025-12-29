@@ -25,9 +25,9 @@ Random Number Object
 | --------- | --------- | --------- |
 | LOW | [Number](Number.html) |  |
 | HIGH | [Number](Number.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPNumber](SZLPNumber.html) |
-| Help: | Make Random Number Object |
+| | | |
+| Returns: | [SZLPNumber](SZLPNumber.html) | |
+| Help: | | Make Random Number Object |
 
 
 ## Functions:

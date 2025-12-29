@@ -25,9 +25,9 @@ A collection of Parts
 | --------- | --------- | --------- |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | IOBJS | [List:SZCOFeature-Assy](SZCOFeature-Assy.html) | Parts |
-| --- | --- | --- |
-| Returns: | [SZCEAssy](SZCEAssy.html) |
-| Help: | Makes an Assembly  |
+| | | |
+| Returns: | [SZCEAssy](SZCEAssy.html) | |
+| Help: | | Makes an Assembly  |
 
 
 ## Functions:
@@ -44,7 +44,7 @@ A collection of Parts
 | --------- | --------- | --------- |
 | DEF | [SZCEAssy](SZCEAssy.html) |  |
 | FEATURE | [SZCOFeature-Assy](SZCOFeature-Assy.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOFeature-Assy](SZCOFeature-Assy.html) |
-| Help: | Assembly - Add Feature Method |
+| | | |
+| Returns: | [SZCOFeature-Assy](SZCOFeature-Assy.html) | |
+| Help: | | Assembly - Add Feature Method |
 

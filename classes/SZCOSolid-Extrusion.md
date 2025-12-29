@@ -27,9 +27,9 @@ SZCOSolid-Extrusion Class
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | HEIGHT | [Real](Real.html) |  |
 | EXTRUDE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Extrusion](SZCOSolid-Extrusion.html) |
-| Help: | Make a SZCOSolid-Extrusion |
+| | | |
+| Returns: | [SZCOSolid-Extrusion](SZCOSolid-Extrusion.html) | |
+| Help: | | Make a SZCOSolid-Extrusion |
 
 
 ## Functions:

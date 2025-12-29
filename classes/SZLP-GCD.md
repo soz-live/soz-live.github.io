@@ -25,9 +25,9 @@ GCD Function
 | --------- | --------- | --------- |
 | N1 | [Number](Number.html) |  |
 | N2 | [Number](Number.html) |  |
-| --- | --- | --- |
-| Returns: | [Number](Number.html) |
-| Help: | GCD Function |
+| | | |
+| Returns: | [Number](Number.html) | |
+| Help: | | GCD Function |
 
 
 ## Functions:

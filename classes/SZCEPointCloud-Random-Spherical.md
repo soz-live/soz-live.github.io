@@ -28,9 +28,9 @@ PointCloud Spherical Random
 | R | [SZLPRange](SZLPRange.html) |  |
 | THETA | [SZLPRange-Theta](SZLPRange-Theta.html) |  |
 | PHI | [SZLPRange-Phi](SZLPRange-Phi.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPointCloud-Random-Spherical](SZCEPointCloud-Random-Spherical.html) |
-| Help: | Make PointCloud Spherical Random |
+| | | |
+| Returns: | [SZCEPointCloud-Random-Spherical](SZCEPointCloud-Random-Spherical.html) | |
+| Help: | | Make PointCloud Spherical Random |
 
 
 ## Functions:

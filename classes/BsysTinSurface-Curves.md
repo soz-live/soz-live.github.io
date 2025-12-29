@@ -24,9 +24,9 @@ BsysTinSurface-Curves
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITIES | [Set:AcDb3dPolyline](AcDb3dPolyline.html) |  |
-| --- | --- | --- |
-| Returns: | [BsysTinSurface](BsysTinSurface.html) |
-| Help: | Creates a TIN Surface |
+| | | |
+| Returns: | [BsysTinSurface](BsysTinSurface.html) | |
+| Help: | | Creates a TIN Surface |
 
 
 ## Functions:

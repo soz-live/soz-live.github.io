@@ -25,9 +25,9 @@ SZCEParts Random Spheres
 | --------- | --------- | --------- |
 | POINTS | [SZCEPointCloud](SZCEPointCloud.html) |  |
 | RANGE | [SZLPRange](SZLPRange.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEParts-Random-Spheres](SZCEParts-Random-Spheres.html) |
-| Help: | Make SZCEParts-Random-Spheres |
+| | | |
+| Returns: | [SZCEParts-Random-Spheres](SZCEParts-Random-Spheres.html) | |
+| Help: | | Make SZCEParts-Random-Spheres |
 
 
 ## Functions:

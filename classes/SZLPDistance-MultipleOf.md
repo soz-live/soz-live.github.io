@@ -25,9 +25,9 @@ SZLPDistance-MultipleOf Class
 | --------- | --------- | --------- |
 | DIST | [SZLPReal](SZLPReal.html) |  |
 | NO | [SZLPReal](SZLPReal.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPDistance-MultipleOf](SZLPDistance-MultipleOf.html) |
-| Help: | Make a SZLPDistance-MultipleOf |
+| | | |
+| Returns: | [SZLPDistance-MultipleOf](SZLPDistance-MultipleOf.html) | |
+| Help: | | Make a SZLPDistance-MultipleOf |
 
 
 ## Functions:

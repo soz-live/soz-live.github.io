@@ -25,9 +25,9 @@ Profile Cut Feature
 | --------- | --------- | --------- |
 | MREF | [SZCEModelRef](SZCEModelRef.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
-| --- | --- | --- |
-| Returns: | [SZCOFeature-ProfileCut](SZCOFeature-ProfileCut.html) |
-| Help: | ProfileCut Feature |
+| | | |
+| Returns: | [SZCOFeature-ProfileCut](SZCOFeature-ProfileCut.html) | |
+| Help: | | ProfileCut Feature |
 
 
 ## Functions:

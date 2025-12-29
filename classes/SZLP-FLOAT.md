@@ -24,9 +24,9 @@ SZLP-FLOAT Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NUM | [SZLPInteger](SZLPInteger.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | New SZLP-FLOAT |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | New SZLP-FLOAT |
 
 
 ## Functions:

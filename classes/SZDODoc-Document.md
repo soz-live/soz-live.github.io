@@ -27,9 +27,9 @@ Document Object
 | FNAME | [File-MD](File-MD.html) |  |
 | HEADER | [SZDODoc-Block-Header](SZDODoc-Block-Header.html) | Document Header |
 | BLOCKS | [List:SZDODoc-Block](SZDODoc-Block.html) |  |
-| --- | --- | --- |
-| Returns: | [SZDODoc](SZDODoc.html) |
-| Help: | Make a Document Object |
+| | | |
+| Returns: | [SZDODoc](SZDODoc.html) | |
+| Help: | | Make a Document Object |
 
 
 ## Functions:

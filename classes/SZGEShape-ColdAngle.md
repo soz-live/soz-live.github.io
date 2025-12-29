@@ -27,9 +27,9 @@ SZGEShape-ColdAngle Class
 | DEPTH | [Real](Real.html) |  |
 | WEBTHICK | [Real](Real.html) |  |
 | ROOTRADIUS | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-ColdAngle](SZGEShape-ColdAngle.html) |
-| Help: | Make a SZGEShape-ColdAngle |
+| | | |
+| Returns: | [SZGEShape-ColdAngle](SZGEShape-ColdAngle.html) | |
+| Help: | | Make a SZGEShape-ColdAngle |
 
 
 ## Functions:

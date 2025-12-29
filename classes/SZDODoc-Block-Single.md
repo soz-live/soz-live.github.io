@@ -24,9 +24,9 @@ Doc Block Object
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | BLOCK | [File-MD](File-MD.html) |  |
-| --- | --- | --- |
-| Returns: | [SZDODoc-Block-Single](SZDODoc-Block-Single.html) |
-| Help: | Make a Document Block Object |
+| | | |
+| Returns: | [SZDODoc-Block-Single](SZDODoc-Block-Single.html) | |
+| Help: | | Make a Document Block Object |
 
 
 ## Functions:

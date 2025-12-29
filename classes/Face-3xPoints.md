@@ -26,9 +26,9 @@ Face-3xPoints Class
 | POINT0 | [Point](Point.html) |  |
 | POINT1 | [Point](Point.html) |  |
 | POINT2 | [Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [Face-3xPoints](Face-3xPoints.html) |
-| Help: | Make a Face-3xPoints |
+| | | |
+| Returns: | [Face-3xPoints](Face-3xPoints.html) | |
+| Help: | | Make a Face-3xPoints |
 
 
 ## Functions:

@@ -24,9 +24,9 @@ ByLayer
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LAYER | [AcDbLayerTableRecord](AcDbLayerTableRecord.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOVisual-ByLayer](SZCOVisual-ByLayer.html) |
-| Help: | ByLayer |
+| | | |
+| Returns: | [SZCOVisual-ByLayer](SZCOVisual-ByLayer.html) | |
+| Help: | | ByLayer |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ LIVE SZOBObject Node
 | --------- | --------- | --------- |
 | POINT | [Point](Point.html) |  |
 | RETURNS | [SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLVNode](SZLVNode.html) |
-| Help: | SZLVNode using an existing Object |
+| | | |
+| Returns: | [SZLVNode](SZLVNode.html) | |
+| Help: | | SZLVNode using an existing Object |
 
 
 ## Functions:

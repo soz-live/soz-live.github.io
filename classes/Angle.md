@@ -24,9 +24,9 @@ Angle Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Angle](Angle.html) |  |
-| --- | --- | --- |
-| Returns: | [Angle](Angle.html) |
-| Help: | New Angle Number |
+| | | |
+| Returns: | [Angle](Angle.html) | |
+| Help: | | New Angle Number |
 
 
 ## Functions:

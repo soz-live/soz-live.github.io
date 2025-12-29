@@ -25,9 +25,9 @@ SZCEGridLine-OnLine Class
 | --------- | --------- | --------- |
 | LINE | [SZGELine](SZGELine.html) |  |
 | TYP | [Enum-SZCELinearType](Enum-SZCELinearType.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEGridLine-OnLine](SZCEGridLine-OnLine.html) |
-| Help: | Make a SZCEGridLine-OnLine |
+| | | |
+| Returns: | [SZCEGridLine-OnLine](SZCEGridLine-OnLine.html) | |
+| Help: | | Make a SZCEGridLine-OnLine |
 
 
 ## Functions:

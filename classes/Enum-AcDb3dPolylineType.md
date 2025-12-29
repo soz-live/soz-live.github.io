@@ -24,12 +24,12 @@ AcDb3dPolylineType
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-AcDb3dPolylineType](Enum-AcDb3dPolylineType.html) |  |
-| --- | --- | --- |
-| Returns: | [Enum-AcDb3dPolylineType](Enum-AcDb3dPolylineType.html) |
-| Help: | Enum-AcDb3dPolylineType |
+| | | |
+| Returns: | [Enum-AcDb3dPolylineType](Enum-AcDb3dPolylineType.html) | |
+| Help: | | Enum-AcDb3dPolylineType |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

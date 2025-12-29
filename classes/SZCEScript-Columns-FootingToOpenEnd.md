@@ -28,9 +28,9 @@ Columns
 | TOP | [SZCEPlane](SZCEPlane.html) |  |
 | CONN0 | [SZCEStruct-Connection-OpenEnd](SZCEStruct-Connection-OpenEnd.html) |  |
 | CONN1 | [SZCEStruct-Connection-OpenEnd](SZCEStruct-Connection-OpenEnd.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEScript-Columns-FootingToOpenEnd](SZCEScript-Columns-FootingToOpenEnd.html) |
-| Help: | FootingToOpenEnd Structural Columns |
+| | | |
+| Returns: | [SZCEScript-Columns-FootingToOpenEnd](SZCEScript-Columns-FootingToOpenEnd.html) | |
+| Help: | | FootingToOpenEnd Structural Columns |
 
 
 ## Functions:

@@ -24,9 +24,9 @@ DCL value Attribute
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Attribute-Value](DCLS-Attribute-Value.html) |
-| Help: | Basic DCLS-Attribute-Value Constructor |
+| | | |
+| Returns: | [DCLS-Attribute-Value](DCLS-Attribute-Value.html) | |
+| Help: | | Basic DCLS-Attribute-Value Constructor |
 
 
 ## Functions:

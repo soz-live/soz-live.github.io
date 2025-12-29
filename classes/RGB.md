@@ -26,9 +26,9 @@ Color Values
 | RED | [Byte](Byte.html) |  |
 | GREEN | [Byte](Byte.html) |  |
 | BLUE | [Byte](Byte.html) |  |
-| --- | --- | --- |
-| Returns: | [RGB](RGB.html) |
-| Help: | Creates a list of RED GREEN BLUE values |
+| | | |
+| Returns: | [RGB](RGB.html) | |
+| Help: | | Creates a list of RED GREEN BLUE values |
 
 
 ## Functions:
@@ -44,25 +44,25 @@ Color Values
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [RGB](RGB.html) |  |
-| --- | --- | --- |
-| Returns: | [Byte](Byte.html) |
-| Help: | BLUE of RGB |
+| | | |
+| Returns: | [Byte](Byte.html) | |
+| Help: | | BLUE of RGB |
 
 ### RGB-GREEN
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [RGB](RGB.html) |  |
-| --- | --- | --- |
-| Returns: | [Byte](Byte.html) |
-| Help: | GREEN of RGB |
+| | | |
+| Returns: | [Byte](Byte.html) | |
+| Help: | | GREEN of RGB |
 
 ### RGB-RED
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [RGB](RGB.html) |  |
-| --- | --- | --- |
-| Returns: | [Byte](Byte.html) |
-| Help: | RED of RGB |
+| | | |
+| Returns: | [Byte](Byte.html) | |
+| Help: | | RED of RGB |
 

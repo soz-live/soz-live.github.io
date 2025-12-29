@@ -24,9 +24,9 @@ SZLP-ITOA Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NUM | [SZLPInteger](SZLPInteger.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | New SZLP-ITOA |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | New SZLP-ITOA |
 
 
 ## Functions:

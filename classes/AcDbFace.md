@@ -33,7 +33,7 @@ AcDbFace Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbFace](AcDbFace.html) |  |
-| --- | --- | --- |
-| Returns: | [Points](Points.html) |
-| Help: | Points of an AcDbFace |
+| | | |
+| Returns: | [Points](Points.html) | |
+| Help: | | Points of an AcDbFace |
 

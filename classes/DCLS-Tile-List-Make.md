@@ -24,9 +24,9 @@ DCL Strings
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Tile-List-Make](DCLS-Tile-List-Make.html) |
-| Help: | Basic DCLS-ListBox-Strings Constructor |
+| | | |
+| Returns: | [DCLS-Tile-List-Make](DCLS-Tile-List-Make.html) | |
+| Help: | | Basic DCLS-ListBox-Strings Constructor |
 
 
 ## Functions:

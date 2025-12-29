@@ -25,9 +25,9 @@ SZLPDistance-BetweenPoints Class
 | --------- | --------- | --------- |
 | PT0 | [SZGEPoint](SZGEPoint.html) |  |
 | PT1 | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPDistance-BetweenPoints](SZLPDistance-BetweenPoints.html) |
-| Help: | Make a SZLPDistance-BetweenPoints |
+| | | |
+| Returns: | [SZLPDistance-BetweenPoints](SZLPDistance-BetweenPoints.html) | |
+| Help: | | Make a SZLPDistance-BetweenPoints |
 
 
 ## Functions:

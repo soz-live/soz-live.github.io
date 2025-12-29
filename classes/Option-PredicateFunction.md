@@ -24,12 +24,12 @@ PredicateFunction Options
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Option-PredicateFunction](Option-PredicateFunction.html) |  |
-| --- | --- | --- |
-| Returns: | [Option-PredicateFunction](Option-PredicateFunction.html) |
-| Help: | Option-PredicateFunction |
+| | | |
+| Returns: | [Option-PredicateFunction](Option-PredicateFunction.html) | |
+| Help: | | Option-PredicateFunction |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

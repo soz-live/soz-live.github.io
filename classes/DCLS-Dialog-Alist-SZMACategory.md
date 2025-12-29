@@ -25,9 +25,9 @@ DCL Selector
 | --------- | --------- | --------- |
 | TITLE | [Key](Key.html) |  |
 | ALIST | [Alist](Alist.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Dialog-Alist-SZMACategory](DCLS-Dialog-Alist-SZMACategory.html) |
-| Help: | DCLS Selector |
+| | | |
+| Returns: | [DCLS-Dialog-Alist-SZMACategory](DCLS-Dialog-Alist-SZMACategory.html) | |
+| Help: | | DCLS Selector |
 
 
 ## Functions:

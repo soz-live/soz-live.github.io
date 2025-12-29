@@ -26,9 +26,9 @@ SZCEArc-Offset Class
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | ENTITY | [AcDbArc](AcDbArc.html) |  |
 | OFFSET | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbArc](AcDbArc.html) |
-| Help: | Make a SZCEArc-Offset |
+| | | |
+| Returns: | [AcDbArc](AcDbArc.html) | |
+| Help: | | Make a SZCEArc-Offset |
 
 
 ## Functions:

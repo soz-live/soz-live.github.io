@@ -25,9 +25,9 @@ OR Function
 | --------- | --------- | --------- |
 | A | [SZOBObject](SZOBObject.html) |  |
 | B | [SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | Or Function |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | Or Function |
 
 
 ## Functions:

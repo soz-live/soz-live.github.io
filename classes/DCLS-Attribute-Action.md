@@ -24,9 +24,9 @@ DCL Action Attribute
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Attribute-Action](DCLS-Attribute-Action.html) |
-| Help: | Basic DCLS-Attribute-Action Constructor |
+| | | |
+| Returns: | [DCLS-Attribute-Action](DCLS-Attribute-Action.html) | |
+| Help: | | Basic DCLS-Attribute-Action Constructor |
 
 
 ## Functions:

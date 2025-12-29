@@ -26,9 +26,9 @@ SZLPReals-EqualSpacing Class
 | DIST | [Real](Real.html) |  |
 | NO | [Integer](Integer.html) |  |
 | START | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReals-EqualSpacing](SZLPReals-EqualSpacing.html) |
-| Help: | Make a SZLPReals-EqualSpacing |
+| | | |
+| Returns: | [SZLPReals-EqualSpacing](SZLPReals-EqualSpacing.html) | |
+| Help: | | Make a SZLPReals-EqualSpacing |
 
 
 ## Functions:

@@ -24,9 +24,9 @@ SZGEPoint-Entity Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbPoint](AcDbPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-Entity](SZGEPoint-Entity.html) |
-| Help: | Make a SZGEPoint-Entity |
+| | | |
+| Returns: | [SZGEPoint-Entity](SZGEPoint-Entity.html) | |
+| Help: | | Make a SZGEPoint-Entity |
 
 
 ## Functions:

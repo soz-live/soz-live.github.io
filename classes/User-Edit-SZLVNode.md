@@ -25,9 +25,9 @@ User Edit SZLVNode Structure
 | --------- | --------- | --------- |
 | OBJECT | [SZLVNode](SZLVNode.html) |  |
 | LABEL | [Label](Label.html) |  |
-| --- | --- | --- |
-| Returns: | [User-Edit-SZLVNode](User-Edit-SZLVNode.html) |
-| Help: | Basic User-Edit-SZLVNode Constructor |
+| | | |
+| Returns: | [User-Edit-SZLVNode](User-Edit-SZLVNode.html) | |
+| Help: | | Basic User-Edit-SZLVNode Constructor |
 
 
 ## Functions:

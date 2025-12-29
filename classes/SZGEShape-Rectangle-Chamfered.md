@@ -26,9 +26,9 @@ SZGEShape-Rectangle-Chamfered Class
 | WIDTH | [Real](Real.html) |  |
 | DEPTH | [Real](Real.html) |  |
 | CHAMFER | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-Rectangle-Chamfered](SZGEShape-Rectangle-Chamfered.html) |
-| Help: | Make a SZGEShape-Rectangle-Chamfered |
+| | | |
+| Returns: | [SZGEShape-Rectangle-Chamfered](SZGEShape-Rectangle-Chamfered.html) | |
+| Help: | | Make a SZGEShape-Rectangle-Chamfered |
 
 
 ## Functions:

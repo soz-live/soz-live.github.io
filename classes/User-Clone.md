@@ -26,9 +26,9 @@ User Copy Structure
 | CN | [SZMAClass](SZMAClass.html) |  |
 | OBJECT | [SZOBObject](SZOBObject.html) |  |
 | LABEL | [Label](Label.html) |  |
-| --- | --- | --- |
-| Returns: | [User-Clone](User-Clone.html) |
-| Help: | Basic User-Clone Constructor |
+| | | |
+| Returns: | [User-Clone](User-Clone.html) | |
+| Help: | | Basic User-Clone Constructor |
 
 
 ## Functions:

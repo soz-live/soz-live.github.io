@@ -24,9 +24,9 @@ Entity Visual
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbEntity](AcDbEntity.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOVisual-Entity](SZCOVisual-Entity.html) |
-| Help: | Entity Visual Settings |
+| | | |
+| Returns: | [SZCOVisual-Entity](SZCOVisual-Entity.html) | |
+| Help: | | Entity Visual Settings |
 
 
 ## Functions:

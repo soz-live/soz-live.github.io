@@ -24,9 +24,9 @@ DCL Button
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Tile-Button](DCLS-Tile-Button.html) |
-| Help: | Basic DCLS-Button Constructor |
+| | | |
+| Returns: | [DCLS-Tile-Button](DCLS-Tile-Button.html) | |
+| Help: | | Basic DCLS-Button Constructor |
 
 
 ## Functions:

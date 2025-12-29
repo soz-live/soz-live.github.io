@@ -30,9 +30,9 @@ Rigging Chain Assy Class
 | BEFORE | [List:SZCERigging-Item](SZCERigging-Item.html) |  |
 | LINK | [SZCESlingDef-ChainLink](SZCESlingDef-ChainLink.html) |  |
 | AFTER | [List:SZCERigging-Item](SZCERigging-Item.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-ChainAssy](SZCERigging-ChainAssy.html) |
-| Help: | Chain Assy Make |
+| | | |
+| Returns: | [SZCERigging-ChainAssy](SZCERigging-ChainAssy.html) | |
+| Help: | | Chain Assy Make |
 
 
 ## Functions:

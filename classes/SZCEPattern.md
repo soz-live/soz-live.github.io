@@ -27,9 +27,9 @@ SZCEPattern Class
 | EMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | PMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | PATTERN | [SZGEPattern](SZGEPattern.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPattern](SZCEPattern.html) |
-| Help: | Make a SZCEPattern |
+| | | |
+| Returns: | [SZCEPattern](SZCEPattern.html) | |
+| Help: | | Make a SZCEPattern |
 
 
 ## Functions:

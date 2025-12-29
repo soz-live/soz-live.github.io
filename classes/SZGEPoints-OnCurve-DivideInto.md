@@ -28,9 +28,9 @@ SZGEPoints-OnCurve-DivideInto Class
 | START | [Boolean](Boolean.html) |  |
 | END | [Boolean](Boolean.html) |  |
 | FLIPPED | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoints-OnCurve-DivideInto](SZGEPoints-OnCurve-DivideInto.html) |
-| Help: | Make a SZGEPoints-OnCurve-DivideInto |
+| | | |
+| Returns: | [SZGEPoints-OnCurve-DivideInto](SZGEPoints-OnCurve-DivideInto.html) | |
+| Help: | | Make a SZGEPoints-OnCurve-DivideInto |
 
 
 ## Functions:

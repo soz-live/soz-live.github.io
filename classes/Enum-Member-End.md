@@ -24,12 +24,12 @@ Member End Enum
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-Member-End](Enum-Member-End.html) |  |
-| --- | --- | --- |
-| Returns: | [Enum-Member-End](Enum-Member-End.html) |
-| Help: | Make a Member-End Enum |
+| | | |
+| Returns: | [Enum-Member-End](Enum-Member-End.html) | |
+| Help: | | Make a Member-End Enum |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

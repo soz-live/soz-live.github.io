@@ -24,9 +24,9 @@ STRCAT Function
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | STRINGS | [List:SZLPString](SZLPString.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | STRCAT Function |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | STRCAT Function |
 
 
 ## Functions:

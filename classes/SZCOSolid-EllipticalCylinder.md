@@ -27,9 +27,9 @@ SZCOSolid-EllipticalCylinder Class
 | MAJOR | [Real](Real.html) |  |
 | MINOR | [Real](Real.html) |  |
 | HEIGHT | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-EllipticalCylinder](SZCOSolid-EllipticalCylinder.html) |
-| Help: | Make a SZCOSolid-EllipticalCylinder |
+| | | |
+| Returns: | [SZCOSolid-EllipticalCylinder](SZCOSolid-EllipticalCylinder.html) | |
+| Help: | | Make a SZCOSolid-EllipticalCylinder |
 
 
 ## Functions:
@@ -46,7 +46,7 @@ SZCOSolid-EllipticalCylinder Class
 | --------- | --------- | --------- |
 | O | [SZCOSolid-EllipticalCylinder](SZCOSolid-EllipticalCylinder.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-EllipticalCylinder |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-EllipticalCylinder |
 

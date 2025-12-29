@@ -24,9 +24,9 @@ SZCE3dSolids-OnCorridor Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CORRIDOR | [BsysCvDbCorridor](BsysCvDbCorridor.html) |  |
-| --- | --- | --- |
-| Returns: | [List:AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Creates a Corridor |
+| | | |
+| Returns: | [List:AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Creates a Corridor |
 
 
 ## Functions:

@@ -26,9 +26,9 @@ SZGEPoint-PointVectorPlane Class
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
 | VECTOR | [SZGEVector](SZGEVector.html) |  |
 | PLANE | [SZGEPlane](SZGEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-PointVectorPlane](SZGEPoint-PointVectorPlane.html) |
-| Help: | Make a SZGEPoint-PointVectorPlane |
+| | | |
+| Returns: | [SZGEPoint-PointVectorPlane](SZGEPoint-PointVectorPlane.html) | |
+| Help: | | Make a SZGEPoint-PointVectorPlane |
 
 
 ## Functions:

@@ -24,9 +24,9 @@ SZLP-RTOS Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NUM | [SZLPReal](SZLPReal.html) |  |
-| --- | --- | --- |
-| Returns: | [String](String.html) |
-| Help: | New SZLP-RTOS |
+| | | |
+| Returns: | [String](String.html) | |
+| Help: | | New SZLP-RTOS |
 
 
 ## Functions:

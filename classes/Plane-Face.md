@@ -24,9 +24,9 @@ Plane-Face Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | FACE | [Face](Face.html) |  |
-| --- | --- | --- |
-| Returns: | [Plane](Plane.html) |
-| Help: | Making a plane from a Face |
+| | | |
+| Returns: | [Plane](Plane.html) | |
+| Help: | | Making a plane from a Face |
 
 
 ## Functions:

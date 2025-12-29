@@ -29,9 +29,9 @@ AcDbEllipse Class
 | MINOR | [Real](Real.html) |  |
 | STARTANG | [Deg](Deg.html) | Start Angle |
 | ENDANG | [Deg](Deg.html) | End Angle |
-| --- | --- | --- |
-| Returns: | [AcDbEllipse](AcDbEllipse.html) |
-| Help: | Makes an Ellipse or Elliptical Arc |
+| | | |
+| Returns: | [AcDbEllipse](AcDbEllipse.html) | |
+| Help: | | Makes an Ellipse or Elliptical Arc |
 
 
 ## Functions:
@@ -47,16 +47,16 @@ AcDbEllipse Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbEllipse](AcDbEllipse.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Area of an AcDbEllipse |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Area of an AcDbEllipse |
 
 ### AcDbEllipse-TMatrix
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbEllipse](AcDbEllipse.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | TMatrix of an AcDbEllipse |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | TMatrix of an AcDbEllipse |
 

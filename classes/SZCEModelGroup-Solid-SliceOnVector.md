@@ -26,9 +26,9 @@ SZCEModelGroup-Solid-SliceOnVector Class
 | BASE | [AcDb3dSolid](AcDb3dSolid.html) |  |
 | DIR | [SZGEVector](SZGEVector.html) |  |
 | DIST | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEModelGroup-Solid-SliceOnVector](SZCEModelGroup-Solid-SliceOnVector.html) |
-| Help: | Make a SZCEModelGroup-Solid-SliceOnVector |
+| | | |
+| Returns: | [SZCEModelGroup-Solid-SliceOnVector](SZCEModelGroup-Solid-SliceOnVector.html) | |
+| Help: | | Make a SZCEModelGroup-Solid-SliceOnVector |
 
 
 ## Functions:

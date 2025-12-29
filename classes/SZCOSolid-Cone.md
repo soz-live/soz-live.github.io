@@ -26,9 +26,9 @@ SZCOSolid-Cone Class
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | RADIUS | [Real](Real.html) |  |
 | HEIGHT | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOSolid-Cone](SZCOSolid-Cone.html) |
-| Help: | Make a SZCOSolid-Cone |
+| | | |
+| Returns: | [SZCOSolid-Cone](SZCOSolid-Cone.html) | |
+| Help: | | Make a SZCOSolid-Cone |
 
 
 ## Functions:
@@ -45,7 +45,7 @@ SZCOSolid-Cone Class
 | --------- | --------- | --------- |
 | O | [SZCOSolid-Cone](SZCOSolid-Cone.html) |  |
 | SPACE | [AcDbBlock](AcDbBlock.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid](AcDb3dSolid.html) |
-| Help: | Make a SZCOSolid-Cone |
+| | | |
+| Returns: | [AcDb3dSolid](AcDb3dSolid.html) | |
+| Help: | | Make a SZCOSolid-Cone |
 

@@ -25,9 +25,9 @@ SZCE3dCurve-Fibonacci Class
 | --------- | --------- | --------- |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | DEFN | [SZGE3dCurve-Fibonacci](SZGE3dCurve-Fibonacci.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) |
-| Help: | Make a SZCE3dCurve-Fibonacci |
+| | | |
+| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) | |
+| Help: | | Make a SZCE3dCurve-Fibonacci |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ InModel adds
 | --------- | --------- | --------- |
 | ASSY | [SZCEAssy](SZCEAssy.html) |  |
 | MREFS | [Set:SZCEModelRef](SZCEModelRef.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOScript-Features-Assy-RelativeRef](SZCOScript-Features-Assy-RelativeRef.html) |
-| Help: | Multiple InModel add |
+| | | |
+| Returns: | [SZCOScript-Features-Assy-RelativeRef](SZCOScript-Features-Assy-RelativeRef.html) | |
+| Help: | | Multiple InModel add |
 
 
 ## Functions:

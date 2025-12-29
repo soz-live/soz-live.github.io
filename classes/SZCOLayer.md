@@ -26,9 +26,9 @@ SZCOLayer Class
 | COLOR | [SZCOColor](SZCOColor.html) |  |
 | LTYPE | [AcDbLineType](AcDbLineType.html) |  |
 | LWEIGHT | [Enum-AcDbLineWeight](Enum-AcDbLineWeight.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOLayer](SZCOLayer.html) |
-| Help: | Make a SZCOLayer |
+| | | |
+| Returns: | [SZCOLayer](SZCOLayer.html) | |
+| Help: | | Make a SZCOLayer |
 
 
 ## Functions:

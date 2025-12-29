@@ -26,9 +26,9 @@ SZGELine-PlaneDistAng Class
 | PLANE | [SZGEPlane](SZGEPlane.html) |  |
 | DIST | [Real](Real.html) |  |
 | ANG | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELine-PlaneDistAng](SZGELine-PlaneDistAng.html) |
-| Help: | Make a SZGELine-PlaneDistAng |
+| | | |
+| Returns: | [SZGELine-PlaneDistAng](SZGELine-PlaneDistAng.html) | |
+| Help: | | Make a SZGELine-PlaneDistAng |
 
 
 ## Functions:

@@ -24,9 +24,9 @@ AcDbEname Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [AcDbEname](AcDbEname.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEname](AcDbEname.html) |
-| Help: | Make an AcDbEname |
+| | | |
+| Returns: | [AcDbEname](AcDbEname.html) | |
+| Help: | | Make an AcDbEname |
 
 
 ## Functions:
@@ -42,25 +42,25 @@ AcDbEname Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | E | [AcDbEname](AcDbEname.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbHandle](AcDbHandle.html) |
-| Help: | Convert AcDbEname to AcDbHandle |
+| | | |
+| Returns: | [AcDbHandle](AcDbHandle.html) | |
+| Help: | | Convert AcDbEname to AcDbHandle |
 
 ### AcDbEname->SOZID
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | E | [AcDbEname](AcDbEname.html) |  |
-| --- | --- | --- |
-| Returns: | [SOZID](SOZID.html) |
-| Help: | Convert AcDbEname to SOZID |
+| | | |
+| Returns: | [SOZID](SOZID.html) | |
+| Help: | | Convert AcDbEname to SOZID |
 
 ### AcDbEname-User_Pick
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | USER | [User](User.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbEname](AcDbEname.html) |
-| Help: | AcDbEname User_Pick |
+| | | |
+| Returns: | [AcDbEname](AcDbEname.html) | |
+| Help: | | AcDbEname User_Pick |
 

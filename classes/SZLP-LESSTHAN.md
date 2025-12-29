@@ -25,9 +25,9 @@ LESSTHAN Function
 | --------- | --------- | --------- |
 | A | [SZLPNumber](SZLPNumber.html) |  |
 | B | [SZLPNumber](SZLPNumber.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | LESSTHAN Function |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | LESSTHAN Function |
 
 
 ## Functions:

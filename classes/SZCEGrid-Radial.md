@@ -25,9 +25,9 @@ SZCEGrid-Radial Class
 | --------- | --------- | --------- |
 | MATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | ANGLES | [SZLPReals](SZLPReals.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEGrid-Radial](SZCEGrid-Radial.html) |
-| Help: | Make a SZCEGrid-Radial |
+| | | |
+| Returns: | [SZCEGrid-Radial](SZCEGrid-Radial.html) | |
+| Help: | | Make a SZCEGrid-Radial |
 
 
 ## Functions:

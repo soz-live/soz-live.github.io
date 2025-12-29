@@ -24,9 +24,9 @@ SZLP-COS Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NUM | [SZLPAngle](SZLPAngle.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | New SZLP-COS |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | New SZLP-COS |
 
 
 ## Functions:

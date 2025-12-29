@@ -24,9 +24,9 @@ SZLPString-Concats Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | STRINGS | [List:String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPString](SZLPString.html) |
-| Help: | Concat Strings |
+| | | |
+| Returns: | [SZLPString](SZLPString.html) | |
+| Help: | | Concat Strings |
 
 
 ## Functions:

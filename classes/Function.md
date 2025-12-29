@@ -24,9 +24,9 @@ Function Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Key](Key.html) |  |
-| --- | --- | --- |
-| Returns: | [Function](Function.html) |
-| Help: | Function Class |
+| | | |
+| Returns: | [Function](Function.html) | |
+| Help: | | Function Class |
 
 
 ## Functions:

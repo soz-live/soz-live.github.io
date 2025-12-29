@@ -25,9 +25,9 @@ LIVE Link
 | --------- | --------- | --------- |
 | START | [SZLVPoint](SZLVPoint.html) |  |
 | END | [SZLVPoint](SZLVPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLVLink](SZLVLink.html) |
-| Help: | Make a LIVE Link |
+| | | |
+| Returns: | [SZLVLink](SZLVLink.html) | |
+| Help: | | Make a LIVE Link |
 
 
 ## Functions:

@@ -24,9 +24,9 @@ Label
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Label](Label.html) |  |
-| --- | --- | --- |
-| Returns: | [Label](Label.html) |
-| Help: | Make Label |
+| | | |
+| Returns: | [Label](Label.html) | |
+| Help: | | Make Label |
 
 
 ## Functions:

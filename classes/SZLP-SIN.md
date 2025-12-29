@@ -24,9 +24,9 @@ SZLP-SIN Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NUM | [SZLPAngle](SZLPAngle.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | New SZLP-SIN |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | New SZLP-SIN |
 
 
 ## Functions:

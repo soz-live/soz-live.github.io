@@ -24,9 +24,9 @@ TMatrix-Rotation-YAxis Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | RAD | [Rad](Rad.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | YAxis Rotation TMatrix Make |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | YAxis Rotation TMatrix Make |
 
 
 ## Functions:

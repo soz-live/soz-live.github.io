@@ -26,9 +26,9 @@ SZCE3dCurve-ProjectToPlane Class
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | PLANE | [SZCEPlane](SZCEPlane.html) |  |
 | VECTOR | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) |
-| Help: | Make a SZCE3dCurve-ProjectToPlane |
+| | | |
+| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) | |
+| Help: | | Make a SZCE3dCurve-ProjectToPlane |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ User Make Structure
 | --------- | --------- | --------- |
 | CN | [SZMAClass](SZMAClass.html) |  |
 | LABEL | [Label](Label.html) |  |
-| --- | --- | --- |
-| Returns: | [User-Make](User-Make.html) |
-| Help: | Basic User-Make Constructor |
+| | | |
+| Returns: | [User-Make](User-Make.html) | |
+| Help: | | Basic User-Make Constructor |
 
 
 ## Functions:

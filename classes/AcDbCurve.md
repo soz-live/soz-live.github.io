@@ -34,9 +34,9 @@ Base abstract DWG Curve Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | ClosestPointTo of a Curve |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | ClosestPointTo of a Curve |
 
 ### AcDbCurve-ClosestPointToProjection
 
@@ -45,45 +45,45 @@ Base abstract DWG Curve Class
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
 | VECTOR | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | ClosestPointtoProjection of a Curve |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | ClosestPointtoProjection of a Curve |
 
 ### AcDbCurve-EndPoint
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | End Point of a Curve |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | End Point of a Curve |
 
 ### AcDbCurve-EndPoints
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [Points](Points.html) |
-| Help: | End Points of a Curve |
+| | | |
+| Returns: | [Points](Points.html) | |
+| Help: | | End Points of a Curve |
 
 ### AcDbCurve-Length
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Length of a Curve |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Length of a Curve |
 
 ### AcDbCurve-MidPoint
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Mid Point of a Curve |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Mid Point of a Curve |
 
 ### AcDbCurve-NormalVector
 
@@ -91,9 +91,9 @@ Base abstract DWG Curve Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | NormalVector of a Curve |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | NormalVector of a Curve |
 
 ### AcDbCurve-PointAtDist
 
@@ -101,9 +101,9 @@ Base abstract DWG Curve Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | DIST | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Point At Dist of a Curve |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Point At Dist of a Curve |
 
 ### AcDbCurve-PointAtRatio
 
@@ -111,9 +111,9 @@ Base abstract DWG Curve Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | RATIO | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Point At Ratio of a Curve |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Point At Ratio of a Curve |
 
 ### AcDbCurve-PointDistFromEnd
 
@@ -121,9 +121,9 @@ Base abstract DWG Curve Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | DIST | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | PointDistFromEnd of a Curve |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | PointDistFromEnd of a Curve |
 
 ### AcDbCurve-PointDistFromStart
 
@@ -131,18 +131,18 @@ Base abstract DWG Curve Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | DIST | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | PointDistFromStart of a Curve |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | PointDistFromStart of a Curve |
 
 ### AcDbCurve-Points
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [Points](Points.html) |
-| Help: | Points of a Curve |
+| | | |
+| Returns: | [Points](Points.html) | |
+| Help: | | Points of a Curve |
 
 ### AcDbCurve-Segments
 
@@ -150,27 +150,27 @@ Base abstract DWG Curve Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | SEGS | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Points](Points.html) |
-| Help: | Segments of a Curve |
+| | | |
+| Returns: | [Points](Points.html) | |
+| Help: | | Segments of a Curve |
 
 ### AcDbCurve-StartPoint
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Start Point of a Curve |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Start Point of a Curve |
 
 ### AcDbCurve-TMatrix
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | TMatrix of a Curve |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | TMatrix of a Curve |
 
 ### AcDbCurve-TMatrixAtDist
 
@@ -178,9 +178,9 @@ Base abstract DWG Curve Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | DIST | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | TMatrixAtDist of a Curve |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | TMatrixAtDist of a Curve |
 
 ### AcDbCurve-TMatrixAtPoint
 
@@ -188,9 +188,9 @@ Base abstract DWG Curve Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | TMatrixAtPoint of a Curve |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | TMatrixAtPoint of a Curve |
 
 ### AcDbCurve-TangentVector
 
@@ -198,25 +198,25 @@ Base abstract DWG Curve Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | TangentVector of a Curve |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | TangentVector of a Curve |
 
 ### AcDbCurve-isClosed?
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | Closed Predicate |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | Closed Predicate |
 
 ### AcDbCurve-isPlanar?
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | Planar Predicate |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | Planar Predicate |
 

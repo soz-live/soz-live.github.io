@@ -25,9 +25,9 @@ SZGELine-AcDb3dPolyline-Segment Class
 | --------- | --------- | --------- |
 | ENTITY | [AcDb3dPolyline](AcDb3dPolyline.html) |  |
 | SEGMENT | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGELine-AcDb3dPolyline-Segment](SZGELine-AcDb3dPolyline-Segment.html) |
-| Help: | Make a SZGELine-AcDb3dPolyline-Segment |
+| | | |
+| Returns: | [SZGELine-AcDb3dPolyline-Segment](SZGELine-AcDb3dPolyline-Segment.html) | |
+| Help: | | Make a SZGELine-AcDb3dPolyline-Segment |
 
 
 ## Functions:

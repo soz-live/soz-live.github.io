@@ -25,9 +25,9 @@ Member End Plane
 | --------- | --------- | --------- |
 | MEM | [SZCEStruct-Member](SZCEStruct-Member.html) |  |
 | END | [Enum-Member-End](Enum-Member-End.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane-Member-End](SZGEPlane-Member-End.html) |
-| Help: | Make a Member End Plane |
+| | | |
+| Returns: | [SZGEPlane-Member-End](SZGEPlane-Member-End.html) | |
+| Help: | | Make a Member End Plane |
 
 
 ## Functions:

@@ -24,9 +24,9 @@
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LISTS | [List:SZLPList](SZLPList.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | APPENDS Function |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | APPENDS Function |
 
 
 ## Functions:

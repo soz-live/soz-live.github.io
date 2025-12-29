@@ -25,9 +25,9 @@ SZLPDistance-BetweenPlanes Class
 | --------- | --------- | --------- |
 | PLANE0 | [SZGEPlane](SZGEPlane.html) |  |
 | PLANE1 | [SZGEPlane](SZGEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPDistance-BetweenPlanes](SZLPDistance-BetweenPlanes.html) |
-| Help: | Make a SZLPDistance-BetweenPlanes |
+| | | |
+| Returns: | [SZLPDistance-BetweenPlanes](SZLPDistance-BetweenPlanes.html) | |
+| Help: | | Make a SZLPDistance-BetweenPlanes |
 
 
 ## Functions:

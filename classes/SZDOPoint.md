@@ -25,9 +25,9 @@ DevOps Point
 | --------- | --------- | --------- |
 | NODE | [SZDONode](SZDONode.html) |  |
 | KEY | [Key](Key.html) |  |
-| --- | --- | --- |
-| Returns: | [SZDOPoint](SZDOPoint.html) |
-| Help: |  |
+| | | |
+| Returns: | [SZDOPoint](SZDOPoint.html) | |
+| Help: | |  |
 
 
 ## Functions:

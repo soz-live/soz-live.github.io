@@ -26,9 +26,9 @@ AcDb3dSolid-Sweep Class
 | SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
 | PROFILE | [SZCOProfile](SZCOProfile.html) |  |
 | PATH | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dSolid-Sweep](AcDb3dSolid-Sweep.html) |
-| Help: | Make an AcDb3dSolid-Sweep |
+| | | |
+| Returns: | [AcDb3dSolid-Sweep](AcDb3dSolid-Sweep.html) | |
+| Help: | | Make an AcDb3dSolid-Sweep |
 
 
 ## Functions:

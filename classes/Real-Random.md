@@ -23,9 +23,9 @@ Real Random Number between 0 and 1
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | New Real Random Number between 0 and 1 |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | New Real Random Number between 0 and 1 |
 
 
 ## Functions:

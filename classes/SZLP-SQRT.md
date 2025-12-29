@@ -24,9 +24,9 @@ SZLP-SQRT Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NUM | [SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [Number](Number.html) |
-| Help: | New SZLP-SQRT |
+| | | |
+| Returns: | [Number](Number.html) | |
+| Help: | | New SZLP-SQRT |
 
 
 ## Functions:

@@ -26,9 +26,9 @@ SZCEGrid-Offsets Class
 | MATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | OFFSETS | [SZLPReals](SZLPReals.html) |  |
 | ANGLE | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEGrid-Offsets](SZCEGrid-Offsets.html) |
-| Help: | Make a SZCEGrid-Offsets |
+| | | |
+| Returns: | [SZCEGrid-Offsets](SZCEGrid-Offsets.html) | |
+| Help: | | Make a SZCEGrid-Offsets |
 
 
 ## Functions:

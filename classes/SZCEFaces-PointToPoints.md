@@ -25,9 +25,9 @@ SZCEFaces-PointToPoints Class
 | --------- | --------- | --------- |
 | POINT | [AcDbPoint](AcDbPoint.html) |  |
 | POINTS | [List:AcDbPoint](AcDbPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEFaces-PointToPoints](SZCEFaces-PointToPoints.html) |
-| Help: | Make a SZCEFaces-PointToPoints |
+| | | |
+| Returns: | [SZCEFaces-PointToPoints](SZCEFaces-PointToPoints.html) | |
+| Help: | | Make a SZCEFaces-PointToPoints |
 
 
 ## Functions:

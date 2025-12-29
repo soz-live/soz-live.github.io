@@ -27,9 +27,9 @@ SZCEGridLine Class
 | ROTATION | [Deg](Deg.html) |  |
 | OFFSET | [Real](Real.html) |  |
 | TYP | [Enum-SZCELinearType](Enum-SZCELinearType.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEGridLine](SZCEGridLine.html) |
-| Help: | Make a SZCEGridLine |
+| | | |
+| Returns: | [SZCEGridLine](SZCEGridLine.html) | |
+| Help: | | Make a SZCEGridLine |
 
 
 ## Functions:
@@ -45,16 +45,16 @@ SZCEGridLine Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZCEGridLine](SZCEGridLine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCELinear](SZCELinear.html) |
-| Help: | Line of a SZCEGridLine |
+| | | |
+| Returns: | [SZCELinear](SZCELinear.html) | |
+| Help: | | Line of a SZCEGridLine |
 
 ### SZCEGridLine-Plane
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZCEGridLine](SZCEGridLine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPlane](SZCEPlane.html) |
-| Help: | Plane of a SZCEGridLine |
+| | | |
+| Returns: | [SZCEPlane](SZCEPlane.html) | |
+| Help: | | Plane of a SZCEGridLine |
 

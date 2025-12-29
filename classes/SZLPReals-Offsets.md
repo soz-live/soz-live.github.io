@@ -24,9 +24,9 @@ SZLPReals-Offsets Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | OFFSETS | [List:Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPReals](SZLPReals.html) |
-| Help: | Make a SZLPReals-Offsets |
+| | | |
+| Returns: | [SZLPReals](SZLPReals.html) | |
+| Help: | | Make a SZLPReals-Offsets |
 
 
 ## Functions:

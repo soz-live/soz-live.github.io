@@ -33,7 +33,7 @@ AcDbMesh Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbMesh](AcDbMesh.html) |  |
-| --- | --- | --- |
-| Returns: | [Points](Points.html) |
-| Help: | Points of an AcDbMesh |
+| | | |
+| Returns: | [Points](Points.html) | |
+| Help: | | Points of an AcDbMesh |
 

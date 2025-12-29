@@ -24,9 +24,9 @@ A Modelling Node
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCENode](SZCENode.html) |
-| Help: | Make a Modelling Node |
+| | | |
+| Returns: | [SZCENode](SZCENode.html) | |
+| Help: | | Make a Modelling Node |
 
 
 ## Functions:

@@ -28,9 +28,9 @@ DCL User Array
 | MS | [Boolean](Boolean.html) |  |
 | W | [Integer](Integer.html) |  |
 | H | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Tile-Alist-Select](DCLS-Tile-Alist-Select.html) |
-| Help: | Basic DCLS-Tile-User |
+| | | |
+| Returns: | [DCLS-Tile-Alist-Select](DCLS-Tile-Alist-Select.html) | |
+| Help: | | Basic DCLS-Tile-User |
 
 
 ## Functions:

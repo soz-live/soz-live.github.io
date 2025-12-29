@@ -27,9 +27,9 @@ Corner Shape
 | DEPTH | [Real](Real.html) |  |
 | ANG | [Deg](Deg.html) | Included Angle |
 | BULGE | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-Corner](SZGEShape-Corner.html) |
-| Help: | Corner Shape |
+| | | |
+| Returns: | [SZGEShape-Corner](SZGEShape-Corner.html) | |
+| Help: | | Corner Shape |
 
 
 ## Functions:

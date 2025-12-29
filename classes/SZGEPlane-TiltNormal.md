@@ -26,9 +26,9 @@ SZGEPlane-TiltNormal Class
 | BASE | [SZGEPlane](SZGEPlane.html) |  |
 | ONPLANE | [SZGEPlane](SZGEPlane.html) |  |
 | ANG | [Deg](Deg.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPlane-TiltNormal](SZGEPlane-TiltNormal.html) |
-| Help: | Make a SZGEPlane-TiltNormal |
+| | | |
+| Returns: | [SZGEPlane-TiltNormal](SZGEPlane-TiltNormal.html) | |
+| Help: | | Make a SZGEPlane-TiltNormal |
 
 
 ## Functions:

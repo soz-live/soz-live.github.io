@@ -27,9 +27,9 @@ AcDbViewport Class
 | CENTER | [SZGEPoint](SZGEPoint.html) |  |
 | TARGET | [SZGEPoint](SZGEPoint.html) |  |
 | DIR | [SZGEVector](SZGEVector.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbViewport](AcDbViewport.html) |
-| Help: | Make an AcDbViewport |
+| | | |
+| Returns: | [AcDbViewport](AcDbViewport.html) | |
+| Help: | | Make an AcDbViewport |
 
 
 ## Functions:
@@ -45,7 +45,7 @@ AcDbViewport Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbViewport](AcDbViewport.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbViewport](AcDbViewport.html) |
-| Help: | Make an AcDbViewport |
+| | | |
+| Returns: | [AcDbViewport](AcDbViewport.html) | |
+| Help: | | Make an AcDbViewport |
 

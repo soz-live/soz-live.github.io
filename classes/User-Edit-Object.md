@@ -25,9 +25,9 @@ User EditObject Structure
 | --------- | --------- | --------- |
 | OBJECT | [SZOBObject](SZOBObject.html) |  |
 | LABEL | [Label](Label.html) |  |
-| --- | --- | --- |
-| Returns: | [User-Edit-Object](User-Edit-Object.html) |
-| Help: | Basic User-Edit-Object Constructor |
+| | | |
+| Returns: | [User-Edit-Object](User-Edit-Object.html) | |
+| Help: | | Basic User-Edit-Object Constructor |
 
 
 ## Functions:

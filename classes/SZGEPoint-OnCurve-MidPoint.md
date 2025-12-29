@@ -24,9 +24,9 @@ SZGEPoint-OnCurve-MidPoint Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPoint-OnCurve-MidPoint](SZGEPoint-OnCurve-MidPoint.html) |
-| Help: | Make a SZGEPoint-OnCurve-MidPoint |
+| | | |
+| Returns: | [SZGEPoint-OnCurve-MidPoint](SZGEPoint-OnCurve-MidPoint.html) | |
+| Help: | | Make a SZGEPoint-OnCurve-MidPoint |
 
 
 ## Functions:

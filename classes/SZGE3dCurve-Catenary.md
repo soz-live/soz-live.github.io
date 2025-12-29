@@ -27,9 +27,9 @@ SZGE3dCurve-Catenary Class
 | MAG | [Real](Real.html) |  |
 | A | [Real](Real.html) |  |
 | SEGMENTS | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) |
-| Help: | Make a SZGE3dCurve-Catenary |
+| | | |
+| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) | |
+| Help: | | Make a SZGE3dCurve-Catenary |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ PaperSpace Script
 | --------- | --------- | --------- |
 | FN | [File-DWG](File-DWG.html) |  |
 | NAME | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [FileName](FileName.html) |
-| Help: | PaperSpace Setup Script |
+| | | |
+| Returns: | [FileName](FileName.html) | |
+| Help: | | PaperSpace Setup Script |
 
 
 ## Functions:

@@ -34,7 +34,7 @@ Strings Class
 | --------- | --------- | --------- |
 | LST | [Strings](Strings.html) |  |
 | WCM | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [Strings](Strings.html) |
-| Help: | Filters elements of a List |
+| | | |
+| Returns: | [Strings](Strings.html) | |
+| Help: | | Filters elements of a List |
 

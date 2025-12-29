@@ -28,9 +28,9 @@ SZCEModelGroup-Solid-CubedOnCurve Class
 | PITCH | [Real](Real.html) |  |
 | ACROSS | [Real](Real.html) |  |
 | HEIGHT | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEModelGroup-Solid-CubedOnCurve](SZCEModelGroup-Solid-CubedOnCurve.html) |
-| Help: | Make a SZCEModelGroup-Solid-CubedOnCurve |
+| | | |
+| Returns: | [SZCEModelGroup-Solid-CubedOnCurve](SZCEModelGroup-Solid-CubedOnCurve.html) | |
+| Help: | | Make a SZCEModelGroup-Solid-CubedOnCurve |
 
 
 ## Functions:

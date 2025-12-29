@@ -29,9 +29,9 @@ ClassSelect Alist Tree View
 | W | [Integer](Integer.html) |  |
 | H | [Integer](Integer.html) |  |
 | TABS | [String](String.html) |  |
-| --- | --- | --- |
-| Returns: | [DCLS-Tile-AlistTree-ClassSelect](DCLS-Tile-AlistTree-ClassSelect.html) |
-| Help: | Basic DCLS-Tile-AlistTree-ClassSelect |
+| | | |
+| Returns: | [DCLS-Tile-AlistTree-ClassSelect](DCLS-Tile-AlistTree-ClassSelect.html) | |
+| Help: | | Basic DCLS-Tile-AlistTree-ClassSelect |
 
 
 ## Functions:

@@ -33,9 +33,9 @@ List Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
-| --- | --- | --- |
-| Returns: | [Set](Set.html) |
-| Help: | Removes Duplicates from a List (Makes a Set) |
+| | | |
+| Returns: | [Set](Set.html) | |
+| Help: | | Removes Duplicates from a List (Makes a Set) |
 
 ### List-Addto
 
@@ -43,9 +43,9 @@ List Class
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
 | V | [Atom](Atom.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Adds element to a list if not in there already |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Adds element to a list if not in there already |
 
 ### List-AddtoEnd
 
@@ -53,9 +53,9 @@ List Class
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
 | V | [Atom](Atom.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Adds element to End of a list if not in there already |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Adds element to End of a list if not in there already |
 
 ### List-EndCons
 
@@ -63,9 +63,9 @@ List Class
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
 | V | [Atom](Atom.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Adds element to the end of a List |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Adds element to the end of a List |
 
 ### List-Filter
 
@@ -75,18 +75,18 @@ List Class
 | FILTER | [Predicate](Predicate.html) |  |
 | PARAM | [List](List.html) |  |
 | INVERT | [Logical](Logical.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Filters elements of a List |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Filters elements of a List |
 
 ### List-Flatten
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Returns a flattened List (no sub-lists) |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Returns a flattened List (no sub-lists) |
 
 ### List-Index
 
@@ -94,18 +94,18 @@ List Class
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
 | ITEM | [SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [Integer](Integer.html) |
-| Help: | Item's Index in a List |
+| | | |
+| Returns: | [Integer](Integer.html) | |
+| Help: | | Item's Index in a List |
 
 ### List-IndexFill
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NO | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Makes a list of Indices, NO long |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Makes a list of Indices, NO long |
 
 ### List-IndexSubst
 
@@ -114,9 +114,9 @@ List Class
 | LST | [List](List.html) |  |
 | INDEX | [Integer](Integer.html) |  |
 | VALUE | [T](T.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Substitutes a value at a given index in a List |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Substitutes a value at a given index in a List |
 
 ### List-InsertItemsAtIndex
 
@@ -125,9 +125,9 @@ List Class
 | LST | [List](List.html) |  |
 | IND | [Integer](Integer.html) |  |
 | VALUES | [List:SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Insert Items At Index in a List |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Insert Items At Index in a List |
 
 ### List-ItemFill
 
@@ -135,9 +135,9 @@ List Class
 | --------- | --------- | --------- |
 | NO | [Integer](Integer.html) |  |
 | ITEM | [T](T.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Makes a list of Items, NO long |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Makes a list of Items, NO long |
 
 ### List-ItemsAtEnd
 
@@ -145,9 +145,9 @@ List Class
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
 | NO | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Gets last no items of a List |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Gets last no items of a List |
 
 ### List-ItemsAtStart
 
@@ -155,18 +155,18 @@ List Class
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
 | NO | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Gets first no items of a List |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Gets first no items of a List |
 
 ### List-Length
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [List](List.html) |  |
-| --- | --- | --- |
-| Returns: | [Integer](Integer.html) |
-| Help: | Length of a List |
+| | | |
+| Returns: | [Integer](Integer.html) | |
+| Help: | | Length of a List |
 
 ### List-MovetoEnd
 
@@ -174,9 +174,9 @@ List Class
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
 | V | [Atom](Atom.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Moves element to End of a list if not in there already |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Moves element to End of a list if not in there already |
 
 ### List-Nth
 
@@ -184,18 +184,18 @@ List Class
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
 | INDEX | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBObject](SZOBObject.html) |
-| Help: | Item of a List |
+| | | |
+| Returns: | [SZOBObject](SZOBObject.html) | |
+| Help: | | Item of a List |
 
 ### List-Randomise
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Randomise a List |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Randomise a List |
 
 ### List-RemoveAtEnd
 
@@ -203,9 +203,9 @@ List Class
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
 | NO | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Removes last elements of a List |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Removes last elements of a List |
 
 ### List-RemoveAtStart
 
@@ -213,9 +213,9 @@ List Class
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
 | NO | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Removes start elements of a List |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Removes start elements of a List |
 
 ### List-RemoveItem
 
@@ -223,9 +223,9 @@ List Class
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
 | ITEM | [T](T.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Removes elements of a List |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Removes elements of a List |
 
 ### List-RemoveItems
 
@@ -233,9 +233,9 @@ List Class
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
 | ITEMS | [List:T](T.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Removes elements of a List |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Removes elements of a List |
 
 ### List-RemoveItemsAtIndex
 
@@ -244,27 +244,27 @@ List Class
 | LST | [List](List.html) |  |
 | IND | [Integer](Integer.html) |  |
 | NO | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Removes Items At an Index in a List |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Removes Items At an Index in a List |
 
 ### List-RemoveLast
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Removes last element of a List |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Removes last element of a List |
 
 ### List-RemoveNils
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LST | [List](List.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Removes NIL elements of a List |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Removes NIL elements of a List |
 
 ### List-Replace
 
@@ -273,9 +273,9 @@ List Class
 | LST | [List](List.html) |  |
 | OLD | [SZOBObject](SZOBObject.html) |  |
 | NEW | [SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Substitutes a value at a given index in a List |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Substitutes a value at a given index in a List |
 
 ### List-SubLength
 
@@ -284,7 +284,7 @@ List Class
 | LST | [List](List.html) |  |
 | INDEX | [Integer](Integer.html) |  |
 | NEWLEN | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [List](List.html) |
-| Help: | Sub-Length of a List |
+| | | |
+| Returns: | [List](List.html) | |
+| Help: | | Sub-Length of a List |
 

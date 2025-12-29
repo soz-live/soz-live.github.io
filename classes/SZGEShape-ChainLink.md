@@ -26,9 +26,9 @@ ChainLink shape
 | DIA | [Real](Real.html) |  |
 | PITCH | [Real](Real.html) |  |
 | INWIDTH | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEShape-ChainLink](SZGEShape-ChainLink.html) |
-| Help: | Chainlink |
+| | | |
+| Returns: | [SZGEShape-ChainLink](SZGEShape-ChainLink.html) | |
+| Help: | | Chainlink |
 
 
 ## Functions:

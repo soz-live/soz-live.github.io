@@ -25,9 +25,9 @@ SZGEVector-Planes-Intersect Class
 | --------- | --------- | --------- |
 | PLANE0 | [SZGEPlane](SZGEPlane.html) |  |
 | PLANE1 | [SZGEPlane](SZGEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEVector-Planes-Intersect](SZGEVector-Planes-Intersect.html) |
-| Help: | Make a SZGEVector-Planes-Intersect |
+| | | |
+| Returns: | [SZGEVector-Planes-Intersect](SZGEVector-Planes-Intersect.html) | |
+| Help: | | Make a SZGEVector-Planes-Intersect |
 
 
 ## Functions:

@@ -24,9 +24,9 @@ SZCOProfile-Pipe Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | SECTION | [SZCOSection-Pipe](SZCOSection-Pipe.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCOProfile-Pipe](SZCOProfile-Pipe.html) |
-| Help: | CHS Centred on the Curve |
+| | | |
+| Returns: | [SZCOProfile-Pipe](SZCOProfile-Pipe.html) | |
+| Help: | | CHS Centred on the Curve |
 
 
 ## Functions:

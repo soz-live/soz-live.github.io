@@ -26,9 +26,9 @@ Chamfer Shape
 | WIDTH | [Real](Real.html) |  |
 | DEPTH | [Real](Real.html) |  |
 | ANG | [Deg](Deg.html) | Included Angle |
-| --- | --- | --- |
-| Returns: | [SZGEShape-Chamfer](SZGEShape-Chamfer.html) |
-| Help: | Chamfer Shape |
+| | | |
+| Returns: | [SZGEShape-Chamfer](SZGEShape-Chamfer.html) | |
+| Help: | | Chamfer Shape |
 
 
 ## Functions:

@@ -28,9 +28,9 @@ SZCOFeature-PatternedSolid Class
 | PMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | PATTERN | [SZGEPattern](SZGEPattern.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
-| --- | --- | --- |
-| Returns: | [SZCOFeature-PatternedSolid](SZCOFeature-PatternedSolid.html) |
-| Help: | Make a SZCOFeature-PatternedSolid |
+| | | |
+| Returns: | [SZCOFeature-PatternedSolid](SZCOFeature-PatternedSolid.html) | |
+| Help: | | Make a SZCOFeature-PatternedSolid |
 
 
 ## Functions:

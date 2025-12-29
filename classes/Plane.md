@@ -27,9 +27,9 @@ Plane Class
 | B | [Real](Real.html) |  |
 | C | [Real](Real.html) |  |
 | D | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Plane](Plane.html) |
-| Help: | Make a Plane |
+| | | |
+| Returns: | [Plane](Plane.html) | |
+| Help: | | Make a Plane |
 
 
 ## Functions:
@@ -45,43 +45,43 @@ Plane Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [Plane](Plane.html) |  |
-| --- | --- | --- |
-| Returns: | [Real](Real.html) |
-| Help: | Plane Elevation |
+| | | |
+| Returns: | [Real](Real.html) | |
+| Help: | | Plane Elevation |
 
 ### Plane-Normal
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [Plane](Plane.html) |  |
-| --- | --- | --- |
-| Returns: | [Vector](Vector.html) |
-| Help: | Plane Normal |
+| | | |
+| Returns: | [Vector](Vector.html) | |
+| Help: | | Plane Normal |
 
 ### Plane-Point
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [Plane](Plane.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Plane Point |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Plane Point |
 
 ### Plane-TMatrix
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [Plane](Plane.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | Plane Value |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | Plane Value |
 
 ### Plane-Value
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [Plane](Plane.html) |  |
-| --- | --- | --- |
-| Returns: | [Plane](Plane.html) |
-| Help: | Plane Value |
+| | | |
+| Returns: | [Plane](Plane.html) | |
+| Help: | | Plane Value |
 

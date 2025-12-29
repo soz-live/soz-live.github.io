@@ -24,12 +24,12 @@ SZCELinearType of XLine, Ray, Line
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Enum-SZCELinearType](Enum-SZCELinearType.html) |  |
-| --- | --- | --- |
-| Returns: | [Enum-SZCELinearType](Enum-SZCELinearType.html) |
-| Help: | Enum-SZCELinearType |
+| | | |
+| Returns: | [Enum-SZCELinearType](Enum-SZCELinearType.html) | |
+| Help: | | Enum-SZCELinearType |
 
 
-## Options
+### Options
 
 | Names | Values |
 | --------- | --------- |

@@ -27,9 +27,9 @@ SinWave Animation Sequence Class
 | HIGH | [Real](Real.html) | High Value |
 | NUM | [Integer](Integer.html) | Number of Teeth |
 | START | [Deg](Deg.html) | Start Angle |
-| --- | --- | --- |
-| Returns: | [SZOBAnimate-Sequence-Real-SinWave](SZOBAnimate-Sequence-Real-SinWave.html) |
-| Help: | Make Animation Sequence-SinWave |
+| | | |
+| Returns: | [SZOBAnimate-Sequence-Real-SinWave](SZOBAnimate-Sequence-Real-SinWave.html) | |
+| Help: | | Make Animation Sequence-SinWave |
 
 
 ## Functions:

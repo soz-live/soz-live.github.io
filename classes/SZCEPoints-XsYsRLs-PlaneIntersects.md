@@ -26,9 +26,9 @@ Xs Ys RLs PlaneIntersects Points
 | XS | [Set:SZCEPlane](SZCEPlane.html) |  |
 | YS | [Set:SZCEPlane](SZCEPlane.html) |  |
 | RLS | [Set:SZCEPlane](SZCEPlane.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEPoints-XsYsRLs-PlaneIntersects](SZCEPoints-XsYsRLs-PlaneIntersects.html) |
-| Help: | Xs Ys RLs PlaneIntersects Points |
+| | | |
+| Returns: | [SZCEPoints-XsYsRLs-PlaneIntersects](SZCEPoints-XsYsRLs-PlaneIntersects.html) | |
+| Help: | | Xs Ys RLs PlaneIntersects Points |
 
 
 ## Functions:

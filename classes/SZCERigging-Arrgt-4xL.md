@@ -27,9 +27,9 @@ Rigging 4xL Class
 | LEG | [SZCERigging-Leg](SZCERigging-Leg.html) |  |
 | BASELL | [SZGEPoint](SZGEPoint.html) |  |
 | BASEUR | [SZGEPoint](SZGEPoint.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-Arrgt-4xL](SZCERigging-Arrgt-4xL.html) |
-| Help: | Rigging 4xL |
+| | | |
+| Returns: | [SZCERigging-Arrgt-4xL](SZCERigging-Arrgt-4xL.html) | |
+| Help: | | Rigging 4xL |
 
 
 ## Functions:

@@ -25,9 +25,9 @@ AcDbUCS Class
 | --------- | --------- | --------- |
 | UCSNAME | [String](String.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [AcDbUCS](AcDbUCS.html) |
-| Help: | Make an AcDbUCS |
+| | | |
+| Returns: | [AcDbUCS](AcDbUCS.html) | |
+| Help: | | Make an AcDbUCS |
 
 
 ## Functions:
@@ -43,7 +43,7 @@ AcDbUCS Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [AcDbUCS](AcDbUCS.html) |  |
-| --- | --- | --- |
-| Returns: | [TMatrix](TMatrix.html) |
-| Help: | TMatrix of an AcDbUCS |
+| | | |
+| Returns: | [TMatrix](TMatrix.html) | |
+| Help: | | TMatrix of an AcDbUCS |
 

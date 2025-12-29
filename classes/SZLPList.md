@@ -34,16 +34,16 @@ Base List Class
 | --------- | --------- | --------- |
 | O | [SZLPList](SZLPList.html) |  |
 | INDEX | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [T](T.html) |
-| Help: | Returns an Object |
+| | | |
+| Returns: | [T](T.html) | |
+| Help: | | Returns an Object |
 
 ### SZLPList-Value
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | O | [SZLPList](SZLPList.html) |  |
-| --- | --- | --- |
-| Returns: | [List:T](T.html) |
-| Help: | List of Object |
+| | | |
+| Returns: | [List:T](T.html) | |
+| Help: | | List of Object |
 

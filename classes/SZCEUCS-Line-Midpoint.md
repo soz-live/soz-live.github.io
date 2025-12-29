@@ -24,9 +24,9 @@ SZCEUCS-Line-MidPoint Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINE | [AcDbLine](AcDbLine.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCEUCS-Line-MidPoint](SZCEUCS-Line-MidPoint.html) |
-| Help: | Make a SZCEUCS-Line-MidPoint |
+| | | |
+| Returns: | [SZCEUCS-Line-MidPoint](SZCEUCS-Line-MidPoint.html) | |
+| Help: | | Make a SZCEUCS-Line-MidPoint |
 
 
 ## Functions:

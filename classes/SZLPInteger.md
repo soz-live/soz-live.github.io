@@ -24,9 +24,9 @@ SZLPInteger Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | VALUE | [Integer](Integer.html) |  |
-| --- | --- | --- |
-| Returns: | [SZLPInteger](SZLPInteger.html) |
-| Help: | Make a SZLPInteger |
+| | | |
+| Returns: | [SZLPInteger](SZLPInteger.html) | |
+| Help: | | Make a SZLPInteger |
 
 
 ## Functions:

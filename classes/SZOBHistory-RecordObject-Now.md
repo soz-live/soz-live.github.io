@@ -24,9 +24,9 @@ RecordObject Now Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | OBJ | [SZOBObject](SZOBObject.html) |  |
-| --- | --- | --- |
-| Returns: | [SZOBHistory-RecordObject](SZOBHistory-RecordObject.html) |
-| Help: | RecordObject Now |
+| | | |
+| Returns: | [SZOBHistory-RecordObject](SZOBHistory-RecordObject.html) | |
+| Help: | | RecordObject Now |
 
 
 ## Functions:

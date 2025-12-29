@@ -27,9 +27,9 @@ Rigging Shackle Class
 | MODEL | [SZCERiggingDef-Shackle](SZCERiggingDef-Shackle.html) |  |
 | ENDFLIP | [Boolean](Boolean.html) |  |
 | SIDEFLIP | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZCERigging-Shackle](SZCERigging-Shackle.html) |
-| Help: | Make Shackle |
+| | | |
+| Returns: | [SZCERigging-Shackle](SZCERigging-Shackle.html) | |
+| Help: | | Make Shackle |
 
 
 ## Functions:

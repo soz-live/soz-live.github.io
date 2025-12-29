@@ -26,9 +26,9 @@ Point Class
 | X | [Real](Real.html) |  |
 | Y | [Real](Real.html) |  |
 | Z | [Real](Real.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Make a Point |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Make a Point |
 
 
 ## Functions:
@@ -44,18 +44,18 @@ Point Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | POINT | [Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [Points](Points.html) |
-| Help: | Convert to Points |
+| | | |
+| Returns: | [Points](Points.html) | |
+| Help: | | Convert to Points |
 
 ### Point-Flatten
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | V | [Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Flatten Point |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Flatten Point |
 
 ### Point-LinePerpPosn
 
@@ -64,9 +64,9 @@ Point Class
 | POINT | [Point](Point.html) |  |
 | LPT0 | [Point](Point.html) |  |
 | LPT1 | [Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Line Perp Posn |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Line Perp Posn |
 
 ### Point-OnLine?
 
@@ -74,9 +74,9 @@ Point Class
 | --------- | --------- | --------- |
 | POINT | [Point](Point.html) |  |
 | LINE | [Line](Line.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | Point OnLine? |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | Point OnLine? |
 
 ### Point-OnPlane
 
@@ -85,17 +85,17 @@ Point Class
 | POINT | [Point](Point.html) |  |
 | PLANE | [Plane](Plane.html) |  |
 | DIR | [Vector](Vector.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Point on a Plane |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Point on a Plane |
 
 ### Point-Origin
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Origin Point |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Origin Point |
 
 ### Point-Reset
 
@@ -103,9 +103,9 @@ Point Class
 | --------- | --------- | --------- |
 | O | [Point](Point.html) |  |
 | NEW | [Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Reset a Point |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Reset a Point |
 
 ### Point-TransformBy
 
@@ -113,9 +113,9 @@ Point Class
 | --------- | --------- | --------- |
 | PT | [Point](Point.html) |  |
 | TM | [TMatrix](TMatrix.html) |  |
-| --- | --- | --- |
-| Returns: | [Point](Point.html) |
-| Help: | Point TransformBy |
+| | | |
+| Returns: | [Point](Point.html) | |
+| Help: | | Point TransformBy |
 
 ### Point-WithinRectangle?
 
@@ -126,9 +126,9 @@ Point Class
 | POINT2 | [Point](Point.html) |  |
 | POINT3 | [Point](Point.html) |  |
 | POINT4 | [Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | Point WithinRectangle? |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | Point WithinRectangle? |
 
 ### Point-WithinTriangle?
 
@@ -138,9 +138,9 @@ Point Class
 | POINT1 | [Point](Point.html) |  |
 | POINT2 | [Point](Point.html) |  |
 | POINT3 | [Point](Point.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | Point WithinTriangle? |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | Point WithinTriangle? |
 
 ### Point-onFace?
 
@@ -148,7 +148,7 @@ Point Class
 | --------- | --------- | --------- |
 | POINT | [Point](Point.html) |  |
 | FACE | [Face](Face.html) |  |
-| --- | --- | --- |
-| Returns: | [Logical](Logical.html) |
-| Help: | Point onFace? |
+| | | |
+| Returns: | [Logical](Logical.html) | |
+| Help: | | Point onFace? |
 

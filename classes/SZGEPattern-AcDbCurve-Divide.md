@@ -27,9 +27,9 @@ SZGEPattern-AcDbCurve-Divide Class
 | NO | [Integer](Integer.html) |  |
 | START | [Boolean](Boolean.html) |  |
 | END | [Boolean](Boolean.html) |  |
-| --- | --- | --- |
-| Returns: | [SZGEPattern-AcDbCurve-Divide](SZGEPattern-AcDbCurve-Divide.html) |
-| Help: | Make a SZGEPattern-AcDbCurve-Divide |
+| | | |
+| Returns: | [SZGEPattern-AcDbCurve-Divide](SZGEPattern-AcDbCurve-Divide.html) | |
+| Help: | | Make a SZGEPattern-AcDbCurve-Divide |
 
 
 ## Functions:
