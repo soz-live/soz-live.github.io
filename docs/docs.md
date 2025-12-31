@@ -19,7 +19,7 @@ This documentation is focussed on Users of the project:
 - [Users Introduction](/users/intro.html). 
 - [Quickstart Guide](/users/quickstart.html).
 - [Users Basic Information](/users/basics.html).
-
+- [Technical Information](/users/technical.html).
 
 
 ## Coders

@@ -39,6 +39,7 @@ An incomplete list of **SOZ-LIVE** functionality is [here](/repos/soz-live.html)
 
 - [Quickstart Guide](/users/quickstart.html).
 - [Basic Information](/users/basics.html).
+- [Technical Information](/users/technical.html).
 
 
 ## Videos

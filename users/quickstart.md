@@ -19,11 +19,12 @@ To use **SOZ-LIVE**, follow the steps below:
 
 ## Downloading
 
-Download the release **zip** file and save it into a local directory.  
-Unzip the file, ready for loading into CAD.
+Follow the link to the [soz-releases](https://github.com//soz-live//soz-releases//releases) repo.  
+Download the desired release **zip** file and save it into a local directory.  
+Unzip the file, ready for loading into CAD.  
 
 {% include note-icon.html %}     
-> All included repos are contained within the one release Lisp file.  
+> All included repos are contained within the one release file.  
 
 ## Loading
 

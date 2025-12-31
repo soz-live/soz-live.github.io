@@ -31,7 +31,7 @@ While aiming to be:
 - caring
 - sharing
 
-All members actions will be governed by the **Code of Conduct** in the GitHub repo.
+All members actions will be governed by the [Code of Conduct](https://github.com//soz-live//soz-releases//blob//main//CODE_OF_CONDUCT.md).
 
 ## Joining
 
