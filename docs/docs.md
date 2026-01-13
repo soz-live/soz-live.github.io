@@ -33,7 +33,7 @@ This documentation is focussed on Coders of the project:
 
 ## References
 
-These documents provide additional information about the project that don't fit into the previous two categories or that span both.
+These documents provide additional information about the project:
 
 - [Glossary](/docs/glossary.html) - a list of terms used within the project.
 - [Prefixes](/docs/prefixes.html) - a list of Class prefixes used within the project.
