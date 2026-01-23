@@ -1,9 +1,9 @@
 
-# Class:	SZLP-NUMBERP
+# Class:	SZLPCode-Real
 
 ### Description:
 
-SZLP-NUMBERP Class
+Base Real Function Class
 
 
 
@@ -12,21 +12,12 @@ SZLP-NUMBERP Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZLPPredicate](SZLPPredicate.html) |
-| Subclasses: |  |
-| Interfaces: |  |
+| Superclass: | [SZLPCode-Number](SZLPCode-Number.html) |
+| Subclasses: | [SZLP-FLOAT](SZLP-FLOAT.html) <br> [SZLP-SIN](SZLP-SIN.html) <br> [SZLP-COS](SZLP-COS.html) <br> [SZLP-ATOF](SZLP-ATOF.html) |
+| Interfaces: | [SZLPReal](SZLPReal.html), [Real](Real.html) |
 | Interfaced: |  |
-| Abstract?: | No |
+| Abstract?: | Yes |
 | isValue?: | Yes |
-
-### SZLP-NUMBERP-Make
-
-| Keys | Types | Help |
-| --------- | --------- | --------- |
-| A | [SZLPNumber](SZLPNumber.html) |  |
-| | | |
-| Returns: | [Logical](Logical.html) | |
-| Help: | | New SZLP-NUMBERP |
 
 
 ## Functions:

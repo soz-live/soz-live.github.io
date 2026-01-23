@@ -13,9 +13,9 @@ SZLPInteger Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPReal](SZLPReal.html) |
-| Subclasses: | [SZLPInteger-Random](SZLPInteger-Random.html) <br> [SZLPInteger-Code](SZLPInteger-Code.html) |
+| Subclasses: | [SZLPInteger-Random](SZLPInteger-Random.html) |
 | Interfaces: | [Integer](Integer.html) |
-| Interfaced: |  |
+| Interfaced: | [SZLPCode-Integer](SZLPCode-Integer.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
 

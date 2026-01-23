@@ -1,5 +1,5 @@
 
-# Class:	SZCEPolyline-Offset
+# Class:	SZCEPolyline-Transformed
 
 ### Description:
 
@@ -19,14 +19,14 @@ Polyline Offset
 | Abstract?: | No |
 | isValue?: | No |
 
-### SZCEPolyline-Offset-Make
+### SZCEPolyline-Transformed-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbPolyline](AcDbPolyline.html) |  |
-| OFFSET | [Real](Real.html) |  |
+| TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | | | |
-| Returns: | [SZCEPolyline-Offset](SZCEPolyline-Offset.html) | |
+| Returns: | [SZCEPolyline-Transformed](SZCEPolyline-Transformed.html) | |
 | Help: | | Polyline Offset Make Method |
 
 

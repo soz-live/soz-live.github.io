@@ -13,7 +13,7 @@ AcDbLine Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbCurve](AcDbCurve.html) |
-| Subclasses: | [SZCELine](SZCELine.html) |
+| Subclasses: | [SZCELine-Transformed](SZCELine-Transformed.html) |
 | Interfaces: | [Line](Line.html), [SZGELine](SZGELine.html) |
 | Interfaced: | [SZCELinear](SZCELinear.html) |
 | Abstract?: | No |

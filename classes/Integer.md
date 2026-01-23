@@ -15,7 +15,7 @@ Integer
 | Superclass: | [Real](Real.html) |
 | Subclasses: | [Byte](Byte.html) |
 | Interfaces: | [Number](Number.html) |
-| Interfaced: | [SZLPInteger](SZLPInteger.html) |
+| Interfaced: | [SZLPInteger](SZLPInteger.html), [SZLPCode-Integer](SZLPCode-Integer.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
 

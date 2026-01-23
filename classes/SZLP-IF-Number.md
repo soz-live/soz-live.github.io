@@ -14,7 +14,7 @@ IF-Number Function
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLP-IF](SZLP-IF.html) |
 | Subclasses: |  |
-| Interfaces: | [Number](Number.html) |
+| Interfaces: | [SZLPNumber](SZLPNumber.html), [Number](Number.html) |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |

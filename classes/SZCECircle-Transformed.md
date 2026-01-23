@@ -1,9 +1,9 @@
 
-# Class:	SZCECircle-OnLine
+# Class:	SZCECircle-Transformed
 
 ### Description:
 
-SZCECircle-OnLine Class
+SZCECircle-Transformed Class
 
 
 
@@ -19,16 +19,15 @@ SZCECircle-OnLine Class
 | Abstract?: | No |
 | isValue?: | No |
 
-### SZCECircle-OnLine-Make
+### SZCECircle-Transformed-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
-| LINE | [SZGELine](SZGELine.html) |  |
-| NORMAL | [SZGEVector](SZGEVector.html) |  |
+| ENTITY | [AcDbCircle](AcDbCircle.html) |  |
+| TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | | | |
-| Returns: | [SZCECircle-OnLine](SZCECircle-OnLine.html) | |
-| Help: | | Make a SZCECircle-OnLine |
+| Returns: | [SZCECircle-Transformed](SZCECircle-Transformed.html) | |
+| Help: | | Make a SZCECircle-Transformed |
 
 
 ## Functions:

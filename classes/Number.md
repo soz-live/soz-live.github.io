@@ -15,7 +15,7 @@ Basic Number Class
 | Superclass: | [Atom](Atom.html) |
 | Subclasses: | [Real](Real.html) |
 | Interfaces: |  |
-| Interfaced: | [Real](Real.html), [Integer](Integer.html), [SZLPNumber](SZLPNumber.html), [SZLP-IF-Number](SZLP-IF-Number.html) |
+| Interfaced: | [Real](Real.html), [Integer](Integer.html), [SZLPNumber](SZLPNumber.html), [SZLP-IF-Number](SZLP-IF-Number.html), [SZLPCode-Number](SZLPCode-Number.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
 

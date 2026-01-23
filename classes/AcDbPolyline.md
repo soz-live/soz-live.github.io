@@ -13,7 +13,7 @@ AcDbPolyline Class - LWPolyline
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbCurve](AcDbCurve.html) |
-| Subclasses: | [SZCE2dCurve](SZCE2dCurve.html) |
+| Subclasses: | [SZCEPolyline](SZCEPolyline.html) |
 | Interfaces: |  |
 | Interfaced: | [AcDbCurve-PlanarClosed](AcDbCurve-PlanarClosed.html) |
 | Abstract?: | No |

@@ -12,7 +12,7 @@ LESSTHANEQ Function
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZLPLogical-Code](SZLPLogical-Code.html) |
+| Superclass: | [SZLPLogical](SZLPLogical.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |

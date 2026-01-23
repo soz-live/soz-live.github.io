@@ -1,9 +1,9 @@
 
-# Class:	SZLPReal-Reals-Min
+# Class:	SZLPReal-MaxOfReals
 
 ### Description:
 
-SZLPReal-Reals-Min Class
+SZLPReal-MaxOfReals Class
 
 
 
@@ -19,14 +19,14 @@ SZLPReal-Reals-Min Class
 | Abstract?: | No |
 | isValue?: | Yes |
 
-### SZLPReal-Reals-Min-Make
+### SZLPReal-MaxOfReals-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ARRAY | [SZLPReals](SZLPReals.html) |  |
 | | | |
-| Returns: | [SZLPReal-Reals-Min](SZLPReal-Reals-Min.html) | |
-| Help: | | Make a SZLPReal-Reals-Min |
+| Returns: | [SZLPReal-MaxOfReals](SZLPReal-MaxOfReals.html) | |
+| Help: | | Make a SZLPReal-MaxOfReals |
 
 
 ## Functions:

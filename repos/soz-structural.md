@@ -101,6 +101,6 @@ status: Beta
             - [SZCEScript-Columns-FootingToOpenEnd](/classes/SZCEScript-Columns-FootingToOpenEnd.html)
           - [SZCEScript-Members-MemberToMember-OnPlanes](/classes/SZCEScript-Members-MemberToMember-OnPlanes.html)
 
-Version:  1.27.3
+Version:  1.27.4
 <br>
-Date: 20251222.2115
+Date: 20260123.2141

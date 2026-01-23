@@ -13,9 +13,9 @@ SZLPNumber Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPAtom](SZLPAtom.html) |
-| Subclasses: | [SZLPNumber-Random-Range](SZLPNumber-Random-Range.html) <br> [SZLPNumber-Random](SZLPNumber-Random.html) <br> [SZLPNumber-Code](SZLPNumber-Code.html) <br> [SZLPEquation](SZLPEquation.html) <br> [SZLPReal](SZLPReal.html) |
+| Subclasses: | [SZLPNumber-Random-Range](SZLPNumber-Random-Range.html) <br> [SZLPNumber-Random](SZLPNumber-Random.html) <br> [SZLPEquation](SZLPEquation.html) <br> [SZLPReal](SZLPReal.html) |
 | Interfaces: | [Number](Number.html), [Real](Real.html) |
-| Interfaced: |  |
+| Interfaced: | [SZLP-IF-Number](SZLP-IF-Number.html), [SZLPCode-Number](SZLPCode-Number.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
 

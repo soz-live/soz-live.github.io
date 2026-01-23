@@ -13,7 +13,7 @@ AcDbCircle Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbCurve](AcDbCurve.html) |
-| Subclasses: | [SZCECircle-Offset](SZCECircle-Offset.html) <br> [SZCECircle-OnLine](SZCECircle-OnLine.html) <br> [SZCECircle-3xPoints](SZCECircle-3xPoints.html) <br> [SZCECircle](SZCECircle.html) |
+| Subclasses: | [SZCECircle-Transformed](SZCECircle-Transformed.html) <br> [SZCECircle-Offset](SZCECircle-Offset.html) <br> [SZCECircle-OnLine](SZCECircle-OnLine.html) <br> [SZCECircle-3xPoints](SZCECircle-3xPoints.html) <br> [SZCECircle](SZCECircle.html) |
 | Interfaces: |  |
 | Interfaced: | [AcDbCurve-PlanarClosed](AcDbCurve-PlanarClosed.html) |
 | Abstract?: | No |

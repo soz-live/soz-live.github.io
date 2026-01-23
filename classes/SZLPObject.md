@@ -13,7 +13,7 @@ Base Lisp Object Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZOBValue](SZOBValue.html) |
-| Subclasses: | [SZLPLogical](SZLPLogical.html) |
+| Subclasses: | [SZLPCode](SZLPCode.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

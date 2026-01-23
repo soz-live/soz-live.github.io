@@ -1,9 +1,9 @@
 
-# Class:	SZLP-NUMBERP
+# Class:	SZLPCode-List
 
 ### Description:
 
-SZLP-NUMBERP Class
+Base List Function Class
 
 
 
@@ -12,21 +12,12 @@ SZLP-NUMBERP Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZLPPredicate](SZLPPredicate.html) |
-| Subclasses: |  |
-| Interfaces: |  |
+| Superclass: | [SZLPCode](SZLPCode.html) |
+| Subclasses: | [SZLPCode-Array](SZLPCode-Array.html) <br> [SZLP-CDR](SZLP-CDR.html) <br> [SZLP-CAR](SZLP-CAR.html) <br> [SZLP-SUBST](SZLP-SUBST.html) <br> [SZLP-REVERSE](SZLP-REVERSE.html) <br> [SZLP-APPENDS](SZLP-APPENDS.html) <br> [SZLP-APPEND](SZLP-APPEND.html) <br> [SZLP-LAST](SZLP-LAST.html) <br> [SZLP-MEMBER](SZLP-MEMBER.html) <br> [SZLP-NTH](SZLP-NTH.html) |
+| Interfaces: | [SZLPList](SZLPList.html), [List](List.html) |
 | Interfaced: |  |
-| Abstract?: | No |
+| Abstract?: | Yes |
 | isValue?: | Yes |
-
-### SZLP-NUMBERP-Make
-
-| Keys | Types | Help |
-| --------- | --------- | --------- |
-| A | [SZLPNumber](SZLPNumber.html) |  |
-| | | |
-| Returns: | [Logical](Logical.html) | |
-| Help: | | New SZLP-NUMBERP |
 
 
 ## Functions:

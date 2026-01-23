@@ -15,7 +15,7 @@ List Class
 | Superclass: | [T](T.html) |
 | Subclasses: | [Set](Set.html) <br> [Array](Array.html) <br> [Cons](Cons.html) <br> [Tree](Tree.html) |
 | Interfaces: |  |
-| Interfaced: | [NIL](NIL.html), [SZLPList](SZLPList.html), [SZGEObjects](SZGEObjects.html), [SZCOObjects](SZCOObjects.html) |
+| Interfaced: | [NIL](NIL.html), [SZLPList](SZLPList.html), [SZLPCode-List](SZLPCode-List.html), [SZGEObjects](SZGEObjects.html), [SZCOObjects](SZCOObjects.html) |
 | Abstract?: | Yes |
 | isValue?: | Yes |
 

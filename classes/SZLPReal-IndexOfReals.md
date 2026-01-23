@@ -1,9 +1,9 @@
 
-# Class:	SZLPReal-Reals-Max
+# Class:	SZLPReal-IndexOfReals
 
 ### Description:
 
-SZLPReal-Reals-Max Class
+SZLPReal-IndexOfReals Class
 
 
 
@@ -19,14 +19,15 @@ SZLPReal-Reals-Max Class
 | Abstract?: | No |
 | isValue?: | Yes |
 
-### SZLPReal-Reals-Max-Make
+### SZLPReal-IndexOfReals-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ARRAY | [SZLPReals](SZLPReals.html) |  |
+| INDEX | [Integer](Integer.html) |  |
 | | | |
-| Returns: | [SZLPReal-Reals-Max](SZLPReal-Reals-Max.html) | |
-| Help: | | Make a SZLPReal-Reals-Max |
+| Returns: | [SZLPReal-IndexOfReals](SZLPReal-IndexOfReals.html) | |
+| Help: | | Make a SZLPReal-IndexOfReals |
 
 
 ## Functions:

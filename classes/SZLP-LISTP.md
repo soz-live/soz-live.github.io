@@ -12,7 +12,7 @@ SZLP-LISTP Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZLPPredicate-Code](SZLPPredicate-Code.html) |
+| Superclass: | [SZLPPredicate](SZLPPredicate.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |

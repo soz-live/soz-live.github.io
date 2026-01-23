@@ -13,7 +13,7 @@ SZLP-T Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPLogical](SZLPLogical.html) |
-| Subclasses: | [SZLPCode](SZLPCode.html) <br> [SZLPList](SZLPList.html) <br> [SZLPAtom](SZLPAtom.html) |
+| Subclasses: | [SZLPList](SZLPList.html) <br> [SZLPAtom](SZLPAtom.html) |
 | Interfaces: | [T](T.html) |
 | Interfaced: |  |
 | Abstract?: | Yes |

@@ -27,7 +27,7 @@ SZCECircle-Offset Class
 | ENTITY | [AcDbCircle](AcDbCircle.html) |  |
 | OFFSET | [Real](Real.html) |  |
 | | | |
-| Returns: | [AcDbCircle](AcDbCircle.html) | |
+| Returns: | [SZCECircle-Offset](SZCECircle-Offset.html) | |
 | Help: | | Make a SZCECircle-Offset |
 
 

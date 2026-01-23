@@ -1,9 +1,9 @@
 
-# Class:	SZLPReal-Reals-Index
+# Class:	SZLPReal-MinOfReals
 
 ### Description:
 
-SZLPReal-Reals-Index Class
+SZLPReal-MinOfReals Class
 
 
 
@@ -19,15 +19,14 @@ SZLPReal-Reals-Index Class
 | Abstract?: | No |
 | isValue?: | Yes |
 
-### SZLPReal-Reals-Index-Make
+### SZLPReal-MinOfReals-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ARRAY | [SZLPReals](SZLPReals.html) |  |
-| INDEX | [Integer](Integer.html) |  |
 | | | |
-| Returns: | [SZLPReal-Reals-Index](SZLPReal-Reals-Index.html) | |
-| Help: | | Make a SZLPReal-Reals-Index |
+| Returns: | [SZLPReal-MinOfReals](SZLPReal-MinOfReals.html) | |
+| Help: | | Make a SZLPReal-MinOfReals |
 
 
 ## Functions:

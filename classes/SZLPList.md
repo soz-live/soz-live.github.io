@@ -13,9 +13,9 @@ Base List Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLP-T](SZLP-T.html) |
-| Subclasses: | [SZLPList-Code](SZLPList-Code.html) <br> [SZLPArray](SZLPArray.html) |
+| Subclasses: | [SZLPArray](SZLPArray.html) |
 | Interfaces: | [List](List.html) |
-| Interfaced: |  |
+| Interfaced: | [SZLPCode-List](SZLPCode-List.html) |
 | Abstract?: | Yes |
 | isValue?: | Yes |
 

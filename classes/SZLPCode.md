@@ -12,8 +12,8 @@ Base SZLPCode Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZLP-T](SZLP-T.html) |
-| Subclasses: | [SZLPMacro](SZLPMacro.html) <br> [SZLPFunction](SZLPFunction.html) <br> [SZLPSymbol](SZLPSymbol.html) |
+| Superclass: | [SZLPObject](SZLPObject.html) |
+| Subclasses: | [SZLPMacro](SZLPMacro.html) <br> [SZLPCode-List](SZLPCode-List.html) <br> [SZLPCode-String](SZLPCode-String.html) <br> [SZLPCode-Number](SZLPCode-Number.html) <br> [SZLPFunction](SZLPFunction.html) <br> [SZLPSymbol](SZLPSymbol.html) <br> [SZLPLogical](SZLPLogical.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

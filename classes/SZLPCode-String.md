@@ -1,9 +1,9 @@
 
-# Class:	SZLP-NUMBERP
+# Class:	SZLPCode-String
 
 ### Description:
 
-SZLP-NUMBERP Class
+Base String Function Class
 
 
 
@@ -12,21 +12,12 @@ SZLP-NUMBERP Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZLPPredicate](SZLPPredicate.html) |
-| Subclasses: |  |
-| Interfaces: |  |
+| Superclass: | [SZLPCode](SZLPCode.html) |
+| Subclasses: | [SZLP-STRCAT](SZLP-STRCAT.html) <br> [SZLP-RTOS](SZLP-RTOS.html) <br> [SZLP-ITOA](SZLP-ITOA.html) |
+| Interfaces: | [SZLPString](SZLPString.html), [String](String.html) |
 | Interfaced: |  |
-| Abstract?: | No |
+| Abstract?: | Yes |
 | isValue?: | Yes |
-
-### SZLP-NUMBERP-Make
-
-| Keys | Types | Help |
-| --------- | --------- | --------- |
-| A | [SZLPNumber](SZLPNumber.html) |  |
-| | | |
-| Returns: | [Logical](Logical.html) | |
-| Help: | | New SZLP-NUMBERP |
 
 
 ## Functions:

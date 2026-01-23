@@ -48,16 +48,17 @@ status: Beta
               - [SZGEPattern3D](/classes/SZGEPattern3D.html)
                 - [SZGEPattern3D-Rectangular-RandomZ](/classes/SZGEPattern3D-Rectangular-RandomZ.html)
       - [SZLPObject](/classes/SZLPObject.html)
-        - [SZLPLogical](/classes/SZLPLogical.html)
-          - [SZLP-T](/classes/SZLP-T.html)
-            - [SZLPAtom](/classes/SZLPAtom.html)
-              - [SZLPNumber](/classes/SZLPNumber.html)
-                - [SZLPNumber-Random](/classes/SZLPNumber-Random.html)
-                - [SZLPNumber-Random-Range](/classes/SZLPNumber-Random-Range.html)
-                - [SZLPReal](/classes/SZLPReal.html)
-                  - [SZLPInteger](/classes/SZLPInteger.html)
-                    - [SZLPInteger-Random](/classes/SZLPInteger-Random.html)
+        - [SZLPCode](/classes/SZLPCode.html)
+          - [SZLPLogical](/classes/SZLPLogical.html)
+            - [SZLP-T](/classes/SZLP-T.html)
+              - [SZLPAtom](/classes/SZLPAtom.html)
+                - [SZLPNumber](/classes/SZLPNumber.html)
+                  - [SZLPNumber-Random](/classes/SZLPNumber-Random.html)
+                  - [SZLPNumber-Random-Range](/classes/SZLPNumber-Random-Range.html)
+                  - [SZLPReal](/classes/SZLPReal.html)
+                    - [SZLPInteger](/classes/SZLPInteger.html)
+                      - [SZLPInteger-Random](/classes/SZLPInteger-Random.html)
 
-Version:  1.27.3
+Version:  1.27.4
 <br>
-Date: 20251222.2115
+Date: 20260123.2141

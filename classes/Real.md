@@ -15,7 +15,7 @@ Real Class
 | Superclass: | [Number](Number.html) |
 | Subclasses: | [Real-Random-Range](Real-Random-Range.html) <br> [Real-Random](Real-Random.html) <br> [Integer](Integer.html) <br> [Bulge](Bulge.html) <br> [Angle](Angle.html) |
 | Interfaces: | [Number](Number.html) |
-| Interfaced: | [SZLPNumber](SZLPNumber.html), [SZLPReal](SZLPReal.html), [SZOBAnimate-Effect-Real](SZOBAnimate-Effect-Real.html) |
+| Interfaced: | [SZLPNumber](SZLPNumber.html), [SZLPReal](SZLPReal.html), [SZLPCode-Real](SZLPCode-Real.html), [SZOBAnimate-Effect-Real](SZOBAnimate-Effect-Real.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
 

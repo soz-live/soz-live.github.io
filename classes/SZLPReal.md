@@ -13,9 +13,9 @@ SZLPReal Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPNumber](SZLPNumber.html) |
-| Subclasses: | [SZLPReal-Code](SZLPReal-Code.html) <br> [SZLPDistance](SZLPDistance.html) <br> [SZLPReal-Reals-Min](SZLPReal-Reals-Min.html) <br> [SZLPReal-Reals-Max](SZLPReal-Reals-Max.html) <br> [SZLPReal-Reals-Index](SZLPReal-Reals-Index.html) <br> [SZLPAngle](SZLPAngle.html) <br> [SZLPInteger](SZLPInteger.html) <br> [SZLPReal-Curve-BaryComb](SZLPReal-Curve-BaryComb.html) <br> [SZLPReal-2xPI](SZLPReal-2xPI.html) <br> [SZLPReal-PI](SZLPReal-PI.html) |
+| Subclasses: | [SZLPDistance](SZLPDistance.html) <br> [SZLPReal-MinOfReals](SZLPReal-MinOfReals.html) <br> [SZLPReal-MaxOfReals](SZLPReal-MaxOfReals.html) <br> [SZLPReal-IndexOfReals](SZLPReal-IndexOfReals.html) <br> [SZLPAngle](SZLPAngle.html) <br> [SZLPInteger](SZLPInteger.html) <br> [SZLPReal-BaryCombOfCurve](SZLPReal-BaryCombOfCurve.html) <br> [SZLPReal-2xPI](SZLPReal-2xPI.html) <br> [SZLPReal-PI](SZLPReal-PI.html) |
 | Interfaces: | [Real](Real.html) |
-| Interfaced: |  |
+| Interfaced: | [SZLPCode-Real](SZLPCode-Real.html) |
 | Abstract?: | No |
 | isValue?: | Yes |
 

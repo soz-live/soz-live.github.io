@@ -1,9 +1,9 @@
 
-# Class:	SZCE2dCurve
+# Class:	SZCEPolyline
 
 ### Description:
 
-SZCE2dCurve Class
+SZCEPolyline Class
 
 
 
@@ -13,7 +13,7 @@ SZCE2dCurve Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbPolyline](AcDbPolyline.html) |
-| Subclasses: | [SZCEPolyline-Offset](SZCEPolyline-Offset.html) <br> [SZCEPolyline-Loop](SZCEPolyline-Loop.html) |
+| Subclasses: | [SZCEPolyline-Transformed](SZCEPolyline-Transformed.html) <br> [SZCEPolyline-Offset](SZCEPolyline-Offset.html) <br> [SZCEPolyline-Loop](SZCEPolyline-Loop.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

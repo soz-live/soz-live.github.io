@@ -1,9 +1,9 @@
 
-# Class:	SZCELine
+# Class:	SZCELine-Transformed
 
 ### Description:
 
-Abstract Line Class
+SZCELine-Transformed Class
 
 
 
@@ -13,11 +13,21 @@ Abstract Line Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbLine](AcDbLine.html) |
-| Subclasses: | [SZCELine-2xPoints](SZCELine-2xPoints.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | Yes |
+| Abstract?: | No |
 | isValue?: | No |
+
+### SZCELine-Transformed-Make
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| ENTITY | [AcDbLine](AcDbLine.html) |  |
+| TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
+| | | |
+| Returns: | [SZCELine-Transformed](SZCELine-Transformed.html) | |
+| Help: | | Make a SZCELine-Transformed |
 
 
 ## Functions:

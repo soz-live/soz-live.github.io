@@ -1,9 +1,9 @@
 
-# Class:	SZLPReal-Code
+# Class:	SZLPReal-BaryCombOfCurve
 
 ### Description:
 
-Base Real Function Class
+SZLPReal-BaryCombOfCurve Class
 
 
 
@@ -13,11 +13,21 @@ Base Real Function Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPReal](SZLPReal.html) |
-| Subclasses: | [SZLP-FLOAT](SZLP-FLOAT.html) <br> [SZLP-SIN](SZLP-SIN.html) <br> [SZLP-COS](SZLP-COS.html) <br> [SZLP-ATOF](SZLP-ATOF.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | Yes |
+| Abstract?: | No |
 | isValue?: | Yes |
+
+### SZLPReal-BaryCombOfCurve-Make
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| CURVE | [AcDbCurve](AcDbCurve.html) |  |
+| DIST | [SZLPReal](SZLPReal.html) |  |
+| | | |
+| Returns: | [SZLPReal-BaryCombOfCurve](SZLPReal-BaryCombOfCurve.html) | |
+| Help: | | Make a SZLPReal-BaryCombOfCurve |
 
 
 ## Functions:

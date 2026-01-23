@@ -1,9 +1,9 @@
 
-# Class:	SZLPLogical-Code
+# Class:	SZLPCode-Integer
 
 ### Description:
 
-SZLPLogical Code Class
+Base Integer Function Class
 
 
 
@@ -12,9 +12,9 @@ SZLPLogical Code Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZLPLogical](SZLPLogical.html) |
-| Subclasses: | [SZLPPredicate-Code](SZLPPredicate-Code.html) <br> [SZLP-GREATERTHANEQ](SZLP-GREATERTHANEQ.html) <br> [SZLP-GREATERTHAN](SZLP-GREATERTHAN.html) <br> [SZLP-LESSTHANEQ](SZLP-LESSTHANEQ.html) <br> [SZLP-LESSTHAN](SZLP-LESSTHAN.html) <br> [SZLP-NUMNOTEQ](SZLP-NUMNOTEQ.html) <br> [SZLP-NUMEQS](SZLP-NUMEQS.html) <br> [SZLP-NUMEQ](SZLP-NUMEQ.html) <br> [SZLP-NOT](SZLP-NOT.html) <br> [SZLP-ANDS](SZLP-ANDS.html) <br> [SZLP-AND](SZLP-AND.html) <br> [SZLP-OR](SZLP-OR.html) <br> [SZLP-EQ](SZLP-EQ.html) <br> [SZLP-EQUAL](SZLP-EQUAL.html) |
-| Interfaces: |  |
+| Superclass: | [SZLPCode-Number](SZLPCode-Number.html) |
+| Subclasses: | [SZLP-FIX](SZLP-FIX.html) <br> [SZLP-ATOI](SZLP-ATOI.html) |
+| Interfaces: | [SZLPInteger](SZLPInteger.html), [Integer](Integer.html) |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | Yes |
