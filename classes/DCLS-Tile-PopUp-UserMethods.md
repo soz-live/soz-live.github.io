@@ -13,7 +13,7 @@ DCL Strings
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [DCLS-Tile-PopUp-Select](DCLS-Tile-PopUp-Select.html) |
-| Subclasses: |  |
+| Subclasses: | [DCLS-Tile-PopUp-OptionUserMethods](DCLS-Tile-PopUp-OptionUserMethods.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

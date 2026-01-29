@@ -11,20 +11,25 @@ status: Beta
 
 {% include repo-features.html id=site.data.repo-features.soz-files %}
 
+
+
 ## Class Hierarchy
 
-- [SZOBBase](/classes/SZOBBase.html)
-  - [Lisp](/classes/Lisp.html)
-    - [Logical](/classes/Logical.html)
-      - [T](/classes/T.html)
-        - [Atom](/classes/Atom.html)
-          - [File](/classes/File.html)
+> Class Names in ***Bold Italics*** are Abstract classes
+
+
+- [***SZOBBase***](/classes/SZOBBase.html)
+  - [***Lisp***](/classes/Lisp.html)
+    - [***Logical***](/classes/Logical.html)
+      - [***T***](/classes/T.html)
+        - [***Atom***](/classes/Atom.html)
+          - [***File***](/classes/File.html)
             - [File-TXT](/classes/File-TXT.html)
               - [File-CSV](/classes/File-CSV.html)
-                - [File-CSVArray](/classes/File-CSVArray.html)
+                - [***File-CSVArray***](/classes/File-CSVArray.html)
               - [File-DAT](/classes/File-DAT.html)
                 - [SOZFile](/classes/SOZFile.html)
 
-Version:  1.27.4
+Version:  1.27.5
 <br>
-Date: 20260123.2141
+Date: 20260129.1809
