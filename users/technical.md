@@ -57,7 +57,6 @@ Through to complex geometric objects that utilise other objects and entities in 
 
 {% include note-icon.html %}  
 > A Real value entered into a dialog box is stored as a string until required by the program.
-> This enables lisp equations such as `(/ 1.0 3.0)` to be entered and calculated to full precision as and when required.
 
 ## Entity
 
