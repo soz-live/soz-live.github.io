@@ -11,7 +11,7 @@ carousels:
 
 A CAD extension, written in Lisp.  
 
-**SOZ-LIVE** is a collection of over 3400 Lisp routines, and around 30,000 lines of code, that combine to create a unform approach to using and coding within CAD packages such as BricsCAD and AutoCAD.
+**SOZ-LIVE** is a collection of over 3400 Lisp routines, and around 30,000 lines of code, that combine to create a systematic approach to using and coding within CAD packages such as BricsCAD and AutoCAD.
 
 {% include carousel.html height="75" unit="%" duration="3" number="1" %}
 
