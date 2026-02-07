@@ -21,8 +21,7 @@ The aims of the project are five-fold:
 ### Parametric 3D.
 
 Currently, the code required for the drafting and modelling of entities and associated parametric objects requires 14000 lines of code (loc).
-While being by far the largest portion of the project - this is the main reason as to why the project exists in the first place.
-
+While being by far the largest portion of the project - this is the main reason why the project exists in the first place.
 
 
 ### SOZ Programming Ideas.
@@ -32,14 +31,11 @@ Because of the lack of functionality within the language - all of this has to be
 Together with over 2000 lines of Class and Method Make that enable **SOZ-LIVE** to work, that is a total of around 5000 loc to achieve this aim alone.
 
 
-
 ### Using LISP.
 
 While the whole project is written in LISP, a portion of it is programming LISP in a **SOZ** format to be used within the project. 
 Also included in this are the basic geometric contructs and routines used for types such as Vector, Point, Plane, TMatrix, Line, Curve etc.
 This totals around 2000 loc.
-
-And ~150 classes
 
 
 ### Consistent UI.
@@ -47,14 +43,10 @@ And ~150 classes
 Programming the consistent Graphical UI (GUI), while directly supported from **SOZ** programming, still requires significant coding to achieve.
 Combined with user selection methods and related routines, this equates to around 3000 loc.
 
-And ~80 Classes
-
 
 ### Node UI - LIVE.
 
 The addition of the Node-based UI - **LIVE** into the project has been achieved using only around 1000 loc.
-
-And ~10 classes
 
 
 ## Conclusion
