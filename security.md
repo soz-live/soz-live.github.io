@@ -35,7 +35,7 @@ These risks include:
 
 **SOZ-LIVE** code only interacts with external files:
 
-- when reading and writing DCL files when building Dialog Boxes on the fly.
+- when reading and writing DCL files to build Dialog Boxes on the fly.
 - when directed by the user.
 - using standard file dialogs.
 - in DWG files or human readable text file formats. (DAT and CSV) that can be checked by the user.
@@ -48,7 +48,7 @@ These risks include:
 ## Dos and Donts
 
 - **DO**: only download the releases from the **soz-releases** repo.
-- **DO**: check the SHA256 checksum for the file downloaded.
+- **DO**: check the SHA256 checksum for the downloaded file.
 - **DO**: read through the code if possible.
 - **DO**: test it first before using it in production.
 - **DONT**: import files (DAT or CSV) without reading them first.
