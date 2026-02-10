@@ -3,9 +3,9 @@ layout: post
 author: Tim_M
 ---
 
-The **SOZ-LIVE** project contains a large amount of code. But is the size of the project justified? 
-
+The **SOZ-LIVE** project contains around 30000 lines of code (loc). But is the size of the project justified?  
 Lets first look at the aims and objectives of the project:
+
 
 ## Aims and Objectives
 
@@ -20,7 +20,8 @@ The aims of the project are five-fold:
 
 ### Parametric 3D.
 
-Currently, the code required for the drafting and modelling of entities and associated parametric objects requires 14000 lines of code (loc).
+Currently, the code required for the drafting and modelling of entities and associated parametric objects requires 14000 loc.
+Then there is an extra 5000 loc within the additional modules / repos to achieve additioanl functionality.
 While being by far the largest portion of the project - this is the main reason why the project exists in the first place.
 
 
@@ -51,4 +52,4 @@ The addition of the Node-based UI - **LIVE** into the project has been achieved 
 
 ## Conclusion
 
-Yes, there is a lot of code, but given the functionality and cohesive nature of the project, not only is the size of the project justifiable, but to achieve the Parametric functionality and **LIVE** UI (around 15000 loc), without using **SOZ**, LISP or a consistent UI (a total of around 10000 loc) I believe would take much more coding and effort.
+Yes, there is a lot of code, but given the functionality and cohesive nature of the project, not only is the size of the project justifiable, but to achieve the Parametric functionality and **LIVE** UI (around 20000 loc), without using **SOZ**, LISP or a consistent UI (a total of around 10000 loc) I believe would take much more coding and effort.
