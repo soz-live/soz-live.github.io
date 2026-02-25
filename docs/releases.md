@@ -72,6 +72,6 @@ For a list of functionality contained within each repo - click on the link.
 
 {% include csvtable.html id=site.data.releases %}
 
-Version:  1.27.5
+Version:  1.27.7
 <br>
-Date: 20260129.1809
+Date: 20260225.1903

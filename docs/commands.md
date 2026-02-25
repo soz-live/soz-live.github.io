@@ -13,6 +13,6 @@ To access all of the Commands in a dialog box - type **Y** at the command line.
 
 {% include csvtable.html id=site.data.commands %}
 
-Version:  1.27.5
+Version:  1.27.7
 <br>
-Date: 20260129.1809
+Date: 20260225.1903
