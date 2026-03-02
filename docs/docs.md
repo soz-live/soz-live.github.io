@@ -8,9 +8,18 @@ layout: default
 
 This page lists documentation for **SOZ-LIVE** in the following sections:
 
+- [Security](#security)
 - [Users](#users)
 - [Coders](#coders)
 - [References](#references)
+
+
+## Security
+
+**SOZ-LIVE** aims to be a trusted and secure project for Users and Coders alike. 
+
+Refer to the [Security](/security.html) page for details.
+
 
 ## Users
 

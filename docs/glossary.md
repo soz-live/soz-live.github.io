@@ -42,8 +42,8 @@ layout: default
 
 ## Alist
 
-Inside Lisp, a key-value association [list](#list), where the Keys are Atoms and the Values may be Atoms or Lists.  
-In other languages they are called dictionaries.  
+Inside Lisp, a key-value association [list](#list), where the Keys are [Atoms](#atom) and the Values may be [Atoms](#atom) or [Lists](#list).  
+In other programming languages they are called dictionaries.  
 
 
 ## API
@@ -69,7 +69,8 @@ Also known as a Type.
 
 ## CLI
 
-Command-Line User Interface (UI) - where the user interacts with the program using command prompts and keyboard entry.
+CLI = Command-Line User Interface.  
+Where the user interacts with the program using command prompts and keyboard entry.
 
 
 ## DIP
@@ -96,7 +97,8 @@ A function is a list of instructions or other functions for the computer to proc
 
 ## GUI
 
-Graphical User Interface - where the user interacts with the program using dialog boxes. 
+GI = Graphical User Interface.
+Where the user interacts with the program using dialog boxes.  
 
 
 ## ID
@@ -112,7 +114,8 @@ Stands for the Interface Segregation Principle and is the I in [SOLID](#solid). 
 ## Lisp
 
 A programming language based around LISt Processing.  
-Provided as one of the [API](#api)s within some [CAD](#cad) software.   
+Provided as one of the [APIs](#api) within some [CAD](#cad) software.   
+The programming language that [SOZ](#soz) is written in.  
 
 
 ## List
@@ -122,8 +125,9 @@ A list of values stored as one thing - opposite of an Atom. <br> Lisp has a numb
 
 ## LIVE
 
+LIVE = Lisp Interactive Visual Environment.  
 A node based visual User Interface, written using SOZ, where objects are represented by nodes and links between nodes to display the flow of data.  
-With LIVE standing for Lisp Interactive Visual Environment.  
+ 
 
 
 ## LSP
@@ -138,7 +142,9 @@ A [Function](#function) defined for a particular [Class](#class).
 
 ## Object
 
-A self contained thing - interacting with other Objects through methods. <br> An instance of a Class created at run-time. <br> Passed and referenced as an ID.
+A self contained thing - interacting with other Objects through methods.  
+An instance of a [Class](#class) created at run-time.  
+Passed and referenced as an [ID](#id).  
 
 
 ## OCP
@@ -148,12 +154,14 @@ Stands for the Open Closed Principle and is the O in [SOLID](#solid). <br> It de
 
 ## OOP
 
-Object Oriented Programming. <br> A programming paradigm based upon working with Objects and Methods.
+OOP = Object Oriented Programming.  
+A programming paradigm based upon working with [Objects](#object) and [Methods](#method).  
 
 
 ## Runtime
 
 The time during which the program is being executed.
+As opposed to compile time.  
 
 
 ## SOLID
@@ -170,8 +178,8 @@ Each of the letters stand for a different principle.
 
 ## SOZ
 
+SOZ = Scripted ObjectZ, with the Z used to indicate the reflective nature of the language.  
 An extension of the [Lisp](#lisp) programming language within [CAD](#cad) that provides a means of doing [OOP](#oop) using a [FP](#fp) language to create and manipulate [objects](#object).  
-The name SOZ is derived from Scripted ObjectZ, with the Z used to indicate the reflective nature of the language.  
 
 
 ## SRP
@@ -186,7 +194,7 @@ A human readable series of characters making words etc..
 
 ## Structure
 
-Inside SOZ, an Alist that uses a String as a Key.
+Inside [SOZ](#soz), an [Alist](#alist) that uses a [String](#string) as a Key.  
 
 
 ## Symbol
@@ -196,12 +204,17 @@ A computer readable series of characters used during processing programming code
 
 ## Type
 
-Every Object belongs to a particular type or is a sub-type of something else.<br>
-Also know as a Class.
+Every [Object](#object) belongs to a particular type or is a sub-type of something else.  
+Also know as a [Class](#class).
 
 
 ## UI
 
-User Interface - for users to interact with the program. <br> In SOZ there are three UIs - a CLI, a GUI and LIVE.
+User Interface - for users to interact with the program.  
+In [SOZ](#soz) there are three UIs:
 
-Date: 20260225.1903
+- a [CLI](#cli), 
+- a [GUI](#gui), 
+- [LIVE](#live).
+
+Date: 20260302.1658
