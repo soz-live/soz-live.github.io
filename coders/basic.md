@@ -22,12 +22,11 @@ layout: default
     - [Method Naming](#method-naming)
     - [Method Dispatch](#method-dispatch)
     - [Type checking](#type-checking)
-    
+
 
 ## Introduction
 
 This page contains basic information for coders working with **SOZ**.  
-
 
 
 ## Lisp Basics
@@ -60,7 +59,7 @@ Code can easily be turned into a more readily recognisable format for Object-Ori
 
 `(SZOB-Apply object method args)`
 
-In **SOZ**, it doesn't matter which format you use for method invocation, however to remain in the spirit of Lisp, many Apply calls have been rewritten to the purely functional format:
+In **SOZ**, it doesn't matter which format you use for method invocation, however to remain in the spirit of Lisp, many Apply calls have been rewritten to the purely functional format:
 
 `(defun SZOB-length (o) (SZOB-Apply o "length" nil))`
 
@@ -176,7 +175,7 @@ An Interface enables a class A to be used where class B would be required, as it
 (SZMAInterface-make "AcDbPoint" (list "SZGEPoint" "Point"))
 ```
 
-This then enables an AcDbPoint entity to be used interchangeably with either a SZGEPoint object or a Point value.  
+This then enables an `AcDbPoint` entity to be used interchangeably with either a `SZGEPoint` object or a `Point` value.  
 
 
 Where `SZMAInterface-make` has the following signature:

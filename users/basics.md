@@ -10,8 +10,8 @@ layout: default
   - [Introduction](#introduction)
   - [Commands](#commands)
   - [Dialog Boxes](#dialog-boxes)
-    - [Atom Fields](#atom-fields)
-    - [List Fields](#list-fields)    
+    - [Atom Field](#atom-field)
+    - [List Field](#list-field)    
   - [LIVE](#live)
     - [LIVE Nodes](#live-nodes)
     - [LIVE Links](#live-links)     
@@ -29,7 +29,9 @@ layout: default
   
 ## Introduction
 
-This page contains basic concepts for users working with **SOZ-LIVE**.
+This page contains basic concepts for users working with **SOZ-LIVE**.  
+More technical information on the use of **SOZ-LIVE** is included in the [Technical Information](/users/technical.html) document.
+
 
 ## Commands
 
@@ -37,24 +39,24 @@ You can interact with the program in a number of ways.
 
 The easiest way to interact with **SOZ** is to type **Y** on the command line - a dialog box appears with a tree-view of options to select from.<br>
 
-The full list of of commands is [here](/docs/commands.html).  
+The full list of of commands are [here](/docs/commands.html).  
 
 {% include note-icon.html %}  
-> All SOZ commands are in the same format, eg M-... so as not to interfere with conventional CAD shortcuts.  
+> All SOZ commands are in the same format, eg M-\*, S-\*, E-\*, U-\*, etc, so as not to interfere with conventional CAD shortcuts.  
 > Once you know the name of a command, you can type that command instead.  
 > Y was chosen as it is the only single key not used as a standard CAD command shortcut.
 
 
 ## Dialog Boxes
 
-Each **SOZ-LIVE** Class and Function has a dialog box developed on-the-fly, depending on the arguments for the Class or Function.
+Each **SOZ-LIVE** Class and Function has a dialog box developed on-the-fly, depending upon the arguments for the Class or Function.
 
-Each argument to be specified creates another entry in the dialog box to be filled in by the user.
+Each argument creates an entry in the dialog box to be filled in by the user.
 
 {% include note-icon.html %}  
 > Only fully completed dialogs - one with valid entries for each field, will be parsed by the Make routine properly and return a valid Object.  
 
-The entry is either an **atom** field or a **list** field - depending upon the type of each of the arguments for the Class...
+The entry is either an [Atom Field](#atom-field) or a [List Field](#list-field) - depending upon the type of each of the arguments for the Class...
 
 For example, the dialog for the class [SZGELine](/classes/SZGELine.html) has two required arguments:
 
@@ -67,7 +69,7 @@ For example, the dialog for the class [SZGELine](/classes/SZGELine.html) has two
 > You can Cut and Paste values from one field to another - as long as the Type of the Value / Object / Entity is compatible.
 
 
-### Atom Fields
+### Atom Field
 
 Each atom field has a number of components to it..
 
@@ -84,14 +86,14 @@ Where the Options vary depending upon the Class being created, but include:
 - Select - Which brings up a new dialog box to select an object of the specific Class.
 - Pick - Enables the User to select an Object on the Screen
 - Edit - Edits an existing object in a new dialog box.
-- Prompt - Use the Command Line version for entering the Class.
+- Prompt - Use the Command Line version for creating the object.
 <br>
 
 {% include note-icon.html %}  
 > All options are prefixed with User_ to indicate that they are user methods - selectable by the User. 
 
 
-### List Fields
+### List Field
 
 Each list field has five components to it..
 

@@ -23,11 +23,12 @@ For coders, **SOZ-LIVE** is a platform for developing additional functionality f
 - Consistency
 - Simplicity
 - Modularity
+- Useabilty
 - Extensibility
 - Readability
 - Documentation
 
-It enables coders to use Object Oriented (OO) techniques from within a functional / scripting language, Lisp.  
+It enables coders to use Object Oriented programming (OOP) techniques from within a Functional / Scripting language, Lisp.  
 
 
 ## Lisp Introduction
@@ -57,7 +58,7 @@ Thereby enabling users to bring their collection of routines developed over the 
 ### AutoLISP Limitations
 
 Because of its roots, AutoLISP, and it's associated Dialog Control Language (DCL), suffer from limitations when compared to other dialects of Lisp such as Common Lisp and Scheme.  
-Limitations of the language include the lack of an object system, a macro system, defining functions with a variable number of arguments and the ability to create closures.
+Limitations of the language include the lack of an object system, a macro system and defining functions with a variable number of arguments.
 Despite that, developers continue to work on improving it by providing solutions to shortfalls in functionality. 
 
 
@@ -66,7 +67,7 @@ Despite that, developers continue to work on improving it by providing solutions
 While AutoDesk added an Integrated Development Environment (IDE) and support for ActiveX objects in VisualLisp since AutoCAD 2000, there seems to be little interest to improve the AutoLISP API beyond VisualLisp.  
 Bricsys, the developer of BricsCAD, has arguably led the way in this regard, with extensive support for Lisp functionality provided by the program as well as continued development of the API and the release of the BricsCAD Lisp Advanced Development Environment (BLADE) in 2018.  
 Not only does BricsCAD support both Lisp and DCL in all versions, it can be used across all platforms (Windows, Mac and Linux).  
-Recently AutoCAD improved their support for Lisp and DCL to enable its use across Windows, Mac and AutoCAD LT.  
+Recently AutoCAD improved their support for Lisp and DCL to enable its use across Windows, Mac and limited use within AutoCAD LT.  
 
 
 ### AutoLISP Future

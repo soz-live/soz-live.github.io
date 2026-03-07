@@ -35,4 +35,4 @@ Load the release Lisp file into CAD using the standard "Appload" command.
 
 ## Running
 
-Read the [Basics](/users/basics.html) document to find out how to use **SOZ-LIVE** to create objects, entities and models.
+Read the [Basics](/users/basics.html) document to familiarise yourself with how to use **SOZ-LIVE** to create objects, entities and models.

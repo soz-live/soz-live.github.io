@@ -42,7 +42,7 @@ Refer to the [Users Introduction](/users/intro.html) for details.
 Benefits of coding using the **SOZ** approach in programming include:
 
 - Reduced code duplication.
-- Ease of extending classes.
+- Ease of using and extending classes.
 - Utilising existing functionality. 
 - Automated documentation of code.
 
