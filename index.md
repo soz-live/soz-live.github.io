@@ -4,7 +4,9 @@ carousels:
   - images: 
     - image: /assets/images/image_sphere_001.png
     - image: /assets/images/image_sphere_002.png
-
+    - image: /assets/images/image_flange_001.png
+    - image: /assets/images/image_flange_002.png
+    
 ---
 
 # SOZ-LIVE
