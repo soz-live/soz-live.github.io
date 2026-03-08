@@ -9,11 +9,11 @@ layout: default
 - Introduction
   - [Features](#features)
     - [Structure](#structure)
+    - [Object Protocol](#object-protocol)
     - [GUI](#gui)
     - [LIVE](#live)
     - [Documentation](#documentation)
   - [Documents](#documents)
-
 
 
 ## Features
@@ -54,7 +54,7 @@ Useability of code is improved in **SOZ** though the other facets of the structu
 ### Object Protocol
 
 The use of a Meta Environment enables **SOZ**'s object protocol and the ability for **SOZ** to run OOP code inside of Lisp.
-The additional calls to register Classes, Categories, Methods, Functions, Interfaces etc. in the Meta Environemnt has a flow on effect as it is what enables the GUI and LIVE to function as well.
+The additional calls to register Classes, Categories, Methods, Functions, Interfaces etc. in the Meta Environemnt has a flow on effect as it enables the GUI and LIVE to function as well.
  
 
 ### GUI
