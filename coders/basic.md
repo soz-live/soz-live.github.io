@@ -7,10 +7,7 @@ layout: default
 ## Contents
 
 - Basics
-  - [Introduction](#introduction)
-  - [Lisp Basics](#lisp-basics)
-    - [Lisp Functions](#lisp-functions)
-    - [Function Renaming](#function-renaming)  
+  - [Introduction](#introduction)  
   - [Strings vs Symbols](#strings-vs-symbols)
   - [The Meta Environment](#the-meta-environment)
   - [Types](#types)  
@@ -22,51 +19,12 @@ layout: default
     - [Method Naming](#method-naming)
     - [Method Dispatch](#method-dispatch)
     - [Type checking](#type-checking)
-
+  - [Documents](#documents)
 
 ## Introduction
 
 This page contains basic information for coders working with **SOZ**.  
-
-
-## Lisp Basics
-
-Lisp, short for LISt Processing is one of the oldest programming languages.<br>
-While it is primarily considered to be a functional language, it has been extended to be whatever is required, including an Object Oriented (OO) language.
-
-
-### Lisp Functions
-
-To a programmer starting out in Lisp it takes a while to get used to the syntax and naming conventions used within the language. Where:
-
-- `length` - returns the length of a list.
-- `strlen` - returns the length of a string.
-
-Part of the problem is that the brevity of function naming is getting in the way of understanding of the functions and their actions.
-
-
-### Function Renaming
-
-Taking cues from Scheme, a Lisp dialect known for its structured approach to function naming, Lisp can be transformed to the point where code becomes easier to read and understand.
-
-- `length` becomes `list-length`
-- `strlen` becomes `string-length`
-
-If applied rigorously, as within **SOZ**, reading Lisp code can become easier to understand and also to program. 
-
-Not only that, it also leads to an understanding that Lisp code can be considered to be Object-Oriented or Type-Oriented code in disguise.  
-Code can easily be turned into a more readily recognisable format for Object-Oriented method application:
-
-`(SZOB-Apply object method args)`
-
-In **SOZ**, it doesn't matter which format you use for method invocation, however to remain in the spirit of Lisp, many Apply calls have been rewritten to the purely functional format:
-
-`(defun SZOB-length (o) (SZOB-Apply o "length" nil))`
-
-Which then enables the function to be used normally within lisp to do things such as find the sum of all lengths of lines within a list, in just one line of code:
-
-`(apply '+ (mapcar 'SZOB-length line-lst))`
-
+For background information regarding Lisp, and the function structure and renaming used within **SOZ** refer to the [Lisp Information](/coders/lisp.html) document.
 
 
 ## Strings vs Symbols
@@ -322,3 +280,8 @@ Every method specifies the Type of each argument required and **SOZ** limits use
 
 By rigidly enforcing **LSP** principles, it is possible to ensure that user input will be suitable for **SOZ** to process.
 
+
+## Documents
+
+- [Introduction](/coders/intro.html).
+- [Lisp](/coders/lisp.html).

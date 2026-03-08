@@ -2,83 +2,80 @@
 layout: default
 ---
 
-# Coders
+# Introduction
 
 ## Contents
 
-- Coders
-  - [Introduction](#introduction)
-  - [Lisp Introduction](#lisp-introduction)
-    - [Lisp Background](#lisp-background)
-    - [AutoLISP Limitations](#autolisp-limitations)
-    - [AutoLISP Development](#autolisp-development)
-    - [AutoLISP Future](#autolisp-future)
+- Introduction
+  - [Features](#features)
+    - [Structure](#structure)
+    - [GUI](#gui)
+    - [LIVE](#live)
+    - [Documentation](#documentation)
   - [Documents](#documents)
-  - [Videos](#videos)  
 
-## Introduction
 
-For coders, **SOZ-LIVE** is a platform for developing additional functionality for CAD, focussing on a structured approach to coding that ensures code:
 
-- Consistency
-- Simplicity
-- Modularity
-- Useabilty
-- Extensibility
-- Readability
-- Documentation
+## Features
+
+For coders, **SOZ-LIVE** is a platform for developing additional functionality for CAD, with the following features built in:
+
+- [Structure](#structure)
+- [Object Protocol](#object-protocol)
+- [GUI](#gui)
+- [LIVE](#live)
+- [Documentation](#documentation)
 
 It enables coders to use Object Oriented programming (OOP) techniques from within a Functional / Scripting language, Lisp.  
 
 
-## Lisp Introduction
+### Structure
 
-Lisp, short for LISt Processing, may be one of the oldest programming languages, but it is also one of the most divisive:  
+The structured approach to coding promotes:
 
-- You either like the syntax or you don't.
-- You either get it's simplicity and expressiveness or you don't.
-
-It is for some of those reasons that Lisp has been pushed to the background, with the likes of C, C++, Java, Python, Ruby and others taking the limelight. Yet, there is still a strong and thriving community of programmers who love and revere the languages that have developed from the original Lisp, including:
-
-- Common Lisp, 
-- Scheme, 
-- Racket, 
-- Clojure.
+- Consistency
+- Readability
+- Modularity
+- Useability
+- Extensibility
 
 
-### Lisp Background
+Consistency comes from the rigid function naming structure applied in **SOZ**. This has a flow on effect to the rest of the areas and features.
+By using a consistent naming structure leads to improved code readability, modularity, useability, extensibility and design simplicity.
+It also forms the basis for the Object Protocol, GUI, LIVE and documentation of the system.
 
-Since early on in the history of AutoCAD, a dialect of Lisp was included as a scripting programming language to enable users to improve productivity through the creation of scripts, routines and commands that enabled users to automate complex, repetitive and tedious tasks.
-Because of these abilities, Lisp programming became popular amongst many CAD users and a thriving community of programmers pushed the limits of what the language could do.  
-  
-As competitors to AutoCAD came into the market, they realised the potential, importance and strengths of including the Lisp application programming interface (API) with their products and providing support for users crossing over to their products. 
-Thereby enabling users to bring their collection of routines developed over the years with them and maintain their levels of productivity.
+Code Readability is important, as it is the coder that has to read and comprehend the code, for debugging and extending etc., prior to it being lodaed into the CAD system for running. **SOZ**'s use of structure and consistency in function naming assists the coder to read what has come before.
 
+Modularity enables use, re-use and extensibility of code. This is enhanced in **SOZ** through the use of Class Prefixes and a layered structure of classes and functions.
 
-### AutoLISP Limitations
-
-Because of its roots, AutoLISP, and it's associated Dialog Control Language (DCL), suffer from limitations when compared to other dialects of Lisp such as Common Lisp and Scheme.  
-Limitations of the language include the lack of an object system, a macro system and defining functions with a variable number of arguments.
-Despite that, developers continue to work on improving it by providing solutions to shortfalls in functionality. 
+Useability of code is improved in **SOZ** though the other facets of the structured approach to coding, while extensibility is enhanced through modularity, consistency and useability.
 
 
-### AutoLISP Development
+### Object Protocol
 
-While AutoDesk added an Integrated Development Environment (IDE) and support for ActiveX objects in VisualLisp since AutoCAD 2000, there seems to be little interest to improve the AutoLISP API beyond VisualLisp.  
-Bricsys, the developer of BricsCAD, has arguably led the way in this regard, with extensive support for Lisp functionality provided by the program as well as continued development of the API and the release of the BricsCAD Lisp Advanced Development Environment (BLADE) in 2018.  
-Not only does BricsCAD support both Lisp and DCL in all versions, it can be used across all platforms (Windows, Mac and Linux).  
-Recently AutoCAD improved their support for Lisp and DCL to enable its use across Windows, Mac and limited use within AutoCAD LT.  
+The use of a Meta Environment enables **SOZ**'s object protocol and the ability for **SOZ** to run OOP code inside of Lisp.
+The additional calls to register Classes, Categories, Methods, Functions, Interfaces etc. in the Meta Environemnt has a flow on effect as it is what enables the GUI and LIVE to function as well.
+ 
+
+### GUI
+
+A fully functional GUI, that is built on the fly for each Class, Arguments, Functions, Methods etc., is an integral part of **SOZ**. All running from the data within the Meta Environment, it enables complete access to the power of **SOZ** from within a Dialog box driven interface, with the ability for the user to choose a variety of methods for each action, from selecting a previously created Object, to picking one from the model, or a LIVE Node, or creating one at the command line (Prompt).
 
 
-### AutoLISP Future
+### LIVE
 
-Lisp has outlasted VBA as an API for CAD applications and even without further development of the core language from AutoCAD, the future of Lisp for CAD looks bright, as other players such as BricsCAD take up the slack and continue to promote, develop and push Lisp forward.
+As with the GUI, the built in Node-based UI, **LIVE**, also runs from the same data within the Meta Environment. Basically any function within **SOZ** can be used as a Node within **LIVE**, meaning that it does truly become a Lisp Interactive Visual Environment.
+
+
+### Documentation
+
+The generation of class, command, category, release and repo documentation is done automatically when creating a new release of the project.
+This is all from the data stored within the Meta Environment and as written into the code.
+The GitHub Pages site for the project is then updated to reflect the changes.
 
 
 ## Documents
 
+- [Lisp Information](/coders/lisp.html).
 - [Basic Information](/coders/basic.html).
-
-
-## Videos
 
