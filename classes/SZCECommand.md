@@ -1,9 +1,9 @@
 
-# Class:	AcDbCommand
+# Class:	SZCECommand
 
 ### Description:
 
-Base AcDbCommand Class
+Base SZCECommand Class
 
 
 
@@ -12,8 +12,8 @@ Base AcDbCommand Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZOBCAD](SZOBCAD.html) |
-| Subclasses: | [SZCECommand](SZCECommand.html) |
+| Superclass: | [AcDbCommand](AcDbCommand.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

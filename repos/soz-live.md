@@ -243,6 +243,7 @@ status: Beta
   - [***SZOBObject***](/classes/SZOBObject.html)
     - [***SZOBCAD***](/classes/SZOBCAD.html)
       - [***AcDbCommand***](/classes/AcDbCommand.html)
+        - [***SZCECommand***](/classes/SZCECommand.html)
       - [***AcDbError***](/classes/AcDbError.html)
       - [***AcDbObject***](/classes/AcDbObject.html)
         - [***AcDbApplication***](/classes/AcDbApplication.html)
@@ -329,7 +330,7 @@ status: Beta
                   - [SZCEPolyline-Points](/classes/SZCEPolyline-Points.html)
                 - [SZCEPolyline-Offset](/classes/SZCEPolyline-Offset.html)
                 - [SZCEPolyline-Transformed](/classes/SZCEPolyline-Transformed.html)
-            - [***AcDbSpline***](/classes/AcDbSpline.html)
+            - [AcDbSpline](/classes/AcDbSpline.html)
               - [***AcDbHelix***](/classes/AcDbHelix.html)
           - [***AcDbFace***](/classes/AcDbFace.html)
           - [***AcDbMesh***](/classes/AcDbMesh.html)
@@ -714,7 +715,7 @@ status: Beta
           - [SZGEPlanes-OnCurve-Normal](/classes/SZGEPlanes-OnCurve-Normal.html)
           - [SZGEPlanes-OnCurve-Tangent](/classes/SZGEPlanes-OnCurve-Tangent.html)
           - [SZGEPlanes-OnCurve-Tangent-Points](/classes/SZGEPlanes-OnCurve-Tangent-Points.html)
-        - [***SZGEPoints***](/classes/SZGEPoints.html)
+        - [SZGEPoints](/classes/SZGEPoints.html)
           - [***SZGEPoints-OnCurve***](/classes/SZGEPoints-OnCurve.html)
             - [SZGEPoints-OnCurve-Distance](/classes/SZGEPoints-OnCurve-Distance.html)
             - [SZGEPoints-OnCurve-DivideInto](/classes/SZGEPoints-OnCurve-DivideInto.html)
@@ -878,6 +879,6 @@ status: Beta
           - [SZCOScript-Features-ProfileCut](/classes/SZCOScript-Features-ProfileCut.html)
       - [***SZCOScript-ModelGroups***](/classes/SZCOScript-ModelGroups.html)
 
-Version:  1.27.8
+Version:  1.27.9
 <br>
-Date: 20260303.2112
+Date: 20260310.1603

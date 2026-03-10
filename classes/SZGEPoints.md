@@ -16,8 +16,18 @@ SZGEPoints Class
 | Subclasses: | [SZGEPoints-OnCurve](SZGEPoints-OnCurve.html) |
 | Interfaces: | [List:Point](List:Point.html) |
 | Interfaced: | [SZGE3dCurve](SZGE3dCurve.html), [AcDb3dPolyline](AcDb3dPolyline.html), [SZLPMacro-Points](SZLPMacro-Points.html) |
-| Abstract?: | Yes |
+| Abstract?: | No |
 | isValue?: | Yes |
+
+### SZGEPoints-Make
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| POINTS | [List:SZGEPoint](SZGEPoint.html) |  |
+| FLIPPED | [Boolean](Boolean.html) |  |
+| | | |
+| Returns: | [SZGEPoints](SZGEPoints.html) | |
+| Help: | | Make a SZGEPoints |
 
 
 ## Functions:
