@@ -6,6 +6,8 @@ carousels:
     - image: /assets/images/image_sphere_002.png
     - image: /assets/images/image_flange_001.png
     - image: /assets/images/image_flange_002.png
+    - image: /assets/images/image_spline_001.png
+    - image: /assets/images/image_spline_002.png
     
 ---
 
