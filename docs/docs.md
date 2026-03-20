@@ -25,9 +25,9 @@ Refer to the [Security](/security.html) page for details.
 
 This documentation is focussed on Users of the project:  
 
-- [Users Introduction](/users/intro.html). 
+- [Introduction](/users/intro.html). 
 - [Quickstart Guide](/users/quickstart.html).
-- [Users Basic Information](/users/basics.html).
+- [Basic Information](/users/basics.html).
 - [Technical Information](/users/technical.html).
 
 
@@ -35,9 +35,9 @@ This documentation is focussed on Users of the project:
 
 This documentation is focussed on Coders of the project:  
 
-- [Coders Introduction](/coders/intro.html). 
-- [Coders Basic Information](/coders/basic.html).
-
+- [Introduction](/coders/intro.html). 
+- [Lisp Information](/coders/lisp.html).
+- [Basic Information](/coders/basic.html).
 
 
 ## References
