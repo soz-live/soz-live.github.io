@@ -4,9 +4,9 @@ accordion:
   - title: "Why Y as the shortcut for SOZ?"
     content: "The 'Y' key is the only key not used in CAD as a standard keyboard shortcut."
   - title: "What is an Object?"
-    content: "An Object is a self contained thing.\n
-      It is an instance of a Class created at run-time and is passed and referenced as an ID.\n
-      Everything created in **SOZ** is an Object of a particular Class.\n
+    content: "An Object is a self contained thing.  
+      It is an instance of a Class created at run-time and is passed and referenced as an ID.  
+      Everything created in **SOZ** is an Object of a particular Class.  
       This ranges from Values through to Entities such as Lines and Circles, to Parts and Assemblies."
     
     
