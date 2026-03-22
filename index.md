@@ -79,7 +79,8 @@ The current status of the project is **Private Beta**.
 
 ## AI
 
-No AI has been used to generate code for this project - Lets keep it that way.  
+No AI has been used to generate code for this project.  
+Lets keep it that way.  
 
 
 ## Platforms

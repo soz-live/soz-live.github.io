@@ -2,6 +2,8 @@
   link: /
 - name: Docs
   link: /docs/docs.html
+- name: FAQs
+  link: /docs/faqs.html
 - name: Blog
   link: /blog.html
 - name: About

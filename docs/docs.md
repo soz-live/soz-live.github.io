@@ -44,6 +44,7 @@ This documentation is focussed on Coders of the project:
 
 These documents provide additional information about the project:
 
+- [FAQs](/docs/faqs.html) - a list of frequently asked questions about the project.
 - [Glossary](/docs/glossary.html) - a list of terms used within the project.
 - [Prefixes](/docs/prefixes.html) - a list of Class prefixes used within the project.
 - [Categories](/docs/categories.html) - a hierarchial list of Categories used within the project.

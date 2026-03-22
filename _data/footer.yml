@@ -27,6 +27,8 @@ columns:
         link: /docs/releases.html
   - title: Information
     subitems:
+      - name: FAQs
+        link: /docs/faqs.html    
       - name: Blog
         link: /blog.html
       - name: About

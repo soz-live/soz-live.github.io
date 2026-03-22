@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Security
 
 The safety and security of the code is paramount to develop trust between the developers and the Users and Coders.
