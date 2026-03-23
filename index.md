@@ -15,7 +15,7 @@ carousels:
 
 A CAD extension, written in Lisp.  
 
-**SOZ-LIVE** is a collection of over 3400 Lisp routines, and around 30,000 lines of code, that combine to create a systematic approach to using and coding within CAD packages such as BricsCAD and AutoCAD.
+**SOZ-LIVE** is a collection of over 3400 Lisp routines, and around 30,000 lines of code, that combine to create a systematic approach to using and coding within CAD packages such as BricsCAD&reg; and AutoCAD&reg;.
 
 - [**SOZ**](#soz) - Scripted ObjectZ
 - [**LIVE**](#live) - Lisp Interactive Visual Environment 
@@ -85,10 +85,10 @@ Lets keep it that way.
 
 ## Platforms
 
-**SOZ-LIVE** is written to be run from within both BricsCAD and AutoCAD.
+**SOZ-LIVE** is written to be run from within both BricsCAD&reg; and AutoCAD&reg;.
 
 
 {% include note-icon.html %}  
-> 3D Modelling functionality requires BricsCAD Pro or above, or full AutoCAD.   
-> TIN Surfaces and Civil functionality require BricsCAD Pro or above.  
-> SOZ-LIVE is not affiliated with BricsCAD or AutoCAD.
+> 3D Modelling functionality requires BricsCAD&reg; Pro or above, or full AutoCAD&reg;.   
+> TIN Surfaces and Civil functionality require BricsCAD&reg; Pro or above.  
+> SOZ-LIVE is not affiliated with BricsCAD&reg; or AutoCAD&reg;.
