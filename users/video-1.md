@@ -3,16 +3,6 @@ layout: default
 youtubeId_1: -3fIljgH8Os
 youtubeId_2: ZgXpgT1C07c
 youtubeId_3: Bewosa4CFw4
-accordion: 
-  - title: "Making a Part and adding Features"
-    content: "Making a Part and adding the basic form of the Part"
-    youtubeId: -3fIljgH8Os
-  - title: "Adding Subtraction Features to the Part"
-    content: "
-      - Adding Subtraction Features to the Part<br>
-      - Editing the Part<br>
-      - Updating the Model<br>"
-    youtubeId: ZgXpgT1C07c      
       
 ---
 
@@ -50,8 +40,3 @@ The model is then created as a **LIVE** model - to enable editing and updating o
 - Updating the Model.
 
 {% include youtube.html ytid=page.youtubeId_3 %}
-
-
-## Test
-
-{% include accordion-clip.html %}
