@@ -14,18 +14,16 @@ ul.jekyllcodex_accordion li input:checked + label::before {transform: rotate(-45
         <li>
         <input id="accordion{{ forloop.index }}" type="checkbox" />
         <label for="accordion{{ forloop.index }}">{{ item.title }}</label>
-        <div>
         <div>{{ item.content | markdownify }}</div>
-          <div class="embed-container">
-            <iframe
-                src="https://www.youtube.com/embed/{{ item.youtubeId }}"
-                width="700"
-                height="480"
-                frameborder="0"
-                allowfullscreen="true">
-            </iframe>
-          </div>        
-        </div>
+        <div class="embed-container">
+          <iframe
+              src="https://www.youtube.com/embed/{{ item.youtubeId }}"
+              width="700"
+              height="480"
+              frameborder="0"
+              allowfullscreen="true">
+          </iframe>
+        </div>        
         </li>
     {% endfor %}
 </ul>
