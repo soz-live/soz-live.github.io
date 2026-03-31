@@ -8,7 +8,10 @@ accordion:
     content: "Making a Part and adding the basic form of the Part"
     youtubeId: -3fIljgH8Os
   - title: "Stage 2"
-    content: "Adding Subtraction Features to the Part<br>"
+    content: "<br>
+      - Adding Subtraction Features to the Part<br>
+      - Editing the Part<br>
+      - Updating the Model<br>"
     youtubeId: ZgXpgT1C07c      
       
 ---
