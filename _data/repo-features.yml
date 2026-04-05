@@ -387,13 +387,9 @@ soz-animate:
         - name: Effects
         - name: Sequences         
         
-soz-devs:
-  note: Module for developers of SOZ.
+soz-coders:
+  note: Module for coders of SOZ.
   areas:
-    - area: Documentation
-      note: Documentation routines
-      features:      
-        - name: GitHub Pages documents     
     - area: Visualisation
       note: visualisation routines
       features:      
@@ -401,10 +397,18 @@ soz-devs:
         - name: Function
         - name: Code         
         - name: Runtime Environment    
+        
+soz-devs:
+  note: Module for owners of SOZ only.
+  areas:
+    - area: Documentation
+      note: Documentation routines
+      features:      
+        - name: GitHub Pages documents     
     - area: Scripting
       note: Scripting of functions using different languages
       features:      
         - name: Powershell
         - name: Git
         - name: Batch         
-        - name: Bash        
+        - name: Bash                
