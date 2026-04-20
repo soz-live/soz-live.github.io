@@ -87,7 +87,7 @@ The expansion of the community will also enable further growth and development o
 
 ### Tim Marchbank - Project Lead
 
-Tim developed an interest in programming Lisp and CAD customisation during university days.  
+Tim developed an interest in programming Lisp and CAD customisation during university, studying Engineering.  
 This interest was developed further during his career and led to previous iterations of what would become **SOZ-LIVE**.  
 He has been developing the project since 2013 after wanting entities in CAD that weren't available in base products, and soon after realised the potential depth and breadth of the project for the wider community. The desire to see others benefit from the work provides the drive to continue to develop the project.  
 
