@@ -23,7 +23,7 @@ SZCOProfile-RHS-Filleted Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| SECTION | [SZCOSection-FilletedRHS](SZCOSection-FilletedRHS.html) |  |
+| SECTION | [SZCOSection-RHS-Filleted](SZCOSection-RHS-Filleted.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | | | |
 | Returns: | [SZCOProfile-RHS-Filleted](SZCOProfile-RHS-Filleted.html) | |

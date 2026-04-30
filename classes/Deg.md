@@ -33,7 +33,7 @@ Deg Class
 
 | Types | Functions |
 | --------- | --------- |
-| Class: | [Deg->Rad](#Deg->Rad) <br> [Deg-cos](#Deg-cos) <br> [Deg-sin](#Deg-sin) <br> [Deg-tan](#Deg-tan) |
+| Class: | [Deg->Rad](#Deg->Rad) <br> [Deg-COS](#Deg-COS) <br> [Deg-SIN](#Deg-SIN) <br> [Deg-TAN](#Deg-TAN) |
 | Super: | [Angle-Make](Angle.html) <br> [Real-Make](Real.html) <br> [Real->Integer](Real.html) <br> [Real->String](Real.html) <br> [Number-Make](Number.html) <br> [Number-Factorial](Number.html) <br> [Number-ExptSum](Number.html) <br> [Atom-Make](Atom.html) <br> [T-Make](T.html) <br> [Logical-AND](Logical.html) <br> [Logical-OR](Logical.html) <br> [Logical-NOT](Logical.html) <br> [Logical-XOR](Logical.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
@@ -46,7 +46,7 @@ Deg Class
 | Returns: | [Rad](Rad.html) | |
 | Help: | | Convert Deg to Rad |
 
-### Deg-cos
+### Deg-COS
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
@@ -55,7 +55,7 @@ Deg Class
 | Returns: | [Real](Real.html) | |
 | Help: | | cos of deg |
 
-### Deg-sin
+### Deg-SIN
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
@@ -64,7 +64,7 @@ Deg Class
 | Returns: | [Real](Real.html) | |
 | Help: | | Sin of deg |
 
-### Deg-tan
+### Deg-TAN
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |

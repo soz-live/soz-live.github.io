@@ -25,7 +25,7 @@ ClassSelect Alist Tree View
 | --------- | --------- | --------- |
 | KEY | [Key](Key.html) |  |
 | ALIST | [Alist](Alist.html) |  |
-| MS | [Boolean](Boolean.html) |  |
+| MULTI | [Boolean](Boolean.html) |  |
 | W | [Integer](Integer.html) |  |
 | H | [Integer](Integer.html) |  |
 | TABS | [String](String.html) |  |

@@ -11,7 +11,7 @@ Class Map
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-devs](/repos/soz-devs.html) |
+| Repo: | [soz-coders](/repos/soz-coders.html) |
 | Superclass: | [SZDOMap](SZDOMap.html) |
 | Subclasses: |  |
 | Interfaces: |  |

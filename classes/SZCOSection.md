@@ -13,7 +13,7 @@
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOObject](SZCOObject.html) |
-| Subclasses: | [SZCOSection-Circle](SZCOSection-Circle.html) <br> [SZCOSection-FilletedRHS](SZCOSection-FilletedRHS.html) <br> [SZCOSection-RHS](SZCOSection-RHS.html) <br> [SZCOSection-Pipe](SZCOSection-Pipe.html) |
+| Subclasses: | [SZCOSection-Circle](SZCOSection-Circle.html) <br> [SZCOSection-RHS-Filleted](SZCOSection-RHS-Filleted.html) <br> [SZCOSection-RHS](SZCOSection-RHS.html) <br> [SZCOSection-Pipe](SZCOSection-Pipe.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

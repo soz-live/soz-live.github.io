@@ -89,12 +89,12 @@ M-History,Make a History
 M-Misc,Make a Misc
 M-Fractal,Make a Fractal
 M-Random,Make a Random
+M-DevOps,Make a DevOps
 M-Animate,Make a Animate
 M-Scene,Make a Scene
 M-Change,Make a Change
 M-Effect,Make a Effect
 M-Sequence,Make a Sequence
-M-DevOps,Make a DevOps
 Live,
 L-Auto,Auto Layout Nodes
 L-Links,Auto Layout Links
@@ -130,6 +130,23 @@ Visual,
 V-SetEntities,Set Visual Settings of Entities
 V-MatchEntity,Set Visual Settings of Entities to Match Entity
 V-ResetEntities,Reset Visual Settings of Entities
+Development,
+Dev-View,
+D-View-RunTime,View the RunTime
+D-View-Class,View the Class of an Entity
+D-View-Entity,View an Entity
+D-View-Entities,View Entities
+D-View-Part,View a Part
+Dev-Map,
+D-Map-Class,Create a Class Map
+D-Map-ClassFunc,Map Classes to Functions
+D-Map-ClassFuncLine,Map Classes to Functions to Lines of Code
+D-Map-Function,Map Functions
+Dev-Source,
+D-Source-Reload,Reload Source Code
+Dev-GitHub,
+D-GitHub-ReleaseCode,Create a Release
+D-GitHub-ReleaseVersion,Create a Version
 Export,
 X-SOZ,Export SOZ Data
 X-Array,Export CSV Array
@@ -145,17 +162,3 @@ H-Select,Recall Selected Record
 H-Delete,Delete a Record
 Animate,
 A-Control,Control Animations
-Development,
-Dev-Source,
-D-Source-Reload,Reload Source Code
-Dev-View,
-D-View-RunTime,View the RunTime
-D-View-Class,View the Class of an Entity
-D-View-Entity,View an Entity
-D-View-Entities,View Entities
-D-View-Part,View a Part
-Dev-Map,
-D-Map-Class,Create a Class Map
-D-Map-ClassFunc,Map Classes to Functions
-D-Map-ClassFuncLine,Map Classes to Functions to Lines of Code
-D-Map-Function,Map Functions

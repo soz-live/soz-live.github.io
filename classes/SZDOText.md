@@ -11,7 +11,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-devs](/repos/soz-devs.html) |
+| Repo: | [soz-coders](/repos/soz-coders.html) |
 | Superclass: | [AcDbText](AcDbText.html) |
 | Subclasses: | [SZDOText-LineOfCode](SZDOText-LineOfCode.html) <br> [SZDOText-FunctionName](SZDOText-FunctionName.html) <br> [SZDOText-ClassName](SZDOText-ClassName.html) |
 | Interfaces: |  |

@@ -23,7 +23,7 @@ Loop Bulges Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| VALUE | [List:Rad](Rad.html) |  |
+| VALUE | [List:Deg](Deg.html) |  |
 | | | |
 | Returns: | [Bulges](Bulges.html) | |
 | Help: | | Creates a list of Bulges |

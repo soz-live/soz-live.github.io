@@ -1,5 +1,5 @@
 
-# Class:	DCLS-Dialog-List-ObjectKeySelect
+# Class:	DCLS-Dialog-List-SelectObjectMethod
 
 ### Description:
 
@@ -19,7 +19,7 @@ SOZDCLDialog Strings
 | Abstract?: | No |
 | isValue?: | Yes |
 
-### DCLS-Dialog-List-ObjectKeySelect-Make
+### DCLS-Dialog-List-SelectObjectMethod-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
@@ -28,8 +28,8 @@ SOZDCLDialog Strings
 | VALUE | [String](String.html) |  |
 | MULTI | [Boolean](Boolean.html) |  |
 | | | |
-| Returns: | [DCLS-Dialog-List-ObjectKeySelect](DCLS-Dialog-List-ObjectKeySelect.html) | |
-| Help: | | DCLS-Dialog-List-ObjectKeySelect |
+| Returns: | [DCLS-Dialog-List-SelectObjectMethod](DCLS-Dialog-List-SelectObjectMethod.html) | |
+| Help: | | DCLS-Dialog-List-SelectObjectMethod |
 
 
 ## Functions:

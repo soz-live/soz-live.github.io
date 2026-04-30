@@ -50,7 +50,7 @@ Text File
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| fn | [File-TXT](File-TXT.html) |  |
+| FILE | [File-TXT](File-TXT.html) |  |
 | | | |
 | Returns: | [File-TXT](File-TXT.html) | |
 | Help: | | Closing of a Text File |
@@ -59,7 +59,7 @@ Text File
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| fn | [String](String.html) |  |
+| FILE | [String](String.html) |  |
 | access | [String](String.html) |  |
 | | | |
 | Returns: | [File-TXT](File-TXT.html) | |
@@ -78,7 +78,7 @@ Text File
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| fn | [File-TXT](File-TXT.html) |  |
+| FILE | [File-TXT](File-TXT.html) |  |
 | | | |
 | Returns: | [String](String.html) | |
 | Help: | | Reading a line of a Text File |

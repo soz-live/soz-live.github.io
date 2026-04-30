@@ -25,7 +25,7 @@ DCL SOZIDs Edit
 | --------- | --------- | --------- |
 | KEY | [Key](Key.html) |  |
 | IDS | [List:SOZID](SOZID.html) |  |
-| MS | [Boolean](Boolean.html) |  |
+| MULTI | [Boolean](Boolean.html) |  |
 | W | [Integer](Integer.html) |  |
 | H | [Integer](Integer.html) |  |
 | | | |

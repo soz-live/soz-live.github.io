@@ -18,6 +18,15 @@ status: Beta
 
 
 - [***SZOBBase***](/classes/SZOBBase.html)
+  - [***Lisp***](/classes/Lisp.html)
+    - [***Logical***](/classes/Logical.html)
+      - [***T***](/classes/T.html)
+        - [***List***](/classes/List.html)
+          - [***Array***](/classes/Array.html)
+            - [***Strings***](/classes/Strings.html)
+              - [LinesOfCode](/classes/LinesOfCode.html)
+                - [LinesOfCode-Release](/classes/LinesOfCode-Release.html)
+                - [LinesOfCode-Repo](/classes/LinesOfCode-Repo.html)
   - [***SZOBObject***](/classes/SZOBObject.html)
     - [***SZDOObject***](/classes/SZDOObject.html)
       - [***SZDODoc***](/classes/SZDODoc.html)
@@ -27,33 +36,7 @@ status: Beta
         - [SZDODoc-Document](/classes/SZDODoc-Document.html)
         - [***SZDODocs***](/classes/SZDODocs.html)
           - [***SZDODocs-CSV***](/classes/SZDODocs-CSV.html)
-      - [***SZDOMap***](/classes/SZDOMap.html)
-        - [SZDOMap-Class](/classes/SZDOMap-Class.html)
-        - [SZDOMap-ClassFunc](/classes/SZDOMap-ClassFunc.html)
-        - [SZDOMap-ClassFuncLine](/classes/SZDOMap-ClassFuncLine.html)
-      - [SZDOObject-IDE](/classes/SZDOObject-IDE.html)
-    - [***SZOBCAD***](/classes/SZOBCAD.html)
-      - [***AcDbObject***](/classes/AcDbObject.html)
-        - [***AcDbEntity***](/classes/AcDbEntity.html)
-          - [***AcDbAbstractText***](/classes/AcDbAbstractText.html)
-            - [AcDbText](/classes/AcDbText.html)
-              - [***SZDOText***](/classes/SZDOText.html)
-                - [SZDOText-ClassName](/classes/SZDOText-ClassName.html)
-                - [SZDOText-FunctionName](/classes/SZDOText-FunctionName.html)
-                - [***SZDOText-LineOfCode***](/classes/SZDOText-LineOfCode.html)
-          - [AcDbBlockReference](/classes/AcDbBlockReference.html)
-            - [***SZDONode***](/classes/SZDONode.html)
-              - [SZDONode-Function](/classes/SZDONode-Function.html)
-          - [***AcDbCurve***](/classes/AcDbCurve.html)
-            - [AcDb3dPolyline](/classes/AcDb3dPolyline.html)
-              - [SZDOLink](/classes/SZDOLink.html)
-          - [AcDbPoint](/classes/AcDbPoint.html)
-            - [SZDOPoint](/classes/SZDOPoint.html)
-        - [***AcDbTableRecord***](/classes/AcDbTableRecord.html)
-          - [***AcDbBlock***](/classes/AcDbBlock.html)
-            - [***SZDODef***](/classes/SZDODef.html)
-              - [***SZDODef-Function***](/classes/SZDODef-Function.html)
 
-Version:  1.27.9
+Version:  1.28.0
 <br>
-Date: 20260310.1603
+Date: 20260430.1949

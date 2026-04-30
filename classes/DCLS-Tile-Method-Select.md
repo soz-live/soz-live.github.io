@@ -1,9 +1,9 @@
 
-# Class:	DCLS-Tile-Alist-Select
+# Class:	DCLS-Tile-Method-Select
 
 ### Description:
 
-DCL User Array
+Method Array
 
 
 
@@ -12,25 +12,20 @@ DCL User Array
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [DCLS-Tile-Array-Select](DCLS-Tile-Array-Select.html) |
-| Subclasses: | [DCLS-Tile-SOZIDs-Edit](DCLS-Tile-SOZIDs-Edit.html) |
+| Superclass: | [DCLS-Tile-ObjectKey-Select](DCLS-Tile-ObjectKey-Select.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
 
-### DCLS-Tile-Alist-Select-Make
+### DCLS-Tile-Method-Select-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| KEY | [Key](Key.html) |  |
-| ALIST | [Alist](Alist.html) |  |
-| MULTI | [Boolean](Boolean.html) |  |
-| W | [Integer](Integer.html) |  |
-| H | [Integer](Integer.html) |  |
 | | | |
-| Returns: | [DCLS-Tile-Alist-Select](DCLS-Tile-Alist-Select.html) | |
-| Help: | | Basic DCLS-Tile-User |
+| Returns: |  | |
+| Help: | |  |
 
 
 ## Functions:

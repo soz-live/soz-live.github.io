@@ -1,5 +1,5 @@
 
-# Class:	DCLS-Tile-EditBox-ListFilter
+# Class:	DCLS-Tile-EditBox-SelectItem-ListFilter
 
 ### Description:
 
@@ -19,7 +19,7 @@ DCL Filter
 | Abstract?: | No |
 | isValue?: | Yes |
 
-### DCLS-Tile-EditBox-ListFilter-Make
+### DCLS-Tile-EditBox-SelectItem-ListFilter-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
@@ -28,7 +28,7 @@ DCL Filter
 | LABEL | [String](String.html) |  |
 | ATTS | [List:DCLS-Attribute](DCLS-Attribute.html) |  |
 | | | |
-| Returns: | [DCLS-Tile-EditBox-ListFilter](DCLS-Tile-EditBox-ListFilter.html) | |
+| Returns: | [DCLS-Tile-EditBox-SelectItem-ListFilter](DCLS-Tile-EditBox-SelectItem-ListFilter.html) | |
 | Help: | | Basic DCLS-Filter Constructor |
 
 

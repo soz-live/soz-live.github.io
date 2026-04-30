@@ -1,9 +1,9 @@
 
-# Class:	DCLS-Tile-EditBox
+# Class:	DCLS-Dialog-List-SelectObjectKey
 
 ### Description:
 
-DCL EditBox
+SOZDCLDialog Strings
 
 
 
@@ -12,24 +12,24 @@ DCL EditBox
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [DCLS-Tile](DCLS-Tile.html) |
-| Subclasses: | [DCLS-Tile-EditBox-TreeFilter](DCLS-Tile-EditBox-TreeFilter.html) <br> [DCLS-Tile-EditBox-SelectItem-ListFilter](DCLS-Tile-EditBox-SelectItem-ListFilter.html) |
+| Superclass: | [DCLS-Dialog-ListBox](DCLS-Dialog-ListBox.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
 
-### DCLS-Tile-EditBox-Make
+### DCLS-Dialog-List-SelectObjectKey-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| KEY | [Key](Key.html) |  |
+| TITLE | [Key](Key.html) |  |
+| VALUES | [List:String](String.html) |  |
 | VALUE | [String](String.html) |  |
-| LABEL | [String](String.html) |  |
-| ATTS | [List:DCLS-Attribute](DCLS-Attribute.html) |  |
+| MULTI | [Boolean](Boolean.html) |  |
 | | | |
-| Returns: | [DCLS-Tile-EditBox](DCLS-Tile-EditBox.html) | |
-| Help: | | Basic DCLS-EditBox Constructor |
+| Returns: | [DCLS-Dialog-List-SelectObjectKey](DCLS-Dialog-List-SelectObjectKey.html) | |
+| Help: | | DCLS-Dialog-List-SelectObjectKey |
 
 
 ## Functions:

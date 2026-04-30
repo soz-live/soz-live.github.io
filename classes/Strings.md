@@ -13,7 +13,7 @@ Strings Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Array](Array.html) |
-| Subclasses: | [Keys](Keys.html) |
+| Subclasses: | [LinesOfCode](LinesOfCode.html) <br> [Keys](Keys.html) |
 | Interfaces: | [List:String](List:String.html) |
 | Interfaced: | [Documentation](Documentation.html) |
 | Abstract?: | Yes |

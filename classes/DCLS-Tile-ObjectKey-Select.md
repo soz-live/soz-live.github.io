@@ -13,7 +13,7 @@ ObjectKey Array
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [DCLS-Tile-Array-Select](DCLS-Tile-Array-Select.html) |
-| Subclasses: |  |
+| Subclasses: | [DCLS-Tile-Method-Select](DCLS-Tile-Method-Select.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

@@ -11,9 +11,9 @@ DevOps
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: |  |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZOBObject](SZOBObject.html) |
-| Subclasses: | [SZDOMap](SZDOMap.html) <br> [SZDOObject-IDE](SZDOObject-IDE.html) <br> [SZDODoc](SZDODoc.html) |
+| Subclasses: | [SZDODoc](SZDODoc.html) <br> [SZDOMap](SZDOMap.html) <br> [SZDOObject-IDE](SZDOObject-IDE.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

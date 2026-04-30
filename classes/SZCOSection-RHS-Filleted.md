@@ -1,9 +1,9 @@
 
-# Class:	SZCOSection-FilletedRHS
+# Class:	SZCOSection-RHS-Filleted
 
 ### Description:
 
-SZCOSection-FilletedRHS Class
+SZCOSection-RHS-Filleted Class
 
 
 
@@ -19,7 +19,7 @@ SZCOSection-FilletedRHS Class
 | Abstract?: | No |
 | isValue?: | No |
 
-### SZCOSection-FilletedRHS-Make
+### SZCOSection-RHS-Filleted-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
@@ -28,8 +28,8 @@ SZCOSection-FilletedRHS Class
 | THICK | [Real](Real.html) |  |
 | OUTRAD | [Real](Real.html) |  |
 | | | |
-| Returns: | [SZCOSection-FilletedRHS](SZCOSection-FilletedRHS.html) | |
-| Help: | | Make a SZCOSection-FilletedRHS |
+| Returns: | [SZCOSection-RHS-Filleted](SZCOSection-RHS-Filleted.html) | |
+| Help: | | Make a SZCOSection-RHS-Filleted |
 
 
 ## Functions:

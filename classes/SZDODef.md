@@ -11,7 +11,7 @@ DevOps Definition
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-devs](/repos/soz-devs.html) |
+| Repo: | [soz-coders](/repos/soz-coders.html) |
 | Superclass: | [AcDbBlock](AcDbBlock.html) |
 | Subclasses: | [SZDODef-Function](SZDODef-Function.html) |
 | Interfaces: |  |

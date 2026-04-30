@@ -11,7 +11,7 @@ IDE for DevOps
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-devs](/repos/soz-devs.html) |
+| Repo: | [soz-coders](/repos/soz-coders.html) |
 | Superclass: | [SZDOObject](SZDOObject.html) |
 | Subclasses: |  |
 | Interfaces: |  |

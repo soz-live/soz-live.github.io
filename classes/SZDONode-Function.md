@@ -11,7 +11,7 @@
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-devs](/repos/soz-devs.html) |
+| Repo: | [soz-coders](/repos/soz-coders.html) |
 | Superclass: | [SZDONode](SZDONode.html) |
 | Subclasses: |  |
 | Interfaces: |  |
