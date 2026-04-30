@@ -21,7 +21,7 @@ The aims of the project are five-fold:
 ### Parametric 3D.
 
 Currently, the code required for the drafting and modelling of entities and associated parametric objects requires 14000 loc.
-Then there is an extra 5000 loc within the additional modules / repos to achieve additioanl functionality.
+Then there is an extra 5000 loc within the modules / repos to achieve additional functionality.
 While being by far the largest portion of the project - this is the main reason why the project exists in the first place.
 
 
