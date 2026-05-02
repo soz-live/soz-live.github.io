@@ -19,7 +19,7 @@ layout: default
   - [Drawing Process](#drawing-process)
     - [Specify](#specify)
     - [Draft](#draft)
-    - [Model](#Model)
+    - [Model](#model)
       - [Part](#part)
       - [Features](#features)
       - [Assembly](#assembly)    
@@ -76,8 +76,7 @@ Each atom field has a number of components to it..
 1. the Border - that contains the name of the class that is required to be specified. eg. SZGEPoint
 2. the Key - the name of the argument being specified. eg: POINT0
 3. the EditBox - where the value of the argument is entered / displayed
-4. the `...` Button - to specify a different class than the one listed in the border. (optional)
-5. the Options DropDown - a list of options available to specify the value for the argument.
+4. the Options DropDown - a list of options available to specify the value for the argument.
 
 <br>
 Where the Options vary depending upon the Class being created, but include:
@@ -183,10 +182,10 @@ Each Point will update when the corresponding Node is moved or edited.
 
 The basic **SOZ-LIVE** process for drawing develoment follows four phases:
 
-- [Specify](#specify)
-- [Draft](#draft)
-- [Model](#Model)
-- [Present](#present)
+1. [Specify](#specify)
+2. [Draft](#draft)
+3. [Model](#model)
+4. [Present](#present)
 
 During each phase the basic approach to using **SOZ** is followed:
 
@@ -194,8 +193,8 @@ During each phase the basic approach to using **SOZ** is followed:
   - using the **Y** command or **M-\*** commands listed [here](/docs/commands.html).
 - **Edit** objects & entities 
   - using the **E-\*** commands.
-- **Update** the model 
-  - this is done from within the **Edit** commands.
+  - which then Updates the model.
+
 
 
 {% include note-icon.html %}  
@@ -218,7 +217,6 @@ These include:
   - Profiles
   - Curves
   - Points
-  - etc.
 
 
 ### Draft
@@ -233,8 +231,7 @@ The Entities that form the basis for the Models are created in this phase:
   - Circles
   - etc
 - Grids
-- Solids
-- etc.  
+
 
 ### Model
 
@@ -246,10 +243,10 @@ Modelling Entities are created in the phase, using previously defined Entities a
 
 #### Part
 
-Parts are made from Features.  
+Parts are 3dSolid Entities, made from Features.  
 In the drawing they exist as a BlockReference for a given Block (the Definition).
 When editing the Part, the changes are make to the Definition and then the model is updated to reflect the changes.  
-There are also a number of pre-defined Part classes that can be created:
+As well as a generic Part class, there are also a number of pre-defined Part classes that can be created:
 
 - Extrusion
   - Extrusion using a Circle
@@ -271,9 +268,11 @@ There are a variety of types of Features that can be created. Including:
   - Corners
     - Chamfers
     - Fillets
-- Slicing to Planes
+- Slicing of Solids
 - Profile Cuts
 - Boolean Toolbodies
+- Patterned Boolean Solids
+
 
 #### Assembly
 
@@ -282,5 +281,5 @@ Assemblies are made of Parts.
 
 ### Present
 
-Currently the presentation of the model using **SOZ-LIVE** is in development.
+Currently the presentation phase using **SOZ-LIVE** is in development.
 
