@@ -4,6 +4,16 @@ layout: default
 
 # Community
 
+## Contents
+
+- Community
+  - [Introduction](#introduction)
+  - [Aims and Objectives](#aims-and-objectives)
+  - [Joining](#joining)
+    - [GitHub](#github)
+    - [Discord](#discord)
+    - [YouTube](#youtube)
+
 ## Introduction
 
 The **SOZ-LIVE** community currently uses the following apps:
@@ -12,7 +22,7 @@ The **SOZ-LIVE** community currently uses the following apps:
 - **Discord** as the primary resource for community discussions.
 - **YouTube** for images and videos.
 
-## Aims & Objectives
+## Aims and Objectives
 
 The objectives of the **SOZ-LIVE** community are to:
 
@@ -43,7 +53,7 @@ You will need to set-up a GitHub account.
 
 ### Discord
 
-You can join the **soz-live** Discord Server by using this [link](https://discord.gg/UwKKv3C3Mk).  
+You can join the **SOZ-LIVE** Discord Server by using this [link](https://discord.gg/UwKKv3C3Mk).  
 You will need to set-up a Discord account.
 
 ### YouTube

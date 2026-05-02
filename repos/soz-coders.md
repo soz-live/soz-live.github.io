@@ -13,7 +13,6 @@ status: Beta
 {% include repo-features.html id=site.data.repo-features.soz-coders %}
 
 
-
 ## Class Hierarchy
 
 > Class Names in ***Bold Italics*** are Abstract classes

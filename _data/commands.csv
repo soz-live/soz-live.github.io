@@ -140,8 +140,7 @@ D-View-Part,View a Part
 Dev-Map,
 D-Map-Class,Create a Class Map
 D-Map-ClassFunc,Map Classes to Functions
-D-Map-ClassFuncLine,Map Classes to Functions to Lines of Code
-D-Map-Function,Map Functions
+D-Map-Function,Map Functions using Nodes and Links
 Dev-Source,
 D-Source-Reload,Reload Source Code
 Dev-GitHub,

@@ -15,7 +15,7 @@ carousels:
 
 A CAD extension, written in Lisp.  
 
-**SOZ-LIVE** is a collection of over 3400 Lisp routines, and around 30,000 lines of code, that combine to create a systematic approach to using and coding within CAD packages such as BricsCAD&reg; and AutoCAD&reg;.
+**SOZ-LIVE** is a collection of over 3400 Lisp routines, and around 30,000 lines of code, that combine to create a systematic approach to using and coding within CAD packages such as BricsCAD&reg; and AutoCAD&reg;. [Disclaimer](#platforms)
 
 - [**SOZ**](#soz) - Scripted ObjectZ
 - [**LIVE**](#live) - Lisp Interactive Visual Environment 
@@ -24,24 +24,25 @@ A CAD extension, written in Lisp.
 
 ## SOZ
 
+**SOZ** is Lisp programming with a twist, and a means to combine:
+
+- Functional Programming 
+- Object Oriented Programming
+- and Scripting.
+
+
 ### For Users
 
 **SOZ** combines:
 
 - parametric creation and editing of drafting entities, 
-- a parametric 3D Solid modeller, 
-- a consistent Graphical User Interface (GUI).
+- with parametric 3D Solid modeller, 
+- and a consistent Graphical User Interface (GUI).
 
 Refer to the [Users Introduction](/users/intro.html) for details.
 
 
 ### For Coders
-
-**SOZ** is Lisp programming with a twist, and a means to combine:
-
-- Functional Programming 
-- Object Oriented Programming
-- and a Scripting Language
 
 Benefits of coding using the **SOZ** approach in programming include:
 

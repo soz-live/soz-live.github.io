@@ -391,7 +391,7 @@ soz-coders:
   note: Module for coders of SOZ.
   areas:
     - area: Visualisation
-      note: visualisation routines
+      note: Visualisation routines
       features:      
         - name: Class hierarchy
         - name: Function
@@ -406,7 +406,7 @@ soz-devs:
       features:      
         - name: GitHub Pages documents     
     - area: Scripting
-      note: Scripting of functions using different languages
+      note: Scripting used for developing releases 
       features:      
         - name: Powershell
         - name: Git
