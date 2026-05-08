@@ -18,9 +18,9 @@ layout: default
 
 The **SOZ-LIVE** community currently uses the following apps:
 
-- **GitHub** for code, docs, issues, projects, development and discussions.
-- **Discord** as the primary resource for community discussions.
-- **YouTube** for images and videos.
+- [GitHub](#github) for code, docs, issues, projects, development and discussions.
+- [Discord](#discord) as the primary resource for community discussions.
+- [YouTube](#youtube) for images and videos.
 
 ## Aims and Objectives
 
