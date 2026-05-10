@@ -8,9 +8,9 @@ layout: default
 
 - Users
   - [Introduction](#introduction)
-  - [Potential Users](#potential-users)
   - [Documents](#documents)
   - [Videos](#videos)
+  
 
 ## Introduction
 
@@ -20,22 +20,9 @@ It enables the user to work in a number of consistent User Interfaces (UIs) incl
 An incomplete list of **SOZ-LIVE** functionality is [here](/repos/soz-live.html).  
 
 
-## Potential Users
-
-- Business
-	- Designers
-		- Engineers
-		- Architects
-		- Drafters
-- Education
-	- School
-		- STEM Programs
-	- University
-- Artists
-- Modellers
-- Hobbyists
-
 ## Documents
+
+For additional information on the project, please read the following documents.
 
 - [Quickstart Guide](/users/quickstart.html).
 - [Basic Information](/users/basics.html).

@@ -14,6 +14,7 @@ layout: default
     - [The What of LIVE](#the-what-of-live)
     - [The Why of LIVE](#the-why-of-live)  
   - [The Vision](#the-vision)
+    - [Potential Users](#potential-users)
   - [The Timeline](#the-timeline)
     - [Past](#past)
     - [Present](#present)
@@ -43,8 +44,8 @@ Along the way, benefits of using the **SOZ** approach became apparent, including
 
 - Reduced code duplication.
 - Ease of extending classes.
-- Adding to functionality.  
-- Automated documentation of code.
+- Adding functionality.  
+- Automated documentation of code.  
 
 ## LIVE 
 
@@ -61,7 +62,23 @@ The routines are built into the core of **SOZ**, and consist of around 1000 line
 ## The Vision
 
 The vision is to provide a better way of programming Lisp inside of CAD with immediate benefits to coders, users and the community. 
-By combining the functionality that **SOZ** provides, with the visual experience of **LIVE**, the project aims to create a niche product capable of providing the user with a means of generating itarative models and the coder with a basis to develop the project's code-base in new directions.  
+By combining the functionality that **SOZ** provides, with the visual experience of **LIVE**, the project aims to create a niche product capable of providing the user with a means of generating iterative models and the coder with a basis to develop the project's code-base in new directions.  
+
+
+### Potential Users
+
+All users of CAD can benefit from using **SOZ-LIVE** because of the additional functionality and productivity improvements it provides. Some areas where these benefits can be utilised are:
+
+- Business
+	- Designers
+  - Engineers
+  - Architects
+  - Drafters
+  - Modellers
+- Education
+	- STEM Programs
+- Artists
+- Hobbyists
 
 
 ## The Timeline
@@ -87,8 +104,8 @@ The expansion of the community will also enable further growth and development o
 
 ### Tim Marchbank - Project Lead
 
-Tim developed an interest in programming Lisp and CAD customisation during university, studying Engineering.  
+Tim developed an interest in programming Lisp and CAD customisation while studying Engineering.  
 This interest was developed further during his career and led to previous iterations of what would become **SOZ-LIVE**.  
-He has been developing the project since 2013 after wanting entities in CAD that weren't available in base products, and soon after realised the potential depth and breadth of the project for the wider community. The desire to see others benefit from the work provides the drive to continue to develop the project.  
+He has been developing the project since 2013 after wanting entities in CAD that weren't available in base products, and soon realised the potential depth and breadth of the project for the wider community. The desire to see others benefit from the work provides the drive to continue to develop the project.  
 
 For any questions regarding the project please email tim AT soz-live DOT com

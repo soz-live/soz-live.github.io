@@ -281,5 +281,5 @@ Assemblies are made of Parts.
 
 ### Present
 
-Currently the presentation phase using **SOZ-LIVE** is in development.
+The presentation phase using **SOZ-LIVE** is in development.
 

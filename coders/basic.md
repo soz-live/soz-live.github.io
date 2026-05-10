@@ -17,6 +17,10 @@ layout: default
   - [Categories](#categories) 
   - [Methods](#methods)
     - [Method Naming](#method-naming)
+      - [Class Methods](#class-methods)
+      - [Base Methods](#base-methods)
+      - [Predicates](#predicates)
+      - [Conversion Methods](#conversion-methods)
     - [Method Dispatch](#method-dispatch)
     - [Type checking](#type-checking)
   - [Documents](#documents)
@@ -60,7 +64,7 @@ There are three main distinctions between types:
 
 - Values - which return a Value as their result
 - Objects - which return an **ID** of an object as their result.
-- Scripts - which are run for their internal results.
+- Scripts - which are run for their internal results only.
 
 <br>**SZOBBase** is the base type for all of **SOZ-LIVE**.  
 
@@ -105,9 +109,8 @@ And:
 | Description | Comment | a Description of the Class being created |
 
 {% include note-icon.html %}  
-> Many of the specified classes are Abstract classes - meaning that they can't be instanced / objects created from them.  
-> They are used to set out the hierarchy in a logical fashion so that LSP works for each type / class specified.
-
+> Many of the specified classes are Abstract classes - meaning that they can't be instanced (objects can't be created from them).  
+> They are used to set out the hierarchy in a logical fashion so that the Liskov Substitution Principle (**LSP**) works for each type / class specified.
 
 
 ## Objects
@@ -119,10 +122,10 @@ All Objects are made using the Make method of the Class, as shown below:
 (defun SZGELine-make ( POINT0 POINT1 ) (SZOBObject-Maker "SZGELine" )) 
 ```
 
-This differs to other Lisp OO implementations where a make routine for a **Line** class would be named **make-line**.
+> This differs to other Lisp OO implementations where a make routine for a **Line** class would be named **make-line**.
 
-The Make arguments are stored on the Object or Entity in an Alist, together with the Class of the Object.
-They contain all the information required to Make, Edit and Update the object as and if required.
+The Make arguments are stored in the Object or Entity in an Alist, together with the Class of the Object.
+They contain all the information required to Make, Edit and Update the object as required.
 
 
 ## Interfaces
@@ -221,13 +224,12 @@ And:
 
 ### Method Naming
 
-Every Method, except for predicate functions, is consistently named as:
+There are 4x types of Method Names:
 
-`(ClassName-MethodName Args)`
-
-With predicate functions having the signature of:
-
-`(ClassName? o)`
+- [Class Methods](#class-methods)
+- [Base Methods](#base-methods)
+- [Predicates](#predicates)
+- [Conversion Methods](#conversion-methods)
 
 This structured approach to function naming has the immediate benefits of:
 
@@ -237,6 +239,55 @@ This structured approach to function naming has the immediate benefits of:
 - class and method documentation
 
 
+#### Class Methods
+
+Class Methods are consistently named as:
+
+`(ClassName-MethodName Args)`
+
+And are the basic LISP functions written for each class.  
+No method dispatch is performed on these functions.
+
+#### Base Methods
+
+Base Methods are consistently named as:
+
+`(SZOB-MethodName Args)`
+
+And consist of a call to `SZOB-Apply` (see [Method Dispatch](#method-dispatch)).  
+They are written to simplify method calling into a standard LISP function call.
+
+#### Predicates
+
+Predicate Methods have the signature of:
+
+`(ClassName? o)`
+
+Examples include:
+
+- `Real?`
+- `String?`
+- `Plane?`  
+
+No method dispatch is performed on these functions.
+
+#### Conversion Methods
+
+Base conversion Methods are named as:
+
+`(SZOB->ClassName object)`
+
+And convert multiple types to the type specified by `ClassName`.  
+No method dispatch is performed on these functions.
+
+Examples include:
+
+- `SZOB->Real`
+- `SZOB->Point`
+- `SZOB->Plane`  
+
+
+
 ### Method Dispatch
 
 One routine dispatches the methods for all classes:
@@ -244,7 +295,7 @@ One routine dispatches the methods for all classes:
 ```common-lisp
 (SZMAClass-Apply ClassName MethodName Args)
 ```
-And even the generic Object method dispatch routine, below is just a wrapper for the class apply function above.
+The generic Object method dispatch routine, below, is a wrapper for the class apply function above.
 
 ```common-lisp
 (defun SZOB-Apply (object MethodName Args / ClassName) 
@@ -268,10 +319,7 @@ Where:
 | args | is a list of the remaining arguments required for the method |
 
 
-
-This approach enables class hierarchies to be traversed and method selection to be made easily.
-
-Thereby reducing the number of functions to be written to a minimum.
+This approach enables class hierarchies to be traversed easily for method selection, thereby reducing the number of functions to be written to a minimum.
 
 
 ### Type checking
