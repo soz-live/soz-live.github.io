@@ -25,8 +25,8 @@ SZGEFaces-PointsToPoints Class
 | --------- | --------- | --------- |
 | POINTS0 | [List:AcDbPoint](AcDbPoint.html) |  |
 | POINTS1 | [List:AcDbPoint](AcDbPoint.html) |  |
-| FLIP1 | [Boolean](Boolean.html) |  |
-| FLIPPED | [Boolean](Boolean.html) |  |
+| FLIP1 | [Boolean](Boolean.html) | Curve is Flipped? |
+| FLIPPED | [Boolean](Boolean.html) | Normal is Flipped? |
 | | | |
 | Returns: | [SZGEFaces-PointsToPoints](SZGEFaces-PointsToPoints.html) | |
 | Help: | | Make a SZGEFaces-PointsToPoints |

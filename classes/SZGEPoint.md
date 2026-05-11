@@ -23,9 +23,9 @@ SZGEPoint Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| X | [Real](Real.html) |  |
-| Y | [Real](Real.html) |  |
-| Z | [Real](Real.html) |  |
+| X | [Real](Real.html) | X Coord |
+| Y | [Real](Real.html) | Y Coord |
+| Z | [Real](Real.html) | Z Coord |
 | | | |
 | Returns: | [SZGEPoint](SZGEPoint.html) | |
 | Help: | | Make a SZGEPoint |

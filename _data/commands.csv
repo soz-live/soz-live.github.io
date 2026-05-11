@@ -25,6 +25,7 @@ M-List,Make a List
 M-Geometry,Make a Geometry
 M-Definition,Make a Definition
 M-Draft,Make a Draft
+M-Visual,Make a Visual
 M-Entity,Make a Entity
 M-Block,Make a Block
 M-Point,Make a Point
@@ -138,7 +139,7 @@ D-View-Entity,View an Entity
 D-View-Entities,View Entities
 D-View-Part,View a Part
 Dev-Map,
-D-Map-Class,Create a Class Map
+D-Map-Class,Create a Class Hierarchy Map
 D-Map-ClassFunc,Map Classes to Functions
 D-Map-Function,Map Functions using Nodes and Links
 Dev-Source,

@@ -25,6 +25,8 @@ SZGEPlanes-OnCurve-Tangent Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | NO | [Integer](Integer.html) |  |
+| START | [Boolean](Boolean.html) |  |
+| END | [Boolean](Boolean.html) |  |
 | | | |
 | Returns: | [SZGEPlanes-OnCurve-Tangent](SZGEPlanes-OnCurve-Tangent.html) | |
 | Help: | | Make a SZGEPlanes-OnCurve-Tangent |

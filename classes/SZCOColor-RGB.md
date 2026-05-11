@@ -23,7 +23,7 @@ RGB Color
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| VALUE | [SZLPColor](SZLPColor.html) |  |
+| VALUE | [SZLPColor-RGB](SZLPColor-RGB.html) |  |
 | | | |
 | Returns: | [SZCOColor-RGB](SZCOColor-RGB.html) | |
 | Help: | | RGB Color |
@@ -34,6 +34,6 @@ RGB Color
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZCOColor-Make](SZCOColor.html) <br> [SZCOColor-SetEntity](SZCOColor.html) <br> [SZCOColor-User_ByLayer](SZCOColor.html) <br> [SZCOColor-User_ByBlock](SZCOColor.html) <br> [SZOBObject-IndexOfXOBJS](SZOBObject.html) <br> [SZOBObject-AddIOBJ](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZCOColor-Make](SZCOColor.html) <br> [SZCOColor-SetEntity](SZCOColor.html) <br> [SZCOColor-User_ByLayer](SZCOColor.html) <br> [SZCOColor-User_ByBlock](SZCOColor.html) <br> [SZCOColor-User_Pick](SZCOColor.html) <br> [SZOBObject-IndexOfXOBJS](SZOBObject.html) <br> [SZOBObject-AddIOBJ](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

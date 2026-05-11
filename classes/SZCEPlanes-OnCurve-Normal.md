@@ -25,6 +25,8 @@ SZCEPlanes-OnCurve-Normal Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | NO | [Integer](Integer.html) |  |
+| START | [Boolean](Boolean.html) |  |
+| END | [Boolean](Boolean.html) |  |
 | | | |
 | Returns: | [SZCEPlanes-OnCurve-Normal](SZCEPlanes-OnCurve-Normal.html) | |
 | Help: | | Make a SZCEPlanes-OnCurve-Normal |

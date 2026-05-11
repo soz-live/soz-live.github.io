@@ -82,6 +82,7 @@ For example:
         - Region
         - Solid
         - UCS
+      - Visual
     - Model
       - Assembly
       - Feature
@@ -112,6 +113,6 @@ For example:
         - List
   - Script
 
-Version:  1.28.0
+Version:  1.29.0
 <br>
-Date: 20260430.1949
+Date: 20260511.1718

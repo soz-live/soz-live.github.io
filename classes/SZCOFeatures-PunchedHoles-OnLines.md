@@ -24,7 +24,7 @@ Holes on Lines
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | LINES | [SZCELines](SZCELines.html) |  |
-| DIA | [SZLPNumber](SZLPNumber.html) |  |
+| DIA | [Real](Real.html) | Hole Diameter |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
 | | | |
 | Returns: | [SZCOFeatures-PunchedHoles-OnLines](SZCOFeatures-PunchedHoles-OnLines.html) | |

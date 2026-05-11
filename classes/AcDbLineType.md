@@ -33,9 +33,9 @@ AcDbLineTypes
 
 | Names | Values |
 | --------- | --------- |
-| Continuous | Continuous |
-| ByLayer | ByLayer |
 | ByBlock | ByBlock |
+| ByLayer | ByLayer |
+| Continuous | Continuous |
 
 ## Functions:
 

@@ -25,7 +25,6 @@ layout: default
       - [Assembly](#assembly)    
     - [Present](#present)  
   
-
   
 ## Introduction
 
@@ -144,9 +143,9 @@ Functionality includes:
 
 The three Object Types for **LIVE** are:
 
-- Nodes
-- Links
-- Points
+- [Nodes](#live-nodes)
+- [Links](#live-links)     
+- [Points](#live-points)    
 
 
 ### LIVE Nodes
@@ -157,7 +156,7 @@ In **LIVE**, a Node is a BlockReference Entity, an instance of a Block Object th
 
 In **SOZ-LIVE** any Method, including all Make methods for Classes can be used as Nodes, thereby giving the greatest flexibility to the system possible.
 
-Every Method has 0 or more inputs and a Return value. These are shown as Attributes within the Block.
+Every Method has 0 or more inputs and a Return value. These are shown as Attributes within the Node.
 
 
 ### LIVE Links
@@ -265,9 +264,9 @@ There are a variety of types of Features that can be created. Including:
   - Union
   - Intersection
   - Subtraction
-  - Corners
-    - Chamfers
-    - Fillets
+- Boolean Corners
+  - Chamfers
+  - Fillets
 - Slicing of Solids
 - Profile Cuts
 - Boolean Toolbodies

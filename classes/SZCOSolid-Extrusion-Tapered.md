@@ -27,7 +27,7 @@ SZCOSolid-Extrusion-Tapered Class
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | HEIGHT | [Real](Real.html) |  |
 | EXTRUDE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
-| TAPER | [Deg](Deg.html) |  |
+| TAPER | [Deg](Deg.html) | Taper Angle |
 | | | |
 | Returns: | [SZCOSolid-Extrusion-Tapered](SZCOSolid-Extrusion-Tapered.html) | |
 | Help: | | Make a SZCOSolid-Extrusion-Tapered |

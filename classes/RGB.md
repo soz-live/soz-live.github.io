@@ -15,7 +15,7 @@ Color Values
 | Superclass: | [Integers](Integers.html) |
 | Subclasses: |  |
 | Interfaces: |  |
-| Interfaced: | [SZLPColor](SZLPColor.html) |
+| Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
 

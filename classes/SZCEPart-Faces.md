@@ -23,7 +23,7 @@ SZCEPart-Faces Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
+| MATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | FACES | [SZCEFaces](SZCEFaces.html) |  |
 | HEIGHT | [Real](Real.html) |  |
 | EXTRUDE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |

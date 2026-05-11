@@ -28,7 +28,7 @@ SZCELines-BetweenCurves-DivideInto Class
 | NO | [Integer](Integer.html) |  |
 | START | [Boolean](Boolean.html) |  |
 | END | [Boolean](Boolean.html) |  |
-| FLIPPED | [Boolean](Boolean.html) |  |
+| FLIPPED | [Boolean](Boolean.html) | is Flipped? |
 | | | |
 | Returns: | [SZCELines-BetweenCurves-DivideInto](SZCELines-BetweenCurves-DivideInto.html) | |
 | Help: | | Make a SZCELines-BetweenCurves-DivideInto |

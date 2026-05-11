@@ -13,7 +13,7 @@ User Pick Structure
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [User](User.html) |
-| Subclasses: |  |
+| Subclasses: | [User-PickFirst](User-PickFirst.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

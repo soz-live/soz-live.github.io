@@ -13,6 +13,7 @@ status: Beta
 {% include repo-features.html id=site.data.repo-features.soz-coders %}
 
 
+
 ## Class Hierarchy
 
 > Class Names in ***Bold Italics*** are Abstract classes
@@ -48,6 +49,6 @@ status: Beta
             - [***SZDODef***](/classes/SZDODef.html)
               - [***SZDODef-Function***](/classes/SZDODef-Function.html)
 
-Version:  1.28.0
+Version:  1.29.0
 <br>
-Date: 20260430.1949
+Date: 20260511.1719

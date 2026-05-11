@@ -24,8 +24,8 @@ SZCOFeature-Slice-Plane Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | PLANE | [SZGEPlane](SZGEPlane.html) |  |
-| FLIP | [Boolean](Boolean.html) |  |
-| OFFSET | [Real](Real.html) |  |
+| FLIPPED | [Boolean](Boolean.html) | is Flipped? |
+| OFFSET | [Real](Real.html) | Offset |
 | KEEP | [Enum-AcDb3dSolidSlice](Enum-AcDb3dSolidSlice.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
 | | | |

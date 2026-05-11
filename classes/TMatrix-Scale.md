@@ -13,7 +13,7 @@ TMatrix-Scale Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [TMatrix](TMatrix.html) |
-| Subclasses: |  |
+| Subclasses: | [TMatrix-Scale-Uniform](TMatrix-Scale-Uniform.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
@@ -23,7 +23,9 @@ TMatrix-Scale Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| REAL | [Real](Real.html) |  |
+| X | [Real](Real.html) |  |
+| Y | [Real](Real.html) |  |
+| Z | [Real](Real.html) |  |
 | | | |
 | Returns: | [TMatrix](TMatrix.html) | |
 | Help: | | Scale TMatrix Make |

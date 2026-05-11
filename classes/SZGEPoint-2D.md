@@ -23,8 +23,8 @@ SZGEPoint-2D Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| X | [Real](Real.html) |  |
-| Y | [Real](Real.html) |  |
+| X | [Real](Real.html) | X Coord |
+| Y | [Real](Real.html) | Y Coord |
 | | | |
 | Returns: | [SZGEPoint-2D](SZGEPoint-2D.html) | |
 | Help: | | Make a SZGEPoint-2D |

@@ -12,7 +12,7 @@ TMatrix-Mirror-Y Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [TMatrix](TMatrix.html) |
+| Superclass: | [TMatrix-Mirror](TMatrix-Mirror.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |

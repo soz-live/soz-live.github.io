@@ -23,10 +23,10 @@ IDE for DevOps
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| FILE | [File-LSP](File-LSP.html) |  |
+| LINES | [LinesOfCode](LinesOfCode.html) |  |
 | | | |
 | Returns: | [SZDOObject-IDE](SZDOObject-IDE.html) | |
-| Help: | | Display a File |
+| Help: | | Display LinesOfCode |
 
 
 ## Functions:

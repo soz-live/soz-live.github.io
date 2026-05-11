@@ -13,7 +13,7 @@ AcDbArc Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbCurve](AcDbCurve.html) |
-| Subclasses: | [SZCEArc-CircleSegment](SZCEArc-CircleSegment.html) <br> [SZCEArc-Offset](SZCEArc-Offset.html) <br> [SZCEArc-3xPoints](SZCEArc-3xPoints.html) |
+| Subclasses: | [SZCEArc-Transformed](SZCEArc-Transformed.html) <br> [SZCEArc-CircleSegment](SZCEArc-CircleSegment.html) <br> [SZCEArc-Offset](SZCEArc-Offset.html) <br> [SZCEArc-3xPoints](SZCEArc-3xPoints.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

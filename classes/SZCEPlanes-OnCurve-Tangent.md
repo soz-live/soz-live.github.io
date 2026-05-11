@@ -25,6 +25,8 @@ SZCEPlanes-OnCurve-Tangent Class
 | --------- | --------- | --------- |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | NO | [Integer](Integer.html) |  |
+| START | [Boolean](Boolean.html) |  |
+| END | [Boolean](Boolean.html) |  |
 | | | |
 | Returns: | [SZCEPlanes-OnCurve-Tangent](SZCEPlanes-OnCurve-Tangent.html) | |
 | Help: | | Make a SZCEPlanes-OnCurve-Tangent |

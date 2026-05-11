@@ -66,6 +66,6 @@ status: Beta
               - [***SZGEShape***](/classes/SZGEShape.html)
                 - [***SZGEShape-Shackle-Eye***](/classes/SZGEShape-Shackle-Eye.html)
 
-Version:  1.28.0
+Version:  1.29.0
 <br>
-Date: 20260430.1949
+Date: 20260511.1719

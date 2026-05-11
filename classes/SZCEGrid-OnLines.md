@@ -23,7 +23,7 @@ SZCEGrid-OnLines Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| LINES | [Set:AcDbLine](AcDbLine.html) |  |
+| LINES | [SZCELines](SZCELines.html) |  |
 | TYP | [Enum-SZCELinearType](Enum-SZCELinearType.html) |  |
 | | | |
 | Returns: | [SZCEGrid-OnLines](SZCEGrid-OnLines.html) | |

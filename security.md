@@ -20,7 +20,7 @@ These risks include:
 
 ### Insecured Code
 
-**SOZ-LIVE** code is secured as it:
+**SOZ-LIVE** source code is secured as it:
 
 - is stored in GitHub private repos with only releases made public.
 - utilises GitHub tagging and immutable signed releases.

@@ -26,7 +26,7 @@ SZGELoop-Wall Class
 | LINE | [AcDbLine](AcDbLine.html) |  |
 | LOWER | [SZCEPlane](SZCEPlane.html) |  |
 | UPPER | [SZCEPlane](SZCEPlane.html) |  |
-| FLIPPED | [Boolean](Boolean.html) |  |
+| FLIPPED | [Boolean](Boolean.html) | is Flipped? |
 | | | |
 | Returns: | [SZGELoop-Wall](SZGELoop-Wall.html) | |
 | Help: | | Make a SZGELoop-Wall |

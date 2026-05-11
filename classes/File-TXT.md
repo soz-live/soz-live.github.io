@@ -60,7 +60,7 @@ Text File
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | FILE | [String](String.html) |  |
-| access | [String](String.html) |  |
+| ACCESS | [Option-FileAccess](Option-FileAccess.html) |  |
 | | | |
 | Returns: | [File-TXT](File-TXT.html) | |
 | Help: | | Opening of a Text File |
@@ -71,7 +71,7 @@ Text File
 | --------- | --------- | --------- |
 | FILENAME | [File-TXT](File-TXT.html) |  |
 | | | |
-| Returns: | [Strings](Strings.html) | |
+| Returns: | [String](String.html) | |
 | Help: | | Reading First Line |
 
 ### File-TXT-ReadLine

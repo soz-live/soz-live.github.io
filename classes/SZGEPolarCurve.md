@@ -13,7 +13,7 @@ SZGEPolarCurve Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGE2dCurve](SZGE2dCurve.html) |
-| Subclasses: | [SZGEPolarCurve-Epitrochoid](SZGEPolarCurve-Epitrochoid.html) <br> [SZGEPolarCurve-Hypotrochoid](SZGEPolarCurve-Hypotrochoid.html) <br> [SZGEPolarCurve-Ellipse](SZGEPolarCurve-Ellipse.html) <br> [SZGEPolarCurve-Circle](SZGEPolarCurve-Circle.html) |
+| Subclasses: | [SZGEPolarCurve-Subtraction](SZGEPolarCurve-Subtraction.html) <br> [SZGEPolarCurve-Addition](SZGEPolarCurve-Addition.html) <br> [SZGEPolarCurve-Epitrochoid](SZGEPolarCurve-Epitrochoid.html) <br> [SZGEPolarCurve-Hypotrochoid](SZGEPolarCurve-Hypotrochoid.html) <br> [SZGEPolarCurve-Ellipse](SZGEPolarCurve-Ellipse.html) <br> [SZGEPolarCurve-Circle](SZGEPolarCurve-Circle.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

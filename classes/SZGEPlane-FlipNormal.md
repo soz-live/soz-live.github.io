@@ -24,7 +24,7 @@ SZGEPlane-FlipNormal Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | PLANE | [SZGEPlane](SZGEPlane.html) |  |
-| FLIP | [Boolean](Boolean.html) |  |
+| FLIPPED | [Boolean](Boolean.html) | Normal is Flipped? |
 | | | |
 | Returns: | [SZGEPlane-FlipNormal](SZGEPlane-FlipNormal.html) | |
 | Help: | | Make a SZGEPlane-FlipNormal |

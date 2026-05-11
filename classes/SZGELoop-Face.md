@@ -27,7 +27,7 @@ Face Loop Class
 | VECTOR | [SZGEVector](SZGEVector.html) |  |
 | LOWER | [SZCEPlane](SZCEPlane.html) |  |
 | UPPER | [SZCEPlane](SZCEPlane.html) |  |
-| FLIPPED | [Boolean](Boolean.html) |  |
+| FLIPPED | [Boolean](Boolean.html) | is Flipped? |
 | | | |
 | Returns: | [SZGELoop-Face](SZGELoop-Face.html) | |
 | Help: | | Make a SZGELoop-Face |

@@ -44,7 +44,7 @@ SZCOVisual
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| VIZ | [SZCOVisual](SZCOVisual.html) | Visual Settings |
+| VIZSET | [SZCOVisual](SZCOVisual.html) | Visual Settings |
 | ENTS | [Set:AcDbEntity](AcDbEntity.html) |  |
 | | | |
 | Returns: | [Set:AcDbEntity](AcDbEntity.html) | |
@@ -54,7 +54,7 @@ SZCOVisual
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| VIZ | [SZCOVisual](SZCOVisual.html) | Visual Settings |
+| VIZSET | [SZCOVisual](SZCOVisual.html) | Visual Settings |
 | ENT | [AcDbEntity](AcDbEntity.html) |  |
 | | | |
 | Returns: | [AcDbEntity](AcDbEntity.html) | |

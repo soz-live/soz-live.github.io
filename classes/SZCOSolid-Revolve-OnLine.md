@@ -26,7 +26,7 @@ SZCOSolid-Revolve-OnLine Class
 | PROFILE | [SZCOProfile](SZCOProfile.html) |  |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | LINE | [SZGELine](SZGELine.html) |  |
-| REVOLVE | [Deg](Deg.html) |  |
+| REVOLVE | [Deg](Deg.html) | Revolve Angle |
 | | | |
 | Returns: | [SZCOSolid-Revolve-OnLine](SZCOSolid-Revolve-OnLine.html) | |
 | Help: | | Make a SZCOSolid-Revolve-OnLine |

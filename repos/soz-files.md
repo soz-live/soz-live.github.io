@@ -26,10 +26,10 @@ status: Beta
           - [***File***](/classes/File.html)
             - [File-TXT](/classes/File-TXT.html)
               - [File-CSV](/classes/File-CSV.html)
-                - [***File-CSVArray***](/classes/File-CSVArray.html)
+                - [File-CSVArray](/classes/File-CSVArray.html)
               - [File-DAT](/classes/File-DAT.html)
                 - [SOZFile](/classes/SOZFile.html)
 
-Version:  1.28.0
+Version:  1.29.0
 <br>
-Date: 20260430.1949
+Date: 20260511.1719

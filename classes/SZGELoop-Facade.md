@@ -25,7 +25,7 @@ SZGELoop-Facade Class
 | --------- | --------- | --------- |
 | FACE | [SZCEPlane](SZCEPlane.html) |  |
 | PLANES | [List:SZCEPlane](SZCEPlane.html) |  |
-| FLIPPED | [Boolean](Boolean.html) |  |
+| FLIPPED | [Boolean](Boolean.html) | is Flipped? |
 | | | |
 | Returns: | [SZGELoop-Facade](SZGELoop-Facade.html) | |
 | Help: | | Make a SZGELoop-Facade |

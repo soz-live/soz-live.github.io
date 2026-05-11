@@ -25,7 +25,7 @@ SZCOFeature-Slice-TMatrix Class
 | --------- | --------- | --------- |
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | VECTOR | [SZGEVector](SZGEVector.html) |  |
-| OFFSET | [Real](Real.html) |  |
+| OFFSET | [Real](Real.html) | Offset |
 | KEEP | [Enum-AcDb3dSolidSlice](Enum-AcDb3dSolidSlice.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
 | | | |

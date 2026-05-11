@@ -1,9 +1,9 @@
 
-# Class:	SZGEPlane-Points
+# Class:	SZGEPlane-3xPoints
 
 ### Description:
 
-SZGEPlane-Points Class
+SZGEPlane-3xPoints Class
 
 
 
@@ -19,7 +19,7 @@ SZGEPlane-Points Class
 | Abstract?: | No |
 | isValue?: | Yes |
 
-### SZGEPlane-Points-Make
+### SZGEPlane-3xPoints-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
@@ -27,8 +27,8 @@ SZGEPlane-Points Class
 | POINT1 | [SZGEPoint](SZGEPoint.html) |  |
 | POINT2 | [SZGEPoint](SZGEPoint.html) |  |
 | | | |
-| Returns: | [SZGEPlane-Points](SZGEPlane-Points.html) | |
-| Help: | | Make a SZGEPlane-Points |
+| Returns: | [SZGEPlane-3xPoints](SZGEPlane-3xPoints.html) | |
+| Help: | | Make a SZGEPlane-3xPoints |
 
 
 ## Functions:

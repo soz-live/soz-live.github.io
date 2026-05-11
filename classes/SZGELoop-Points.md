@@ -25,7 +25,7 @@ SZGELoop-Points Class
 | --------- | --------- | --------- |
 | POINTS | [List:SZGEPoint](SZGEPoint.html) |  |
 | CLOSED | [Boolean](Boolean.html) |  |
-| FLIPPED | [Boolean](Boolean.html) |  |
+| FLIPPED | [Boolean](Boolean.html) | is Flipped? |
 | | | |
 | Returns: | [SZGELoop-Points](SZGELoop-Points.html) | |
 | Help: | | Shape from Points |

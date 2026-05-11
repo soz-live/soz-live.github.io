@@ -13,7 +13,7 @@ LinesOfCode Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Strings](Strings.html) |
-| Subclasses: | [LinesOfCode-Release](LinesOfCode-Release.html) <br> [LinesOfCode-Repo](LinesOfCode-Repo.html) |
+| Subclasses: | [LinesOfCode-Release](LinesOfCode-Release.html) <br> [LinesOfCode-Repo](LinesOfCode-Repo.html) <br> [LinesOfCode-File](LinesOfCode-File.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
@@ -23,7 +23,7 @@ LinesOfCode Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| FILENAME | [File-LSP](File-LSP.html) |  |
+| LST | [List:LineOfCode](LineOfCode.html) |  |
 | | | |
 | Returns: | [LinesOfCode](LinesOfCode.html) | |
 | Help: | | New LinesOfCode |

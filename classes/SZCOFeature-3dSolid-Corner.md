@@ -25,7 +25,7 @@ Solid Corner Treatment Feature
 | --------- | --------- | --------- |
 | PATH | [AcDbCurve](AcDbCurve.html) |  |
 | SHAPE | [SZGEShape-Corner](SZGEShape-Corner.html) |  |
-| ANG | [Deg](Deg.html) |  |
+| ANG | [Deg](Deg.html) | Angle |
 | OPERATION | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
 | | | |

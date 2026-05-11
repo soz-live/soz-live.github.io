@@ -9,10 +9,10 @@ layout: default
 
 - Releases
   - [Introduction](#introduction)
+  - [Details](#details)
   - [CORE](#core)
   - [BASE](#base)
-  - [AEC](#aec)
-  - [RIG](#rig)  
+  - [AEC](#aec)  
   - [ALL](#all)    
   - [DEV](#dev)
   - [Table](#table)
@@ -64,6 +64,6 @@ For a list of functionality contained within each repo - click on the link.
 
 {% include csvtable.html id=site.data.releases %}
 
-Version:  1.28.0
+Version:  1.29.0
 <br>
-Date: 20260430.1949
+Date: 20260511.1718

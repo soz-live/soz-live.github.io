@@ -26,8 +26,8 @@ Rigging Arrgt OnLine Class
 | LABEL | [Comment](Comment.html) |  |
 | LEG | [SZCERigging-Leg](SZCERigging-Leg.html) |  |
 | LINE | [AcDbLine](AcDbLine.html) |  |
-| FLIP | [Boolean](Boolean.html) |  |
-| STARTANG | [Deg](Deg.html) |  |
+| FLIPPED | [Boolean](Boolean.html) | is Flipped? |
+| STARTANG | [Deg](Deg.html) | Start Angle |
 | | | |
 | Returns: | [SZCERigging-Arrgt-OnLine](SZCERigging-Arrgt-OnLine.html) | |
 | Help: | | Make Rigging OnLine |

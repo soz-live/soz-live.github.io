@@ -13,7 +13,7 @@ Plane Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [Reals](Reals.html) |
-| Subclasses: | [Plane-Face](Plane-Face.html) <br> [Plane-TMatrix](Plane-TMatrix.html) <br> [Plane-Points](Plane-Points.html) <br> [Plane-PointNormal-Offset](Plane-PointNormal-Offset.html) <br> [Plane-PointNormal](Plane-PointNormal.html) |
+| Subclasses: | [Plane-Face](Plane-Face.html) <br> [Plane-TMatrix](Plane-TMatrix.html) <br> [Plane-3xPoints](Plane-3xPoints.html) <br> [Plane-PointNormal-Offset](Plane-PointNormal-Offset.html) <br> [Plane-PointNormal](Plane-PointNormal.html) |
 | Interfaces: |  |
 | Interfaced: | [SZGEPlane](SZGEPlane.html), [SZCEPlane](SZCEPlane.html) |
 | Abstract?: | No |

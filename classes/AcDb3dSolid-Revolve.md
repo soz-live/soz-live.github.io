@@ -28,7 +28,7 @@ AcDb3dSolid-Revolve Class
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
 | VECTOR | [SZGEVector](SZGEVector.html) |  |
-| REVOLVE | [Deg](Deg.html) |  |
+| REVOLVE | [Deg](Deg.html) | Revolve Angle |
 | | | |
 | Returns: | [AcDb3dSolid-Revolve](AcDb3dSolid-Revolve.html) | |
 | Help: | | Make AcDb3dSolid-Revolve |

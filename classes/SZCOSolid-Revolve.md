@@ -27,7 +27,7 @@ SZCOSolid-Revolve Class
 | TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | POINT | [SZGEPoint](SZGEPoint.html) |  |
 | VECTOR | [SZGEVector](SZGEVector.html) |  |
-| REVOLVE | [Deg](Deg.html) |  |
+| REVOLVE | [Deg](Deg.html) | Revolve Angle |
 | | | |
 | Returns: | [SZCOSolid-Revolve](SZCOSolid-Revolve.html) | |
 | Help: | | Make a SZCOSolid-Revolve |

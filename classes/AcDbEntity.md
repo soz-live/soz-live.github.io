@@ -132,7 +132,7 @@ Base Entity Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | ENTITY | [AcDbEntity](AcDbEntity.html) |  |
-| VISUAL | [SZCOVisual](SZCOVisual.html) | Visual Settings |
+| VIZSET | [SZCOVisual](SZCOVisual.html) | Visual Settings |
 | | | |
 | Returns: | [AcDbEntity](AcDbEntity.html) | |
 | Help: | | Sets the Visual Settings for the Entity |

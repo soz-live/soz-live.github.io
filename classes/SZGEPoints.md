@@ -24,7 +24,7 @@ SZGEPoints Class
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | POINTS | [List:SZGEPoint](SZGEPoint.html) |  |
-| FLIPPED | [Boolean](Boolean.html) |  |
+| FLIPPED | [Boolean](Boolean.html) | is Flipped? |
 | | | |
 | Returns: | [SZGEPoints](SZGEPoints.html) | |
 | Help: | | Make a SZGEPoints |

@@ -16,8 +16,16 @@ File-CSVArray Class
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | Yes |
+| Abstract?: | No |
 | isValue?: | Yes |
+
+### File-CSVArray-Make
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| | | |
+| Returns: |  | |
+| Help: | |  |
 
 
 ## Functions:

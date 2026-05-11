@@ -1,9 +1,9 @@
 
-# Class:	Plane-Points
+# Class:	Plane-3xPoints
 
 ### Description:
 
-Plane-Points Class
+Plane-3xPoints Class
 
 
 
@@ -19,7 +19,7 @@ Plane-Points Class
 | Abstract?: | No |
 | isValue?: | Yes |
 
-### Plane-Points-Make
+### Plane-3xPoints-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
@@ -28,7 +28,7 @@ Plane-Points Class
 | POINT2 | [Point](Point.html) |  |
 | | | |
 | Returns: | [Plane](Plane.html) | |
-| Help: | | Make a Plane-Points |
+| Help: | | Make a Plane-3xPoints |
 
 
 ## Functions:

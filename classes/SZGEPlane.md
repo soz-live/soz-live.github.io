@@ -13,7 +13,7 @@ SZGEPlane Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGEObject](SZGEObject.html) |
-| Subclasses: | [SZGEPlane-ItemofPlanes](SZGEPlane-ItemofPlanes.html) <br> [SZGEPlane-FlipNormal](SZGEPlane-FlipNormal.html) <br> [SZGEPlane-TMatrix](SZGEPlane-TMatrix.html) <br> [SZGEPlane-Points](SZGEPlane-Points.html) <br> [SZGEPlane-PlaneOffset](SZGEPlane-PlaneOffset.html) <br> [SZGEPlane-PointNormal](SZGEPlane-PointNormal.html) |
+| Subclasses: | [SZGEPlane-ItemofPlanes](SZGEPlane-ItemofPlanes.html) <br> [SZGEPlane-FlipNormal](SZGEPlane-FlipNormal.html) <br> [SZGEPlane-TMatrix](SZGEPlane-TMatrix.html) <br> [SZGEPlane-3xPoints](SZGEPlane-3xPoints.html) <br> [SZGEPlane-PlaneOffset](SZGEPlane-PlaneOffset.html) <br> [SZGEPlane-PointNormal](SZGEPlane-PointNormal.html) |
 | Interfaces: | [Plane](Plane.html) |
 | Interfaced: | [SZCEPlane](SZCEPlane.html) |
 | Abstract?: | No |
