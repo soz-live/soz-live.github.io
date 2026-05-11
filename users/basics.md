@@ -1,5 +1,13 @@
 ---
 layout: default
+carousels:
+  - images: 
+    - image: /assets/images/image_dialog_acdbline_001.png
+    - image: /assets/images/image_dialog_class_001.png
+    - image: /assets/images/image_dialog_szgeline_001.png
+    - image: /assets/images/image_dialog_class_002.png
+    - image: /assets/images/image_dialog_szgepoint_001.png
+
 ---
 
 # Basics
@@ -10,8 +18,12 @@ layout: default
   - [Introduction](#introduction)
   - [Commands](#commands)
   - [Dialog Boxes](#dialog-boxes)
-    - [Atom Field](#atom-field)
-    - [List Field](#list-field)    
+    - [Making Objects](#making-objects) 
+      - [Atom Field](#atom-field)
+      - [List Field](#list-field)
+    - [Class Selection](#class-selection) 
+    - [Object-Selection](#object-selection) 
+    - [Sequence](#sequence) 
   - [LIVE](#live)
     - [LIVE Nodes](#live-nodes)
     - [LIVE Links](#live-links)     
@@ -38,6 +50,8 @@ You can interact with the program in a number of ways.
 
 The easiest way to interact with **SOZ** is to type **Y** on the command line - a dialog box appears with a tree-view of options to select from.<br>
 
+![Y Commands](/assets/images/image_dialog_cats_001.png)
+
 The full list of of commands are [here](/docs/commands.html).  
 
 {% include note-icon.html %}  
@@ -48,19 +62,36 @@ The full list of of commands are [here](/docs/commands.html).
 
 ## Dialog Boxes
 
-Each **SOZ-LIVE** Class and Function has a dialog box developed on-the-fly, depending upon the arguments for the Class or Function.
+The Graphical User Interface (GUI) is the primary means of interacting with the project. 
+There are three basic types of dialog boxes used in the project:
+
+- [Making Objects](#making-objects)
+- [Class Selection](#class-selection) 
+- [Object-Selection](#object-selection)
+
+The following sections describe each of the different cases.
+
+
+### Making Objects
+
+Each **SOZ-LIVE** Class Make (& Edit) Functions have a dialog box developed on-the-fly.
 
 Each argument creates an entry in the dialog box to be filled in by the user.
+
+![SZGELine Class](/assets/images/image_dialog_szgeline_001.png)
+
+For example, the dialog for the class [SZGELine](/classes/SZGELine.html) has two required arguments:
+
+- POINT0 - an atom field which is required to be of type [SZGEPoint](/classes/SZGEPoint.html)
+- POINT1 - an atom field which is required to be of type [SZGEPoint](/classes/SZGEPoint.html)
+
 
 {% include note-icon.html %}  
 > Only fully completed dialogs - one with valid entries for each field, will be parsed by the Make routine properly and return a valid Object.  
 
 The entry is either an [Atom Field](#atom-field) or a [List Field](#list-field) - depending upon the type of each of the arguments for the Class...
 
-For example, the dialog for the class [SZGELine](/classes/SZGELine.html) has two required arguments:
-
-- POINT0 - an atom field which is required to be of type [SZGEPoint](/classes/SZGEPoint.html)
-- POINT1 - an atom field which is required to be of type [SZGEPoint](/classes/SZGEPoint.html)
+![SZCEPart Class](/assets/images/image_dialog_szcepart_001.png)
 
 {% include note-icon.html %}  
 > Any class that is derived or one that interfaces with the type is also valid.  
@@ -68,7 +99,7 @@ For example, the dialog for the class [SZGELine](/classes/SZGELine.html) has two
 > You can Cut and Paste values from one field to another - as long as the Type of the Value / Object / Entity is compatible.
 
 
-### Atom Field
+#### Atom Field
 
 Each atom field has a number of components to it..
 
@@ -91,7 +122,7 @@ Where the Options vary depending upon the Class being created, but include:
 > All options are prefixed with User_ to indicate that they are user methods - selectable by the User. 
 
 
-### List Field
+#### List Field
 
 Each list field has five components to it..
 
@@ -123,6 +154,26 @@ And Edit Options include:
 
 {% include note-icon.html %}  
 > Double clicking on an Item Edits the Item.
+
+
+### Class Selection
+
+The class selection dialog is a Tree-view showing the various options of Classes available to the user for selection.
+
+![Class Selection](/assets/images/image_dialog_class_001.png)
+
+
+### Object Selection
+
+The class selection dialog is a basic list of suitable available objects to the user for selection.
+
+
+### Sequence
+
+The Dialog Box sequence to crate a Line Entity would follow the following sequence, with the `User_Make` option chosen at each stage.
+
+{% include carousel.html height="100" unit="%" duration="5" number="1" %}
+
 
  
 ## LIVE
@@ -253,6 +304,7 @@ As well as a generic Part class, there are also a number of pre-defined Part cla
 - Sweep
   - PolySoild
 - Sphere
+- Faces
 
 These can then be further developed by adding features.
 
