@@ -78,7 +78,7 @@ Each **SOZ-LIVE** Class Make (& Edit) Functions have a dialog box developed on-t
 
 Each argument creates an entry in the dialog box to be filled in by the user.
 
-![SZGELine Class](/assets/images/image_dialog_szgeline_001.png)
+![SZGELine Class](/assets/images/image_dialog_szgeline_002.png)
 
 For example, the dialog for the class [SZGELine](/classes/SZGELine.html) has two required arguments:
 
@@ -88,23 +88,21 @@ For example, the dialog for the class [SZGELine](/classes/SZGELine.html) has two
 
 {% include note-icon.html %}  
 > Only fully completed dialogs - one with valid entries for each field, will be parsed by the Make routine properly and return a valid Object.  
+> Any class that is derived or one that interfaces with the type is also valid.  
+> The alternative classes available for each dialog are available from the `User_Make` Option.  
+> You can Cut and Paste values from one field to another - as long as the Type of the Value / Object / Entity is compatible.  
 
 The entry is either an [Atom Field](#atom-field) or a [List Field](#list-field) - depending upon the type of each of the arguments for the Class...
 
 ![SZCEPart Class](/assets/images/image_dialog_szcepart_001.png)
-
-{% include note-icon.html %}  
-> Any class that is derived or one that interfaces with the type is also valid.  
-> The alternative classes available for each dialog are available from the ... button at the top of the dialog next to the Class Name.  
-> You can Cut and Paste values from one field to another - as long as the Type of the Value / Object / Entity is compatible.
 
 
 #### Atom Field
 
 Each atom field has a number of components to it..
 
-1. the Border - that contains the name of the class that is required to be specified. eg. SZGEPoint
-2. the Key - the name of the argument being specified. eg: POINT0
+1. the Border - that contains the name of the class that is required to be specified. eg. Real
+2. the Key - the name of the argument being specified. eg: HEIGHT
 3. the EditBox - where the value of the argument is entered / displayed
 4. the Options DropDown - a list of options available to specify the value for the argument.
 
@@ -158,14 +156,14 @@ And Edit Options include:
 
 ### Class Selection
 
-The class selection dialog is a Tree-view showing the various options of Classes available to the user for selection.
+The class selection dialog is a Tree-view showing the various options of Classes for the user to select.
 
 ![Class Selection](/assets/images/image_dialog_class_001.png)
 
 
 ### Object Selection
 
-The class selection dialog is a basic list of suitable available objects to the user for selection.
+The object selection dialog is a basic list of suitable available objects for the user to select.
 
 
 ### Sequence
