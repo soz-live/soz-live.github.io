@@ -89,7 +89,7 @@ For example, the dialog for the class [SZGELine](/classes/SZGELine.html) has two
 {% include note-icon.html %}  
 > Only fully completed dialogs - one with valid entries for each field, will be parsed by the Make routine properly and return a valid Object.  
 > Any class that is derived or one that interfaces with the type is also valid.  
-> The alternative classes available for each dialog are available from the `User_Make` Option.  
+> The alternative classes available for each argument are available from the `User_Make` Option.  
 > You can Cut and Paste values from one field to another - as long as the Type of the Value / Object / Entity is compatible.  
 
 The entry is either an [Atom Field](#atom-field) or a [List Field](#list-field) - depending upon the type of each of the arguments for the Class...
