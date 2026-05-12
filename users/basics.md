@@ -176,6 +176,10 @@ The Dialog Box sequence to crate a Line Entity would follow the following sequen
  
 ## LIVE
 
+
+![Live Example](/assets/images/image_live_acdbline_001.png)
+
+
 **LIVE** is a Node-Based UI for **SOZ** that enables the user to create visual scripts for iterative design.
 
 The routines are built into the Core of **SOZ**, and consist of under 1000 lines of code.
@@ -210,19 +214,13 @@ Every Method has 0 or more inputs and a Return value. These are shown as Attribu
 
 ### LIVE Links
 
-A Link is the graphical object that represents the flow of data from one Node to another. (Typically Left to Right.)
-
-In **LIVE**, a Link is a 3dPolyline Entity that is drawn from a Point to a Point.
-
+A Link is the graphical object that represents the flow of data from one Node to another. (Typically Left to Right.)  
 Each Link will update when the corresponding Node is moved or edited.
 
 
 ### LIVE Points
 
-A Point is the graphical object that enables picking of data Values within a Node.
-
-In **LIVE**, a Point is a Point Entity that is drawn at each of the Values of the Node - both Inputs and Return values.
-
+A Point is the graphical object that enables picking of data Values within a Node.  
 Each Point will update when the corresponding Node is moved or edited.
 
 
