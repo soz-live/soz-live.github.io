@@ -300,11 +300,10 @@ status: Beta
               - [SZCEPartRef](/classes/SZCEPartRef.html)
             - [SZLVNode](/classes/SZLVNode.html)
               - [***SZLVNode-Method***](/classes/SZLVNode-Method.html)
-                - [SZLVNode-ClassMake](/classes/SZLVNode-ClassMake.html)
-                  - [SZLVNode-SZOBObject](/classes/SZLVNode-SZOBObject.html)
-                    - [SZLVNode-SZLVPoint](/classes/SZLVNode-SZLVPoint.html)
-                    - [SZLVNode-SZOBObject-Method](/classes/SZLVNode-SZOBObject-Method.html)
                 - [SZLVNode-Value](/classes/SZLVNode-Value.html)
+              - [SZLVNode-SZOBObject](/classes/SZLVNode-SZOBObject.html)
+                - [SZLVNode-SZLVPoint](/classes/SZLVNode-SZLVPoint.html)
+                - [SZLVNode-SZOBObject-Method](/classes/SZLVNode-SZOBObject-Method.html)
           - [***AcDbCurve***](/classes/AcDbCurve.html)
             - [***AcDb2dPolyline***](/classes/AcDb2dPolyline.html)
             - [AcDb3dPolyline](/classes/AcDb3dPolyline.html)
@@ -900,6 +899,6 @@ status: Beta
           - [SZCOScript-Features-ProfileCut](/classes/SZCOScript-Features-ProfileCut.html)
       - [***SZCOScript-ModelGroups***](/classes/SZCOScript-ModelGroups.html)
 
-Version:  1.29.0
+Version:  1.30.0
 <br>
-Date: 20260511.1718
+Date: 20260514.1309

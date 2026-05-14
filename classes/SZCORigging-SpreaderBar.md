@@ -23,7 +23,6 @@ Spreader Bar Object
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| LABEL | [Comment](Comment.html) |  |
 | WOR | [Real](Real.html) |  |
 | WLL | [Real](Real.html) |  |
 | UWIDTH | [Real](Real.html) |  |

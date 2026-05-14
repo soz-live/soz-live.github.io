@@ -23,7 +23,6 @@ Rigging Shackle Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| LABEL | [Comment](Comment.html) |  |
 | MODEL | [SZCERiggingDef-Shackle](SZCERiggingDef-Shackle.html) |  |
 | ENDFLIP | [Boolean](Boolean.html) |  |
 | SIDEFLIP | [Boolean](Boolean.html) |  |

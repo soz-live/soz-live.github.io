@@ -23,7 +23,6 @@ Rigging 1xL Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| LABEL | [Comment](Comment.html) |  |
 | LEG | [SZCERigging-Leg](SZCERigging-Leg.html) |  |
 | BASE | [SZGEPoint](SZGEPoint.html) |  |
 | DX | [Real](Real.html) |  |

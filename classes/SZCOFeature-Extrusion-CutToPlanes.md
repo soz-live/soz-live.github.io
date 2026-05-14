@@ -1,9 +1,9 @@
 
-# Class:	SZCOFeature-Extrusion-CutOut
+# Class:	SZCOFeature-Extrusion-CutToPlanes
 
 ### Description:
 
-Extruded Face, Cut Out Class
+Extrusion, CutToPlanes Class
 
 
 
@@ -19,15 +19,16 @@ Extruded Face, Cut Out Class
 | Abstract?: | No |
 | isValue?: | No |
 
-### SZCOFeature-Extrusion-CutOut-Make
+### SZCOFeature-Extrusion-CutToPlanes-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | PLANES | [List:SZCEPlane](SZCEPlane.html) |  |
+| FLIPPED | [Boolean](Boolean.html) | Flip Normal |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
 | | | |
-| Returns: | [SZCOFeature-Extrusion-CutOut](SZCOFeature-Extrusion-CutOut.html) | |
-| Help: | | Make a Face Cut out |
+| Returns: | [SZCOFeature-Extrusion-CutToPlanes](SZCOFeature-Extrusion-CutToPlanes.html) | |
+| Help: | | Make a Face CutToPlanes |
 
 
 ## Functions:

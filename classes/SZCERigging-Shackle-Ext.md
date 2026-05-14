@@ -23,7 +23,6 @@ Rigging Shackle-Ext Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| LABEL | [Comment](Comment.html) |  |
 | MODEL | [SZCERigging-ExternalItem](SZCERigging-ExternalItem.html) |  |
 | ENDFLIP | [Boolean](Boolean.html) |  |
 | SIDEFLIP | [Boolean](Boolean.html) |  |

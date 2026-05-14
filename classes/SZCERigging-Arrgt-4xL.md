@@ -23,7 +23,6 @@ Rigging 4xL Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| LABEL | [Comment](Comment.html) |  |
 | LEG | [SZCERigging-Leg](SZCERigging-Leg.html) |  |
 | BASELL | [SZGEPoint](SZGEPoint.html) |  |
 | BASEUR | [SZGEPoint](SZGEPoint.html) |  |

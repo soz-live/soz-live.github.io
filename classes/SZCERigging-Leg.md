@@ -23,7 +23,6 @@ Rigging Leg Class - Top to Bottom
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| LABEL | [Comment](Comment.html) |  |
 | ITEMS | [List:SZCERigging-Item](SZCERigging-Item.html) |  |
 | | | |
 | Returns: | [SZCERigging-Leg](SZCERigging-Leg.html) | |

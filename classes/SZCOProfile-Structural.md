@@ -23,7 +23,6 @@ Structural Profile
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| LABEL | [Comment](Comment.html) |  |
 | LOOP | [SZGELoop](SZGELoop.html) |  |
 | ALIGN | [Enum-AcDbAlignment](Enum-AcDbAlignment.html) |  |
 | ZAROT | [Deg](Deg.html) |  |

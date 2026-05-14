@@ -23,7 +23,6 @@ Rigging 2xL-SB-2x1xL Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| LABEL | [Comment](Comment.html) |  |
 | ULEG | [SZCERigging-Leg](SZCERigging-Leg.html) |  |
 | SB0 | [SZCERigging-SpreaderBar](SZCERigging-SpreaderBar.html) |  |
 | LLEG | [SZCERigging-Leg](SZCERigging-Leg.html) |  |

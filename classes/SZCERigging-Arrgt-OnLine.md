@@ -23,7 +23,6 @@ Rigging Arrgt OnLine Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| LABEL | [Comment](Comment.html) |  |
 | LEG | [SZCERigging-Leg](SZCERigging-Leg.html) |  |
 | LINE | [AcDbLine](AcDbLine.html) |  |
 | FLIPPED | [Boolean](Boolean.html) | is Flipped? |

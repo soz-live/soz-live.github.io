@@ -64,6 +64,6 @@ status: Beta
                     - [SZLPInteger](/classes/SZLPInteger.html)
                       - [SZLPInteger-Random](/classes/SZLPInteger-Random.html)
 
-Version:  1.29.0
+Version:  1.30.0
 <br>
-Date: 20260511.1719
+Date: 20260514.1309

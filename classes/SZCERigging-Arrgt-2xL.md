@@ -23,7 +23,6 @@ Rigging 2xL Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| LABEL | [Comment](Comment.html) |  |
 | LEG | [SZCERigging-Leg](SZCERigging-Leg.html) |  |
 | BASE0 | [SZGEPoint](SZGEPoint.html) |  |
 | BASE1 | [SZGEPoint](SZGEPoint.html) |  |

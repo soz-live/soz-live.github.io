@@ -23,7 +23,6 @@ Rigging Chain Assy Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| LABEL | [Comment](Comment.html) |  |
 | LOR | [Real](Real.html) |  |
 | WOR | [Real](Real.html) |  |
 | WLL | [Real](Real.html) |  |

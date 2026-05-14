@@ -23,7 +23,6 @@ Rigging WireGrommet Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| LABEL | [Comment](Comment.html) |  |
 | MODEL | [SZCERiggingDef-Link](SZCERiggingDef-Link.html) |  |
 | | | |
 | Returns: | [SZCERigging-WireGrommet](SZCERigging-WireGrommet.html) | |

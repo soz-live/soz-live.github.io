@@ -64,6 +64,6 @@ For a list of functionality contained within each repo - click on the link.
 
 {% include csvtable.html id=site.data.releases %}
 
-Version:  1.29.0
+Version:  1.30.0
 <br>
-Date: 20260511.1718
+Date: 20260514.1309
