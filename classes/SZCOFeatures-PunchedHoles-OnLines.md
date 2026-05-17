@@ -12,7 +12,7 @@ Holes on Lines
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZCOFeatures-Part](SZCOFeatures-Part.html) |
+| Superclass: | [SZCOFeatures-Boolean](SZCOFeatures-Boolean.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |

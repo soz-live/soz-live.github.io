@@ -12,7 +12,7 @@ SZCOFeature-Toolbody Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZCOFeature-Part](SZCOFeature-Part.html) |
+| Superclass: | [SZCOFeature-Boolean](SZCOFeature-Boolean.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |

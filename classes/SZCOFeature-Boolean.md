@@ -1,9 +1,9 @@
 
-# Class:	SZCOFeature-ProfileCut
+# Class:	SZCOFeature-Boolean
 
 ### Description:
 
-Profile Cut Feature
+Base Boolean Feature
 
 
 
@@ -13,21 +13,11 @@ Profile Cut Feature
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOFeature-Part](SZCOFeature-Part.html) |
-| Subclasses: |  |
+| Subclasses: | [SZCOFeature-Pattern](SZCOFeature-Pattern.html) <br> [SZCOFeature-Toolbody](SZCOFeature-Toolbody.html) <br> [SZCOFeature-CutTo](SZCOFeature-CutTo.html) <br> [SZCOFeature-3dSolid](SZCOFeature-3dSolid.html) |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | No |
+| Abstract?: | Yes |
 | isValue?: | No |
-
-### SZCOFeature-ProfileCut-Make
-
-| Keys | Types | Help |
-| --------- | --------- | --------- |
-| MREF | [SZCEModelRef](SZCEModelRef.html) |  |
-| SHOW | [Boolean](Boolean.html) | Show Feature? |
-| | | |
-| Returns: | [SZCOFeature-ProfileCut](SZCOFeature-ProfileCut.html) | |
-| Help: | | ProfileCut Feature |
 
 
 ## Functions:

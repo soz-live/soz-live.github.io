@@ -1,9 +1,9 @@
 
-# Class:	SZCOFeature-Pattern
+# Class:	SZCOFeature-CutTo
 
 ### Description:
 
-SZCOFeature-Pattern Class
+Profile CutTo Feature
 
 
 
@@ -13,7 +13,7 @@ SZCOFeature-Pattern Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOFeature-Boolean](SZCOFeature-Boolean.html) |
-| Subclasses: | [SZCOFeature-PatternedSolid](SZCOFeature-PatternedSolid.html) |
+| Subclasses: | [SZCOFeature-CutTo-InnerProfile](SZCOFeature-CutTo-InnerProfile.html) <br> [SZCOFeature-CutTo-OuterProfile](SZCOFeature-CutTo-OuterProfile.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

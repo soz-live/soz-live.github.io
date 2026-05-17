@@ -1,9 +1,9 @@
 
-# Class:	SZCOFeatures-Part
+# Class:	SZCOFeatures-Boolean
 
 ### Description:
 
-SZCOFeatures Part
+SZCOFeatures-Boolean Class
 
 
 
@@ -12,9 +12,9 @@ SZCOFeatures Part
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZCOFeatures](SZCOFeatures.html) |
-| Subclasses: | [SZCOFeatures-Boolean](SZCOFeatures-Boolean.html) |
-| Interfaces: | [SZCOFeature-Part](SZCOFeature-Part.html) |
+| Superclass: | [SZCOFeatures-Part](SZCOFeatures-Part.html) |
+| Subclasses: | [SZCOFeatures-PunchedHoles-OnLines](SZCOFeatures-PunchedHoles-OnLines.html) |
+| Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |
 | isValue?: | No |

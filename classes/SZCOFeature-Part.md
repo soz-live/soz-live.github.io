@@ -13,7 +13,7 @@ Base Part Feature
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOFeature](SZCOFeature.html) |
-| Subclasses: | [SZCOFeature-Pattern](SZCOFeature-Pattern.html) <br> [SZCOFeature-Slice](SZCOFeature-Slice.html) <br> [SZCOFeature-Toolbody](SZCOFeature-Toolbody.html) <br> [SZCOFeature-ProfileCut](SZCOFeature-ProfileCut.html) <br> [SZCOFeature-3dSolid](SZCOFeature-3dSolid.html) |
+| Subclasses: | [SZCOFeature-Slice](SZCOFeature-Slice.html) <br> [SZCOFeature-Boolean](SZCOFeature-Boolean.html) |
 | Interfaces: |  |
 | Interfaced: | [SZCOFeatures-Part](SZCOFeatures-Part.html) |
 | Abstract?: | Yes |

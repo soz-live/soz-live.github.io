@@ -1,9 +1,9 @@
 
-# Class:	SZCOScript-Features-Parts
+# Class:	SZCOScript-Features-CutTo-InnerProfile
 
 ### Description:
 
-Features
+Profile Cuts
 
 
 
@@ -12,12 +12,22 @@ Features
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZCOScript-Features](SZCOScript-Features.html) |
-| Subclasses: | [SZCOScript-Features-CutTo-InnerProfile](SZCOScript-Features-CutTo-InnerProfile.html) <br> [SZCOScript-Features-CutTo-OuterProfile](SZCOScript-Features-CutTo-OuterProfile.html) |
-| Interfaces: | [List:SZCOFeature](List:SZCOFeature.html) |
+| Superclass: | [SZCOScript-Features-Parts](SZCOScript-Features-Parts.html) |
+| Subclasses: |  |
+| Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | Yes |
+| Abstract?: | No |
 | isValue?: | No |
+
+### SZCOScript-Features-CutTo-InnerProfile-Make
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| CUTTO | [SZCEModelRef](SZCEModelRef.html) |  |
+| MREFS | [Set:SZCEModelRef](SZCEModelRef.html) |  |
+| | | |
+| Returns: | [Set:SZCEModelRef](SZCEModelRef.html) | |
+| Help: | | Multiple CutTo-InnerProfiles using one Cutter |
 
 
 ## Functions:

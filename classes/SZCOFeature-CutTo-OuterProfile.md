@@ -1,9 +1,9 @@
 
-# Class:	SZCOFeature-Pattern
+# Class:	SZCOFeature-CutTo-OuterProfile
 
 ### Description:
 
-SZCOFeature-Pattern Class
+Profile Cut Feature
 
 
 
@@ -12,12 +12,22 @@ SZCOFeature-Pattern Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZCOFeature-Boolean](SZCOFeature-Boolean.html) |
-| Subclasses: | [SZCOFeature-PatternedSolid](SZCOFeature-PatternedSolid.html) |
+| Superclass: | [SZCOFeature-CutTo](SZCOFeature-CutTo.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | Yes |
+| Abstract?: | No |
 | isValue?: | No |
+
+### SZCOFeature-CutTo-OuterProfile-Make
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| MREF | [SZCEModelRef](SZCEModelRef.html) |  |
+| SHOW | [Boolean](Boolean.html) | Show Feature? |
+| | | |
+| Returns: | [SZCOFeature-CutTo-OuterProfile](SZCOFeature-CutTo-OuterProfile.html) | |
+| Help: | | CutTo-OuterProfileFeature |
 
 
 ## Functions:

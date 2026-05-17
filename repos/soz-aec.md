@@ -39,13 +39,14 @@ status: Beta
           - [***SZCEMech***](/classes/SZCEMech.html)
         - [***SZCOFeature***](/classes/SZCOFeature.html)
           - [***SZCOFeature-Part***](/classes/SZCOFeature-Part.html)
-            - [SZCOFeature-3dSolid](/classes/SZCOFeature-3dSolid.html)
-              - [SZCOFeature-Extrusion-CutToPlanes](/classes/SZCOFeature-Extrusion-CutToPlanes.html)
+            - [***SZCOFeature-Boolean***](/classes/SZCOFeature-Boolean.html)
+              - [SZCOFeature-3dSolid](/classes/SZCOFeature-3dSolid.html)
+                - [SZCOFeature-Extrusion-CutToPlanes](/classes/SZCOFeature-Extrusion-CutToPlanes.html)
       - [***SZCOObjects***](/classes/SZCOObjects.html)
         - [***SZCEEntities***](/classes/SZCEEntities.html)
           - [***SZCESections***](/classes/SZCESections.html)
             - [SZCESections-OnCurve-Chainage-Exported](/classes/SZCESections-OnCurve-Chainage-Exported.html)
 
-Version:  1.30.0
+Version:  1.30.1
 <br>
-Date: 20260514.1309
+Date: 20260517.1426

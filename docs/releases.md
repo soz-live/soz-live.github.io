@@ -9,10 +9,9 @@ layout: default
 
 - Releases
   - [Introduction](#introduction)
-  - [Details](#details)
   - [CORE](#core)
   - [BASE](#base)
-  - [AEC](#aec)  
+  - [ADD](#add)  
   - [ALL](#all)    
   - [DEV](#dev)
   - [Table](#table)
@@ -34,20 +33,14 @@ This release combines the core functionality of the **soz-live** repo with the *
 This release builds on the **CORE** release and adds in additional classes and functionality.  
 
 
-## AEC
+## ADD
 
-This release builds on the **BASE** release and adds in additional classes and functionality for AEC.
-
-
-## RIG
-
-This release builds on the **AEC** release and adds in additional classes and functionality for Rigging Iteams and Assemblies associated with Crane rigging arrangements.  
+This release builds on the **BASE** release and adds in additional classes and functionality for AEC functionality. It also adds functionality for Rigging Items and Assemblies associated with Crane rigging arrangements.  
 
 
 ## ALL
 
-This cumulative release includes all released classes and functionality.  
-This release adds the **soz-coders** repo the for support functions used by coders during development of the project.
+This cumulative release includes the **ADD** release classes and functionality and adds the **soz-coders** repo the for support functions used by coders during development of the project.
 
 
 ## DEV
@@ -64,6 +57,6 @@ For a list of functionality contained within each repo - click on the link.
 
 {% include csvtable.html id=site.data.releases %}
 
-Version:  1.30.0
+Version:  1.30.1
 <br>
-Date: 20260514.1309
+Date: 20260517.1426

@@ -1,5 +1,5 @@
 
-# Class:	SZCOScript-Features-ProfileCut
+# Class:	SZCOScript-Features-CutTo-OuterProfile
 
 ### Description:
 
@@ -19,15 +19,15 @@ Profile Cuts
 | Abstract?: | No |
 | isValue?: | No |
 
-### SZCOScript-Features-ProfileCut-Make
+### SZCOScript-Features-CutTo-OuterProfile-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | CUTTO | [SZCEModelRef](SZCEModelRef.html) |  |
 | MREFS | [Set:SZCEModelRef](SZCEModelRef.html) |  |
 | | | |
-| Returns: | [SZCOScript-Features-ProfileCut](SZCOScript-Features-ProfileCut.html) | |
-| Help: | | Multiple ProfileCuts using one Cutter |
+| Returns: | [Set:SZCEModelRef](SZCEModelRef.html) | |
+| Help: | | Multiple CutTo-OuterProfiles using one Cutter |
 
 
 ## Functions:

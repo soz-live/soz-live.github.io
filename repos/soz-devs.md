@@ -37,6 +37,6 @@ status: Beta
         - [***SZDODocs***](/classes/SZDODocs.html)
           - [***SZDODocs-CSV***](/classes/SZDODocs-CSV.html)
 
-Version:  1.30.0
+Version:  1.30.1
 <br>
-Date: 20260514.1309
+Date: 20260517.1426
