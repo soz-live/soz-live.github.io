@@ -2,22 +2,13 @@
 layout: default
 accordion: 
   - title: "Why choose Y as the shortcut for SOZ?"
-    content: "The 'Y' key is the only key not used in CAD as a standard keyboard shortcut.  
+    content: "The 'Y' key is the only key not used in CAD as a standard keyboard shortcut.<br>
       Refer to the list of [Commands](/docs/commands.html) available for the project."
   - title: "What is an Object?"
-    content: "An Object is a self contained thing.  
-      It is an instance of a Class, created at run-time by a Make function.  
-      It is passed and referenced as an ID.  
-      Nearly everything created in **SOZ** can be classed as an 'Object' of a particular Class.  
-      Including:
-      
-        Value Objects  
-        Entities  
-        Lines  
-        Circles  
-        Parts  
-        Features  
-      
+    content: "An Object is a self contained thing.<br>
+      It is an instance of a Class, created at run-time.<br>
+      And is passed and referenced as an ID.<br>
+      Nearly everything created in **SOZ** can be classed as an 'Object' of a particular Class.<br>
       Refer to the [Glossary](/docs/glossary.html) for additional definitions used in the project." 
       
 ---
