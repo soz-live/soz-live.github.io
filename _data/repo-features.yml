@@ -12,22 +12,22 @@ soz-live:
         - name: Delete Objects    
         - name: Convert Objects
     - area: Lisp
-      note: Lisp functionality built in
+      note: Built in native Lisp functionality
       features:
         - name: Numbers
         - name: Strings
         - name: Boolean  
         - name: Enums    
         - name: Files    
-        - name: Lists
+        - name: [Lists](#lists)
         - name: AxObjects
     - area: Lists
-      note: List functionality built in.
+      note: Lisp List classes:
       features:
         - name: Array
         - name: Alist
         - name: Structure  
-        - name: Geometry
+        - name: [Geometry](#geometry)
         - name: Tree
     - area: Geometry
       note: Geometric values and objects
@@ -39,26 +39,23 @@ soz-live:
         - name: TMatrix
         - name: Points  
         - name: Face
-        - name: 2D Curve
-        - name: Loop
-        - name: 3D Curve  
+        - name: [Loops](#loops)
         - name: Line
         - name: Patterns
-    - area: Loop
-      note: Geometric 2D Curve Objects
+    - area: Loops
+      note: Geometric Curve Objects
       features:
         - name: Polyline
         - name: Points
-        - name: Shape
         - name: Polar Curve
         - name: Planar Curve
         - name: Points  
         - name: Face
         - name: 2D Curve
-        - name: Loop 
+        - name: [Shapes](#shapes)
         - name: 3D Curve  
         - name: Line    
-    - area: Shape
+    - area: Shapes
       note: Parametric 2D Curves
       features:
         - name: C Shapes
@@ -70,34 +67,34 @@ soz-live:
         - name: Rectangular Shapes
         - name: Square
         - name: Slot 
-        - name: Purlins 
+        - name: C & Z Purlins 
     - area: Entities
       note: Parametric CAD Entities
       features:
         - name: XLine
         - name: Ray
         - name: Region  
-        - name: 3DSolid
+        - name: [3DSolids](#3dsolids)
         - name: Text
         - name: MText  
         - name: Attributes
         - name: Blocks
-        - name: Curves
+        - name: [Curves](#curves)
         - name: Point
         - name: Plane 
         - name: UCS
     - area: Profiles
-      note: 2D Entities used for the creation of Solids
+      note: 2D Regions used for the creation of 3D Solids
       features:
         - name: Circle Entity
         - name: Polyline Entity
         - name: Circle
-        - name: Loop
+        - name: [Loops](#loops)
         - name: Pipe (CHS)
         - name: Planar Curve
         - name: RHS
-    - area: 3D Solids
-      note: Parametric 3D Solids
+    - area: 3DSolids
+      note: Parametric 3DSolids
       features:
         - name: Box
         - name: Cone
@@ -120,16 +117,16 @@ soz-live:
         - name: Arc - 3x Point
         - name: Arc - Offset
         - name: Circle  
-        - name: Circle 3x Points
+        - name: Circle - 3x Points
         - name: Circle - Offset
         - name: Ellipse  
         - name: Line
     - area: Multiple Entities
       note: Multiple CAD Entities
       features:
-        - name: Grids
+        - name: Grids - Rectangular & Circular
         - name: Pattern
-        - name: Planes  
+        - name: Planes
         - name: Planes - Levels
         - name: Points
         - name: Sections  
@@ -140,24 +137,27 @@ soz-live:
     - area: Modelling
       note: 3D parametric solid modelling.
       features:
-        - name: Feature
-        - name: Part
+        - name: [Features](#features)
+        - name: [Parts](#parts)
         - name: Assembly
+        - name: Group
+        - name: Element     
     - area: Features
       note: Modelling features
       features:
         - name: Boolean Solids
-        - name: Chamfers and Fillets
+        - name: Edges - Chamfers and Fillets
         - name: Slicing to Planes
-        - name: Profile cuts
+        - name: Profile Cuts
         - name: Boolean Toolbodies
+        - name: Boolean Patterns        
     - area: Parts
-      note: 3D parametric Parts
+      note: 3D parametric Part Modelling
       features:
-        - name: Planar
+        - name: Planar Extrusion
         - name: Sweep
         - name: Sphere
-        - name: Filleted Sweep      
+        - name: Filleted 3dPolyline Sweep      
         - name: PolySolid
     - area: User Interfaces
       note: UI functionality built in,
@@ -298,8 +298,8 @@ soz-bsys:
         - name: Curves
         - name: Faces
         - name: Meshes      
-        - name: Solid Entities
-    - area: 3D Solids
+        - name: [3DSolids](#3dsolids)
+    - area: 3DSolids
       note: 3D Solid classes from TINs
       features:      
         - name: Between TINs
@@ -315,8 +315,8 @@ soz-structural:
       note: Structural Elements of the Model
       features:      
         - name: Footing
-        - name: Members
-        - name: Connections
+        - name: [Members](#members)
+        - name: [Connections](#connections)
         - name: Plates
     - area: Members
       note: Structural Members
@@ -378,7 +378,7 @@ soz-slings:
         - name: Twisted Sling
         
 soz-animate:
-  note: Module for the animation of models
+  note: Module for the animation of models (Work in progress)
   areas:
     - area: Animation
       note: Animation classes
