@@ -19,7 +19,7 @@ soz-live:
         - name: Boolean  
         - name: Enums    
         - name: Files    
-        - name: [Lists](#lists)
+        - name: Lists
         - name: AxObjects
     - area: Lists
       note: Lisp List classes:
@@ -27,7 +27,7 @@ soz-live:
         - name: Array
         - name: Alist
         - name: Structure  
-        - name: [Geometry](#geometry)
+        - name: Geometry
         - name: Tree
     - area: Geometry
       note: Geometric values and objects
@@ -39,7 +39,7 @@ soz-live:
         - name: TMatrix
         - name: Points  
         - name: Face
-        - name: [Loops](#loops)
+        - name: Loops
         - name: Line
         - name: Patterns
     - area: Loops
@@ -52,7 +52,7 @@ soz-live:
         - name: Points  
         - name: Face
         - name: 2D Curve
-        - name: [Shapes](#shapes)
+        - name: Shapes
         - name: 3D Curve  
         - name: Line    
     - area: Shapes
@@ -74,12 +74,12 @@ soz-live:
         - name: XLine
         - name: Ray
         - name: Region  
-        - name: [3DSolids](#3dsolids)
+        - name: 3DSolids
         - name: Text
         - name: MText  
         - name: Attributes
         - name: Blocks
-        - name: [Curves](#curves)
+        - name: Curves
         - name: Point
         - name: Plane 
         - name: UCS
@@ -89,7 +89,7 @@ soz-live:
         - name: Circle Entity
         - name: Polyline Entity
         - name: Circle
-        - name: [Loops](#loops)
+        - name: Loops
         - name: Pipe (CHS)
         - name: Planar Curve
         - name: RHS
@@ -137,8 +137,8 @@ soz-live:
     - area: Modelling
       note: 3D parametric solid modelling.
       features:
-        - name: [Features](#features)
-        - name: [Parts](#parts)
+        - name: Features
+        - name: Parts
         - name: Assembly
         - name: Group
         - name: Element     
@@ -298,7 +298,7 @@ soz-bsys:
         - name: Curves
         - name: Faces
         - name: Meshes      
-        - name: [3DSolids](#3dsolids)
+        - name: 3DSolids
     - area: 3DSolids
       note: 3D Solid classes from TINs
       features:      
@@ -315,8 +315,8 @@ soz-structural:
       note: Structural Elements of the Model
       features:      
         - name: Footing
-        - name: [Members](#members)
-        - name: [Connections](#connections)
+        - name: Members
+        - name: Connections
         - name: Plates
     - area: Members
       note: Structural Members
