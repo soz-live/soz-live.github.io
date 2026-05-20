@@ -22,7 +22,7 @@ soz-live:
         - name: Lists
         - name: AxObjects
     - area: Lists
-      note: Lisp List classes:
+      note: Lisp List classes
       features:
         - name: Array
         - name: Alist
