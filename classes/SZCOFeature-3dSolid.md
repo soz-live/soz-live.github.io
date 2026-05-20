@@ -13,7 +13,7 @@ Base Solid Feature
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOFeature-Boolean](SZCOFeature-Boolean.html) |
-| Subclasses: | [SZCOFeature-Extrusion-CutToPlanes](SZCOFeature-Extrusion-CutToPlanes.html) <br> [SZCOFeature-3dSolid-Corner](SZCOFeature-3dSolid-Corner.html) <br> [SZCOFeature-3dSolid-Intersection](SZCOFeature-3dSolid-Intersection.html) <br> [SZCOFeature-3dSolid-Union](SZCOFeature-3dSolid-Union.html) <br> [SZCOFeature-3dSolid-Subtraction](SZCOFeature-3dSolid-Subtraction.html) |
+| Subclasses: | [SZCOFeature-Extrusion-CutToPlanes](SZCOFeature-Extrusion-CutToPlanes.html) <br> [SZCOFeature-3dSolid-Edge](SZCOFeature-3dSolid-Edge.html) <br> [SZCOFeature-3dSolid-Intersection](SZCOFeature-3dSolid-Intersection.html) <br> [SZCOFeature-3dSolid-Union](SZCOFeature-3dSolid-Union.html) <br> [SZCOFeature-3dSolid-Subtraction](SZCOFeature-3dSolid-Subtraction.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

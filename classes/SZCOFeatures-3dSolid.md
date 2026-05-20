@@ -12,7 +12,7 @@ SZCOFeatures 3dSolid
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZCOFeatures-Part](SZCOFeatures-Part.html) |
+| Superclass: | [SZCOFeatures-Boolean](SZCOFeatures-Boolean.html) |
 | Subclasses: | [SZCOFeatures-Random-Spheres](SZCOFeatures-Random-Spheres.html) |
 | Interfaces: |  |
 | Interfaced: |  |

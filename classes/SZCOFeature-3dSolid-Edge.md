@@ -1,9 +1,9 @@
 
-# Class:	SZCOFeature-3dSolid-Corner
+# Class:	SZCOFeature-3dSolid-Edge
 
 ### Description:
 
-Solid Corner Treatment Feature
+Solid Edge Treatment Feature
 
 
 
@@ -19,12 +19,12 @@ Solid Corner Treatment Feature
 | Abstract?: | No |
 | isValue?: | No |
 
-### SZCOFeature-3dSolid-Corner-Make
+### SZCOFeature-3dSolid-Edge-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | PATH | [AcDbCurve](AcDbCurve.html) |  |
-| SHAPE | [SZGEShape-Corner](SZGEShape-Corner.html) |  |
+| SHAPE | [SZGEShape-Edge](SZGEShape-Edge.html) |  |
 | ANG | [Deg](Deg.html) | Angle |
 | OPERATION | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |

@@ -1,9 +1,9 @@
 
-# Class:	SZGEShape-Corner
+# Class:	SZGEShape-Edge
 
 ### Description:
 
-Corner Shape
+Edge Shape
 
 
 
@@ -19,7 +19,7 @@ Corner Shape
 | Abstract?: | No |
 | isValue?: | Yes |
 
-### SZGEShape-Corner-Make
+### SZGEShape-Edge-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
@@ -28,8 +28,8 @@ Corner Shape
 | ANG | [Deg](Deg.html) | Included Angle |
 | BULGE | [Boolean](Boolean.html) |  |
 | | | |
-| Returns: | [SZGEShape-Corner](SZGEShape-Corner.html) | |
-| Help: | | Corner Shape |
+| Returns: | [SZGEShape-Edge](SZGEShape-Edge.html) | |
+| Help: | | Edge Shape |
 
 
 ## Functions:

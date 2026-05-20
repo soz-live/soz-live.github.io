@@ -13,7 +13,7 @@ SZCOFeatures-Boolean Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOFeatures-Part](SZCOFeatures-Part.html) |
-| Subclasses: | [SZCOFeatures-PunchedHoles-OnLines](SZCOFeatures-PunchedHoles-OnLines.html) |
+| Subclasses: | [SZCOFeatures-3dSolid](SZCOFeatures-3dSolid.html) <br> [SZCOFeatures-PunchedHoles-OnLines](SZCOFeatures-PunchedHoles-OnLines.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

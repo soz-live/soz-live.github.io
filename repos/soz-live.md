@@ -423,7 +423,7 @@ status: Beta
           - [***SZCOFeature-Part***](/classes/SZCOFeature-Part.html)
             - [***SZCOFeature-Boolean***](/classes/SZCOFeature-Boolean.html)
               - [SZCOFeature-3dSolid](/classes/SZCOFeature-3dSolid.html)
-                - [SZCOFeature-3dSolid-Corner](/classes/SZCOFeature-3dSolid-Corner.html)
+                - [SZCOFeature-3dSolid-Edge](/classes/SZCOFeature-3dSolid-Edge.html)
                 - [SZCOFeature-3dSolid-Intersection](/classes/SZCOFeature-3dSolid-Intersection.html)
                 - [SZCOFeature-3dSolid-Subtraction](/classes/SZCOFeature-3dSolid-Subtraction.html)
                 - [SZCOFeature-3dSolid-Union](/classes/SZCOFeature-3dSolid-Union.html)
@@ -536,6 +536,7 @@ status: Beta
           - [***SZCOFeatures***](/classes/SZCOFeatures.html)
             - [***SZCOFeatures-Part***](/classes/SZCOFeatures-Part.html)
               - [***SZCOFeatures-Boolean***](/classes/SZCOFeatures-Boolean.html)
+                - [***SZCOFeatures-3dSolid***](/classes/SZCOFeatures-3dSolid.html)
                 - [SZCOFeatures-PunchedHoles-OnLines](/classes/SZCOFeatures-PunchedHoles-OnLines.html)
     - [SZOBObject-Method](/classes/SZOBObject-Method.html)
     - [***SZOBObject-Value***](/classes/SZOBObject-Value.html)
@@ -560,7 +561,7 @@ status: Beta
                   - [SZGEShape-ColdChannel](/classes/SZGEShape-ColdChannel.html)
                   - [SZGEShape-ParallelChannel](/classes/SZGEShape-ParallelChannel.html)
                 - [SZGEShape-Circle](/classes/SZGEShape-Circle.html)
-                - [SZGEShape-Corner](/classes/SZGEShape-Corner.html)
+                - [SZGEShape-Edge](/classes/SZGEShape-Edge.html)
                   - [SZGEShape-Chamfer](/classes/SZGEShape-Chamfer.html)
                   - [SZGEShape-Fillet](/classes/SZGEShape-Fillet.html)
                 - [SZGEShape-Hat](/classes/SZGEShape-Hat.html)
@@ -903,6 +904,6 @@ status: Beta
           - [SZCOScript-Features-CutTo-OuterProfile](/classes/SZCOScript-Features-CutTo-OuterProfile.html)
       - [***SZCOScript-ModelGroups***](/classes/SZCOScript-ModelGroups.html)
 
-Version:  1.30.1
+Version:  1.30.2
 <br>
-Date: 20260517.1426
+Date: 20260520.2005

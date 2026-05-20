@@ -41,6 +41,11 @@ status: Beta
             - [***SZCEPointCloud***](/classes/SZCEPointCloud.html)
               - [SZCEPointCloud-Random](/classes/SZCEPointCloud-Random.html)
               - [SZCEPointCloud-Random-Spherical](/classes/SZCEPointCloud-Random-Spherical.html)
+          - [***SZCOFeatures***](/classes/SZCOFeatures.html)
+            - [***SZCOFeatures-Part***](/classes/SZCOFeatures-Part.html)
+              - [***SZCOFeatures-Boolean***](/classes/SZCOFeatures-Boolean.html)
+                - [***SZCOFeatures-3dSolid***](/classes/SZCOFeatures-3dSolid.html)
+                  - [SZCOFeatures-Random-Spheres](/classes/SZCOFeatures-Random-Spheres.html)
     - [***SZOBValue***](/classes/SZOBValue.html)
       - [***SZGEObjects***](/classes/SZGEObjects.html)
         - [***SZGEMatrices***](/classes/SZGEMatrices.html)
@@ -60,6 +65,6 @@ status: Beta
                     - [SZLPInteger](/classes/SZLPInteger.html)
                       - [SZLPInteger-Random](/classes/SZLPInteger-Random.html)
 
-Version:  1.30.1
+Version:  1.30.2
 <br>
-Date: 20260517.1426
+Date: 20260520.2005
