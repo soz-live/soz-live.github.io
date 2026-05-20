@@ -19,7 +19,7 @@ soz-live:
         - name: Boolean  
         - name: Enums    
         - name: Files    
-        - name: Lists
+        - name: [Lists](#lists)
         - name: AxObjects
     - area: Lists
       note: Lisp List classes
