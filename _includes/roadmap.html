@@ -1,0 +1,32 @@
+<div>    
+    <div>
+      {% for repo in include.roadmap %}  
+      
+      <h2>{{ repo.repo }}</h2>  
+      
+      <p>{{ repo.note }}</p>
+    
+      {% for area in repo.areas %}
+      
+      <h3>{{ area.area }}</h3>  
+      
+      <p>{{ area.note }}</p>
+    
+        {% for feature in area.features %}          
+        <h4>{{ feature.name }}</h4>
+        <p>Description: {{ feature.note }}</p>
+        <p>Reason: {{ feature.reason }}</p>
+        <p>Prioriy: {{ feature.priority }}</p>
+        <p>Status: {{ feature.status }}</p>
+        <p>Date: {{ feature.date }}</p>
+        <p>Release: {{ feature.release }}</p>
+        
+        {% endfor %}
+      
+      {% endfor %}
+      
+      {% endfor %}
+
+      </div>  
+</div>    
+

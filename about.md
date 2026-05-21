@@ -96,7 +96,7 @@ The project is currently closed source and in **Private Beta**, with work still 
 ### Future
 
 The aim is to move to Open Source when a mature v2.0 product is released in 2026.  
-The roadmap includes a list of potential areas, features and functionality for further development.  
+The [Roadmap](/docs/roadmap.html) includes a list of potential areas, features and functionality for further development.  
 The expansion of the community will also enable further growth and development of the project.  
 
 

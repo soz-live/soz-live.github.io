@@ -1,0 +1,39 @@
+- repo: soz-live
+  note: Improvements to the core repo
+  areas:
+    - area: General
+      note: General additional Features.
+      features:
+        - name: Testing
+          note: Testing suite for soz-live
+          reason: to simplify development and testing of functionality
+          priority: Low
+          status: Envisage
+          date: unknown
+          release: unknown
+- repo: soz-files
+  note: Improvements to the files repo
+  areas:
+    - area: UI
+      note: User Interface Features.
+      features:
+        - name: Dialog Box
+          note: Dialog for the selection of objects, entties etc to be included in the output
+          reason: to improve the UI for the users
+          priority: Medium
+          status: Envisage
+          date: unknown
+          release: unknown 
+# soz-macro:
+# soz-history:
+# soz-misc:
+# soz-random:
+# soz-odbx:
+# soz-aec:
+# soz-bsys:
+# soz-structural:
+# soz-rigging:
+# soz-slings:
+#soz-animate:        
+#soz-coders:
+#- soz-devs:
