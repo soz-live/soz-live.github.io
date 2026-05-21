@@ -7,7 +7,7 @@
       <p>{{ entry.note }}</p>
       <ul>      
         {% for feature in entry.features %}          
-        <li>{{ feature.name }}</li>
+        <li>{{ feature.name | markdownify }}</li>
         {% endfor %}
       </ul>
       

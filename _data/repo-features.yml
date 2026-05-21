@@ -19,7 +19,7 @@ soz-live:
         - name: Boolean  
         - name: Enums    
         - name: Files    
-        - name: Lists
+        - name: "[Lists](#lists)"
         - name: AxObjects
     - area: Lists
       note: Lisp List classes
@@ -27,7 +27,7 @@ soz-live:
         - name: Array
         - name: Alist
         - name: Structure  
-        - name: Geometry
+        - name: "[Geometry](#geometry)"
         - name: Tree
     - area: Geometry
       note: Geometric values and objects
@@ -39,10 +39,10 @@ soz-live:
         - name: TMatrix
         - name: Points  
         - name: Face
-        - name: Loops
+        - name: Loop
         - name: Line
         - name: Patterns
-    - area: Loops
+    - area: Loop
       note: Geometric Curve Objects
       features:
         - name: Polyline
@@ -52,10 +52,10 @@ soz-live:
         - name: Points  
         - name: Face
         - name: 2D Curve
-        - name: Shapes
+        - name: Shape
         - name: 3D Curve  
         - name: Line    
-    - area: Shapes
+    - area: Shape
       note: Parametric 2D Curves
       features:
         - name: C Shapes
