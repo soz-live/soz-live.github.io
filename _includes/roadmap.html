@@ -2,25 +2,26 @@
     <div>
       {% for repo in include.roadmap %}  
       
-      <h2>{{ repo.repo }}</h2>  
+      <h2>Repo: {{ repo.repo }}</h2>  
       
       <p>{{ repo.note }}</p>
     
       {% for area in repo.areas %}
       
-      <h3>{{ area.area }}</h3>  
+      <h3>Area: {{ area.area }}</h3>  
       
       <p>{{ area.note }}</p>
     
         {% for feature in area.features %}          
-        <h4>{{ feature.name }}</h4>
-        <p>Description: {{ feature.note }}</p>
-        <p>Reason: {{ feature.reason }}</p>
-        <p>Prioriy: {{ feature.priority }}</p>
-        <p>Status: {{ feature.status }}</p>
-        <p>Date: {{ feature.date }}</p>
-        <p>Release: {{ feature.release }}</p>
+        <h4>Feature: {{ feature.name }}</h4>
+        <p><b>Description: </b>{{ feature.note }}</p>
+        <p><b>Reason: </b>{{ feature.reason }}</p>
+        <p><b>Prioriy: </b>{{ feature.priority }}</p>
+        <p><b>Status: </b>{{ feature.status }}</p>
+        <p><b>Date: </b>{{ feature.date }}</p>
+        <p><b>Release: </b>{{ feature.release }}</p>
         
+        <hr>
         {% endfor %}
       
       {% endfor %}
