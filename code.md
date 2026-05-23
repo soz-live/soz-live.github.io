@@ -2,23 +2,22 @@
 layout: default
 ---
 
-# GitHub
+# Code
 
 ## Contents
 
-- GitHub
-  - [Code](#code)
+- Code
+  - [GitHub](#github)
   - [Status](#status)
   - [Quickstart](#quickstart)
   - [Code of Conduct](#code-of-conduct)
   - [Contributions](#contributions)
   - [License](#license)
-  - [Sponsoring](#sponsoring)
   
 
-## Code
+## GitHub
 
-The codebase is stored on GitHub [here](https://github.com/soz-live?view_as=public).
+The codebase is stored on [GitHub](https://github.com/soz-live?view_as=public).
 
 
 ## Status
@@ -47,9 +46,3 @@ Please read the [Contributing Guide](https://github.com//soz-live//soz-releases/
 
 When released, this project will use the [MIT License](https://github.com//soz-live//soz-releases//blob//main//LICENSE.md).
 
-
-## Sponsoring
-
-To assist the team to continue developing the project, please consider sponsoring it.  
-
-{% include sponsor.html %}
