@@ -13,7 +13,7 @@ SZGELoop-Points Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGELoop](SZGELoop.html) |
-| Subclasses: | [SZGELoop-Facade](SZGELoop-Facade.html) <br> [SZGELoop-Face](SZGELoop-Face.html) |
+| Subclasses: | [SZGELoop-PlanesIntersect](SZGELoop-PlanesIntersect.html) <br> [SZGELoop-Face](SZGELoop-Face.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

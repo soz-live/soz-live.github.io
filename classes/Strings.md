@@ -36,5 +36,5 @@ Strings Class
 | WCM | [String](String.html) |  |
 | | | |
 | Returns: | [Strings](Strings.html) | |
-| Help: | | Filters elements of a List |
+| Help: | | Filters elements of a List of Strings |
 

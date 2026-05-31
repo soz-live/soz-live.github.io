@@ -66,6 +66,6 @@ status: Beta
       - [***SZCEScript***](/classes/SZCEScript.html)
         - [SZCEScript-NestedHypocycloid](/classes/SZCEScript-NestedHypocycloid.html)
 
-Version:  1.30.2
+Version:  1.30.5
 <br>
-Date: 20260520.2005
+Date: 20260531.1942

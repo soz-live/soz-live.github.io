@@ -1,9 +1,9 @@
 
-# Class:	SZCE3dCurve
+# Class:	SZCE3dCurve-PlaneIntersects
 
 ### Description:
 
-SZCE3dCurve Class
+SZCE3dCurve-PlaneIntersects Class
 
 
 
@@ -12,12 +12,24 @@ SZCE3dCurve Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [AcDb3dPolyline](AcDb3dPolyline.html) |
-| Subclasses: | [SZCE3dCurve-Fibonacci](SZCE3dCurve-Fibonacci.html) <br> [SZCE3dCurve-SubCurve-BaryComb](SZCE3dCurve-SubCurve-BaryComb.html) <br> [SZCE3dCurve-SubCurve-Distances](SZCE3dCurve-SubCurve-Distances.html) <br> [SZCE3dCurve-Catenary](SZCE3dCurve-Catenary.html) <br> [SZCE3dCurve-HelicalCurve](SZCE3dCurve-HelicalCurve.html) <br> [SZCE3dCurve-Helix](SZCE3dCurve-Helix.html) <br> [SZCE3dCurve-PlanarCurve](SZCE3dCurve-PlanarCurve.html) <br> [SZCE3dCurve-PlaneIntersects](SZCE3dCurve-PlaneIntersects.html) <br> [SZCE3dCurve-Transformed](SZCE3dCurve-Transformed.html) <br> [SZCE3dCurve-AcDbPolyline](SZCE3dCurve-AcDbPolyline.html) <br> [SZCE3dCurve-Flatten](SZCE3dCurve-Flatten.html) <br> [SZCE3dCurve-ProjectToPlane](SZCE3dCurve-ProjectToPlane.html) <br> [SZCE3dCurve-RadialPoints](SZCE3dCurve-RadialPoints.html) <br> [SZCE3dCurve-SZGEPoints](SZCE3dCurve-SZGEPoints.html) <br> [SZCE3dCurve-SZCEPoints](SZCE3dCurve-SZCEPoints.html) <br> [SZCE3dCurve-AcDbPoints](SZCE3dCurve-AcDbPoints.html) |
+| Superclass: | [SZCE3dCurve](SZCE3dCurve.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | Yes |
+| Abstract?: | No |
 | isValue?: | No |
+
+### SZCE3dCurve-PlaneIntersects-Make
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| SPACE | [AcDbBlock](AcDbBlock.html) | Make within Block |
+| DEFN | [SZGE3dCurve-PlaneIntersects](SZGE3dCurve-PlaneIntersects.html) |  |
+| CLOSED | [Boolean](Boolean.html) |  |
+| POLYTYPE | [Enum-AcDb3dPolylineType](Enum-AcDb3dPolylineType.html) |  |
+| | | |
+| Returns: | [AcDb3dPolyline](AcDb3dPolyline.html) | |
+| Help: | | Make a SZCE3dCurve-PlaneIntersects |
 
 
 ## Functions:

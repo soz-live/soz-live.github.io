@@ -217,4 +217,4 @@ In [SOZ](#soz) there are three UIs:
 - a [GUI](#gui), 
 - [LIVE](#live).
 
-Date: 20260520.2005
+Date: 20260531.1942

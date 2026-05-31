@@ -315,6 +315,7 @@ status: Beta
                 - [SZCE3dCurve-HelicalCurve](/classes/SZCE3dCurve-HelicalCurve.html)
                 - [SZCE3dCurve-Helix](/classes/SZCE3dCurve-Helix.html)
                 - [SZCE3dCurve-PlanarCurve](/classes/SZCE3dCurve-PlanarCurve.html)
+                - [SZCE3dCurve-PlaneIntersects](/classes/SZCE3dCurve-PlaneIntersects.html)
                 - [SZCE3dCurve-ProjectToPlane](/classes/SZCE3dCurve-ProjectToPlane.html)
                 - [SZCE3dCurve-RadialPoints](/classes/SZCE3dCurve-RadialPoints.html)
                 - [SZCE3dCurve-SZCEPoints](/classes/SZCE3dCurve-SZCEPoints.html)
@@ -552,9 +553,9 @@ status: Beta
               - [SZGELoop-AcDbPolyline](/classes/SZGELoop-AcDbPolyline.html)
                 - [SZGELoop-AcDbPolyline-OnStart](/classes/SZGELoop-AcDbPolyline-OnStart.html)
               - [SZGELoop-Points](/classes/SZGELoop-Points.html)
-                - [SZGELoop-Facade](/classes/SZGELoop-Facade.html)
                 - [SZGELoop-Face](/classes/SZGELoop-Face.html)
                   - [SZGELoop-Wall](/classes/SZGELoop-Wall.html)
+                - [SZGELoop-PlanesIntersect](/classes/SZGELoop-PlanesIntersect.html)
               - [***SZGEShape***](/classes/SZGEShape.html)
                 - [SZGEShape-CPurlin](/classes/SZGEShape-CPurlin.html)
                 - [***SZGEShape-CShape***](/classes/SZGEShape-CShape.html)
@@ -597,6 +598,7 @@ status: Beta
             - [***SZGE3dCurve-OnTMatrix***](/classes/SZGE3dCurve-OnTMatrix.html)
               - [SZGE3dCurve-Helix](/classes/SZGE3dCurve-Helix.html)
               - [SZGE3dCurve-PlanarCurve](/classes/SZGE3dCurve-PlanarCurve.html)
+            - [SZGE3dCurve-PlaneIntersects](/classes/SZGE3dCurve-PlaneIntersects.html)
             - [SZGE3dCurve-Transformed](/classes/SZGE3dCurve-Transformed.html)
             - [SZGE3dCurve-Zigzag](/classes/SZGE3dCurve-Zigzag.html)
             - [SZGELine](/classes/SZGELine.html)
@@ -904,6 +906,6 @@ status: Beta
           - [SZCOScript-Features-CutTo-OuterProfile](/classes/SZCOScript-Features-CutTo-OuterProfile.html)
       - [***SZCOScript-ModelGroups***](/classes/SZCOScript-ModelGroups.html)
 
-Version:  1.30.2
+Version:  1.30.5
 <br>
-Date: 20260520.2005
+Date: 20260531.1942

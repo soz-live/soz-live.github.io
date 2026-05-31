@@ -1,7 +1,6 @@
 Repo,Type,Status
 [soz-live](/repos/soz-live.html),Private,Beta
 [soz-files](/repos/soz-files.html),Private,Beta
-[soz-macro](/repos/soz-macro.html),Private,Beta
 [soz-history](/repos/soz-history.html),Private,Beta
 [soz-misc](/repos/soz-misc.html),Private,Beta
 [soz-random](/repos/soz-random.html),Private,Beta
@@ -12,5 +11,6 @@ Repo,Type,Status
 [soz-rigging](/repos/soz-rigging.html),Private,Beta
 [soz-slings](/repos/soz-slings.html),Private,Beta
 [soz-coders](/repos/soz-coders.html),Private,Beta
+[soz-macro](/repos/soz-macro.html),Private,Beta
 [soz-animate](/repos/soz-animate.html),Private,Alpha
 [soz-devs](/repos/soz-devs.html),Private,Beta

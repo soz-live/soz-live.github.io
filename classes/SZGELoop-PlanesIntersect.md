@@ -1,9 +1,9 @@
 
-# Class:	SZGELoop-Facade
+# Class:	SZGELoop-PlanesIntersect
 
 ### Description:
 
-SZGELoop-Facade Class
+SZGELoop-PlanesIntersect Class
 
 
 
@@ -19,16 +19,16 @@ SZGELoop-Facade Class
 | Abstract?: | No |
 | isValue?: | Yes |
 
-### SZGELoop-Facade-Make
+### SZGELoop-PlanesIntersect-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | FACE | [SZCEPlane](SZCEPlane.html) |  |
-| PLANES | [List:SZCEPlane](SZCEPlane.html) |  |
+| PLANES | [SZGEPlanes](SZGEPlanes.html) |  |
 | FLIPPED | [Boolean](Boolean.html) | is Flipped? |
 | | | |
-| Returns: | [SZGELoop-Facade](SZGELoop-Facade.html) | |
-| Help: | | Make a SZGELoop-Facade |
+| Returns: | [SZGELoop-PlanesIntersect](SZGELoop-PlanesIntersect.html) | |
+| Help: | | Make a SZGELoop-PlanesIntersect |
 
 
 ## Functions:

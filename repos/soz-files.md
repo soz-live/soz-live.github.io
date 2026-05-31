@@ -30,6 +30,6 @@ status: Beta
               - [File-DAT](/classes/File-DAT.html)
                 - [SOZFile](/classes/SOZFile.html)
 
-Version:  1.30.2
+Version:  1.30.5
 <br>
-Date: 20260520.2005
+Date: 20260531.1942

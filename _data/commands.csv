@@ -118,7 +118,6 @@ C-Object,Clone an Object
 C-Entity,Clone an Entity
 C-Part,Clone a Part
 C-Reference,Clone a Part Reference
-C-Node,Clone a Live Node
 Update,
 U-Select,Update Selected Objects
 U-All,Update All Objects
