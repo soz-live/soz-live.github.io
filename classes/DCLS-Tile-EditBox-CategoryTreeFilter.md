@@ -1,5 +1,5 @@
 
-# Class:	DCLS-Tile-EditBox-TreeFilter
+# Class:	DCLS-Tile-EditBox-CategoryTreeFilter
 
 ### Description:
 
@@ -19,7 +19,7 @@ DCL Filter
 | Abstract?: | No |
 | isValue?: | Yes |
 
-### DCLS-Tile-EditBox-TreeFilter-Make
+### DCLS-Tile-EditBox-CategoryTreeFilter-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
@@ -27,7 +27,7 @@ DCL Filter
 | VALUE | [String](String.html) |  |
 | LABEL | [String](String.html) |  |
 | | | |
-| Returns: | [DCLS-Tile-EditBox-TreeFilter](DCLS-Tile-EditBox-TreeFilter.html) | |
+| Returns: | [DCLS-Tile-EditBox-CategoryTreeFilter](DCLS-Tile-EditBox-CategoryTreeFilter.html) | |
 | Help: | | Basic DCLS-Filter Constructor |
 
 

@@ -13,7 +13,7 @@ DCL Row Structure
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [DCLS-Cluster](DCLS-Cluster.html) |
-| Subclasses: | [DCLS-Cluster-TreeFilter](DCLS-Cluster-TreeFilter.html) |
+| Subclasses: | [DCLS-Cluster-CategoryTreeFilter](DCLS-Cluster-CategoryTreeFilter.html) <br> [DCLS-Cluster-ClassTreeFilter](DCLS-Cluster-ClassTreeFilter.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

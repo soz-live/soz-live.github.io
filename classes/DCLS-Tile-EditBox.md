@@ -13,7 +13,7 @@ DCL EditBox
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [DCLS-Tile](DCLS-Tile.html) |
-| Subclasses: | [DCLS-Tile-EditBox-TreeFilter](DCLS-Tile-EditBox-TreeFilter.html) <br> [DCLS-Tile-EditBox-SelectItem-ListFilter](DCLS-Tile-EditBox-SelectItem-ListFilter.html) |
+| Subclasses: | [DCLS-Tile-EditBox-CategoryTreeFilter](DCLS-Tile-EditBox-CategoryTreeFilter.html) <br> [DCLS-Tile-EditBox-ClassTreeFilter](DCLS-Tile-EditBox-ClassTreeFilter.html) <br> [DCLS-Tile-EditBox-SelectItem-ListFilter](DCLS-Tile-EditBox-SelectItem-ListFilter.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

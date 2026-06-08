@@ -23,8 +23,8 @@ SZCEFaces-BetweenPoints Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| POINTS0 | [List:AcDbPoint](AcDbPoint.html) |  |
-| POINTS1 | [List:AcDbPoint](AcDbPoint.html) |  |
+| POINTS0 | [SZGEPoints](SZGEPoints.html) |  |
+| POINTS1 | [SZGEPoints](SZGEPoints.html) |  |
 | FLIP1 | [Boolean](Boolean.html) |  |
 | | | |
 | Returns: | [SZCEFaces-BetweenPoints](SZCEFaces-BetweenPoints.html) | |

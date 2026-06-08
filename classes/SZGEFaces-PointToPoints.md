@@ -23,8 +23,8 @@ SZGEFaces-PointToPoints Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| POINT | [AcDbPoint](AcDbPoint.html) |  |
-| POINTS | [List:AcDbPoint](AcDbPoint.html) |  |
+| POINT | [SZGEPoint](SZGEPoint.html) |  |
+| POINTS | [SZGEPoints](SZGEPoints.html) |  |
 | FLIPPED | [Boolean](Boolean.html) | is Flipped? |
 | | | |
 | Returns: | [SZGEFaces-PointToPoints](SZGEFaces-PointToPoints.html) | |

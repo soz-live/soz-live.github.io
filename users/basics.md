@@ -113,7 +113,7 @@ Where the Options vary depending upon the Class being created, but include:
 - Select - Which brings up a new dialog box to select an object of the specific Class.
 - Pick - Enables the User to select an Object on the Screen
 - Edit - Edits an existing object in a new dialog box.
-- Prompt - Use the Command Line version for creating the object.
+- Command - Use the Command Line version for creating the object.
 <br>
 
 {% include note-icon.html %}  

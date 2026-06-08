@@ -1,5 +1,5 @@
 
-# Class:	DCLS-Cluster-TreeFilter
+# Class:	DCLS-Cluster-CategoryTreeFilter
 
 ### Description:
 
@@ -19,7 +19,7 @@ DCL TreeFilter
 | Abstract?: | No |
 | isValue?: | Yes |
 
-### DCLS-Cluster-TreeFilter-Make
+### DCLS-Cluster-CategoryTreeFilter-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
@@ -27,8 +27,8 @@ DCL TreeFilter
 | VALUE | [String](String.html) |  |
 | LABEL | [String](String.html) |  |
 | | | |
-| Returns: | [DCLS-Cluster-TreeFilter](DCLS-Cluster-TreeFilter.html) | |
-| Help: | | Basic DCLS-Cluster-TreeFilter |
+| Returns: | [DCLS-Cluster-CategoryTreeFilter](DCLS-Cluster-CategoryTreeFilter.html) | |
+| Help: | | Basic DCLS-Cluster-CategoryTreeFilter |
 
 
 ## Functions:

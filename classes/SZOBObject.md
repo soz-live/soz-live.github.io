@@ -54,6 +54,6 @@ Abstract Base Class
 | OWNER | [SZOBObject](SZOBObject.html) |  |
 | INDEX | [Integer](Integer.html) |  |
 | | | |
-| Returns: | [SZOBObject-IndexOfXOBJS](SZOBObject-IndexOfXOBJS.html) | |
+| Returns: | [SZOBObject](SZOBObject.html) | |
 | Help: | | Return an Object from an IndexOfXOBJS |
 

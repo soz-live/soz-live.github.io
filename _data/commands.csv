@@ -60,6 +60,9 @@ M-Lines,Make a Lines
 M-Pattern,Make a Pattern
 M-Curves,Make a Curves
 M-Present,Make a Present
+M-LIVE,Make a LIVE
+M-LIVE-Node,Make a LIVE-Node
+M-LIVE-Link,Make a LIVE-Link
 M-Script,Make a Script
 M-Discipline,Make a Discipline
 M-Engineering,Make a Engineering
@@ -99,7 +102,7 @@ M-Sequence,Make a Sequence
 Live,
 L-Auto,Auto Layout Nodes
 L-Links,Auto Layout Links
-L-Add,Add Live Objects
+L-Command,Add/Edit Live Objects
 L-Select,Nodes from Select Dialog
 L-Pick,Nodes from Picking a Model Entity
 Edit,

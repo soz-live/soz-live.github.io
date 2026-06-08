@@ -12,7 +12,7 @@ Within each category is one or more classes that can be made by calling that com
 For example: 
 
 - The **M-Part** command will bring up a list of different types of Parts that can be made.  
-- While **M-Model** will bring up all Parts and Assemblies, Features, Groups, References that can be made. 
+- While **M-Model** will bring up all Parts and Assemblies, Features, Groups, References, etc. that can be made. 
 
 ## Category Hierarchy
 
@@ -102,6 +102,9 @@ For example:
       - Planes
       - Points
     - Present
+      - LIVE
+        - LIVE-Link
+        - LIVE-Node
     - Specify
       - Definition
       - Geometry
@@ -113,6 +116,6 @@ For example:
         - List
   - Script
 
-Version:  1.30.5
+Version:  1.30.6
 <br>
-Date: 20260531.1942
+Date: 20260608.1506

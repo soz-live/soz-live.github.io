@@ -117,8 +117,9 @@ status: Beta
                           - [DCLS-Tile-Button-SubClass](/classes/DCLS-Tile-Button-SubClass.html)
                             - [DCLS-Tile-Button-KeySubClass](/classes/DCLS-Tile-Button-KeySubClass.html)
                         - [DCLS-Tile-EditBox](/classes/DCLS-Tile-EditBox.html)
+                          - [DCLS-Tile-EditBox-CategoryTreeFilter](/classes/DCLS-Tile-EditBox-CategoryTreeFilter.html)
+                          - [DCLS-Tile-EditBox-ClassTreeFilter](/classes/DCLS-Tile-EditBox-ClassTreeFilter.html)
                           - [DCLS-Tile-EditBox-SelectItem-ListFilter](/classes/DCLS-Tile-EditBox-SelectItem-ListFilter.html)
-                          - [DCLS-Tile-EditBox-TreeFilter](/classes/DCLS-Tile-EditBox-TreeFilter.html)
                         - [DCLS-Tile-ImageButton](/classes/DCLS-Tile-ImageButton.html)
                         - [***DCLS-Tile-List***](/classes/DCLS-Tile-List.html)
                           - [DCLS-Tile-ListBox](/classes/DCLS-Tile-ListBox.html)
@@ -150,7 +151,8 @@ status: Beta
                       - [DCLS-Cluster-BoxedRow](/classes/DCLS-Cluster-BoxedRow.html)
                       - [DCLS-Cluster-Column](/classes/DCLS-Cluster-Column.html)
                       - [DCLS-Cluster-Row](/classes/DCLS-Cluster-Row.html)
-                        - [DCLS-Cluster-TreeFilter](/classes/DCLS-Cluster-TreeFilter.html)
+                        - [DCLS-Cluster-CategoryTreeFilter](/classes/DCLS-Cluster-CategoryTreeFilter.html)
+                        - [DCLS-Cluster-ClassTreeFilter](/classes/DCLS-Cluster-ClassTreeFilter.html)
                   - [***DCLS-Dialog***](/classes/DCLS-Dialog.html)
                     - [DCLS-Dialog-Alist-SZMACategory](/classes/DCLS-Dialog-Alist-SZMACategory.html)
                     - [DCLS-Dialog-Alist-SZMAClass](/classes/DCLS-Dialog-Alist-SZMAClass.html)
@@ -580,15 +582,11 @@ status: Beta
                 - [SZGEShape-Slot](/classes/SZGEShape-Slot.html)
                 - [SZGEShape-ZPurlin](/classes/SZGEShape-ZPurlin.html)
             - [SZGEPlanarCurve](/classes/SZGEPlanarCurve.html)
-              - [SZGEPlanarCurve-X-COS](/classes/SZGEPlanarCurve-X-COS.html)
-              - [SZGEPlanarCurve-X-SIN](/classes/SZGEPlanarCurve-X-SIN.html)
             - [***SZGEPolarCurve***](/classes/SZGEPolarCurve.html)
-              - [SZGEPolarCurve-Addition](/classes/SZGEPolarCurve-Addition.html)
               - [SZGEPolarCurve-Circle](/classes/SZGEPolarCurve-Circle.html)
               - [SZGEPolarCurve-Ellipse](/classes/SZGEPolarCurve-Ellipse.html)
               - [SZGEPolarCurve-Epitrochoid](/classes/SZGEPolarCurve-Epitrochoid.html)
               - [SZGEPolarCurve-Hypotrochoid](/classes/SZGEPolarCurve-Hypotrochoid.html)
-              - [SZGEPolarCurve-Subtraction](/classes/SZGEPolarCurve-Subtraction.html)
           - [***SZGE3dCurve***](/classes/SZGE3dCurve.html)
             - [SZGE3dCurve-AcDbPolyline](/classes/SZGE3dCurve-AcDbPolyline.html)
             - [***SZGE3dCurve-OnCurve***](/classes/SZGE3dCurve-OnCurve.html)
@@ -906,6 +904,6 @@ status: Beta
           - [SZCOScript-Features-CutTo-OuterProfile](/classes/SZCOScript-Features-CutTo-OuterProfile.html)
       - [***SZCOScript-ModelGroups***](/classes/SZCOScript-ModelGroups.html)
 
-Version:  1.30.5
+Version:  1.30.6
 <br>
-Date: 20260531.1942
+Date: 20260608.1506

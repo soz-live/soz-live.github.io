@@ -23,8 +23,8 @@ SZCEFaces-PointToPoints Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| POINT | [AcDbPoint](AcDbPoint.html) |  |
-| POINTS | [List:AcDbPoint](AcDbPoint.html) |  |
+| POINT | [SZGEPoint](SZGEPoint.html) |  |
+| POINTS | [SZGEPoints](SZGEPoints.html) |  |
 | | | |
 | Returns: | [SZCEFaces-PointToPoints](SZCEFaces-PointToPoints.html) | |
 | Help: | | Make a SZCEFaces-PointToPoints |

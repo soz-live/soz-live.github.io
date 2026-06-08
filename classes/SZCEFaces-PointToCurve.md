@@ -23,7 +23,7 @@ SZCEFaces-PointToCurve Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| POINT | [AcDbPoint](AcDbPoint.html) |  |
+| POINT | [SZGEPoint](SZGEPoint.html) |  |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | QTY | [Integer](Integer.html) |  |
 | | | |

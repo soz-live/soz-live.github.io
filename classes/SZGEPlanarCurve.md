@@ -13,7 +13,7 @@ Planar Curve
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZGE2dCurve](SZGE2dCurve.html) |
-| Subclasses: | [SZGEPlanarCurve-X-SIN](SZGEPlanarCurve-X-SIN.html) <br> [SZGEPlanarCurve-X-COS](SZGEPlanarCurve-X-COS.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |
@@ -23,8 +23,9 @@ Planar Curve
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| FN | [Equation](Equation.html) |  |
-| VALUE | [Real](Real.html) |  |
+| FN | [Key](Key.html) |  |
+| RANGE | [SZLPRange](SZLPRange.html) |  |
+| SCALE | [Real](Real.html) |  |
 | | | |
 | Returns: | [SZGEPlanarCurve](SZGEPlanarCurve.html) | |
 | Help: | | Planar Curve |
