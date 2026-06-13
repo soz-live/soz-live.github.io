@@ -19,7 +19,7 @@ layout: default
     - [Past](#past)
     - [Present](#present)
     - [Future](#future)
-  - [The Team](#the-team)  
+
   
 
 ## SOZ
@@ -96,16 +96,7 @@ The project is currently closed source and in **Private Beta**, with work still 
 ### Future
 
 The aim is to move to Open Source when a mature v2.0 product is released in 2026.  
-The [Roadmap](/docs/roadmap.html) includes a list of potential areas, features and functionality for further development.  
+The Roadmap includes a list of potential areas, features and functionality for further development.  
 The expansion of the community will also enable further growth and development of the project.  
 
 
-## The Team
-
-### Tim Marchbank - Project Lead
-
-Tim developed an interest in programming Lisp and CAD customisation while studying Engineering.  
-This interest was developed further during his career and led to previous iterations of what would become **SOZ-LIVE**.  
-He has been developing the project since 2013 after wanting entities in CAD that weren't available in base products, and soon realised the potential depth and breadth of the project for the wider community. The desire to see others benefit from the work provides the drive to continue to develop the project.  
-
-For any questions regarding the project please email tim AT soz-live DOT com

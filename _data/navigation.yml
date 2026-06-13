@@ -2,12 +2,10 @@
   link: /
 - name: Docs
   link: /docs/docs.html
-- name: FAQs
-  link: /docs/faqs.html
-- name: Blog
-  link: /blog.html
 - name: About
   link: /about.html
+- name: Blog
+  link: /blog.html
 - name: Community
   link: /community.html
 - name: Code

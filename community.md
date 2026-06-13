@@ -15,6 +15,8 @@ layout: default
     - [Discord](#discord)
     - [YouTube](#youtube)
   - [Sponsoring](#sponsoring)
+  - [Members](#members)  
+  
 
 ## Introduction
 
@@ -81,3 +83,14 @@ Follow on [YouTube](https://www.youtube.com/@soz-live)
 To assist the community to continue developing the project, please consider sponsoring it.  
 
 {% include sponsor.html %}
+
+
+## Members
+
+### Tim Marchbank - Project Lead
+
+Tim developed an interest in programming Lisp and CAD customisation while studying Engineering in the early 1990s.  
+This interest was developed further during his career and led to previous iterations of what would become **SOZ-LIVE**.  
+He has been developing the project since 2013 after wanting entities in CAD that weren't available in base products, and soon realised the potential depth and breadth of the project for the wider community. The desire to see others benefit from the work provides the drive to continue to develop the project.  
+
+For any questions regarding the project please email tim AT soz-live DOT com

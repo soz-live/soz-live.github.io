@@ -21,8 +21,8 @@ A CAD extension, written in Lisp.
 
 - [**SOZ**](#soz) - Scripted ObjectZ
 - [**LIVE**](#live) - Lisp Interactive Visual Environment 
-
-{% include carousel.html height="75" unit="%" duration="3" number="1" %}
+- [Community](#community)
+- [Examples](#examples)
 
 ## SOZ
 
@@ -69,28 +69,9 @@ Refer to the [Coders Introduction](/coders/intro.html) for details.
 
 Refer to the [Community](/community.html) page for details.
 
+## Examples
 
-## Security
+Below are some exaples created with the project:
 
-**SOZ-LIVE** aims to be a trusted and secure project for Users and Coders alike. 
+{% include carousel.html height="75" unit="%" duration="3" number="1" %}
 
-Refer to the [Security](/security.html) page for details.
-
-## Status
-
-The current status of the project is **Private Beta**.  
-
-## AI
-
-No AI has been used to generate code for this project.  
-Lets keep it that way.  
-
-
-## Platforms
-
-**SOZ-LIVE** is written to be run from within both BricsCAD&reg; and AutoCAD&reg;.
-
-
-{% include note-icon.html %}  
-> 3D Modelling functionality requires BricsCAD&reg; Pro or above, or full AutoCAD&reg;.   
-> TIN Surfaces and Civil functionality require BricsCAD&reg; Pro or above.  

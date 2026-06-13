@@ -13,6 +13,9 @@ layout: default
   - [Code of Conduct](#code-of-conduct)
   - [Contributions](#contributions)
   - [License](#license)
+  - [Security](#security)
+  - [AI](#ai)
+  - [Platforms](#platforms)
   
 
 ## GitHub
@@ -46,3 +49,25 @@ Please read the [Contributing Guide](https://github.com//soz-live//soz-releases/
 
 When released, this project will use the [MIT License](https://github.com//soz-live//soz-releases//blob//main//LICENSE.md).
 
+
+## Security
+
+**SOZ-LIVE** aims to be a trusted and secure project for Users and Coders alike. 
+
+Refer to the [Security](/security.html) page for details.
+
+
+## AI
+
+No AI has been used to generate code for this project.  
+The aim is to keep it that way.  
+
+
+## Platforms
+
+**SOZ-LIVE** is written to be run from within both BricsCAD&reg; and AutoCAD&reg;.
+
+
+{% include note-icon.html %}  
+> 3D Modelling functionality requires BricsCAD&reg; Pro or above, or full AutoCAD&reg;.   
+> TIN Surfaces and Civil functionality require BricsCAD&reg; Pro or above.  
