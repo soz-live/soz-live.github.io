@@ -15,7 +15,7 @@ List Class
 | Superclass: | [T](T.html) |
 | Subclasses: | [Set](Set.html) <br> [Array](Array.html) <br> [Cons](Cons.html) <br> [Tree](Tree.html) |
 | Interfaces: |  |
-| Interfaced: | [NIL](NIL.html), [SZLPList](SZLPList.html), [SZLPCode-List](SZLPCode-List.html), [SZGEObjects](SZGEObjects.html), [SZCOObjects](SZCOObjects.html) |
+| Interfaced: | [NIL](NIL.html), [SZLPList](SZLPList.html), [SZGEObjects](SZGEObjects.html), [SZCOObjects](SZCOObjects.html) |
 | Abstract?: | Yes |
 | isValue?: | Yes |
 
@@ -25,7 +25,7 @@ List Class
 | Types | Functions |
 | --------- | --------- |
 | Class: | [List->Set](#List->Set) <br> [List-Addto](#List-Addto) <br> [List-AddtoEnd](#List-AddtoEnd) <br> [List-EndCons](#List-EndCons) <br> [List-Filter](#List-Filter) <br> [List-Flatten](#List-Flatten) <br> [List-Index](#List-Index) <br> [List-IndexFill](#List-IndexFill) <br> [List-IndexSubst](#List-IndexSubst) <br> [List-InsertItemsAtIndex](#List-InsertItemsAtIndex) <br> [List-ItemFill](#List-ItemFill) <br> [List-ItemsAtEnd](#List-ItemsAtEnd) <br> [List-ItemsAtStart](#List-ItemsAtStart) <br> [List-Length](#List-Length) <br> [List-MovetoEnd](#List-MovetoEnd) <br> [List-Nth](#List-Nth) <br> [List-Randomise](#List-Randomise) <br> [List-RemoveAtEnd](#List-RemoveAtEnd) <br> [List-RemoveAtStart](#List-RemoveAtStart) <br> [List-RemoveItem](#List-RemoveItem) <br> [List-RemoveItems](#List-RemoveItems) <br> [List-RemoveItemsAtIndex](#List-RemoveItemsAtIndex) <br> [List-RemoveLast](#List-RemoveLast) <br> [List-RemoveNils](#List-RemoveNils) <br> [List-Replace](#List-Replace) <br> [List-SubLength](#List-SubLength) |
-| Super: | [T-Make](T.html) <br> [Logical-AND](Logical.html) <br> [Logical-OR](Logical.html) <br> [Logical-NOT](Logical.html) <br> [Logical-XOR](Logical.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [T-Make](T.html) <br> [Logical-AND](Logical.html) <br> [Logical-OR](Logical.html) <br> [Logical-NOT](Logical.html) <br> [Logical-XOR](Logical.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_SelectMulti](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### List->Set

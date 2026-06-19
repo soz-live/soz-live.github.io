@@ -27,6 +27,6 @@ status: Beta
       - [***SZOBHistory-TimeStamp***](/classes/SZOBHistory-TimeStamp.html)
         - [SZOBHistory-TimeStamp-Now](/classes/SZOBHistory-TimeStamp-Now.html)
 
-Version:  1.30.6
+Version:  1.30.7
 <br>
-Date: 20260608.1506
+Date: 20260619.1906

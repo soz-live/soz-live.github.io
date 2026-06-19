@@ -42,7 +42,7 @@ These risks include:
 - when reading and writing DCL files to build Dialog Boxes on the fly.
 - when directed by the user.
 - using standard file dialogs.
-- in DWG files or human readable text file formats. (DAT and CSV) that can be checked by the user.
+- in DWG files or human readable text file formats (DAT and CSV) that can be checked by the user.
 - doesn't write to external log files.
 
 ### Side Effects

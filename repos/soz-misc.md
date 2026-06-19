@@ -54,18 +54,17 @@ status: Beta
                 - [SZGE3dCurve-2dFibonacci](/classes/SZGE3dCurve-2dFibonacci.html)
                 - [SZGE3dCurve-3dFibonacci](/classes/SZGE3dCurve-3dFibonacci.html)
       - [***SZLPObject***](/classes/SZLPObject.html)
-        - [***SZLPCode***](/classes/SZLPCode.html)
-          - [***SZLPLogical***](/classes/SZLPLogical.html)
-            - [***SZLP-T***](/classes/SZLP-T.html)
-              - [***SZLPList***](/classes/SZLPList.html)
-                - [***SZLPArray***](/classes/SZLPArray.html)
-                  - [SZLPReals](/classes/SZLPReals.html)
-                    - [SZLPReals-Fibonacci](/classes/SZLPReals-Fibonacci.html)
+        - [***SZLPLogical***](/classes/SZLPLogical.html)
+          - [***SZLP-T***](/classes/SZLP-T.html)
+            - [***SZLPList***](/classes/SZLPList.html)
+              - [***SZLPArray***](/classes/SZLPArray.html)
+                - [SZLPReals](/classes/SZLPReals.html)
+                  - [SZLPReals-Fibonacci](/classes/SZLPReals-Fibonacci.html)
   - [***SZOBScript***](/classes/SZOBScript.html)
     - [***SZCOScript***](/classes/SZCOScript.html)
       - [***SZCEScript***](/classes/SZCEScript.html)
         - [SZCEScript-NestedHypocycloid](/classes/SZCEScript-NestedHypocycloid.html)
 
-Version:  1.30.6
+Version:  1.30.7
 <br>
-Date: 20260608.1506
+Date: 20260619.1906

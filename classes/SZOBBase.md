@@ -13,7 +13,7 @@ SZOBBase is the Base Class for all Classes in SOZ.
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: |  |
-| Subclasses: | [Lisp](Lisp.html) <br> [SZOBScript](SZOBScript.html) <br> [SZOBObject](SZOBObject.html) |
+| Subclasses: | [DCLS](DCLS.html) <br> [Lisp](Lisp.html) <br> [SZOBScript](SZOBScript.html) <br> [SZOBObject](SZOBObject.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |
@@ -24,7 +24,7 @@ SZOBBase is the Base Class for all Classes in SOZ.
 
 | Types | Functions |
 | --------- | --------- |
-| Class: | [SZOBBase-User_Clone](#SZOBBase-User_Clone) <br> [SZOBBase-User_Edit](#SZOBBase-User_Edit) <br> [SZOBBase-User_Make](#SZOBBase-User_Make) <br> [SZOBBase-User_Method](#SZOBBase-User_Method) <br> [SZOBBase-User_ObjectKey](#SZOBBase-User_ObjectKey) <br> [SZOBBase-User_PickModel](#SZOBBase-User_PickModel) <br> [SZOBBase-User_PickNode](#SZOBBase-User_PickNode) <br> [SZOBBase-User_Select](#SZOBBase-User_Select) |
+| Class: | [SZOBBase-User_Clone](#SZOBBase-User_Clone) <br> [SZOBBase-User_Edit](#SZOBBase-User_Edit) <br> [SZOBBase-User_Make](#SZOBBase-User_Make) <br> [SZOBBase-User_Method](#SZOBBase-User_Method) <br> [SZOBBase-User_ObjectKey](#SZOBBase-User_ObjectKey) <br> [SZOBBase-User_PickModel](#SZOBBase-User_PickModel) <br> [SZOBBase-User_PickNode](#SZOBBase-User_PickNode) <br> [SZOBBase-User_Select](#SZOBBase-User_Select) <br> [SZOBBase-User_SelectMulti](#SZOBBase-User_SelectMulti) |
 | Super: |  |
 
 
@@ -99,4 +99,13 @@ SZOBBase is the Base Class for all Classes in SOZ.
 | | | |
 | Returns: | [SZOBBase](SZOBBase.html) | |
 | Help: | | User_Select |
+
+### SZOBBase-User_SelectMulti
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| USER | [User](User.html) |  |
+| | | |
+| Returns: | [List:SZOBBase](SZOBBase.html) | |
+| Help: | | User_SelectMulti |
 

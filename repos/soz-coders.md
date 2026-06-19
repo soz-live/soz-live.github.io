@@ -49,6 +49,6 @@ status: Beta
             - [***SZDODef***](/classes/SZDODef.html)
               - [***SZDODef-Function***](/classes/SZDODef-Function.html)
 
-Version:  1.30.6
+Version:  1.30.7
 <br>
-Date: 20260608.1506
+Date: 20260619.1906

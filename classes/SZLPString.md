@@ -13,9 +13,9 @@ SZLPString Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPAtom](SZLPAtom.html) |
-| Subclasses: | [SZLPString-Concats-Delim](SZLPString-Concats-Delim.html) <br> [SZLPString-Concats](SZLPString-Concats.html) <br> [SZLPString-Concat](SZLPString-Concat.html) <br> [SZLPComment](SZLPComment.html) <br> [SZLPKey](SZLPKey.html) <br> [SZLPLabel](SZLPLabel.html) |
+| Subclasses: | [SZLP-STRCAT](SZLP-STRCAT.html) <br> [SZLP-RTOS](SZLP-RTOS.html) <br> [SZLP-ITOA](SZLP-ITOA.html) <br> [SZLPString-Concats-Delim](SZLPString-Concats-Delim.html) <br> [SZLPString-Concats](SZLPString-Concats.html) <br> [SZLPString-Concat](SZLPString-Concat.html) <br> [SZLPComment](SZLPComment.html) <br> [SZLPKey](SZLPKey.html) <br> [SZLPLabel](SZLPLabel.html) |
 | Interfaces: | [String](String.html) |
-| Interfaced: | [SZLPCode-String](SZLPCode-String.html) |
+| Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | Yes |
 
@@ -34,6 +34,6 @@ SZLPString Class
 | Types | Functions |
 | --------- | --------- |
 | Class: |  |
-| Super: | [SZOBObject-IndexOfXOBJS](SZOBObject.html) <br> [SZOBObject-AddIOBJ](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZOBObject-IndexOfXOBJS](SZOBObject.html) <br> [SZOBObject-AddIOBJ](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_SelectMulti](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 

@@ -37,7 +37,7 @@ SZCOSolid-PolySolid Class
 | Types | Functions |
 | --------- | --------- |
 | Class: | [SZCOSolid-PolySolid->AcDb3dSolid](#SZCOSolid-PolySolid->AcDb3dSolid) |
-| Super: | [SZCOSolid-Sweep-Make](SZCOSolid-Sweep.html) <br> [SZCOSolid-Sweep->AcDb3dSolid](SZCOSolid-Sweep.html) <br> [SZCOSolid->SZCOFeature](SZCOSolid.html) <br> [SZOBObject-IndexOfXOBJS](SZOBObject.html) <br> [SZOBObject-AddIOBJ](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Super: | [SZCOSolid-Sweep-Make](SZCOSolid-Sweep.html) <br> [SZCOSolid-Sweep->AcDb3dSolid](SZCOSolid-Sweep.html) <br> [SZCOSolid->SZCOFeature](SZCOSolid.html) <br> [SZOBObject-IndexOfXOBJS](SZOBObject.html) <br> [SZOBObject-AddIOBJ](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_SelectMulti](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### SZCOSolid-PolySolid->AcDb3dSolid

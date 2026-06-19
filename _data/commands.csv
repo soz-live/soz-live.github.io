@@ -1,6 +1,6 @@
 Command,Help
-Make,
-M-Base,
+Make,< Grouping Only >
+M-Base,< Grouping Only >
 M-Code,Make a Code
 M-Symbol,Make a Symbol
 M-Function,Make a Function
@@ -99,68 +99,68 @@ M-Scene,Make a Scene
 M-Change,Make a Change
 M-Effect,Make a Effect
 M-Sequence,Make a Sequence
-Live,
+Live,< Grouping Only >
 L-Auto,Auto Layout Nodes
 L-Links,Auto Layout Links
 L-Command,Add/Edit Live Objects
 L-Select,Nodes from Select Dialog
 L-Pick,Nodes from Picking a Model Entity
-Edit,
+Edit,< Grouping Only >
 E-Entity,Edit an Entity
 E-Live,Edit Live Objects
 E-Model,Edit Model Entities
 E-Object,Edit an Object
 E-Setting,Edit a Setting
 E-Custom,Edit Custom Properties
-SOZ,
+SOZ,< Grouping Only >
 S-Set,Set SOZ Object Data
 S-Delete,Delete SOZ Objects
 S-Clear,Clear SOZ Data from Objects
-Clone,
+Clone,< Grouping Only >
 C-Object,Clone an Object
 C-Entity,Clone an Entity
 C-Part,Clone a Part
 C-Reference,Clone a Part Reference
-Update,
+Update,< Grouping Only >
 U-Select,Update Selected Objects
 U-All,Update All Objects
 U-Live,Update LIVE Layout
-Reference,
+Reference,< Grouping Only >
 R-Make,Make Reference
 R-Select,Select Reference
 R-Edit,Edit Reference
-Visual,
+Visual,< Grouping Only >
 V-SetEntities,Set Visual Settings of Entities
 V-MatchEntity,Set Visual Settings of Entities to Match Entity
 V-ResetEntities,Reset Visual Settings of Entities
-Development,
-Dev-View,
+Development,< Grouping Only >
+Dev-View,< Grouping Only >
 D-View-RunTime,View the RunTime
 D-View-Class,View the Class of an Entity
 D-View-Entity,View an Entity
 D-View-Entities,View Entities
 D-View-Part,View a Part
-Dev-Map,
+Dev-Map,< Grouping Only >
 D-Map-Class,Create a Class Hierarchy Map
 D-Map-ClassFunc,Map Classes to Functions
 D-Map-Function,Map Functions using Nodes and Links
-Dev-Source,
+Dev-Source,< Grouping Only >
 D-Source-Reload,Reload Source Code
-Dev-GitHub,
+Dev-GitHub,< Grouping Only >
 D-GitHub-ReleaseCode,Create a Release
 D-GitHub-ReleaseVersion,Create a Version
-Export,
+Export,< Grouping Only >
 X-SOZ,Export SOZ Data
 X-Array,Export CSV Array
-Import,
+Import,< Grouping Only >
 I-SOZ,Import SOZ Data
 I-Array,Import CSV Array
 I-Class,Import CSV Class
-History,
+History,< Grouping Only >
 H-Record,Record History
 H-First,Recall First Record
 H-Last,Recall Last Record
 H-Select,Recall Selected Record
 H-Delete,Delete a Record
-Animate,
-A-Control,Control Animations
+Animate,< Grouping Only >
+A-Command,Build and Control Animations

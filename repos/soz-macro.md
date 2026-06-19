@@ -21,12 +21,11 @@ status: Beta
   - [***SZOBObject***](/classes/SZOBObject.html)
     - [***SZOBValue***](/classes/SZOBValue.html)
       - [***SZLPObject***](/classes/SZLPObject.html)
-        - [***SZLPCode***](/classes/SZLPCode.html)
-          - [***SZLPMacro***](/classes/SZLPMacro.html)
-            - [SZLPMacro-Equation](/classes/SZLPMacro-Equation.html)
-            - [SZLPMacro-Point](/classes/SZLPMacro-Point.html)
-            - [SZLPMacro-Points](/classes/SZLPMacro-Points.html)
+        - [***SZLPMacro***](/classes/SZLPMacro.html)
+          - [SZLPMacro-Equation](/classes/SZLPMacro-Equation.html)
+          - [SZLPMacro-Point](/classes/SZLPMacro-Point.html)
+          - [SZLPMacro-Points](/classes/SZLPMacro-Points.html)
 
-Version:  1.30.6
+Version:  1.30.7
 <br>
-Date: 20260608.1506
+Date: 20260619.1906

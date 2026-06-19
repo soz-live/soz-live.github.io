@@ -24,8 +24,8 @@ Base Entity Class
 
 | Types | Functions |
 | --------- | --------- |
-| Class: | [AcDbEntity-Copy](#AcDbEntity-Copy) <br> [AcDbEntity-ExternalCopy](#AcDbEntity-ExternalCopy) <br> [AcDbEntity-Highlight](#AcDbEntity-Highlight) <br> [AcDbEntity-InternalCopy](#AcDbEntity-InternalCopy) <br> [AcDbEntity-IntersectWith](#AcDbEntity-IntersectWith) <br> [AcDbEntity-Layer](#AcDbEntity-Layer) <br> [AcDbEntity-Move](#AcDbEntity-Move) <br> [AcDbEntity-SZCOColor](#AcDbEntity-SZCOColor) <br> [AcDbEntity-SetLayer](#AcDbEntity-SetLayer) <br> [AcDbEntity-SetVisibility](#AcDbEntity-SetVisibility) <br> [AcDbEntity-SetVisual](#AcDbEntity-SetVisual) <br> [AcDbEntity-Space](#AcDbEntity-Space) <br> [AcDbEntity-TransformBy](#AcDbEntity-TransformBy) <br> [AcDbEntity-User_Pick](#AcDbEntity-User_Pick) <br> [AcDbEntity-User_PickList](#AcDbEntity-User_PickList) <br> [AcDbEntity-User_PickModel](#AcDbEntity-User_PickModel) <br> [AcDbEntity-User_PickNode](#AcDbEntity-User_PickNode) <br> [AcDbEntity-User_PickSet](#AcDbEntity-User_PickSet) <br> [AcDbEntity-Visual](#AcDbEntity-Visual) |
-| Super: | [SZOBObject-IndexOfXOBJS](SZOBObject.html) <br> [SZOBObject-AddIOBJ](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
+| Class: | [AcDbEntity-Copy](#AcDbEntity-Copy) <br> [AcDbEntity-ExternalCopy](#AcDbEntity-ExternalCopy) <br> [AcDbEntity-Highlight](#AcDbEntity-Highlight) <br> [AcDbEntity-InternalCopy](#AcDbEntity-InternalCopy) <br> [AcDbEntity-IntersectWith](#AcDbEntity-IntersectWith) <br> [AcDbEntity-Layer](#AcDbEntity-Layer) <br> [AcDbEntity-Mirror3D](#AcDbEntity-Mirror3D) <br> [AcDbEntity-Mirror3DPlane](#AcDbEntity-Mirror3DPlane) <br> [AcDbEntity-Mirror3DTMatrix](#AcDbEntity-Mirror3DTMatrix) <br> [AcDbEntity-Move](#AcDbEntity-Move) <br> [AcDbEntity-SZCOColor](#AcDbEntity-SZCOColor) <br> [AcDbEntity-SetLayer](#AcDbEntity-SetLayer) <br> [AcDbEntity-SetVisibility](#AcDbEntity-SetVisibility) <br> [AcDbEntity-SetVisual](#AcDbEntity-SetVisual) <br> [AcDbEntity-Space](#AcDbEntity-Space) <br> [AcDbEntity-TransformBy](#AcDbEntity-TransformBy) <br> [AcDbEntity-User_Pick](#AcDbEntity-User_Pick) <br> [AcDbEntity-User_PickList](#AcDbEntity-User_PickList) <br> [AcDbEntity-User_PickModel](#AcDbEntity-User_PickModel) <br> [AcDbEntity-User_PickNode](#AcDbEntity-User_PickNode) <br> [AcDbEntity-User_PickSet](#AcDbEntity-User_PickSet) <br> [AcDbEntity-Visual](#AcDbEntity-Visual) |
+| Super: | [SZOBObject-IndexOfXOBJS](SZOBObject.html) <br> [SZOBObject-AddIOBJ](SZOBObject.html) <br> [SZOBObject->SOZFile](SZOBObject.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_SelectMulti](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
 ### AcDbEntity-Copy
@@ -86,6 +86,38 @@ Base Entity Class
 | | | |
 | Returns: | [AcDbLayerTableRecord](AcDbLayerTableRecord.html) | |
 | Help: | | get Entities's Layer |
+
+### AcDbEntity-Mirror3D
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| ENTITY | [AcDbEntity](AcDbEntity.html) |  |
+| POINT1 | [SZGEPoint](SZGEPoint.html) |  |
+| POINT2 | [SZGEPoint](SZGEPoint.html) |  |
+| POINT3 | [SZGEPoint](SZGEPoint.html) |  |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | Mirror3D an AcDbEntity |
+
+### AcDbEntity-Mirror3DPlane
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| ENTITY | [AcDbEntity](AcDbEntity.html) |  |
+| PLANE | [SZGEPlane](SZGEPlane.html) |  |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | Mirror3DPlane an AcDbEntity |
+
+### AcDbEntity-Mirror3DTMatrix
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| ENTITY | [AcDbEntity](AcDbEntity.html) |  |
+| TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
+| | | |
+| Returns: | [AcDbEntity](AcDbEntity.html) | |
+| Help: | | Mirror3DTMatrix an AcDbEntity |
 
 ### AcDbEntity-Move
 
