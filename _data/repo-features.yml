@@ -202,10 +202,10 @@ soz-macro:
         - name: Points
         
 soz-history:
-  note: Module for storing & recalling historical records of a model
+  note: Module for storing & recalling historical records of a drawing
   areas:
     - area: Recording
-      note: At a given timestamp
+      note: Recording at a given timestamp
       features:      
         - name: Record 
     - area: Recall
@@ -284,8 +284,7 @@ soz-aec:
         - name: Features
     - area: Civil Modelling
       note: Civil classes
-      features:      
-        - name: Ditch
+      features:
         - name: Cross-Sections       
         
 soz-bsys:
@@ -399,7 +398,7 @@ soz-coders:
         - name: Runtime Environment    
         
 soz-devs:
-  note: Module for owners of SOZ only.
+  note: Module for Owners of SOZ only.
   areas:
     - area: Documentation
       note: Documentation routines

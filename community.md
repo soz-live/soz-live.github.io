@@ -9,7 +9,6 @@ layout: default
 - Community
   - [Introduction](#introduction)
   - [Aims and Objectives](#aims-and-objectives)
-  - [Joining](#joining)
   - [Apps](#apps)
     - [GitHub](#github)
     - [Discord](#discord)
@@ -20,9 +19,9 @@ layout: default
 
 ## Introduction
 
-**SOZ-LIVE** is not just a code base to be downloaded and used. It is also a community of users and coders that come together to further develop and improve the project.  
+**SOZ-LIVE** is not just a code base to be downloaded and used. It is a community of users and coders that come together to further develop and improve the project.  
 
-All members actions are governed by the [Code of Conduct](https://github.com//soz-live//soz-releases//blob//main//CODE_OF_CONDUCT.md).
+To join the **SOZ-LIVE** community, email your request to: **tim AT soz-live DOT com**
 
 
 ## Aims and Objectives
@@ -45,11 +44,6 @@ While aiming to be:
 - diverse
 - caring
 - sharing
-
-
-## Joining
-
-To join the **SOZ-LIVE** community, email your request to: **tim AT soz-live DOT com**
 
 
 ## Apps
@@ -87,9 +81,12 @@ To assist the community to continue developing the project, please consider spon
 
 ## Members
 
+All members actions are governed by the [Code of Conduct](https://github.com//soz-live//soz-releases//blob//main//CODE_OF_CONDUCT.md).
+
+
 ### Tim Marchbank - Project Lead
 
-Tim developed an interest in programming Lisp and CAD customisation while studying Engineering in the early 1990s.  
+Tim developed an interest in programming Lisp and CAD customisation while studying Engineering at University in the early 1990s.  
 This interest was developed further during his career and led to previous iterations of what would become **SOZ-LIVE**.  
 He has been developing the project since 2013 after wanting entities in CAD that weren't available in base products, and soon realised the potential depth and breadth of the project for the wider community. The desire to see others benefit from the work provides the drive to continue to develop the project.  
 
