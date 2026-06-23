@@ -15,7 +15,7 @@ AcDb2dPolyline Class
 | Superclass: | [AcDbCurve](AcDbCurve.html) |
 | Subclasses: |  |
 | Interfaces: |  |
-| Interfaced: |  |
+| Interfaced: | [AcDbCurve-PlanarClosed](AcDbCurve-PlanarClosed.html) |
 | Abstract?: | Yes |
 | isValue?: | No |
 

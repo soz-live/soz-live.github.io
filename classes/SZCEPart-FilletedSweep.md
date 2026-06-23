@@ -1,9 +1,9 @@
 
-# Class:	SZCEPart-Ditch
+# Class:	SZCEPart-FilletedSweep
 
 ### Description:
 
-Ditch Part Class
+SZCEPart-FilletedSweep Class
 
 
 
@@ -11,25 +11,13 @@ Ditch Part Class
 
 | Fields | Values |
 | --------- | --------- |
-| Repo: | [soz-aec](/repos/soz-aec.html) |
+| Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEPart](SZCEPart.html) |
-| Subclasses: | [SZCEPart-Ditch-Constant](SZCEPart-Ditch-Constant.html) |
+| Subclasses: | [SZCEPart-FilletedSweep-MultiRadii](SZCEPart-FilletedSweep-MultiRadii.html) <br> [SZCEPart-FilletedSweep-SingleRadius](SZCEPart-FilletedSweep-SingleRadius.html) |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | No |
+| Abstract?: | Yes |
 | isValue?: | No |
-
-### SZCEPart-Ditch-Make
-
-| Keys | Types | Help |
-| --------- | --------- | --------- |
-| CURVE | [AcDb3dPolyline](AcDb3dPolyline.html) |  |
-| ALIGN | [Enum-AcDbAlignment](Enum-AcDbAlignment.html) |  |
-| WIDTH | [Real](Real.html) |  |
-| DEPTHS | [List:Real](Real.html) |  |
-| | | |
-| Returns: | [SZCEPart-Ditch](SZCEPart-Ditch.html) | |
-| Help: | | Make method for Ditch Part Class |
 
 
 ## Functions:

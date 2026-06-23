@@ -7,6 +7,7 @@ status: Beta
 
 # soz-history
 
+
 ## Functionality
 
 {% include repo-features.html id=site.data.repo-features.soz-history %}
@@ -21,12 +22,12 @@ status: Beta
   - [***SZOBObject***](/classes/SZOBObject.html)
     - [***SZOBHistory***](/classes/SZOBHistory.html)
       - [***SZOBHistory-Record***](/classes/SZOBHistory-Record.html)
-        - [***SZOBHistory-RecordObject***](/classes/SZOBHistory-RecordObject.html)
+        - [SZOBHistory-RecordObject](/classes/SZOBHistory-RecordObject.html)
           - [SZOBHistory-RecordObject-Now](/classes/SZOBHistory-RecordObject-Now.html)
-      - [***SZOBHistory-RecordObjects***](/classes/SZOBHistory-RecordObjects.html)
+      - [SZOBHistory-RecordObjects](/classes/SZOBHistory-RecordObjects.html)
       - [***SZOBHistory-TimeStamp***](/classes/SZOBHistory-TimeStamp.html)
         - [SZOBHistory-TimeStamp-Now](/classes/SZOBHistory-TimeStamp-Now.html)
 
-Version:  1.30.7
+Version:  1.30.8
 <br>
-Date: 20260619.1906
+Date: 20260623.2055

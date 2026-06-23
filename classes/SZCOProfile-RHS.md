@@ -12,8 +12,8 @@ SZCOProfile-RHS Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZCOProfile](SZCOProfile.html) |
-| Subclasses: | [SZCOProfile-RHS-Filleted](SZCOProfile-RHS-Filleted.html) |
+| Superclass: | [SZCOProfile-Section](SZCOProfile-Section.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

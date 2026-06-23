@@ -1,9 +1,9 @@
 
-# Class:	SZCOProfile-RHS-Filleted
+# Class:	SZCOProfile-Entity
 
 ### Description:
 
-SZCOProfile-RHS-Filleted Class
+SZCOProfile Entity Class
 
 
 
@@ -12,22 +12,12 @@ SZCOProfile-RHS-Filleted Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZCOProfile-Section](SZCOProfile-Section.html) |
-| Subclasses: |  |
+| Superclass: | [SZCOProfile](SZCOProfile.html) |
+| Subclasses: | [SZCOProfile-PlanarCurve](SZCOProfile-PlanarCurve.html) <br> [SZCOProfile-AcDbCircle](SZCOProfile-AcDbCircle.html) <br> [SZCOProfile-AcDbPolyline](SZCOProfile-AcDbPolyline.html) |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | No |
+| Abstract?: | Yes |
 | isValue?: | No |
-
-### SZCOProfile-RHS-Filleted-Make
-
-| Keys | Types | Help |
-| --------- | --------- | --------- |
-| SECTION | [SZCOSection-RHS-Filleted](SZCOSection-RHS-Filleted.html) |  |
-| TMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
-| | | |
-| Returns: | [SZCOProfile-RHS-Filleted](SZCOProfile-RHS-Filleted.html) | |
-| Help: | | Make a SZCOProfile-RHS-Filleted |
 
 
 ## Functions:

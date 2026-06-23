@@ -13,7 +13,7 @@ SZCEPart-Sweep Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEPart](SZCEPart.html) |
-| Subclasses: | [SZCEPart-PolySolid](SZCEPart-PolySolid.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

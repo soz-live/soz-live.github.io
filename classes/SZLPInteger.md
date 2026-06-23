@@ -13,7 +13,7 @@ SZLPInteger Class
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZLPReal](SZLPReal.html) |
-| Subclasses: | [SZLPInteger-Random](SZLPInteger-Random.html) <br> [SZLP-SUBONE](SZLP-SUBONE.html) <br> [SZLP-ADDONE](SZLP-ADDONE.html) <br> [SZLP-BITWISE](SZLP-BITWISE.html) <br> [SZLP-FIX](SZLP-FIX.html) <br> [SZLP-ATOI](SZLP-ATOI.html) |
+| Subclasses: | [SZLPInteger-Random](SZLPInteger-Random.html) <br> [SZLP-DECREMENT](SZLP-DECREMENT.html) <br> [SZLP-INCREMENT](SZLP-INCREMENT.html) <br> [SZLP-BITWISE](SZLP-BITWISE.html) <br> [SZLP-FIX](SZLP-FIX.html) <br> [SZLP-ATOI](SZLP-ATOI.html) |
 | Interfaces: | [Integer](Integer.html) |
 | Interfaced: |  |
 | Abstract?: | No |

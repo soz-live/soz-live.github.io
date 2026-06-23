@@ -13,7 +13,7 @@ Basic Part
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCEModel](SZCEModel.html) |
-| Subclasses: | [SZCEPart-Ditch](SZCEPart-Ditch.html) <br> [SZCEPart-FilletedSweep-MultiRadii](SZCEPart-FilletedSweep-MultiRadii.html) <br> [SZCEPart-FilletedSweep-SingleRadius](SZCEPart-FilletedSweep-SingleRadius.html) <br> [SZCEPart-Faces](SZCEPart-Faces.html) <br> [SZCEPart-Sphere](SZCEPart-Sphere.html) <br> [SZCEPart-Sweep](SZCEPart-Sweep.html) <br> [SZCEPart-Planar](SZCEPart-Planar.html) |
+| Subclasses: | [SZCEPart-FilletedSweep](SZCEPart-FilletedSweep.html) <br> [SZCEPart-PolySolid](SZCEPart-PolySolid.html) <br> [SZCEPart-Faces](SZCEPart-Faces.html) <br> [SZCEPart-Sphere](SZCEPart-Sphere.html) <br> [SZCEPart-Sweep](SZCEPart-Sweep.html) <br> [SZCEPart-Planar](SZCEPart-Planar.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | No |

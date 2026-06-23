@@ -1,9 +1,9 @@
 
-# Class:	SZLP-SUBONE
+# Class:	SZLP-INCREMENT
 
 ### Description:
 
-1- Function
+1+ Function
 
 
 
@@ -19,14 +19,14 @@
 | Abstract?: | No |
 | isValue?: | Yes |
 
-### SZLP-SUBONE-Make
+### SZLP-INCREMENT-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NUM | [Integer](Integer.html) |  |
 | | | |
 | Returns: | [Integer](Integer.html) | |
-| Help: | | 1- Function |
+| Help: | | 1+ Function |
 
 
 ## Functions:

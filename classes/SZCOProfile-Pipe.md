@@ -12,7 +12,7 @@ SZCOProfile-Pipe Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZCOProfile](SZCOProfile.html) |
+| Superclass: | [SZCOProfile-Section](SZCOProfile-Section.html) |
 | Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |

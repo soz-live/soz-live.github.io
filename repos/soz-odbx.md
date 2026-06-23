@@ -27,6 +27,6 @@ status: Beta
     - [***ODBXScript***](/classes/ODBXScript.html)
       - [ODBXScript-PaperSpace-Viewport](/classes/ODBXScript-PaperSpace-Viewport.html)
 
-Version:  1.30.7
+Version:  1.30.8
 <br>
-Date: 20260619.1906
+Date: 20260623.2055

@@ -12,7 +12,7 @@ SZCEPart-FilletedSweep-SingleRadius Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZCEPart](SZCEPart.html) |
+| Superclass: | [SZCEPart-FilletedSweep](SZCEPart-FilletedSweep.html) |
 | Subclasses: | [SZCEPart-FilletedSweep-Pipe](SZCEPart-FilletedSweep-Pipe.html) <br> [SZCEPart-FilletedSweep-Round](SZCEPart-FilletedSweep-Round.html) |
 | Interfaces: |  |
 | Interfaced: |  |

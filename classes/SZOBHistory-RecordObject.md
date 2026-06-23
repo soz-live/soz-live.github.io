@@ -16,8 +16,18 @@ Base History RecordObject Class
 | Subclasses: | [SZOBHistory-RecordObject-Now](SZOBHistory-RecordObject-Now.html) |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | Yes |
+| Abstract?: | No |
 | isValue?: | No |
+
+### SZOBHistory-RecordObject-Make
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| DATE | [SZOBHistory-TimeStamp](SZOBHistory-TimeStamp.html) |  |
+| OBJ | [SZOBObject](SZOBObject.html) |  |
+| | | |
+| Returns: | [SZOBHistory-RecordObject](SZOBHistory-RecordObject.html) | |
+| Help: | | RecordObject Object |
 
 
 ## Functions:

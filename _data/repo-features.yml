@@ -209,7 +209,7 @@ soz-history:
       features:      
         - name: Record 
     - area: Recall
-      note: Recalling a Record
+      note: Recalling Records
       features:      
         - name: First
         - name: Last
@@ -217,7 +217,8 @@ soz-history:
     - area: Other
       note: Other functionality
       features:      
-        - name: Deleting a Record
+        - name: Deleting a Record      
+        - name: Editing a Record
         
 soz-misc:
   note: Module for misc. routines.

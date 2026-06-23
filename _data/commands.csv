@@ -162,5 +162,6 @@ H-First,Recall First Record
 H-Last,Recall Last Record
 H-Select,Recall Selected Record
 H-Delete,Delete a Record
+H-Edit,Edit a Record
 Animate,< Grouping Only >
 A-Command,Build and Control Animations

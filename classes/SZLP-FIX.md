@@ -23,7 +23,7 @@ SZLP-FIX Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| NUM | [SZOBObject](SZOBObject.html) |  |
+| NUM | [Number](Number.html) |  |
 | | | |
 | Returns: | [Integer](Integer.html) | |
 | Help: | | New SZLP-FIX |

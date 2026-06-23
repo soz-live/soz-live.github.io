@@ -34,8 +34,9 @@ status: Beta
             - [***SZCEModelDef***](/classes/SZCEModelDef.html)
               - [***SZCEModel***](/classes/SZCEModel.html)
                 - [SZCEPart](/classes/SZCEPart.html)
-                  - [***SZCEPart-FilletedSweep-MultiRadii***](/classes/SZCEPart-FilletedSweep-MultiRadii.html)
-                    - [SZCESling-TwistedSling](/classes/SZCESling-TwistedSling.html)
+                  - [***SZCEPart-FilletedSweep***](/classes/SZCEPart-FilletedSweep.html)
+                    - [***SZCEPart-FilletedSweep-MultiRadii***](/classes/SZCEPart-FilletedSweep-MultiRadii.html)
+                      - [SZCESling-TwistedSling](/classes/SZCESling-TwistedSling.html)
                 - [SZCESling-TwistedLink](/classes/SZCESling-TwistedLink.html)
               - [SZCESlingDef-ChainLink](/classes/SZCESlingDef-ChainLink.html)
     - [***SZOBValue***](/classes/SZOBValue.html)
@@ -48,6 +49,6 @@ status: Beta
           - [***SZGE3dCurve***](/classes/SZGE3dCurve.html)
             - [SZGE3dCurve-TwistedSling](/classes/SZGE3dCurve-TwistedSling.html)
 
-Version:  1.30.7
+Version:  1.30.8
 <br>
-Date: 20260619.1906
+Date: 20260623.2055

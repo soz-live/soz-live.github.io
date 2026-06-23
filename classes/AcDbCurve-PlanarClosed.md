@@ -14,7 +14,7 @@ AcDbCurve-PlanarClosed Class
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [AcDbCurve](AcDbCurve.html) |
 | Subclasses: |  |
-| Interfaces: | [AcDbPolyline](AcDbPolyline.html), [AcDbSpline](AcDbSpline.html), [AcDb3dPolyline](AcDb3dPolyline.html), [AcDbCircle](AcDbCircle.html), [AcDbEllipse](AcDbEllipse.html) |
+| Interfaces: | [AcDbPolyline](AcDbPolyline.html), [AcDb2dPolyline](AcDb2dPolyline.html), [AcDbSpline](AcDbSpline.html), [AcDb3dPolyline](AcDb3dPolyline.html), [AcDbCircle](AcDbCircle.html), [AcDbEllipse](AcDbEllipse.html) |
 | Interfaced: |  |
 | Abstract?: | No |
 | isValue?: | No |

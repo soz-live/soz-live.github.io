@@ -28,8 +28,6 @@ status: Beta
             - [***SZCEModelDef***](/classes/SZCEModelDef.html)
               - [***SZCEModel***](/classes/SZCEModel.html)
                 - [SZCEPart](/classes/SZCEPart.html)
-                  - [SZCEPart-Ditch](/classes/SZCEPart-Ditch.html)
-                    - [SZCEPart-Ditch-Constant](/classes/SZCEPart-Ditch-Constant.html)
                   - [***SZCEPart-Planar***](/classes/SZCEPart-Planar.html)
                     - [SZCEPart-Extrusion-AcDbPolyline](/classes/SZCEPart-Extrusion-AcDbPolyline.html)
                       - [SZCEPart-Extrusion-Face](/classes/SZCEPart-Extrusion-Face.html)
@@ -47,6 +45,6 @@ status: Beta
           - [***SZCESections***](/classes/SZCESections.html)
             - [SZCESections-OnCurve-Chainage-Exported](/classes/SZCESections-OnCurve-Chainage-Exported.html)
 
-Version:  1.30.7
+Version:  1.30.8
 <br>
-Date: 20260619.1906
+Date: 20260623.2055

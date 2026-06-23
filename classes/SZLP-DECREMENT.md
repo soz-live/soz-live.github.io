@@ -1,9 +1,9 @@
 
-# Class:	SZLP-ADDONE
+# Class:	SZLP-DECREMENT
 
 ### Description:
 
-1+ Function
+1- Function
 
 
 
@@ -19,14 +19,14 @@
 | Abstract?: | No |
 | isValue?: | Yes |
 
-### SZLP-ADDONE-Make
+### SZLP-DECREMENT-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | NUM | [Integer](Integer.html) |  |
 | | | |
 | Returns: | [Integer](Integer.html) | |
-| Help: | | 1+ Function |
+| Help: | | 1- Function |
 
 
 ## Functions:

@@ -9,8 +9,7 @@ layout: default
 
 - Releases
   - [Introduction](#introduction)
-  - [CORE](#core)
-  - [APPS](#apps)  
+  - [USERS](#users)  
   - [CODERS](#coders)    
   - [OWNERS](#owners)
   - [Table](#table)
@@ -22,24 +21,20 @@ This page contains information on the different releases of **SOZ-LIVE**. Each o
 Refer to the Table below and the links to the included repos for further details.
 
 
-## CORE
+## USERS
 
-This release combines the core functionality of the **soz-live** repo with the **soz-files** repo to enable data files to be imported and exported from a drawing and objects and entities to be re-used in other drawings.  
-
-
-## APPS
-
-This release builds on the **CORE** release and adds in additional classes and functionality for AEC functionality. It also adds functionality for Rigging Items, Assemblies and Crane rigging arrangements.  
+This release combines the base functionality of the **soz-live** repo with other user functionality.
 
 
 ## CODERS
 
-This cumulative release includes the **APPS** release classes and functionality and adds support functions used by coders during development of the project.
+This cumulative release includes the **USERS** release functionality and adds functions to be used by coders during development of the project.
 
 
 ## OWNERS
 
 This release builds on the **CODERS** release and adds in additional classes and functionality for Project Owners.  
+
 
 
 ## Table
@@ -51,6 +46,6 @@ For a list of functionality contained within each repo - click on the repo name.
 
 {% include csvtable.html id=site.data.releases %}
 
-Version:  1.30.7
+Version:  1.30.8
 <br>
-Date: 20260619.1906
+Date: 20260623.2055

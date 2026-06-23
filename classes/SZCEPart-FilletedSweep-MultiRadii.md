@@ -12,7 +12,7 @@ SZCEPart-FilletedSweep-MultiRadii Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZCEPart](SZCEPart.html) |
+| Superclass: | [SZCEPart-FilletedSweep](SZCEPart-FilletedSweep.html) |
 | Subclasses: | [SZCESling-TwistedSling](SZCESling-TwistedSling.html) |
 | Interfaces: |  |
 | Interfaced: |  |
