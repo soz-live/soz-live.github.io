@@ -91,7 +91,7 @@ The recent additions of the LIVE User Interface and a dynamic DCL based GUI has 
 
 ### Present
 
-The project is currently closed source and in **Private Beta**, with work still required to reach a mature and stable product. The aim is to develop a community of developers and testers to progress the project to release stage.  
+The project is currently closed source and in **Private Beta**, with work still required to reach a mature and stable product. The aim is to develop a community of coders and users to progress the project to release stage.  
 
 ### Future
 

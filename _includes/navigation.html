@@ -1,8 +1,4 @@
-<nav class="navbar">
-  <!-- Brand Logo Link -->
-  <a class="navbar-brand" href="{{ '/' | relative_url }}">
-    <img src="{{ '/assets/images/soz-live-logo.png' | relative_url }}" alt="soz-live-logo" class="nav-logo">
-  </a>
+<nav>
   {% for item in site.data.navigation %}
     <a href="{{ item.link }}" {% if page.url == item.link %}style="color: #F24545;"{% endif %}>
       {{ item.name }}
