@@ -23,7 +23,7 @@ Refer to the [Security](/security.html) page for details.
 
 ## Users
 
-This documentation is focussed on Users of the project:  
+This documentation is for Users of the project:  
 
 - [Introduction](/users/intro.html). 
 - [Quickstart Guide](/users/quickstart.html).
@@ -33,7 +33,7 @@ This documentation is focussed on Users of the project:
 
 ## Coders
 
-This documentation is focussed on Coders of the project:  
+This documentation is for Coders of the project:  
 
 - [Introduction](/coders/intro.html). 
 - [Lisp Information](/coders/lisp.html).
