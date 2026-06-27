@@ -24,16 +24,22 @@
 }
 
 
-nav {
+.navbar { 
+  display: flex;
+  color: #f2f2f2;
   text-align: center;
+  padding: 10px 20px;
 }
 
 nav a {
-  padding: 10px; 
-  color: #f2f2f2;
-  font-size: 22px;
+  font-size: 24px;
 }
 
+.nav-logo {
+  height: 40px; /* Adjust height to match your nav bar size */
+  width: auto;  /* Maintains aspect ratio */
+  display: block;
+}
 
 .embed-container {
   position: relative;
