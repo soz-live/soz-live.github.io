@@ -12,13 +12,13 @@ The safety and security of the code is paramount to develop trust between the de
 The running of any code carries with it a certain level of risk, especially from unknown or untrusted sources.  
 These risks include:
 
-- Insecured source code - open to modification by others.
+- Unsecured source code - open to modification by others.
 - Code that accesses the computer's registry.
 - Code that runs external commands, such as shell or Powershell.
 - Code that reads and writes to external files without checking for permission.
 - Code that generates side effects as it runs.
 
-### Insecured Code
+### Unsecured Code
 
 **SOZ-LIVE** source code is secured as it:
 
@@ -49,14 +49,14 @@ These risks include:
 
 **SOZ-LIVE** code doesn't generate side-effects during running as it utilises save and restore methods for the current working state of the drawing inside of commands.
 
-## Dos and Donts
+## Dos and Do Nots
 
-- **DO**: only download the releases from the **soz-releases** repo.
-- **DO**: check the SHA256 checksum for the downloaded file.
-- **DO**: read through the code if possible.
-- **DO**: test it first before using it in production.
-- **DONT**: import files (DAT or CSV) without reading them first.
-- **DONT**: load additional code without checking it first.
+- **Do**: only download the releases from the **soz-releases** repo.
+- **Do**: check the SHA256 checksum for the downloaded file.
+- **Do**: read through the code if possible.
+- **Do**: test it first before using it in production.
+- **Do Not**: import files (DAT or CSV) without reading them first.
+- **Do Not**: load additional code without checking it first.
 
 ## Safety
 

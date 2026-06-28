@@ -101,7 +101,7 @@ In **SOZ**, it doesn't matter which format you use for method invocation, howeve
 
 Which then enables the function to be used normally within lisp to do things such as find the sum of all lengths of lines within a list, in just one line of code:
 
-`(apply '+ (mapcar 'SZOB-length line-lst))`
+`(apply '+ (mapcar 'SZOB-length lines))`
 
 
 ## Documents

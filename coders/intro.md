@@ -44,7 +44,7 @@ Consistency comes from the rigid function naming structure applied in **SOZ**. T
 By using a consistent naming structure leads to improved code readability, modularity, useability, extensibility and design simplicity.
 It also forms the basis for the Object Protocol, GUI, LIVE and documentation of the system.
 
-Code Readability is important, as it is the coder that has to read and comprehend the code, for debugging and extending etc., prior to it being lodaed into the CAD system for running. **SOZ**'s use of structure and consistency in function naming assists the coder to read what has come before.
+Code Readability is important, as it is the coder that has to read and comprehend the code, for debugging and extending etc., prior to it being loaded into the CAD system for running. **SOZ**'s use of structure and consistency in function naming assists the coder to read what has come before.
 
 Modularity enables use, re-use and extensibility of code. This is enhanced in **SOZ** through the use of Class Prefixes and a layered structure of classes and functions.
 
@@ -54,7 +54,7 @@ Useability of code is improved in **SOZ** though the other facets of the structu
 ### Object Protocol
 
 The use of a Meta Environment enables **SOZ**'s object protocol and the ability for **SOZ** to run OOP code inside of Lisp.
-The additional calls to register Classes, Categories, Methods, Functions, Interfaces etc. in the Meta Environemnt has a flow on effect as it enables the GUI and LIVE to function as well.
+The additional calls to register Classes, Categories, Methods, Functions, Interfaces etc. in the Meta Environment has a flow on effect as it enables the GUI and LIVE to function as well.
  
 
 ### GUI

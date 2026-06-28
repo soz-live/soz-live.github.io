@@ -29,7 +29,7 @@ Everything that is created is an 'Object' of a particular Class.
 This includes graphical entities such as:
 
 - [AcDbLine](/classes/AcDbLine.html) - a 3d Line entity.
-- [SZCEPart](/classes/SZCEPart.html) - a complex derived entity containing Features, to define a parametric 3d Enitity.  
+- [SZCEPart](/classes/SZCEPart.html) - a complex derived entity containing Features, to define a parametric 3d Entity.  
 
 <br>
 Through to non-graphical objects such as:

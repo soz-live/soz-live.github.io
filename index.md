@@ -71,7 +71,7 @@ Refer to the [Community](/community.html) page for details.
 
 ## Examples
 
-Below are some exaples created with the project:
+Below are some examples created with the project:
 
 {% include carousel.html height="75" unit="%" duration="3" number="1" %}
 
