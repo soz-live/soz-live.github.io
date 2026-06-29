@@ -14,7 +14,6 @@ layout: default
   - [Contributions](#contributions)
   - [License](#license)
   - [Security](#security)
-  - [AI](#ai)
   - [Platforms](#platforms)
   
 
@@ -55,12 +54,6 @@ When released, this project will use the [MIT License](https://github.com//soz-l
 **SOZ-LIVE** aims to be a trusted and secure project for Users and Coders alike. 
 
 Refer to the [Security](/security.html) page for details.
-
-
-## AI
-
-No AI has been used to generate code for this project.  
-The aim is to keep it that way.  
 
 
 ## Platforms

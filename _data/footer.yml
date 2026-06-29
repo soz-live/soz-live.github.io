@@ -34,4 +34,6 @@ columns:
       - name: Community
         link: /community.html
       - name: Code
-        link: /code.html  
+        link: /code.html
+      - name: Sponsor
+        link: /sponsor.html  

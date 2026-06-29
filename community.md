@@ -13,7 +13,6 @@ layout: default
     - [GitHub](#github)
     - [Discord](#discord)
     - [YouTube](#youtube)
-  - [Sponsoring](#sponsoring)
   - [Members](#members)  
   
 
@@ -71,12 +70,6 @@ You will need to set-up a Discord account.
 
 Follow on [YouTube](https://www.youtube.com/@soz-live)
 
-
-## Sponsoring
-
-To assist the community to continue developing the project, please consider sponsoring it.  
-
-{% include sponsor.html %}
 
 
 ## Members
