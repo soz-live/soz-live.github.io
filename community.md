@@ -20,8 +20,6 @@ layout: default
 
 **SOZ-LIVE** is not just a code base to be downloaded and used. It is a community of users and coders that come together to further develop and improve the project.  
 
-To join the **SOZ-LIVE** community, email your request to: **tim AT soz-live DOT com**
-
 
 ## Aims and Objectives
 
@@ -83,4 +81,4 @@ Tim developed an interest in programming Lisp and CAD customisation while studyi
 This interest was developed further during his career and led to previous iterations of what would become **SOZ-LIVE**.  
 He has been developing the project since 2013 after wanting entities in CAD that weren't available in base products, and soon realised the potential depth and breadth of the project for the wider community. The desire to see others benefit from the work provides the drive to continue to develop the project.  
 
-For any questions regarding the project please email tim AT soz-live DOT com
+For any questions regarding the project please email **tim AT soz-live DOT com**
