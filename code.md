@@ -26,8 +26,6 @@ The codebase is stored on [GitHub](https://github.com/soz-live?view_as=public).
 
 The current status of the project is **Private Beta**.  
 
-To obtain a pre-release copy, and become part of the community, refer to the [Community](/community.html) page for details.
-
 
 ## Quickstart
 
@@ -62,5 +60,6 @@ Refer to the [Security](/security.html) page for details.
 
 
 {% include note-icon.html %}  
+> **SOZ-LIVE** is not affiliated with BricsCAD&reg; or AutoCAD&reg;.
 > 3D Modelling functionality requires BricsCAD&reg; Pro or above, or full AutoCAD&reg;.   
-> TIN Surfaces and Civil functionality require BricsCAD&reg; Pro or above.  
+> TIN Surfaces functionality requires BricsCAD&reg; Pro or above.  

@@ -14,7 +14,6 @@ layout: default
     - [The What of LIVE](#the-what-of-live)
     - [The Why of LIVE](#the-why-of-live)  
   - [The Vision](#the-vision)
-    - [Potential Users](#potential-users)
   - [The Timeline](#the-timeline)
     - [Past](#past)
     - [Present](#present)
@@ -65,22 +64,6 @@ The vision is to provide a better way of programming Lisp inside of CAD with imm
 By combining the functionality that **SOZ** provides, with the visual experience of **LIVE**, the project aims to create a niche product capable of providing the user with a means of generating iterative models and the coder with a basis to develop the project's code-base in new directions.  
 
 
-### Potential Users
-
-All users of CAD can benefit from using **SOZ-LIVE** because of the additional functionality and productivity improvements it provides. Some areas where these benefits can be utilised are:
-
-- Business
-	- Designers
-  - Engineers
-  - Architects
-  - Drafters
-  - Modellers
-- Education
-	- STEM Programs
-- Artists
-- Hobbyists
-
-
 ## The Timeline
 
 ### Past
@@ -98,5 +81,3 @@ The project is currently closed source and in **Private Beta**, with work still 
 The aim is to move to Open Source when a mature v2.0 product is released in 2026.  
 The Roadmap includes a list of potential areas, features and functionality for further development.  
 The expansion of the community will also enable further growth and development of the project.  
-
-
