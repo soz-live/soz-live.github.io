@@ -1,9 +1,9 @@
 
-# Class:	SZCOFeature-Pattern
+# Class:	SZCOFeature-Pattern-3dSolid
 
 ### Description:
 
-SZCOFeature-Pattern Class
+SZCOFeature-Pattern-3dSolid Class
 
 
 
@@ -12,12 +12,25 @@ SZCOFeature-Pattern Class
 | Fields | Values |
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
-| Superclass: | [SZCOFeature-Boolean](SZCOFeature-Boolean.html) |
-| Subclasses: | [SZCOFeature-Pattern-Toolbody](SZCOFeature-Pattern-Toolbody.html) <br> [SZCOFeature-Pattern-3dSolid](SZCOFeature-Pattern-3dSolid.html) |
+| Superclass: | [SZCOFeature-Pattern](SZCOFeature-Pattern.html) |
+| Subclasses: |  |
 | Interfaces: |  |
 | Interfaced: |  |
-| Abstract?: | Yes |
+| Abstract?: | No |
 | isValue?: | No |
+
+### SZCOFeature-Pattern-3dSolid-Make
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| SOLID | [SZCOSolid](SZCOSolid.html) |  |
+| OPERATION | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |  |
+| PMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
+| PATTERN | [SZGEPattern](SZGEPattern.html) |  |
+| SHOW | [Boolean](Boolean.html) | Show Feature? |
+| | | |
+| Returns: | [SZCOFeature-Pattern-3dSolid](SZCOFeature-Pattern-3dSolid.html) | |
+| Help: | | Make a SZCOFeature-Pattern-3dSolid |
 
 
 ## Functions:

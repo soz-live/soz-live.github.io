@@ -33,7 +33,7 @@ String
 
 | Types | Functions |
 | --------- | --------- |
-| Class: | [String->Integer](#String->Integer) <br> [String->Real](#String->Real) <br> [String->Strings](#String->Strings) <br> [String-AddToFront](#String-AddToFront) <br> [String-AddToRear](#String-AddToRear) <br> [String-CountAscii](#String-CountAscii) <br> [String-CountChar](#String-CountChar) <br> [String-CountLeading](#String-CountLeading) <br> [String-FindPosition](#String-FindPosition) <br> [String-Length](#String-Length) <br> [String-LowerCase](#String-LowerCase) <br> [String-PadFront](#String-PadFront) <br> [String-PadRear](#String-PadRear) <br> [String-RemoveChar](#String-RemoveChar) <br> [String-SwapDelim](#String-SwapDelim) <br> [String-UpperCase](#String-UpperCase) <br> [String-WCMatch](#String-WCMatch) |
+| Class: | [String->Integer](#String->Integer) <br> [String->Real](#String->Real) <br> [String->Strings](#String->Strings) <br> [String-AddToFront](#String-AddToFront) <br> [String-AddToRear](#String-AddToRear) <br> [String-CountAscii](#String-CountAscii) <br> [String-CountChar](#String-CountChar) <br> [String-CountLeading](#String-CountLeading) <br> [String-FindPosition](#String-FindPosition) <br> [String-Length](#String-Length) <br> [String-LowerCase](#String-LowerCase) <br> [String-PadFront](#String-PadFront) <br> [String-PadRear](#String-PadRear) <br> [String-RemoveChar](#String-RemoveChar) <br> [String-RemoveLeadingChar](#String-RemoveLeadingChar) <br> [String-RemoveTrailingChar](#String-RemoveTrailingChar) <br> [String-SwapDelim](#String-SwapDelim) <br> [String-UpperCase](#String-UpperCase) <br> [String-WCMatch](#String-WCMatch) |
 | Super: | [Atom-Make](Atom.html) <br> [T-Make](T.html) <br> [Logical-AND](Logical.html) <br> [Logical-OR](Logical.html) <br> [Logical-NOT](Logical.html) <br> [Logical-XOR](Logical.html) <br> [SZOBBase-User_Select](SZOBBase.html) <br> [SZOBBase-User_SelectMulti](SZOBBase.html) <br> [SZOBBase-User_Make](SZOBBase.html) <br> [SZOBBase-User_Method](SZOBBase.html) <br> [SZOBBase-User_ObjectKey](SZOBBase.html) <br> [SZOBBase-User_Edit](SZOBBase.html) <br> [SZOBBase-User_Clone](SZOBBase.html) <br> [SZOBBase-User_PickNode](SZOBBase.html) <br> [SZOBBase-User_PickModel](SZOBBase.html) |
 
 
@@ -122,7 +122,7 @@ String
 | Keys | Types | Help |
 | --------- | --------- | --------- |
 | STR | [String](String.html) |  |
-| CHAR | [Integer](Integer.html) |  |
+| CHAR | [String](String.html) |  |
 | POSN | [Integer](Integer.html) |  |
 | END | [Boolean](Boolean.html) |  |
 | | | |
@@ -177,7 +177,27 @@ String
 | CHAR | [String](String.html) |  |
 | | | |
 | Returns: | [Integer](Integer.html) | |
-| Help: | | Number of characters matching in String |
+| Help: | | Remove characters matching in String |
+
+### String-RemoveLeadingChar
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| STR | [String](String.html) |  |
+| CHAR | [String](String.html) |  |
+| | | |
+| Returns: | [Integer](Integer.html) | |
+| Help: | | Remove Leading Char in String |
+
+### String-RemoveTrailingChar
+
+| Keys | Types | Help |
+| --------- | --------- | --------- |
+| STR | [String](String.html) |  |
+| CHAR | [String](String.html) |  |
+| | | |
+| Returns: | [Integer](Integer.html) | |
+| Help: | | Remove Trailing Char in String |
 
 ### String-SwapDelim
 

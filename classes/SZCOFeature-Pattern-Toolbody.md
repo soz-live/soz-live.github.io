@@ -1,9 +1,9 @@
 
-# Class:	SZCOFeature-PatternedSolid
+# Class:	SZCOFeature-Pattern-Toolbody
 
 ### Description:
 
-SZCOFeature-PatternedSolid Class
+SZCOFeature-Pattern-Toolbody Class
 
 
 
@@ -19,18 +19,18 @@ SZCOFeature-PatternedSolid Class
 | Abstract?: | No |
 | isValue?: | No |
 
-### SZCOFeature-PatternedSolid-Make
+### SZCOFeature-Pattern-Toolbody-Make
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| SOLID | [SZCOSolid](SZCOSolid.html) |  |
+| TOOL | [SZCEModelRef](SZCEModelRef.html) |  |
 | OPERATION | [Enum-AcDbBoolean](Enum-AcDbBoolean.html) |  |
 | PMATRIX | [SZGETMatrix](SZGETMatrix.html) |  |
 | PATTERN | [SZGEPattern](SZGEPattern.html) |  |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
 | | | |
-| Returns: | [SZCOFeature-PatternedSolid](SZCOFeature-PatternedSolid.html) | |
-| Help: | | Make a SZCOFeature-PatternedSolid |
+| Returns: | [SZCOFeature-Pattern-Toolbody](SZCOFeature-Pattern-Toolbody.html) | |
+| Help: | | Make a SZCOFeature-Pattern-Toolbody |
 
 
 ## Functions:

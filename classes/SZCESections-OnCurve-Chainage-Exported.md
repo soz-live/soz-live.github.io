@@ -23,13 +23,13 @@ Exported sections on chainage
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| SOLIDS | [Set:AcDb3dSolid](AcDb3dSolid.html) |  |
+| ENTITIES | [Set:AcDb3dSolid-AnySolids](AcDb3dSolid-AnySolids.html) |  |
 | CURVE | [AcDbCurve](AcDbCurve.html) |  |
 | START | [Real](Real.html) |  |
 | PITCH | [Real](Real.html) |  |
 | | | |
 | Returns: | [SZCESections-OnCurve-Chainage-Exported](SZCESections-OnCurve-Chainage-Exported.html) | |
-| Help: | | Make Sections on Curve |
+| Help: | | Make Sections on Curve in Exported Files |
 
 
 ## Functions:

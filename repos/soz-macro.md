@@ -26,6 +26,6 @@ status: Beta
           - [SZLPMacro-Point](/classes/SZLPMacro-Point.html)
           - [SZLPMacro-Points](/classes/SZLPMacro-Points.html)
 
-Version:  1.30.8
+Version:  1.31.0
 <br>
-Date: 20260623.2055
+Date: 20260630.2121

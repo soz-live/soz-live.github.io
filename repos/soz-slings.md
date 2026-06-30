@@ -49,6 +49,6 @@ status: Beta
           - [***SZGE3dCurve***](/classes/SZGE3dCurve.html)
             - [SZGE3dCurve-TwistedSling](/classes/SZGE3dCurve-TwistedSling.html)
 
-Version:  1.30.8
+Version:  1.31.0
 <br>
-Date: 20260623.2055
+Date: 20260630.2121

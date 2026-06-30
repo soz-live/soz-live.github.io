@@ -23,7 +23,7 @@ Face Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| FACE | [SZGELoop-Points](SZGELoop-Points.html) |  |
+| ENTITY | [SZCEPolyline-Points](SZCEPolyline-Points.html) |  |
 | HEIGHT | [Real](Real.html) |  |
 | EXTRUDE | [Enum-AcDbExtrudeType](Enum-AcDbExtrudeType.html) |  |
 | IOBJS | [List:SZCOFeature-Part](SZCOFeature-Part.html) | Features |

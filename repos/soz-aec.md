@@ -33,7 +33,6 @@ status: Beta
                       - [SZCEPart-Extrusion-Face](/classes/SZCEPart-Extrusion-Face.html)
       - [***SZCOObject***](/classes/SZCOObject.html)
         - [***SZCEElement***](/classes/SZCEElement.html)
-          - [***SZCECivil***](/classes/SZCECivil.html)
           - [***SZCEMech***](/classes/SZCEMech.html)
         - [***SZCOFeature***](/classes/SZCOFeature.html)
           - [***SZCOFeature-Part***](/classes/SZCOFeature-Part.html)
@@ -45,6 +44,6 @@ status: Beta
           - [***SZCESections***](/classes/SZCESections.html)
             - [SZCESections-OnCurve-Chainage-Exported](/classes/SZCESections-OnCurve-Chainage-Exported.html)
 
-Version:  1.30.8
+Version:  1.31.0
 <br>
-Date: 20260623.2055
+Date: 20260630.2121

@@ -13,7 +13,7 @@ A Modelling Element
 | --------- | --------- |
 | Repo: | [soz-live](/repos/soz-live.html) |
 | Superclass: | [SZCOObject](SZCOObject.html) |
-| Subclasses: | [SZCEStruct](SZCEStruct.html) <br> [SZCECivil](SZCECivil.html) <br> [SZCEMech](SZCEMech.html) |
+| Subclasses: | [SZCEStruct](SZCEStruct.html) <br> [SZCEMech](SZCEMech.html) |
 | Interfaces: |  |
 | Interfaced: |  |
 | Abstract?: | Yes |

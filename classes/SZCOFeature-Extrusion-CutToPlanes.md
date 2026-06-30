@@ -23,7 +23,7 @@ Extrusion, CutToPlanes Class
 
 | Keys | Types | Help |
 | --------- | --------- | --------- |
-| PLANES | [List:SZCEPlane](SZCEPlane.html) |  |
+| PLANES | [SZGEPlanes](SZGEPlanes.html) |  |
 | FLIPPED | [Boolean](Boolean.html) | Flip Normal |
 | SHOW | [Boolean](Boolean.html) | Show Feature? |
 | | | |

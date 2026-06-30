@@ -433,7 +433,8 @@ status: Beta
                 - [SZCOFeature-CutTo-InnerProfile](/classes/SZCOFeature-CutTo-InnerProfile.html)
                 - [SZCOFeature-CutTo-OuterProfile](/classes/SZCOFeature-CutTo-OuterProfile.html)
               - [***SZCOFeature-Pattern***](/classes/SZCOFeature-Pattern.html)
-                - [SZCOFeature-PatternedSolid](/classes/SZCOFeature-PatternedSolid.html)
+                - [SZCOFeature-Pattern-3dSolid](/classes/SZCOFeature-Pattern-3dSolid.html)
+                - [SZCOFeature-Pattern-Toolbody](/classes/SZCOFeature-Pattern-Toolbody.html)
               - [SZCOFeature-Toolbody](/classes/SZCOFeature-Toolbody.html)
             - [***SZCOFeature-Slice***](/classes/SZCOFeature-Slice.html)
               - [SZCOFeature-Slice-Plane](/classes/SZCOFeature-Slice-Plane.html)
@@ -667,10 +668,12 @@ status: Beta
           - [SZGEPoint-Spherical](/classes/SZGEPoint-Spherical.html)
           - [SZGEPoint-TMatrix](/classes/SZGEPoint-TMatrix.html)
         - [***SZGETMatrix***](/classes/SZGETMatrix.html)
+          - [SZGETMatrix-AcDb3dPolyline-Planar](/classes/SZGETMatrix-AcDb3dPolyline-Planar.html)
           - [SZGETMatrix-AcDbArc-Center](/classes/SZGETMatrix-AcDbArc-Center.html)
           - [SZGETMatrix-AcDbCircle-Center](/classes/SZGETMatrix-AcDbCircle-Center.html)
           - [SZGETMatrix-AcDbEllipse-Center](/classes/SZGETMatrix-AcDbEllipse-Center.html)
           - [SZGETMatrix-AcDbPolyline](/classes/SZGETMatrix-AcDbPolyline.html)
+          - [SZGETMatrix-AcDbSpline-Planar](/classes/SZGETMatrix-AcDbSpline-Planar.html)
           - [SZGETMatrix-Curve-AtDist](/classes/SZGETMatrix-Curve-AtDist.html)
           - [SZGETMatrix-Curve-AtPoint](/classes/SZGETMatrix-Curve-AtPoint.html)
           - [SZGETMatrix-Curve-StartPoint](/classes/SZGETMatrix-Curve-StartPoint.html)
@@ -891,6 +894,6 @@ status: Beta
           - [SZCOScript-Features-CutTo-OuterProfile](/classes/SZCOScript-Features-CutTo-OuterProfile.html)
       - [***SZCOScript-ModelGroups***](/classes/SZCOScript-ModelGroups.html)
 
-Version:  1.30.8
+Version:  1.31.0
 <br>
-Date: 20260623.2055
+Date: 20260630.2121
