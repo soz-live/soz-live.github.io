@@ -7,29 +7,34 @@ layout: default
 ## Contents
 
 - Code
-  - [GitHub](#github)
   - [Status](#status)
-  - [Quickstart](#quickstart)
+  - [GitHub](#github)
   - [Code of Conduct](#code-of-conduct)
   - [Contributions](#contributions)
   - [License](#license)
   - [Security](#security)
   - [Platforms](#platforms)
-  
+
+
+## Status
+
+The current status of the project is now **Public Beta**.  
+
+> **Warning:**  
+>  
+> While in **Beta**, the product may be unstable and changes may break compatibility between releases, so:
+> 
+> - Test it thoroughly before relying on it for production work  
+> - Please assist the development of the project by reporting any bugs or suggestions for improvements.  
+ 
 
 ## GitHub
 
 The codebase is stored on [GitHub](https://github.com/soz-live?view_as=public).
 
+Refer to the [Quickstart Guide](/users/quickstart.html) for information on downloading and using the project.  
 
-## Status
-
-The current status of the project is **Private Beta**.  
-
-
-## Quickstart
-
-For information on downloading and using the project, refer to the [Quickstart Guide](/users/quickstart.html).
+Bug reports, suggestions and discussions can be made [here](https://github.com/orgs/soz-live/discussions).
 
 
 ## Code of Conduct
@@ -44,7 +49,7 @@ Please read the [Contributing Guide](https://github.com//soz-live//soz-releases/
 
 ## License
 
-When released, this project will use the [MIT License](https://github.com//soz-live//soz-releases//blob//main//LICENSE.md).
+This project uses the [MIT License](https://github.com//soz-live//soz-releases//blob//main//LICENSE.md).
 
 
 ## Security
@@ -56,10 +61,9 @@ Refer to the [Security](/security.html) page for details.
 
 ## Platforms
 
-**SOZ-LIVE** is written to be run from within both BricsCAD&reg; and AutoCAD&reg;.
-
+**SOZ-LIVE** is written to run from within both BricsCAD&reg; and AutoCAD&reg;.
 
 {% include note-icon.html %}  
-> **SOZ-LIVE** is not affiliated with BricsCAD&reg; or AutoCAD&reg;.
+> **SOZ-LIVE** is not affiliated with BricsCAD&reg; or AutoCAD&reg;.  
 > 3D Modelling functionality requires BricsCAD&reg; Pro or above, or full AutoCAD&reg;.   
 > TIN Surfaces functionality requires BricsCAD&reg; Pro or above.  

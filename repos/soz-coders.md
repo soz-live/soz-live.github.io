@@ -16,39 +16,40 @@ status: Beta
 
 ## Class Hierarchy
 
-> Class Names in ***Bold Italics*** are Abstract classes
+> Class Names in *Italics* are Abstract classes.
+> Class Names in **Bold** are Concrete classes.
 
 
-- [***SZOBBase***](/classes/SZOBBase.html)
-  - [***SZOBObject***](/classes/SZOBObject.html)
-    - [***SZDOObject***](/classes/SZDOObject.html)
-      - [***SZDOMap***](/classes/SZDOMap.html)
-        - [SZDOMap-Class](/classes/SZDOMap-Class.html)
-        - [SZDOMap-ClassFunc](/classes/SZDOMap-ClassFunc.html)
-        - [SZDOMap-ClassFuncLine](/classes/SZDOMap-ClassFuncLine.html)
-      - [SZDOObject-IDE](/classes/SZDOObject-IDE.html)
-    - [***SZOBCAD***](/classes/SZOBCAD.html)
-      - [***AcDbObject***](/classes/AcDbObject.html)
-        - [***AcDbEntity***](/classes/AcDbEntity.html)
-          - [***AcDbAbstractText***](/classes/AcDbAbstractText.html)
-            - [AcDbText](/classes/AcDbText.html)
-              - [***SZDOText***](/classes/SZDOText.html)
-                - [SZDOText-ClassName](/classes/SZDOText-ClassName.html)
-                - [SZDOText-FunctionName](/classes/SZDOText-FunctionName.html)
-                - [***SZDOText-LineOfCode***](/classes/SZDOText-LineOfCode.html)
-          - [AcDbBlockReference](/classes/AcDbBlockReference.html)
-            - [***SZDONode***](/classes/SZDONode.html)
-              - [SZDONode-Function](/classes/SZDONode-Function.html)
-          - [***AcDbCurve***](/classes/AcDbCurve.html)
-            - [AcDb3dPolyline](/classes/AcDb3dPolyline.html)
-              - [SZDOLink](/classes/SZDOLink.html)
-          - [AcDbPoint](/classes/AcDbPoint.html)
-            - [SZDOPoint](/classes/SZDOPoint.html)
-        - [***AcDbTableRecord***](/classes/AcDbTableRecord.html)
-          - [***AcDbBlock***](/classes/AcDbBlock.html)
-            - [***SZDODef***](/classes/SZDODef.html)
-              - [***SZDODef-Function***](/classes/SZDODef-Function.html)
+- [*SZOBBase*](/classes/SZOBBase.html)
+  - [*SZOBObject*](/classes/SZOBObject.html)
+    - [*SZDOObject*](/classes/SZDOObject.html)
+      - [*SZDOMap*](/classes/SZDOMap.html)
+        - [**SZDOMap-Class**](/classes/SZDOMap-Class.html)
+        - [**SZDOMap-ClassFunc**](/classes/SZDOMap-ClassFunc.html)
+        - [**SZDOMap-ClassFuncLine**](/classes/SZDOMap-ClassFuncLine.html)
+      - [**SZDOObject-IDE**](/classes/SZDOObject-IDE.html)
+    - [*SZOBCAD*](/classes/SZOBCAD.html)
+      - [*AcDbObject*](/classes/AcDbObject.html)
+        - [*AcDbEntity*](/classes/AcDbEntity.html)
+          - [*AcDbAbstractText*](/classes/AcDbAbstractText.html)
+            - [**AcDbText**](/classes/AcDbText.html)
+              - [*SZDOText*](/classes/SZDOText.html)
+                - [**SZDOText-ClassName**](/classes/SZDOText-ClassName.html)
+                - [**SZDOText-FunctionName**](/classes/SZDOText-FunctionName.html)
+                - [*SZDOText-LineOfCode*](/classes/SZDOText-LineOfCode.html)
+          - [**AcDbBlockReference**](/classes/AcDbBlockReference.html)
+            - [*SZDONode*](/classes/SZDONode.html)
+              - [**SZDONode-Function**](/classes/SZDONode-Function.html)
+          - [*AcDbCurve*](/classes/AcDbCurve.html)
+            - [**AcDb3dPolyline**](/classes/AcDb3dPolyline.html)
+              - [**SZDOLink**](/classes/SZDOLink.html)
+          - [**AcDbPoint**](/classes/AcDbPoint.html)
+            - [**SZDOPoint**](/classes/SZDOPoint.html)
+        - [*AcDbTableRecord*](/classes/AcDbTableRecord.html)
+          - [*AcDbBlock*](/classes/AcDbBlock.html)
+            - [*SZDODef*](/classes/SZDODef.html)
+              - [*SZDODef-Function*](/classes/SZDODef-Function.html)
 
-Version:  1.31.0
+Version:  2.0.0.BETA.1
 <br>
-Date: 20260630.2121
+Date: 20260701.204

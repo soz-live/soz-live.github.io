@@ -19,12 +19,14 @@ A CAD extension, written in Lisp.
 
 > **SOZ-LIVE** is not affiliated with BricsCAD&reg; or AutoCAD&reg;.
 
-- [**SOZ**](#soz) - Scripted ObjectZ
-- [**LIVE**](#live) - Lisp Interactive Visual Environment 
+- [SOZ](#soz)
+- [LIVE](#live)
 - [Community](#community)
 - [Examples](#examples)
 
 ## SOZ
+
+**SOZ** stands for Scripted ObjectZ
 
 **SOZ** is Lisp programming with a twist, and a means to combine:
 
@@ -57,6 +59,9 @@ Refer to the [Coders Introduction](/coders/intro.html) for details.
 
 
 ## LIVE
+
+
+**LIVE** stands for Lisp Interactive Visual Environment 
 
 **LIVE** is a Node-based User Interface (UI) written in **SOZ** that enables the user to create visual models for iterative design, with the routines built into the core of **SOZ**.
 

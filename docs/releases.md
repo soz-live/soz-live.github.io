@@ -23,18 +23,17 @@ Refer to the Table below and the links to the included repos for further details
 
 ## USERS
 
-This release combines the base functionality of the **soz-live** repo with other user functionality.
+This release combines the functionality of the **soz-live** repo with other Repos that extend the use of the project.
 
 
 ## CODERS
 
-This cumulative release includes the **USERS** release functionality and adds functions to be used by coders during development of the project.
+This cumulative release includes the **USERS** release and adds functions to be used by coders during development of the project.
 
 
 ## OWNERS
 
-This release builds on the **CODERS** release and adds in additional classes and functionality for Project Owners.  
-
+This release builds on the **CODERS** release and adds in unreleased private repos and additional functionality for Project Owners.  
 
 
 ## Table
@@ -46,6 +45,6 @@ For a list of functionality contained within each repo - click on the repo name.
 
 {% include csvtable.html id=site.data.releases %}
 
-Version:  1.31.0
+Version:  2.0.0.BETA.1
 <br>
-Date: 20260630.2121
+Date: 20260701.204
