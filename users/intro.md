@@ -7,7 +7,7 @@ accordion:
   - title: "What is an Object?"
     content: "An Object is a self contained thing.<br>
       It is an instance of a Class, created at run-time.<br>
-      And is passed and referenced as an ID.<br>
+      And is passed and referenced as an **ID**.<br>
       Nearly everything created in **SOZ** can be classed as an 'Object' of a particular Class.<br>
       Refer to the [Glossary](/docs/glossary.html) for additional definitions used in the project." 
  
@@ -37,13 +37,27 @@ An incomplete list of **SOZ-LIVE** functionality is [here](/repos/soz-live.html)
 For additional information on the project, please read the following documents.
 
 - [Quickstart Guide](/users/quickstart.html).
-- [Basic Information](/users/basics.html).
-- [Technical Information](/users/technical.html).
-
+- Information:
+  - [Basics](/users/basics.html).
+  - [Technical](/users/technical.html).
+- Examples:
+  - [Value](/users/egs-value.html).
+  - [Values](/users/egs-values.html).  
+  - [Geometry](/users/egs-geometry.html). 
+  - Objects
+  - Entity
+  - Entities
+  - Modelling
+  - Structural
+  - Rigging
+  - Misc
+  
+  
 
 ## Videos
 
-- [Part 1](/users/video-1.html) - an example of a Boolean Feature Solid.  
+
+- [Part 1](/users/video-1.html) - videos of the creation of a Boolean Part.  
 
 
 ## FAQs

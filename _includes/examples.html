@@ -1,8 +1,0 @@
-<div>
-  <h4>Examples</h4>
-  {% for item in include.id %}  
-    <h5>{{ item.title }}</h5>
-    {{ item.text }}
-    {% include youtube.html ytid=item.youtube %}
-  {% endfor %}
-</div>
