@@ -19,7 +19,7 @@ soz-live:
         - name: Boolean  
         - name: Enums    
         - name: Files    
-        - name: "[Lists](#lists)"
+        - name: Lists
         - name: AxObjects
     - area: Lists
       note: Lisp List classes
@@ -27,7 +27,7 @@ soz-live:
         - name: Array
         - name: Alist
         - name: Structure  
-        - name: "[Geometry](#geometry)"
+        - name: Geometry
         - name: Tree
     - area: Geometry
       note: Geometric values and objects
@@ -378,14 +378,14 @@ soz-slings:
         - name: Twisted Sling
         
 soz-animate:
-  note: Module for the animation of models (Work in progress)
+  note: Module for the animation of models
   areas:
     - area: Animation
       note: Animation classes
       features:
         - name: Scene
-        - name: Effects
-        - name: Sequences         
+        - name: Graphs
+        - name: Transitions         
         
 soz-coders:
   note: Module for coders of SOZ.

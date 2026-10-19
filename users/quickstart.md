@@ -16,14 +16,14 @@ layout: default
 
 Follow the link to the **SOZ-LIVE** Releases [page](https://github.com/soz-live/soz-releases/releases).  
 Download the latest **SOZ-LIVE-USERS-v___.zip** release file.  
-Unzip the file, and place the file in a directory ready for loading into CAD.  
+Unzip this file, and place the Lisp file in a directory ready for loading into CAD.  
 
 {% include note-icon.html %}     
 > All included repos are contained within the one release Lisp file.  
 
 ## Loading
 
-Load the release Lisp file into CAD using the standard **"Appload"** Command.  
+Load the Lisp file into CAD using the **"Appload"** Command.  
 
 {% include note-icon.html %}  
 > You can set it to auto-load for each drawing, if you plan to use it regularly.
